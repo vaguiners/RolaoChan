@@ -1,0 +1,97 @@
+body{
+    background-color:#1d1f21;
+    color:#c5c8c6;
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:10pt
+}
+img{
+    float:left
+}
+video{
+    float:left
+}
+div{
+    overflow:hidden;
+    word-wrap:break-word
+}
+a{
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:10pt;
+    border:none;
+    color:#81a2be;
+    text-decoration:none
+}
+a:hover{
+    color:inherit;
+    text-decoration:none
+}
+hr{
+    color:#c5c8c6;
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:10pt;
+    border:none;
+    clear:both;
+    border-top:1px solid #282a2e
+}
+span:hover{
+    color:red
+}
+#divresp{
+    position:fixed;
+    bottom:0;
+    right:0;
+    color:#c5c8c6;
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:10pt;
+    display:table;
+    padding:4px 10px;
+    background-color:#282a2e;
+    border:1px solid #282a2e;
+    margin:1em;
+    -webkit-user-select:none
+}
+#btnResp{
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:10pt;
+    -webkit-user-select:none;
+    border:none;
+    text-decoration:underline;
+    color:#81a2be;
+    cursor:pointer;
+    position:relative;
+    z-index:15
+}
+.spoiler,.spoiler2{
+    color:#000;
+    background-color:#000
+}
+.spoiler:hover{
+    color:#fff
+}
+.spoiler2:hover{
+    background-color:#fff
+}
+.resposta{
+-webkit-text-size-adjust: 100%;
+color: #c5c8c6;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 10pt;
+margin: 4px 0;
+overflow: hidden;
+background-color: #282a2e;
+border-left: none;
+border-top: none;
+display: table;
+padding: 2px;
+margin-top: 2px!important;
+}
+#mensagem{
+    background-color: transparent;
+    outline: none;
+    border: 1;
+    padding: 0;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10pt;
+    color: #999;
+    width: 80%;
+}
