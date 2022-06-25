@@ -1,0 +1,14 @@
+ Anões, vou baixar vários pdf's com uma lista de nomes, como encontrar nomes que se repetem? \r\n Por exemplo, no PDF 1, PDF 3 E PDF 5 tem o nome 'Fulaninho da Silva', como encontrar o nome dele sabendo que ele se repete? \r\n Eu não saberia o nome em si, apenas que ele se repete entre os pdf's e a partir disso encontrar o nome. \r\n Não sei se ficou claro.
+ Ctrl+F
+ >>27469277 \r\n Como vou dar CTRL + F se não sei o nome?
+ Sei lá, porra. \r\n Você que está procurando o que não sabe o que é.
+ >>27469285 \r\n >>27469294 
+ - Então não importa que caminho tomar, afirma o Gato taxativo. Resumo deste singelo bate-papo: “quando a gente não sabe para aonde vai, qualquer caminho serve” \r\n \r\n Espero ter ajudado.
+ Anão, é só usar o buscador do gerenciador de arquivos. Desde o Windows 7 ele, já faz busca dentro dos arquivos. É só usar os marmelos certos.
+ >>27469285 \r\n Nesse caso, você precisará jogar os nomes no Excel e fazer uma lista de nomes. No Excel, há mil maneiras de encontrar nomes repetidos.
+ >>27469317 \r\n >No Excel, há mil maneiras de encontrar nomes repetidos. \r\n Vou buscar cal e cimento, obrigado. Mas como jogo no excel se está em pdf?
+ https://regexr.com \r\n Busque cal e cimento.
+ Passa todos os nomes de todos os PDF para uma planilha do Excel e usa os recursos de lá para organizá-los e encontrar os repetidos. É bem fácil.
+ >>27469322 \r\n Se o texto for 'copiável', é só copiá-lo e passar para um editor de texto. Lá você organiza melhor e passa para o excel. \r\n Se o texto for escaneado ou for foto, será preciso passar OCR.
+ >>27469337 \r\n >>27469330 \r\n Valeu, anões.
+ Puta que pariu macaco, o que custa jogar no google sua dúvida. \r\n \r\n 'search inside pdf' \r\n https://www.online-tech-tips.com/computer-tips/how-to-search-for-text-inside-multiple-pdf-files-at-once/ 

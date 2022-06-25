@@ -1,0 +1,25 @@
+ Como resolver esse exercício por PA? \r\n \r\n Tentei fazer e deu 1,42 \r\n \r\n an=a1+(n-1).q \r\n a3=a1+2r \r\n a3=2,38+2.(-0,48) \r\n a3=2,38-0,96 \r\n a3=1,42 \r\n \r\n A resposta é 1,52
+ Sim, eu sei que é um exercício de porcentagem, mas eu quero resolver por PA, pois a q é constante 
+ GOOGLE, FILHO DA PUTA! TEM UM PROFESSOR EXPLICANDO ESSA MERDA DE QUESTÃO, ADOLESCENTE DE MERDA!
+ >>27493963 \r\n Você leu a porra da minha thread? É por PA, corno.
+ >>27493966 \r\n >querendo resolver por progressão aritmética algo que não está em progressão aritmética 
+ >>27493966 \r\n ENFIA A PA NO CU, ESSA MERDA É PORCENTAGEM, SEU BOSTA. VAI QUERER INVENTAR A RODA? VOCÊ TIROU A PROGRESSÃO DO CU. ESSA MERDA É UMA REGRA DE 3, MACACO SEM FUNDAMENTAL.
+ >>27493970 \r\n >>27493967 \r\n >1:05 \r\n >dá pra fazer por pa 
+ >>27493971 \r\n Não, não dá. Isso é uma progressão geométrica, não aritmética. Estude o conceito de ambos antes de querer sair enfiando números em fórmulas.
+ >>27493973 \r\n PG com razão constante? Depois eu sou o brainlet.
+ >>27493971 \r\n Sério mesmo que você tá querendo problematizar em uma questão de quinta série? Tem uma dúzia de vídeos de macacos fazendo essa porra de questão e você me cria um parênquima paliçádico para ela. Imagino quando você entrar em algum curso e o professor passar uma lista com questões de verdade, vai criar um parênquima paliçádico por hora no chan. Vá estudar, moleque. Por causa de animais como você que estão querendo cobrar mensalidade nas federais.
+ >>27493974 \r\n Meu Jesus, anão. Leia o seu livro texto, depois tente usar as fórmulas, você está completamente perdido nos conceitos e não tem a menor ideia do que está fazendo.
+ >>27493975 \r\n >problematizar \r\n \r\n Eu estou interessado em resolver problemas de inúmeras formas.
+ >>27493976 \r\n Imagino sua cor, resto de aborto.
+ >>27493979 \r\n Mais branco que você, filho da puta. De onde você tirou que PG não tem razão constante, imbecil do caralho? Se você estiver pescando, você está fazendo isso muito bem, mordi com força.
+ >>27493977 \r\n É SÓ UMA REGRA DE 3, CARALHO! Vai tomar no cu. Você só pode estar pescando, fornique-se esse parênquima paliçádico de merda. \r\n \r\n Da próxima vez que te pedirem para calcular a área de uma quadrado, peça a porra da função definida e faça o caralho de uma integral. \r\n \r\n Em uma prova como o bar mitzvah, exaustiva e longa, compreender o que está sendo pedido e saber resolver da forma mais simples possível faz parte do teste. Você não terá tempo de fazer malabarismo durante a prova, se é uma regra de 3 de merda, faça.
+ Porra, OP. Você está aplicando fórmula para quê? \r\n >variação percentual relativa \r\n É só dividir um número pelo outro ou, se preferir, aplique uma regra de três. \r\n 2,38 = 1 [100%] \r\n 1,9 = x \r\n \r\n x = 0,79832 [79,832%] \r\n \r\n Então você repete: \r\n 1,9 = 1 \r\n x = 0,79832 \r\n \r\n x = 1,517
+ >>27493986 \r\n >Da próxima vez que te pedirem para calcular a área de uma quadrado, peça a porra da função definida e faça o caralho de uma integral. \r\n \r\n Perdi rude.
+ >>27493962 \r\n Não havia lido isto. Está difícil de entender o que você quer, porque foge da proposta da questão.
+ >>27493987 \r\n >>27493986 \r\n Sou o OP. Então, é que eu tava vendo o vídeo desse professor e ele disse que dava pra resolver por PA. Tentei fazer e o resultado não bateu, nisso criei a thread e esse monte de anões estão me chamando de burro, sendo que eu resolvi por regra de três anteriormente.
+ >>27493993 \r\n O professor batatou e falou PA no lugar de PG. Tente resolver por PG e tenha o mesmo resultado. Agora vá dormir.
+ >>27493994 \r\n Mostre as contas, anão.
+ >>27493993 \r\n Faça o gráfico do problema. E então explique novamente o que você pretende, ou o que o tal professor pretende. Porque eu não entendi.
+ >>27493995 \r\n Você está de fuleiragem com o meu semblante?
+ >>27493997 \r\n Hahaha. Bela pesca, cor de merda.
+ An = A1 q^n-1 => A3 = 2.38 * (0.8)^2 = 1.52. Não é PA

@@ -1,0 +1,6 @@
+ >rede neural vermelha é treinada para pescar a azul \r\n >rede neural azul é treinada para não cair na pescaria da vermelha \r\n >vira uma briga para ver quem se sai melhor \r\n >ao mesmo tempo, as duas estão treinando uma a outra \r\n >depois de muito treinamento, a vermelha já começa a 'enganar' a azul porque está gerando dados 'tão bons' quanto os reais \r\n \r\n São as redes neurais adversárias. É impressionante como o pessoal de computação é criativo.
+ Usam o mesmo princípio pra gerar as fotos do ThisPersonDoesNotExist.
+ Meua migo, a séculos coisas do tipo são feitas. Você sabia que faziam animais se canibalizarem para criar linhagens específicas para caçar a mesma espécie? Exercícios militares são isso daí.
+ >>27440465 \r\n Isso serve para áudio, texto, imagens, entre outros dados.
+ >>27440477 \r\n Eu não sei se realmente criatividade é a palavra correta. Estava falando do fato de pegar essas coisas da natureza e transformar em algoritmos tão poderosos.
+ >>27440477 \r\n Há séculos. Só agora percebi. \r\n \r\n >>27440486 \r\n Sim, as melhores abordagens sempre são imitações da natureza, ela teve bilhões de anos de tentativa e erro. Mimetizar o que a natureza produziu é um caminho de pesquisa que tem gerado muitos resultados interessantes.

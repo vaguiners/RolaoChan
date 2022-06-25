@@ -1,0 +1,21 @@
+ Quero montar um mesatopo para conseguir rodar pelo menos o Android Studio, que é mais pesado do que um milhão de baleias diabéticas. \r\n \r\n Pretendo botar um Ryzen, uma placa de vídeo mais ou menos (para eu poder jogar alguns joguinhos) e um SSD do Aliexpress para conseguir usar os programas corretamente. \r\n \r\n Será que eu devo botar um watercooler ou basta o cooler que vem com o Ryzen? Qual placa mãe eu compro?
+ Coloca um radiador e pronto.
+ O watercooler que vem nele já é suficiente e qualquer placa mãe AM4 vai servir, não acho que você vai precisar de algo muito potente. \r\n Poderia ter perguntado no /comp/.
+ >>26867433 \r\n O Ryzen vem com um watercooler?
+ >>26867450 \r\n Não. O macaco só quer que alguém vá lá na board morta dele.
+ O cooler original dele já é mais que suficiente.
+ >>26867450 \r\n Tem uns modelos que vêm com uma ventoinha.
+ Não gaste dinheiro com water cooler. Compre mais memória e mais rápida. É disso que os ryzen precisam.
+ Faltou o seu orçamento. \r\n >>26867378 
+ >>26867578 \r\n Eu comprei um watercooler pro meu I5-4440 e não regreto nada. É muito bom, silencioso e está funcionando faz mais de 5 anos sem parar.
+ >>26867584 \r\n 3k.
+ >>26867614 \r\n Os coolers boxes da intel são muito inferiores aos da AMD. \r\n \r\n >>26867615 \r\n Desista da placa de vídeo. Monte com uma das APUs, 2400g ou 2200g.
+ >>26867450 \r\n \r\n \r\n Não, não vem. \r\n \r\n Não precisa de um watercooler, mas se for comprar recomendo o Corsair H110I. \r\n \r\n Contudo watercooler não é mais coisa do passado, você encontra diversos modelos a partir de 300 guedes, você vai ter que escolher se quer RGB, menor emissão de ruídos e etc. \r\n Já configuração dos Ryzen todos que tem o ‘X’ no nome não acompanham cooler, as configurações eu recomendo as seguintes: \r\n \r\n Ryzen 5 1600x \r\n Ryzen 7 1700 \r\n Ryzen 7 1700x \r\n Ryzen 7 2700 \r\n Ryzen 7 2070x \r\n \r\n DDR4 com clock de 2666mhz é o recomendável pela própria AMD.
+ >>26867637 \r\n >>26867637 \r\n Cooler box da intel faz o que tem que fazer, resfriar o suficiente para não desligar nem dar thermal throttling. Só existe a necessidade de comprar outro se você usa os processadores K e quer fazer overclock. Caso não, você é burro de comprar qualquer outro cooler.
+ >>26867915 \r\n Eu não quero RGB. Posso desabilitar isso fisicamente?
+ >>26868018 \r\n Sim.
+ >>26868018 \r\n Se você for o OP esse é o menor dos seus problemas. Com 3K vai ser difícil montar o que você tem em mente.
+ >>26868059 \r\n CPU e placa mãe deve dar 1500 no máximo, gabinete eu já tenho, placa de vídeo eu posso continuar com a minha R7 265x por algum tempo.
+ >>26868248 \r\n Isso aí. Torra 300 pratas em um water cooler então.
+ >>26868248 \r\n Se for de Ryzen 5 1600x dá pra caber neste orçamento.
+ >android studio \r\n \r\n 8GB RAM, 5k bench no processador e SSD. Vai rodar como o bloco de notas.

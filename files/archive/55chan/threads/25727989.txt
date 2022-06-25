@@ -1,0 +1,4 @@
+ Anões, poderiam me ajudar ? Como posso resolver essa questão ? Eu resolvi e obtive a alternariva A como resposta, mas o gabarito marca como alternativa C. Me ajudem, anões
+ O gabarito está errado, OP.
+
+ >>25727989 \r\n Para ganhar, a chance de cair em I duas vezes é (2/8)*(2/8)=(4/64). \r\n Caindo em L temos (1/8)*(1/8)=(1/64) \r\n Caindo em Q temos (1/8)*(1/8)=(1/64) \r\n Caindo em U, G, A e S é a mesma coisa. \r\n Somando as possibilidades individuais de cada letra (além do I temos 6 letras): (4/64)+(6/64)=(10/64).

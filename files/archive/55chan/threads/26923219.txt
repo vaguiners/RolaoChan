@@ -1,0 +1,23 @@
+ O Ubuntu vale de alguma coisa hoje em dia? O nome africano realmente não passa uma boa impressão. Preciso de uma distribuição no linux para modificar um programa que tem um makefile pronto e nem fornicando que eu vou fazer isso no Windows. Vou aproveitar um SSD que eu tenho para fazer uma instalação do zero. \r\n \r\n Será que é melhor usar o Debian?
+ Instale qualquer um, grande merda.
+ >escolhendo usar o Aptitude \r\n Use qualquer distro baseada no RPM, Pacman ou Portage. Só uso Ubuntu no desktop pois o computador é compartilhado.
+ Quem entende cuida do que não interessa, tira bloatware e aproveita as facilidades da distro, e quem não entende não vai conseguir mudar bosta nenhuma, só vai ficar chorando porque acha que a opinião deles tem valor.
+ >escolhendo sistema operacional pelo nome 
+ >>26923402 \r\n >não considerando o nome do sistema operacional \r\n Por exemplo, eu nunca escolheria um SO com um nome que lembrasse 'débil'.
+ >>26923428 \r\n O mundo inteiro usa um sistema chamado 'janelas'.
+ Mint em todos os campos. Qualquer coisa além dele é frescura.
+ Ubuntu é a melhor distro pra grande maioria dos casos. É a mais popular e user-friendly, com uma comunidade gigante de usuários que se ajudam. \r\n Ignore os anões retardados do Gentoo.
+ >Será que é melhor usar o Debian \r\n \r\n Pode ser, o porém é o tempo que você vai perder deixando tudo pronto. Se for usar Ubuntu mesmo, use o Ubuntu Mate. Gnome 2 mestrecorrida 
+ >>26923464 \r\n A única coisa realmente boa desse fork do Ubuntu é o fato do desenvolvedor principal ser anti-semita.
+ Alguma distribuí Linux que rode world?
+ >>26924629 \r\n Distribuição. \r\n \r\n Fixado.
+ >>26923741 \r\n Exato. Os anões sofrem de síndrome de underground e costumam desprezar o Ubuntu e outras distros com boa documentação para falar de Gentoo por causa do meme.
+ >>26924629 \r\n Qualquer uma com o Wine instalado. Ou use o Libreoffice de uma vez.
+ >>26923224 \r\n >>26923224 \r\n >>26923224 \r\n >>26923224 \r\n \r\n Also, você também é só um macaco que não sabe usar Makefile com o MinGW. Afaste-se do mundo FOSS enquanto tiver infectado com essa macaquisse.
+ >>26923428 \r\n Meu Deus.
+ É melhor usar o Debian.
+ Te recomendaria um SO completo e que funciona 100% como o Windows 10, que dá para fazer tudo com o mouse, não essas coisas incompletas.
+ Install Gentoo.
+ Escolha entre Ubuntu, Mint e Manjaro. São os mais prontos para utilizar. Não caia na pescaria de ter que customizar tudo como no Debian e no Arch, não faz sentido perder tempo.
+ >>26924857 \r\n >windows 10 \r\n Sistema de incluso de bosta. E olha que nem sou linuxfag.
+ >>26923219 \r\n Chegou o cara que escolhe o sistema operacional pelo nome, pessoal.

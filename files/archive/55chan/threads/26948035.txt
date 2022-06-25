@@ -1,0 +1,7 @@
+ Anões, sabem como plotar um gráfico de uma função no C#? Eu gostaria de plotar essa linha na tela. \r\n \r\n As equações seriam estas: (cos(x* 180/PI) * y) * z para a ordenada x e (sin(x* 180/PI) * y) * z para a abscissa y.
+ Procure por bibliotecas para tal coisa.
+ Por que não faz isso com uma linguagem apropriada tipo Python, R ou MATLAB?
+ >>26948058 \r\n Quero fazer com um formulário e o usuário seta as variáveis. É mais prático usar o designer do Visual.
+ >>26948035 \r\n Você pode utilizar um Panel com gráficos habilitados e fazer um method/function da função matemática que retorna os pontos no Panel de acordo com a entrada do usuário. O transbordamento de empilhar vai te ajudar: \r\n https://stackoverflow.com/questions/5507605/c-sharp-drawing-on-panels 
+ >>26948181 \r\n E também lembre-se de fazer um cálculozinho para usar o width/2 como X e height/2 como Y, para a origem ficar no centro do painel.
+ Não vou fazer seu dever de casa.

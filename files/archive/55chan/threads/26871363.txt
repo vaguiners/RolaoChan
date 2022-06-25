@@ -1,0 +1,20 @@
+ Alguém saberia me explicar isso? Diz que eu estou usando 509 GB, sendo que dentro do HD só tenho 237 GB armazenados.
+ Você contou os arquivos ocultos e os que estão na lixeira?
+ >>26871365 \r\n \r\n A lixeira está vazia, o que são esses arquivos 'ocultos' e como faço para desocultar?
+ >>26871371 \r\n O absoluto estado de inclusão.
+ Use o Privazer.
+ >>26871371 \r\n \r\n >como faço pra desocultar \r\n >2019 \r\n \r\n Que tempos estranhos esses em que vivemos.
+ >>26871371 \r\n >o que são esses arquivos 'ocultos' \r\n Geração smartphones no seu mais fino.
+ >>26871375 \r\n >>26871373 \r\n \r\n Já estava desocultado e mesmo assim só mostra que estou com 237 GB armazenados.
+ É coisa do judeu. Estão armazenando todo o lixo da internet no seu computador. \r\n Destrua isso com fogo.
+ >>26871382 \r\n >>26871382 \r\n >>26871382 \r\n >>26871382 \r\n >>26871382 
+ >>26871382 \r\n >>26871407 \r\n >>26871384 
+ Install Gentoo.
+ >>26871430 \r\n Go Manjaro.
+ >>26871451 \r\n Seja um Arch weaboo.
+ Alguém me ajude, não quero ter 250 gb inutilizados.
+ Bump.
+ Desfragmentação essa bosta.
+ >>26871600 \r\n >desfragmenta 
+ Utilize um software chamado WinDirStat para ter uma visualização gráfica do uso do HDD, com ele você vai poder identificar melhor o que exatamente está comendo espaço no disco.
+ >>26871690 \r\n O que provavelmente deve ser alguns arquivos de backup gerados por atualizações do Windows que causam mudança de versão, normalmente esses arquivos podem ser removidos através da Limpeza de Disco (CleanMGR.exe).

@@ -1,0 +1,19 @@
+ >desenhe um circuito no https://www.falstad.com/circuit/ \r\n >postem aqui \r\n >expliquem o que ele faz \r\n \r\n Chequem fora o meu: \r\n \r\n https://www.falstad.com/circuit/circuitjs.html?cct=$+1+0.000015625+1.5642631884188172+50+5+50%0Aw+288+368+288+256+0%0Ag+240+432+240+448+0%0AR+240+304+176+304+0+0+40+5+0+0+0.5%0Av+112+224+192+224+0+1+120+2.5+2.5+0+0.5%0AR+112+224+64+224+0+6+8000+0.6+0.1+0+0.5%0Aw+288+224+288+160+0%0A174+240+336+272+400+0+100000+0.12380000000000002+Resistance%0Aw+272+368+288+368+0%0Aw+240+432+240+400+0%0Aw+240+336+240+304+0%0Ar+288+160+192+160+0+10000%0Ag+192+160+192+112+0%0Aw+560+160+512+160+0%0Aw+640+240+704+240+0%0Aw+640+240+640+160+0%0A162+704+240+704+304+2+default-led+1+0+0+0.01%0Ag+704+368+704+400+0%0Ar+704+304+704+368+0+330%0Aw+512+160+512+256+0%0Aw+432+224+432+240+0%0Aa+288+240+432+240+8+5+0+1000000+0.8211324228686948+4.703281847897118+100000%0Aa+512+240+640+240+8+5+0+1000000+5.000388209942503+-0.00004545848789482182+100000%0As+288+224+192+224+0+0+false%0Ar+432+224+512+224+0+10000%0Ar+512+256+512+336+0+10000%0Ag+512+336+512+384+0%0Ar+288+368+432+368+0+10000%0Aw+432+368+432+240+0%0Ar+560+160+640+160+0+100000%0AR+128+128+64+128+0+0+40+5+0+0+0.5%0Ao+5+1+0+5131+10+0.00078125+0+3+5+3+13+0%0Ao+19+1+0+4099+10+0.00009765625+1+2+19+3%0A \r\n \r\n \r\n Ele é um circuito que diz se um sinal está abaixo ou acima de um limite definido pelo usuário e tolera 500 milivolts de ruído.
+ Tem interlagos aí?
+ E-Eu não entendo nada disso, OP.
+ Meu circuito dá choque no cuzinho de animefag. :3
+
+ Esse aqui suga caralhos.
+ Tenho pena de engenheiros eletricistas. O desemprego nos aguarda, anão.
+ >>26695071 \r\n Pior que não. As pessoas estão o tempo inteiro precisando de novas bugigangas. Eletrônicos não são que nem prédios que os engenheiros civis fazem uma vez e eles caem daqui a 10 ou 15 anos. Eletrônicos precisam ser atualizados o tempo inteiro.
+ >>26695083 \r\n Estou no sexto semestre de engenharia elétrica. Estou pensando em seguir a carreira de telecomunicações, se for para ficar desempregado, que seja fazendo algo que eu gosto.
+ O primeiro opamp é um comparador e o segundo é um amplificador com ganho de 10x?
+ >>26695083 \r\n Você não é formado, né? Aguarde só para ver a surpresa… Aqui no Brasil não existe isso que você está falando, anão.
+ >>26695129 \r\n O primeiro é um comparador inversor, e o outro é um comparador inversor para inverter o resultado do primeiro, hue. Eu não calculei o ganho, só escolhi os resistores que me dessem uma histerese boa e não fossem valores estranhos demais como 57.6k.
+ >>26695145 \r\n >Aqui no Brasil não existe isso que você está falando, anão. \r\n \r\n Eu sei, vou me mudar é pra China.
+ Meu circuito torna os animes uma realidade se você apertar.
+ O meu acende a luzinha. :3
+ O meu ficou excelente. \r\n Ele tem a função de explodir a porra toda.
+ Fiz um que calcula o n-ésimo termo de Fibonacci recursivamente, inclusive construí uma stack só pra isso.
+ O meu faz o melhor que ele pode.
+ >>26697935 \r\n Um curto? \r\n \r\n >>26697885 \r\n Não explode nada. \r\n \r\n >>26697806 \r\n Faz o melhor que ele pode. \r\n \r\n >>26695233 \r\n É você, Lasier? \r\n \r\n >>26695023 \r\n Não suga. \r\n \r\n >>26695008 \r\n Suga. \r\n \r\n >>26694953 \r\n Um choquinho fraquinho :3

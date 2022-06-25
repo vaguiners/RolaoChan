@@ -1,0 +1,25 @@
+ Melhores distros GNU/Linux do Mercado: \r\n \r\n 1 - NixOS \r\n 2 - Arch Linux \r\n 3 - Void Linux \r\n 4 - Gentoo \r\n 5 - Alpine
+ Se juntar todas, dá pra contar o total de usuários com os dedos das mãos.
+ E todas inferiores ao Windows.
+ >Mint para newfags \r\n >Debian pra quem quer estabilidade \r\n >Opensuse Tumbleweed para quem quiser estabilidade e pacotes atualizados. \r\n -Lubuntu ou Xubuntu pra quem tiver um PC de merda \r\n \r\n Qualquer uma além dessas para um usuário comum é perda de tempo.
+ CARALHO, EU ACABEI DE NOTAR QUE O FLOCO DE NEVE DO NIXOS É FORMADO POR LAMBDAS, UMA REFERÊNCIA AO CARÁTER FUNCIONAL DA DISTRIBUIÇÃO! \r\n EU ESTOU COMPLETAMENTE RIVOTRILADO! PUTA QUE PARIU! 
+ Eu apenas gostaria de interromper por um momento. O que você está se referindo a como Linux, é na verdade, GNU/Linux, ou como eu passei recentemente a chamá-lo, GNU e Linux. Linux não é um sistema operacional por si, mas sim outro componente livre de um sistema totalmente funcional do GNU feito útil pelo GNU corelibs, utilitários de shell e componentes vitais do sistema composto por um sistema operacional completo, como definido por POSIX. \r\n \r\n Muitos usuários de computador executam uma versão modificada do sistema GNU, todos os dias, sem perceber. Através de uma peculiar reviravolta dos acontecimentos, a versão do GNU que é largamente utilizada hoje é muitas vezes chamada de 'Linux', e muitos de seus usuários não estão cientes de que é basicamente o sistema de GNU, desenvolvido pelo projeto GNU. Há realmente um Linux e essas pessoas estão usando, mas é apenas uma parte do sistema que eles usam. \r\n \r\n Linux é o kernel: o programa no sistema que aloca os recursos da máquina para os outros programas que você executa. O kernel é uma parte essencial de um sistema operacional, mas inútil por si só; ele só pode funcionar no contexto de um sistema operacional completo. Linux é normalmente utilizado em combinação com o sistema operacional GNU: o sistema é basicamente GNU com adição do Linux ou GNU/Linux. Todas as distribuições 'Linux' assim chamadas são realmente as distribuições de GNU/Linux.
+ 1 - Arch \r\n 2 - Pop \r\n 3 - Manjaro \r\n 4 - Mint \r\n 5 - Kali
+ >>27224397 
+ 1 - Pop \r\n 2 - Arch \r\n 3 - Ubuntu \r\n 4 - Manjaro \r\n 5 - Fedora
+ >>27224369 \r\n 1- Red Hat e similares \r\n 2- Suse \r\n 3 - Ubuntu \r\n 4 - Debian \r\n 5 - Alpine
+ Melhores distros GNU/Linux do Mercado, segundo a minha opinião de merda: \r\n \r\n Pronto, corrigi para você, op.
+ >>27224379 \r\n O seu mundo pode ser só joguinhos, mas fora do seu quarto não é.
+ >>27224397 \r\n \r\n Lide. 
+ >>27224578 \r\n Eu acho deveria mudar para Systemd/Gnu/Linux.
+ >não sendo Red Hat 
+ >>27224599 \r\n >kernel 3.alguma coisa \r\n Não faz isso, anon. Vai infarta os Archfags.
+ >>27224572 \r\n >hurr durr cresça, criança \r\n Bumbum ardeu, grandão?
+ >>27224615 \r\n Toda infra, inclusive para rodar seus joguinhos multiplayer precisa de linux.
+ >>27224562 \r\n Secundo. Até o Linus usa Fedora.
+ Esse Linus é um grifinorista filho da puta e ingrato. \r\n \r\n Linux não seria nada sem o GNU, assim como o GNU não teria tanto sucesso se não fosse o Linux, mas o Linux simplesmente não existiria se não fosse o trabalho de Stallman.
+ >>27224635 \r\n As três primeiras opções são lideres de mercado. Debian é uma rocha solida além ser quase 100% Free Software e Alpine faz milagres em relação segurança e sistemas embarcados. \r\n Eu diria que o Arch pode ocupar o lugar do Slackware para educação, mas o AUR fede.
+ 6 - WatergatOS
+ >>27224572 \r\n Autocad, Revit, Protools e Photoshop. Me diga uma alternativa convincente para esses aplicativos, nem me venha com o Gimp.
+ >>27224726 \r\n Você está comparado infraestrutura de serviços básicos e Internet com Photosop? O mundo pode viver tranquilamente sem Photoshop, Protools e revit. \r\n Além disso isso são ferramentas e não o OS.
+ Linux? Não, não sou soyboy, uso o glorioso windows.

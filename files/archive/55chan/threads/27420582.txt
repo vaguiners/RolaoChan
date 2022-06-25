@@ -1,0 +1,4 @@
+ Não contem para o professor de cálculo que eu te ensinei isso, anão. \r\n \r\n Você pode dividir vetores facilmente transformando eles em números polares. \r\n \r\n Exemplo: \r\n <3,4>/<1,1> = \r\n (3i + 4j)/(i + j) = \r\n (5|53,13°)/(1|45°) = \r\n ((5/1)|(53,13°-45°)) = \r\n (5|8,13°) = \r\n (4,95i + 0,71j) = \r\n <4,95,0,71> \r\n \r\n Não conta pro professor de mememática, se não ele surtará.
+ Piadas em você, em nem sei o que é isso.
+ >dividir vetores \r\n \r\n O absoluto estado.
+ >>27420616 \r\n É a elite intelectual da internet brasileira.

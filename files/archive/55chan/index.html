@@ -1,0 +1,90 @@
+<style>
+body{color:white;background-color:black}
+.resposta{
+-webkit-text-size-adjust: 100%;
+color: #c5c8c6;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 10pt;
+margin: 4px 0;
+overflow: hidden;
+background-color: #282a2e;
+border-left: none;
+border-top: none;
+display: table;
+padding: 2px;
+margin-top: 2px!important;
+}
+</style>
+<script type="text/javascript" src="topicos.js"></script>
+<input id=InputTextoParaPesquisar><button onclick=EsconderMerdas(); id=BotaoPesquisar>Pesquisar</button><a id=asdf1> Threads: </a><input id=Threads value=2 type="number" min="2"><div id=DivResultados style=display:none><a id=NumeroPesquisasResultados>0</a> resultados para "<a id=atextopesquisado></a>" em <a id=NumeroPesquisas>0</a> tópicos</div>
+<hr>
+<table id=TabelaDeResultados>
+<tr><th>Tópico</th><th>OP</th><th>Respostas</th><th>Resultados</th></tr>
+</table>
+<script>
+TabelaDeResultados = document.getElementById('TabelaDeResultados');
+TopicosCacheados=[]
+sum=0
+atual=-1
+TextoParaPesquisar="";
+function EsconderMerdas() {
+	document.getElementById("BotaoPesquisar").style.display = "none";
+	document.getElementById("DivResultados").style.display = "";
+	document.getElementById("Threads").style.display = "none";
+	document.getElementById("asdf1").style.display = "none";
+	document.getElementById("InputTextoParaPesquisar").style.display = "none";
+	TextoParaPesquisar=document.getElementById("InputTextoParaPesquisar").value.normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase().replaceAll(' ','')
+	document.getElementById("atextopesquisado").innerHTML=TextoParaPesquisar
+	StatsPesquisa = document.getElementById('NumeroPesquisas');
+	NumeroPesquisasResultados = document.getElementById('NumeroPesquisasResultados');
+	threads = parseInt(document.getElementById('Threads').value);
+	for(var i=0; i < threads; i++){
+		Pesquisar();
+	}
+}
+function Pesquisar() {
+	atual+=1
+	StatsPesquisa.innerHTML=atual
+	if (topicos[atual]) {
+	sum=sum+topicos[atual]
+		fetch('threads/'+sum+'.txt', {cache: "force-cache"})
+			.then(r =>  r.text().then(data => ({url: r.url, body: data})))
+			.then(obj =>{
+				if (obj.body.toString().normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase().replaceAll(' ','').includes(TextoParaPesquisar.replaceAll(' ',''))) {
+					TabelaDeResultados.innerHTML+= '<tr><td><a href="#" onclick=MostrarTopico('+obj.url.substring(obj.url.lastIndexOf('/')+1).replaceAll('.txt','')+'); >'+obj.url.substring(obj.url.lastIndexOf('/')+1).replaceAll('.txt','')+'</a></td><td>'+obj.body.split("\n")[0].replaceAll("\\r\\n","").substring(0,150)+'...</td><td>'+obj.body.split("\n").length+'</td><td>'+(obj.body.toString().normalize("NFD").replace(/\p{Diacritic}/gu, "").split(TextoParaPesquisar).length - 1)+'</tr>';
+					TopicosCacheados[obj.url.substring(obj.url.lastIndexOf('/')+1).replaceAll('.txt','')]=obj.body.split("\n")
+					NumeroPesquisasResultados.innerHTML=parseInt(NumeroPesquisasResultados.innerHTML)+1
+				}
+				Pesquisar()
+			});
+	}
+}
+
+function MostrarTopico(id) {
+	TabelaDeResultados.style.display = "none";
+	for (i in TopicosCacheados[id]) {
+		if (TopicosCacheados[id][i]) {
+			document.body.innerHTML+="<div class=resposta>"+TopicosCacheados[id][i].replaceAll(/\\r\\n/g, "<br/>").linkify()+"<div>";
+		}
+	}
+}
+
+if(!String.linkify) {
+    String.prototype.linkify = function() {
+
+        // http://, https://, ftp://
+        var urlPattern = /\b(?:https?|ftp):\/\/[a-z0-9-+&@#\/%?=~_|!:,.;]*[a-z0-9-+&@#\/%=~_|]/gim;
+
+        // www. sans http:// or https://
+        var pseudoUrlPattern = /(^|[^\/])(www\.[\S]+(\b|$))/gim;
+
+        // Email addresses
+        var emailAddressPattern = /[\w.]+@[a-zA-Z_-]+?(?:\.[a-zA-Z]{2,6})+/gim;
+
+        return this
+            .replace(urlPattern, '<a href="$&">$&</a>')
+            .replace(pseudoUrlPattern, '$1<a href="http://$2">$2</a>')
+            .replace(emailAddressPattern, '<a href="mailto:$&">$&</a>');
+    };
+}
+</script>

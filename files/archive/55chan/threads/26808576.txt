@@ -1,0 +1,31 @@
+ Atirem roederes em um anão que irá digitalizar essa peça. \r\n Não faço ideia de como se faz isso.
+ Por que?
+ Cad 3D? Boa sorte.
+ Você não vai conseguir, você irá desistir, você é fraco.
+ Fácil, anão.
+ >>26808596 \r\n Na verdade eu tenho 37 de braço, contraindo.
+ >>26808666 \r\n Eu pensei que era sua cinturinha.
+ >>26808602 \r\n Me mostre o caminho das pedras.
+ >>26808666 \r\n >contraindo \r\n \r\n Não se mede contraindo, filho da puta.
+ >>26808734 \r\n Sim, medem frio e contraindo.
+ Brotip: faça no sketchup e exporte para o cad. As linhas saem explodidas (sem ligações entre si, porque ele não exporta com o polyline), mas dependendo do desenho fica mais fácil, pois é só fazer o 3D e gerar as vistas.
+ >>26808783 \r\n Eu não sei nem como fazer, tirei um caralhada de fotos. Faz upload das fotos no programa e ele gera uma imagem?
+ >>26808794 \r\n Espero que esteja pescando, amigo.
+ Preciso dormir, caralho.
+ Você é o crioulo do Utorrent, né? \r\n Espero mais que se fornique pra largar de ser incluso. 
+ >>26808814 \r\n Agora sim, AutoMesa!
+ >não usando Fusion 360 \r\n >2019 \r\n \r\n Apenas o melhor software já feito pela Autodesk. \r\n Estou usando esse filho de uma putinha para CAD e CAM, fazendo peças para produzir numa CNC Router e cortadora/gravadora à laser e é simplesmente uma delícia. \r\n \r\n >>26808814 \r\n >esse toolpath na pica \r\n Eu nem sabia que o AutoCAD suportava ou era indicado para CAM, achei que era só o Inventor e Fusion que faziam isso dentro da plataforma, e o HSMWorks como plugin para o SolidWorks. \r\n \r\n >>26808822 \r\n Desenha um arco iro e poste aqui para inaugurar.
+ >>26808841 \r\n Vai ficar lento no meu notebook, essa bosta.
+ >>26808861 \r\n Nem sei o que estou fazendo, hue. Depois eu tento, preciso dormir.
+ >autocad \r\n \r\n Se mata, lol.
+ ANÃO PROJETISTA REPORTANDO DENTRO. \r\n \r\n Você tem que fazer isso em 2D, certo? Ou quer o modelo em 3D? Já pensou e usar uma ferramenta mais poderosa? AutoCAD serve pra algumas coisas, mas desenhar peças completas de forma rápida e eficaz não é uma dessas coisas. \r\n \r\n Sugestão, baixe SolidWorks e desenhe essa merda por lá, além de 1 milhão de vezes mais fácil que o AutoCAD, ainda é mais eficientes, pois com apenas 1 design 3D tu tem todas as vistas que quiser. \r\n \r\n Also, se você gosta da AutoDesk, então pegue o Inventor, é tão eficiente quanto ao SolidWorks. \r\n \r\n Estarei até às 02:00 respondendo dúvidas.
+ FIZ DE OLHO MESMO, CHEFIA, PODE CONFIAR QUE JÁ FIZ VARIOS PROJETOS DE MOTORES E O SEXTO CILINDRO NÃO É NECESSÁRIO, SÓ SERVE PARA GASTAR MAIS COMBUSTÍVEL. PODE MANDÁ USINÁ?
+ >>26808925 \r\n Perdi. Vou dormir depois dessa.
+ Já fizeram já um 6 cilindros em linha Billet. \r\n Que inclusive quebrou o recorde mundial dos 'all-motor' na arrancada 
+ >>26808925 \r\n Isso provavelmente é fundido, anão.
+ >>26808933 \r\n Deve ser mesmo. Mas a fundição não deixaria um acabamento grosseiro no interior dos cilindros? Eles retificam as partes importantes no final?
+ >>26808940 \r\n Fundição quer dizer que é necessário mais carbono pra conseguir chegar no ponto de fundição necessário para fundir o aço. \r\n \r\n Mais carbono significa melhor lubrificação dos pistões com a camisa do cilindro.
+ >>26808953 \r\n O que eu quero dizer é que como podemos observar na imagem do OP, a superfície exterior é toda 'porosa', com várias imperfeições, e isso não é admissível no cilindro, então como eles fazem para deixar lisinho como bunda de neném lá dentro?
+ >>26808966 aqui. Ignora a imagem, dei CTRL+V sem querer e não tem nada a ver com o assunto. Apenas autistei duro.
+ >>26808966 \r\n Retifica, caralho.
+ >>26808966 \r\n Retificação.

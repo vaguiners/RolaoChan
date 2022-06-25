@@ -1,0 +1,12 @@
+ https://pcpartpicker.com/list/76wFzY \r\n \r\n Limpo meu cu com, por favor. O /comp/ está morto. \r\n Eu sei que é totalmente desnecessário um Water Cooler pra esse processador, mas estava praticamente o mesmo preço de um cooler bom. Ajudei a montar com dicas dos anões do /b/, afinal, nesses caras dá pra confiar, meu. \r\n \r\n Also, recomendem futuros upgrades para o PC. E sim, tenho conhecimento pequeno em computarias. 
+ Você ao menos postou lá, filho da puta sem costumes?
+ >>27497653 \r\n Não, desculpe, anão, pareceu hipócrita da minha parte. A verdade é que eu nem ao menos consigo abrir a thread de avaliações sem meu navegador travar. É, eu preciso mesmo de um PC novo. \r\n \r\n Esqueci de adicionar, meu objetivo era algo como uma máquina que possa rodar jogos estilo Cyberpunk e que dure ao menos 5 anos.
+ Pegue o 2600X.
+ Bump.
+ É desnecessário pra qualquer um. Water cooler é pescaria do judeu.
+ >>27498233 \r\n A título de curiosidade. Por que pessoas com gabinete ATX insistem em usar WC em vez de ventoinhas mais parrudas? Por mais que a água seja muito melhor do que o ar para absorver e transportar o calor, você ainda terá que dissipar calor através da circulação de ar no radiador. \r\n \r\n Só consigo imaginar um bom caso de uso em builds micro-ATX e mini-ITX, onde dimensões reduzidas restringem o fluxo de ar e o WC transporta o calor num lugar só para ser dissipado.
+ Also, não vou usar o heatsink. Teria que remover o adesivo da Samsung no SSD, além de não representar ganhe diferença na performance. Deixa o SSD ter o calor dele mesmo, é melhor. Comprei atoa.
+ >>27498735 \r\n Com o Water cooler da pra por o radiador na parte da frente, ele puxa o ar de fora e não o ar quente que circula dentro do gabinete. Parece pouca coisa, mas imagine que dentro do seu gabinete esteja 10° mais quente que fora.
+ >>27498805 \r\n Não entendi. Todo sistema AC normal puxa ar exterior a temperatura ambiente pela frente e descarrega um ar mais quente pela traseira do gabinete após circular por dentro do gabinete. \r\n \r\n Colocar o radiador na frente significa que você vai circular um ar mais quente dentro do gabinete que vai ser usado para resfriar componentes que não são resfriados pelo circuito de WC. Não soa muito eficiente, em comparação.
+ >>27498934 \r\n Aqui nesse vídeo eles fazem uma comparação, com o radiador na parte de cima e com o radiador na parte traseira. \r\n \r\n Pelo o que eu entendi, a temperatura é um pouco mais optima na parte traseira.
+ >>27498934 \r\n >>27499076 \r\n Aqui está.

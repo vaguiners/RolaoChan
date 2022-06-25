@@ -1,0 +1,32 @@
+ Sim, eu uso o sistema GNU Guix. Como você sabia?
+ Porque você é um bushido postando foto de um cara musculoso.
+ Porque senti o cheiro de liberdade e pureza.
+ Vi as 30 abas abertas no navegador procurando pela resolução do problema que eu resolvo com três cliques no Janelas.
+ Memando muito, OP?
+ >>27061759 \r\n AEHOOOOOOOOOOOOOOOOOOOOO 
+ Como é a estabilidade, OP? \r\n Tem muitos pacotes ou precisa ficar compilando a porra toda?
+ >>27061778 \r\n Só tem software livre, se não me engano. \r\n \r\n Não é que nem o emerge, os pacotes são pré-compilados.
+ Ora, você parece ser alguém que detém o conhecimento absoluto sobre a filosofia do projeto GNU. \r\n Agora que tocou neste assunto, já tentou LFS?
+ >>27061813 \r\n Ele se referia ao uso do build system. Compilo só algumas poucas coisas, e automatizo pelo guix. \r\n \r\n >>27061849 \r\n Não.
+ >>27061759 
+ >>27061759 \r\n Rapaz…
+ >>27061759 \r\n >navegador \r\n Meu userspace (GNU Emacs) é inteiramente auto-documentado.
+ >>27061759 \r\n É a mais pura verdade dura de engolir.
+ >>27061975 \r\n >>27061899 \r\n >>27061906 \r\n >>27061769 \r\n >>27061759 \r\n >eu sou burro então todos devem ser 
+ NixOS bastante superior.
+ >>27061988 \r\n Chegou o primeiro linuxfag com a bunda doendo.
+ GigaChad parece que é de outro mundo.
+ >>27061988 \r\n Chegou a criança com síndrome de underground.
+ >>27062018 \r\n É da Bahia.
+ >>27061952 \r\n >emacs \r\n Vale a pena aprender e usar essa porra?
+ >não usando o WSL mestre corrida \r\n >2019 \r\n \r\n Tenho o melhor dos 2 mundos, sou um ser transcendental.
+ >>27061759 \r\n Mandou a real no quejim minas.
+ >>27062018 \r\n Mas ele não é real.
+ >>27062047 \r\n Se você soubesse quais são as limitações do WSL, não recomendaria.
+ >Guix \r\n \r\n Como matar um projeto já na escolha do nome.
+ >>27062026 \r\n Não. Use neovim mestre corrida.
+ >>27062129 \r\n A única coisa limitada aqui é sua mente.
+ >>27062129 \r\n Quais são?
+ >>27062227 \r\n Não sou o citado, mas qualquer operação de I/O é umas 20 vezes mais lenta que em um sistema nativo. Tem muito trabalho a ser feito ainda na performance de escrita no WSL.
+ Windows? \r\n Eu tenho cara de quem usa software proprietário para você?
+ Ah, o meu amigo me perguntou outro dia o motivo de eu não usar aplicativos de encontro. T inder é uma empresa judaica interessada na promoção da 'hook up culture'. Além disso, é software proprietário, e como muitas outras ferramentas de comunicação, é um MITM(Man In The Middle), o que faz com que o seu uso atente contra a privacidade e liberdade de seus usuários. \r\n Wh ats app está no mesmo barco. \r\n Antes de ser comprado pelo judeu Mark Zuckerberg pelo valor de 19 bilhões, o aplicativo de comunicação já havia emitido uma nota dizendo que não conseguiu obter lucro durante todo o seu período de operação. Por qual motivo ele iria pagar por algo que não dá lucro? A única forma segura de comunicação através da internet é através de serviços P2P compilados localmente, que adotam PGP. \r\n Então, resumindo, não vou poder entrar no grupo da turma. \r\n Mas não tem problema, se quiser falar comigo, só me chama lá no Tox, meu Tox ID é JWISNSJ82UWJ8BSBSI1JSJI8NW82NSPMLA8 no celular e UWIANAO17OWN9381OSNJWONA9210OEJEVEJ no computador.

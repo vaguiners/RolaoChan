@@ -1,0 +1,5 @@
+ Como baixar apps da playstore direto para o cartão sd? \r\n \r\n Meu tablet tem 8gb de memória interna, e estou usando um cartão de 32gb. Não consigo baixar o app que quero na memória interna para depois transferir para o sd.
+ Não tem como.
+ Esqueci de mencionar que a versão do android é a 4.4.4, antes da função nativa de mesclagem entre memória interna e sd. E meu tablet é o rooteado.
+ Se tiver root, você pode inverter o armazenamento interno com o cartão SD. \r\n https://www.escolaandroid.com/como-transformar-cartao-sd-em-memoria-interna/ 
+ >>26940408 \r\n Puta que pariu! Instale uma versão mais recente.

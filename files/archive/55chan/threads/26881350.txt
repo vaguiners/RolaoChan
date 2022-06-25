@@ -1,0 +1,3 @@
+ Algum anão sabe se tem alguma forma de deixar a aba anônima do Chrome sem este estilo escuro, e ficar igual a aba padrão?
+ Não adianta você vim me procurar um novo Beethoven.
+ Extensão Dark Reader.

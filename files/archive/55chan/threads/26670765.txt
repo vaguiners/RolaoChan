@@ -1,0 +1,16 @@
+ >CPU intel (1155) core i5 \r\n >N420 2gb *OU * GTX 650 \r\n Qual das duas é melhor? \r\n >mb h61br ddr3 (1155) \r\n >ram ddr3 8gb (1333) \r\n >hd sata 500 gb PC \r\n >atx real 500W \r\n Anons, qual a opinião dos senhores sobre o computador acima? \r\n Quero ele, inicialmente, para os seguintes joguinhos: Metal Gear Rising, Mirror's Edge, e o primeiro Dark Souls. \r\n Será que ele aguenta uns 7 ou 9 anos fazendo o básico? \r\n Quando eu falo 'aguentar 7 anos', pergunto se em 5 anos ele estará ultrapassado, mas só precisarei instalar o lubuntu que aguentará mais 3 ou 4 anos rodando youtube, filmes, séries, músicas, animes, textos, chans e navegação padrão.
+ >N420 2gb *OU* GTX 650 \r\n >Qual das duas é melhor? \r\n Não são sequer comparáveis. 650 está anos-luz à frente. Você está comparado i5 com pentium 3.
+ >>26670787 \r\n Sério? As duas estão pelo mesmo preço. \r\n E por qual motivo a GTX 650 é melhor?
+ Se você quer só fazer o básico, descarte a placa de vídeo e invista num processador melhor, memória DDR4 e, principalmente, SSD. Não ter SSD nos dias de hoje beira o absurdo, e pensando 7 a frente, é inconcebível.
+ >>26670835 \r\n Não tem nem comparação. É superior em tudo. Melhor chip gráfico, mais cuda cores, muito mais velocidade de clock, tecnologias mais avançadas. Comparação ridícula. Se estão pelo mesmo preço, ou a 650 está bichada ou o vendedor da 420 tá pescando otário.
+ >>26670836 \r\n PO aqui. Sou incluso, como deu pra notar. \r\n Qual processador e placa-mãe você sugere? \r\n Não é uma boa ideia ter a ram DDR3 agora e comprar a DDR4 apenas em um futuro distante (daqui 10 anos)? \r\n Não seria melhor comprar o SSD daqui 10 anos quando eu quiser for atualizar o computador em questão?
+ >>26670848 \r\n Muito obrigado.
+ >>26670938 \r\n Para você ter ideia, um computador i3 e 4GB de RAM com SSD é mais rápido no uso geral que um i7 com 8GB usando HD. \r\n \r\n Pra que exatamente você quer usar o computador? Não vai jogar nele, certo? Quanto pretende gastar?
+ >>26670991 \r\n Inicialmente, eu quero jogar alguma coisa (até postei a lista dos jogos aí em cima). \r\n Depois disso, eu quero que o PC dure uns 9 anos só com o básico que é chans, youtube, músicas, filmes, animes, textos, etc. \r\n >Quanto pretende gastar? \r\n Meu limite é 3000 reais. Esse que eu postei aí tá custando 2100 reais.
+ Com Windows 7.
+ Nem o Remastered nem a versão Prepare to Die rodarão bem nesse computador, você não terá escolha além de jogar Dark Souls 2.
+ >>26671445 \r\n Eu jogava o Prepare to Die num i3 com 9800 GTX.
+ Procure promoções de computadores já montados, OP. Olhe essa, 280 reais a mais… \r\n \r\n https://www.pelando.com.br/ofertas/computador-pichau-gamer-i5-9400f-geforce-gtx-1060-6gb-galax-oc-gddr5x-8gb-ddr4-hd-1tb-500w-cropper-2-298752 
+ Uma placa de vídeo DDR4 aceita RAM DDR3?
+ >>26671897 \r\n Sim.
+ >>26671897 \r\n Wut? A VRAM não tem nada a ver com a RAM do processador.

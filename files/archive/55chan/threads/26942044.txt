@@ -1,0 +1,15 @@
+ O firefox de vocês parou de dar funcionalidade nas extensões do nada também? O que a fornicação estão fazendo com o meu firefox, filhos da puta? ==EU LOUCO!==
+ No capítulo de hoje: problemas soyboyzescos.
+ Fui testar e está funcionando, mas de extensão só tem o ublock origin e o stylish.
+ >>26942072 \r\n Kek, esqueci que o raposa estava aberto e quando fui fechar que as extensões foram desativadas. Venha pro Opera, OP.
+ Aqui aconteceu também, agora pouco.
+ Problema de certificado vencido. Já estão trabalhando para corrigir.
+ Achei que era só comigo, que alívio.
+ Use o Opera. 
+ Sim, minhas extensões foram pro espaço. Assim como os meus lados quando lembro do parênquima do 'bolachenha'.
+ >>26942894 \r\n E instale o manjaro. 
+ >>26942894 \r\n Baseado.
+ >>26942894 \r\n Deve ser um sinal mesmo.
+ >>26942894 \r\n Opera virou uma merda depois da versão 12.
+ Post meu de outro parênquima paliçádico. \r\n \r\n \r\n >faça backup do seu profile do Firefox na pasta Mozila em AppData \r\n >baixe o Dev Edition \r\n >na aba about:config procure a linha 'xpinstall.signatures.required' e mude para false \r\n >coloque o backup do seu profile para sobrescrever o do Dev Edition \r\n \r\n \r\n A Godzila cagou no pau, instalei umas 3 versões até deixar de ser retardado e procurar o aviso no Google. Agora é sentar o cu na cadeira e esperar eles resolverem essa merda.
+ >>26943032 \r\n \r\n Fiz isso no meu FFx64 e as extensões voltaram.

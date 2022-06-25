@@ -1,0 +1,4 @@
+ Que tipo de supercomputador da NASA eu preciso para desenvolver aplicativos para o INCELdroid? Na última vez que eu tentei o celular do emuladorzinho rodava a 4 frames por segundo.
+ System/360 da IBM.
+ Não precisa de emulador, use seu celular em modo debug e teste direto dele.
+ >>26865395 \r\n Eu vou ter que ficar botando o .apk o tempo inteiro?

@@ -1,0 +1,17 @@
+ Anões, acabo de achar um HD externo. Ele possui senha, bitlocker, teria alguma chance de desbloquear ele e ver tudo que tem armazenado, caso eu obtenha algum sucesso, deliverarei qualquer merda que tenha dentro dele. Ele tem 500 giba de armazenamento.
+ Bitlocker só da para ser desbloqueado com a recovery key que a microsoft gera, se o dono gerou manualmente e guardou a recovery key só ele pode recuperar do contrário impossível.
+ Achou na casa de quem, carioquinha?
+ >>27541658 \r\n Also, caso ele tenha gerado e enviado via e-mail ou salvo via e-mail você pode tentar recuperar, do contrário esquece é tão seguro quanto o VeraCrypt.
+ >>27541660 \r\n Na casa do DJ Hacker.
+ >>27541658 \r\n >>27541664 \r\n Então o jeito vai ser formatar mesmo? \r\n Teria como formatar e tentar recuperar os arquivos? \r\n \r\n >>27541660 \r\n Não sou você. Achei ele perto de um ponto de ônibus.
+ >>27541686 \r\n Dentro da mochila de quem, carioquinha?
+ >>27541686 \r\n Se ele utilizou o fast encryption do bitlocker você pode conseguir recuperar arquivos armazenados anteriormente na parte não criptografada do HD. Caso tenha sido full disk encryption não tem como recuperar nada. Cada ponto da MFT do HD é encriptada e será impossível de acessar sem a senha.
+ >>27541692 \r\n Amigo, eu não tenho coragem nem de conversar com alguém direito, imagina roubar. \r\n Graças a Deus eu sou de Minas Gerais. 
+ Segundo os anões manjadores é a coisa mais fácil do mundo. \r\n Uma vez fiz um parênquima paliçádico sobre criptarias e disseram que bitlocker é cheio de falhas e backdoors.
+ >>27541708 \r\n Vou tentar recuperar e ver se dá em alguma coisa. Qualquer coisa delivero aqui. \r\n Valeu pelo esclarecimento.
+ >>27541731 \r\n Boa sorte!
+ >>27541727 \r\n A única falha existente do bitlocker é o problema da recovery key que citei acima, se você gerar uma key online via e-mail microsoft a ms tem sim o acesso a key e pode passar para as autoridades, mas caso você tenha criado offline e tenha salvo num pedaço de papel ou simplesmente jogado fora é impossível de invadir.
+ >>27541742 \r\n VeraCrypt \r\n \r\n Ainda é bom ?
+ >>27541775 \r\n >>27541775 \r\n Sim. Procure cal e cimento sobre o assunto. Continua inquebrável, desde que use direito.
+ Voltei. Formatei o HD e recuperei os arquivos, não recuperou muitas coisas e todos quando tendo abrir fala que os arquivos foi corrompido, mesmo o estado deles sendo excelente.
+ >>27541917 \r\n >os arquivos foi corrompido 

@@ -1,0 +1,28 @@
+ Quais os melhores programas para se usar no Linux ? Posso usar programas e jogos piratas ? Consigo jogar usando o Linux como OS ?
+ Quais os melhores temas ? Me dê uma luz, anão.
+ >linux 
+ >>26874987 \r\n Manjaro Deepin, especificamente.
+ Continue com o windows, é a sua cara.
+ Windows.
+ >>26874996 \r\n Não vou dar um sequer tostão para o judeu.
+ Word 2010.
+ Não quero inclusos e analfabetos usando o mesmo sistema operacional que eu. Fique no Windows. \r\n \r\n Dá pra jogar Touhou. 
+ Me ajudem, anões. Nunca pedi nada a vocês, o Câncer 10 só trava e piora a cada atualização. Me ajudem, eu imploro.
+ >>26875015 \r\n Ora, se você quer ajuda, ao menos pergunte algo que possamos responder. \r\n Quais programas você utiliza no Windows? Assim eu posso te recomendar alternativas.
+ >>26875009 \r\n Existe coisa mais retardada que jogar Touhou?
+ >>26875026 \r\n Viajar.
+ >Quais os melhores programas para se usar no Linux? \r\n Visite a wiki do /g/ do 4folhas. InstallGentoo. \r\n >Posso usar programas e jogos piratas? \r\n Sim, é óbvio. \r\n >Consigo jogar usando o Linux como OS ? \r\n Sim, pode. É só usar o Wine. Alguns jogos nem precisam dele.
+ >>26874980 \r\n Numix ou Arc-Darker. Recomendo usar o XFCE. \r\n \r\n >>26874974 \r\n >Posso usar programas e jogos piratas ? \r\n Sim, mas vai ter que instalar manualmente ou usando o PlayOnLinux. Pode parecer difícil no início, mas não é nenhum bicho de sete cabeças. \r\n \r\n >Consigo jogar usando o Linux como OS ? \r\n Depende do jogo. Boa parte dos jogos da Steam são oficialmente suportados, incluindo todos os da Valve. Alguns rodam até melhor no Linux. Para os outros, você pode tentar rodar com o Wine ou Proton, a chance de sucesso é 50%. 
+ >linux \r\n >joguinhos \r\n Não. \r\n Linux é muito bom pro uso geral, mas joguinhos ainda é algo a se evoluir. \r\n E não, também não é possível crackear programas no Linux. Não que eu saiba. 
+ >>26875026 \r\n Deixar de jogar algo só porque todas as personagens são garotinhas fofinhas.
+ >>26875020 \r\n Photoshop CC, µTorrent, Internet Download Manager, DAEMON Tools Ultra, iCUE e muitos outros. Qualquer recomendação é bem-vinda.
+ >>26875066 \r\n Faça o que eu falei no >>26875031 e visite a wiki do 4folhas. Tem recomendações de programas em uma página de lá, aí você decide qual é melhor para você.
+ >>26875031 \r\n O-obrigado, anão.
+ >>26875082 \r\n Tô indo lá agora mesmo.
+ >>26875084 \r\n Chegou o viadinho. Saia daqui, seu animebicha de merda.
+ >>26875088 \r\n Respondi na mesma moeda, anão .
+ >>26875084 \r\n De nada, anão. \r\n \r\n >>26875086 \r\n Faça isso. Apesar dos anões do /g/ serem um pouco autistas, a wiki é boa.
+ >>26875066 \r\n Não uso praticamente nenhum desses, então não tenho como recomendar alternativas. Só para o uTorrent, que você pode usar o ruTorrent ou Transmission. O segundo já vem instalado na maioria das distribuições Linux como Ubuntu, Fedora ou Linux Mint. \r\n Mesmo se você continuar no Windows, passe a usar o qBittorrent ou até mesmo Deluge, são muito melhores que o uTorrent. 
+ Aproveitando, vale a pena ir pro Manjaro?
+ >>26875113 \r\n Ok, obrigado, anão. Eu acredito que até antes de depois de amanhã estarei no glorioso Manjaro Deepin.
+ Alguém sabe algum programa parecido com o K9 web que roda no linux?

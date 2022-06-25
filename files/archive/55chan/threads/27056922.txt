@@ -1,0 +1,4 @@
+ Qual app os anões usam para acessar o chan pelo celular? \r\n \r\n Estou tendo problemas com o captcha do Dashchan.
+ Eu uso o Kiwi Browser mesmo, é uma versão do Chrome para Android com suporte a extensão. Gosto porque suporta proxies (me falaram que o Dashchan tem suporte a proxy mas não consegui usar).
+ >>27056953 \r\n Você consegue ao menos usar o captcha no dashchan?
+ Dashchan, o problema é a dose diária, e um probleminha de ficar carregando captcha antes de postar, e as vezes isso me faz ter que esperar um pouco antes de postar.

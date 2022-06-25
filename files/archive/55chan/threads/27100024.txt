@@ -1,0 +1,22 @@
+ É possivel ser 100% anônimo na rede mundial de computadores?
+ Sim.
+ Sim, é bem fácil, mas não é infalível.
+ Não.
+ Não é não, Lucas.
+ >>27100031 \r\n >>27100038 \r\n \r\n C-Como?
+ >>27100047 \r\n Janela anônima.
+ 50%
+ >>27100047 \r\n Não seria 100% anônimo se fosse amplamente conhecido e divulgado.
+ >>27100058 \r\n /parênquima paliçádico.
+ >>27100060 \r\n Você está certo. 9,99% anônimo. \r\n /parênquima paliçádico.
+ Usa uma VPN boa paga e Tor (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>27100024 \r\n Com o cebolão e algumas ferramentas fica 95%.
+ >>27100071 \r\n Estou falando 95% por que nunca você vai ser 100% anônimo, sempre existe uma falha.
+ >alfa long-rang wifi adapter \r\n >antena direcional (yagi por exemplo) \r\n >suporte de uns 3/5m \r\n >wifi de toda a vizinhança \r\n >eventualmente redes com WPS ou WEP \r\n >tails \r\n >full disk encryption \r\n >??? \r\n >profit \r\n \r\n >vpn adquirido com monero \r\n >tor over vpn \r\n >tails \r\n >full disk encryption \r\n >??? \r\n >profit \r\n \r\n >vpn adquirido com monero \r\n >vpn over tor \r\n >tails \r\n >full disk encryption \r\n >??? \r\n >profit 
+ >>27100024 \r\n Meu provedor de internet sabe quem sou, mas ele muda e redireciona meu IP a cada reset do modem, eu nunca uso o navegador logado, uso a aba anônima, uso vpn, excluo todo o histórico antes de desligar o PC, não armazeno nada ilegal no PC, pendrive, nuvem, só olho e utilizo o material online e excluo em segundos.
+ >>27100122 \r\n >browser & device fingerprinting 
+ >>27100132 \r\n Não escolhi meu modo de destruição de emergência do PC, não sei se é melhor deixar um balde com água do lado para em uma emergência jogar o PC dentro ou colocar o microondas do lado do PC e em uma emergência colocar o PC para assar. \r\n Qual você acha mais eficaz para destruir o PC de maneira a impossibilitar a perícia criminal encontrar o que procuram?
+ Só se você for o Assange.
+ >>27100217 \r\n Não precisa de nada disso. \r\n Um SSD moderno que tenha TRIM em conjunto a um hidden volume no Veracrypt pra guardar o que é perigoso e um volume normal para guardar o que é trivial já resolve. \r\n \r\n Nenhum perito vai conseguir nem identificar o volume hidden, e em caso de tortura você simplesmente passa a senha do volume normal.
+ Não.
+ O anonimato na internet já era faz muito tempo. Agora só se você for figurativamente aqueles nerds de filme de ação.

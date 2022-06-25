@@ -1,0 +1,4 @@
+ Qual é o máximo de qualidade que um vídeo full hd pode ter? No YouTube, por exemplo, se colocar em full hd, não fica tão bom num monitor full hd quando se você configurar 4k, mas era para ter a mesma qualidade nos dois, já que o monitor limitaria o 4k. Isso não faz sentido, mas é o que acontece. Então qual seriam as configurações de um vídeo para ter o máximo de qualidade em full hd, não esse 'full hd' fajuto do youtube?
+ O youtube em 1080p tem uma compressão, em 4K tem outra. \r\n Por isso o vídeo aparenta mais qualidade em 4K mesmo com seu monitor 1080p.
+ O Youtube converte todos os vídeos para H.264 para reduzir o tamanho total do arquivo. Um vídeo de 2 minutos renderizado no After Effects com a configuração 'lossless' em AVI pode chegar a 10GB se tiver em 60fps. Ao converter para H.264 ele cai para 30MB.
+ >>27052755 \r\n >>27052762 \r\n Há alguma compressão sem perda de qualidade em vídeos como o png?

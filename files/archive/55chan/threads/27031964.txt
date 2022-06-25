@@ -1,0 +1,35 @@
+ Estou pensando em migrar para o Windows 10, em especial por conta do anúncio do próximo update. O problema sempre foi como confiar num sistema repleto de telemetria como o windows, em especial a versão 10 que parece ser mais invasiva que as outras. \r\n Sei que a versão enterprise é um pouco mais branda nesse sentido porque é uma versão para empresas, então eles tornaram alguns cuidados para que as empresas se sentissem mais seguras quanto a privacidade, mas mesmo assim ainda é um botnet da porra. \r\n \r\n Existe alguma forma de tornar o W10 minimamente privado? Acredito que deve ser impossível torná-lo tão seguro quanto uma distro do linux, mas será que tem como deixar ele pelo menos aceitável? Algo como era o XP ou é o 7 após remoção de algumas atualizações, por exemplo. \r\n \r\n Eu uso o 7 com dual boot para Mint e Kali, então não se preocupem em recomendar usar o linux, pois eu já uso. Eu preciso do windows apenas para alguns programas e para joguinhos. 
+ Abrace a botnet, companheiro.
+ Esqueça privacidade no Windows. Ou você fecha com o judeu, ou usa Linux/BSD/Gentoo. Não existe meio termo.
+ Não seja mau-caráter, use windows.
+ >>27031973 \r\n >não mencionando o templo 
+ Quando irão lançar esse novo cmd?
+ >>27031989 \r\n KEK, e eu achando que estava exagerando em mencionar Gentoo. Sempre tem alguém mais autista.
+ Bem, eu penso em sair do Windows para Linux, só que eu gosto bastante de jogar, eu teria muitos problemas com o Vapor?
+ >>27032003 \r\n Sim.
+ >>27032003 \r\n Defina gostar bastante de jogar. O que você joga? Lançamentos? Então desista. As coisas estão melhores com o Proton, o que era impossível antes agora é possível, mas ainda dá muita dor de cabeça e problemas de performance.
+ >>27031995 \r\n Não deram data ainda, apenas disseram que sai esse ano. Vai ser um update monstruoso, além desse cmd ele virá com um monte de coisas novas, inclusive para entusiastas do linux.
+ Windows 10 já é mais seguro do que o Linux.
+ https://ameliorated.info/ 
+ >mais de 15 gigas de código proprietário e DRM \r\n >t-tem como saber o que está rodando? \r\n Você nunca estará seguro no Windows, anão, ainda mais no 10.
+ >>27032055 \r\n Parece confiável.
+ Eu ouvi uma teoria que achei curiosa ontem… sobre se Microsoft talvez não pretendesse, no futuro, transformar o Windows numa distro de Linux, e para lidar com a questão da compatibilidade com software antigo construir um Wine dentro dela.
+ >>27032047 \r\n Segurado pelo judeu.
+ >>27032068 \r\n Pode confiar!
+ >>27032067 \r\n Eu sei disso, porém o 10 quebrou as barreiras. Eu estou seguro com o 7? Não, mas ele respeita minimamente a privacidade, ainda mais removendo alguns updates, ele não manda informações dos programas que uso e como eu uso, ou mesmo das minhas senhas e sites que acesso. \r\n O W10 é o demiurgo em forma de software, ele manda a porra toda para os servers da microsoft Sim, Bill Gates sabe que você fapa para linguiça escondido , isso é um absurdo. Se eu conseguir tirar a telemetria e deixá-lo parecido com o W7 já será suficiente. \r\n \r\n >>27032055 \r\n Posso confiar nisso aí? Pegar um sistema de terceiros assim é meio complicado. \r\n \r\n Olhem aqui o que diz na página da Judeusoft: https://docs.microsoft.com/en-us/windows/privacy/configure-windows-diagnostic-data-in-your-organization?f=255&MSPPError=-2147217396 \r\n \r\n Como podem ver, as versões empresariais do OS deixam você diminuir o botnet até o ponto que apenas a telemetria de segurança roda (ou seja, windows defender, windows update e aquelas merdas). Já é um avanço, se der para tirar ainda essa parte, acho que já dá para usar.
+ O&O ShutUp10 
+ >>27032119 \r\n Tenho o Enterprise pirata e realmente dá pra remover grande parte da botnet através de configurações já existentes e por Group Policies. Supostamente, eu deveria receber updates forçados quando tiver uma falha de segurança muito grave, mas que me lembre, nunca vi isso acontecer.
+ >como confiar num sistema repleto de telemetria \r\n É só desativar a telemetria usando o Winaero, OP.
+ >>27032167 \r\n Todo mundo usa o windows pirata, rapaz. Estou caçando a ultima versão no My Digital Life, mas só encontrei a 2016. Tudo bem que posso instalar a 2016 e depois atualizar, mas se viesse uma versão mais recente era melhor. \r\n \r\n >>27032161 \r\n >>27032192 \r\n Obrigado por essas opções, vou usar elas também.
+ Quanta frescura nesses comentários. \r\n \r\n >aiiin fazendo propaganda de terminal igual a produto da apple \r\n >aiiiin emoji \r\n >aiiiin propaganda terminal \r\n >aiiiin propaganda \r\n \r\n Povo chato da porra.
+ Sage.
+ >>27032242 
+ >imagine ter que se dar ao trabalho de fechar backdoors no seu SO \r\n \r\n Usuários windows são muito cornos.
+ >wsl existe desde 2016 \r\n >quer migrar agora que eles vão por um terminal bonitinho \r\n \r\n Porra, amigo, me ajuda aqui.
+ >>27032236 \r\n Devem ser und­­erages que não sabem o quão caralhuda a Microsoft sempre foi em propagandas.
+ >>27033045 
+ >>27033049 \r\n >flood 
+ >>27032003 \r\n Se instalar os drivers certos e usar uma distro como Fedora, que trabalha sempre com atualizaçôes mais constantes, ficará de boa.
+ >>27033045 \r\n Esse é o melhor.
+ >>27033049 
+ >>27032119 \r\n Eu queria saber tambem. \r\n Quando saiu o windos 10 eu sei que tinha algo a se fazer fechando portas e impedindo ele de mandar informações pra microsoft, mas eu sou um incluso.

@@ -1,0 +1,29 @@
+ TCC! \r\n \r\n Anões, me ajudem em como eu posso fazer o meu 'Trabalho de Conclusão de Curso', sou um ignorante e não entendo nada de como eu devo usar aquelas regrinhas da ABNT e entre outras coisas. O meu curso é relacionado sobre tecnológia da informação e ainda estou com um pouco de dúvida sobre qual tema eu devo escolher. \r\n \r\n O TCC serve para eu pegar o meu diploma de curso técnico, e eu não sei o que eu devo fazer da vida depois disso. 
+ Pega um modelo pronto no libre office e o resto da formatação você imita de outros trabalhos.
+ Aceito recomendações de livros que explique as regras do TCC e entre outras coisas, qualquer coisa é válida.
+ É possível fazer um TCC em apenas alguns dias, mas a maioria dos estudantes já começam a trabalhar nele bem cedo no curso.
+ >aprenda markdown, que vai ser muito mais útil na sua vida que essas regras idiotas da ABNT \r\n >escreva seu TCC em markdown \r\n >profit \r\n https://github.com/abntex/limarka 
+ >>27628066 \r\n >>27628036 \r\n Sim, anões. Mas cadê as dicas?
+ >>27628099 \r\n Foque primeiro no conteúdo, depois na estrutura, depois na revisão e só por último na formatação.
+ >>27628099 \r\n Não esqueça de referenciar tudo. \r\n Tem muita coisa no Academia.edu que pode ser usada. \r\n Dependendo do seu tema, anão, existem muitos repositórios de TCC de universidades, como os da UFSC. Lá da pra encontrar muita coisa. \r\n Não esqueça de fazer o acompanhamento com seu orientador de modo semanal, para não dar merda na apresentação. \r\n No mínimo 50 páginas a partir da introdução. \r\n Nunca aposte no Grêmio.
+ >>27628096 \r\n Como assim, fazer o TCC com o markdown?
+ >>27628099 \r\n Ligue o fornique-se pro tema. Faça de algo fácil, com muito conteúdo já existente, com um professor orientador que seja bem interessado / caxias. Temas que são derivados de TCCs já existentes são ótimos, pois a revisão bibliográfica já está pronta, basta buscar as fontes mais recentes para 'atualizar'. \r\n Não pense que irá utilizar seu TCC em um mestrado, porque simplesmente não irá para um mestrado se já não tiver direcionado sua graduação para um mestrado. \r\n Se o seu TCC envolve experimentos de alguma maneira, faça em grupo e com experimentos que não tomem muito do seu tempo. \r\n Faça uso da ferramenta de revisão do Word quando mandar seu trabalho para revisão do orientador. \r\n Não entre em pânico com o trabalho. Escrever dezenas de páginas a mais do que seus colegas não significa nada se as páginas são inúteis para embasamento do seu trabalho, e a sua banca terá plena noção disso. Quase sempre, um trabalho resumido e bem-escrito com 3 a 4 fontes principais e algumas colaborativas é melhor do que um trabalho de 200 páginas com grandes seções de absolutamente nada dentro.
+ >>27628131 \r\n Em vez de fazer no Word e ficar se preocupando com margens, fontes e coisas do tipo, você faz no bloco de notas usando esses códigos simples e o programa se encarrega do resto e transforma magicamente em PDF.
+ >>27628246 \r\n Caramba, muito obrigado. Creio que essa dica do 'Limarka', a ferramenta que usa o markdown para fazer TCC, foi a melhor do tópico até agora.
+ >>27628124 \r\n >>27628224 \r\n Obrigado pelas dicas também.
+ Use LaTex.
+ >>27628313 \r\n Por quê? O Limarka por si só, já não é uma boa opção?
+ >>27628363 \r\n Não sou o quotado. LaTeX é uma opção muito melhor. É feito pra isso. Escrevi minha dissertação e escrevo minha tese nela, usando a classe abntex2.
+ >>27628124 \r\n >>27628224 \r\n Não sou o OP mas agradeço pela informação. \r\n Vou fazer o meu TCC só semestre que vem, mas como eu sei que terei que fazer sozinho é melhor ir se adiantando. \r\n Eu curso engenharia química, a ideia do meu tema é 'Cremagem Sustentável - como queimar um corpo sem prejudicar o meio-ambiente'.
+ >>27628411 \r\n Passe o caminho das pedras.
+ >>27628460 \r\n https://www.youtube.com/results?search_query=latex+abntex2 
+ >>27628096 \r\n Prefiro LaTeX.
+ >>27628419 \r\n Baseado. \r\n Só imagino a bunda ardida que irá gerar. 
+ >>27628476 \r\n Obrigado, anão.
+ >>27628363 \r\n >Limarka \r\n \r\n Isso é uma baita de uma gambiarra.
+ >>27628419 \r\n Tema interessante, mas creio que a dica que dei sobre procurar em repositórios não vai te ajudar muito.
+ >>27628522 \r\n Vou ter que procurar em repositórios em alemão então.
+ Veja, OP. \r\n https://github.com/abntex/limarka/wiki/Limarka-vs-Latex 
+ >>27628829 \r\n Quero ver um trabalho completo escrito com esse troço. Com centenas de referências cruzadas, imagens múltiplas, e tabelas longas. \r\n Estou cético!
+ Graças a Deus já passei por essa merda. Negócio inútil, chato da porra.
+ >>27629012 \r\n O próprio criador escreveu. \r\n https://github.com/edusantana/dissertacao-limarka 

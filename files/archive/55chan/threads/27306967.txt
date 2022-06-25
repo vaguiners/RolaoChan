@@ -1,0 +1,52 @@
+ >sem função picture-in-picture \r\n >sem poder usar múltiplos dicionários ao mesmo tempo (útil se você escreve em dois idiomas) \r\n >versão mobile sendo a mais absoluta bosta \r\n >cheio de porcaria que ninguém pediu, tal como a integração deles com o pocket \r\n >ficam investindo em coisas que ninguém liga ('oh, nosso navegador carrega páginas 0,08% mais rápido!) \r\n \r\n E mais um montão de merda que não estou conseguindo me lembrar agora. Como esse navegador ficou tão ruim assim? O programador do chan é voluntário na fundação Mozilla?
+ Migrei pro Opera começo do mês e não arrependi em nada.
+ >>27306967 \r\n >múltiplos corretores ortográficos* \r\n Melhor dizendo.
+ >Firefox, Opera, Chromium, Iridium etc. \r\n Chrome sempre estará um passo à frente para o usuário médio.
+ Apenas venha, anão.
+ >>27307194 \r\n Porquê eu deveria anão? Me dê 3 motivos principais.
+ Programador não decide nada, incluso. É a mesma coisa que culpar os pedreiros num projeto merda de arquitetura.
+ >>27307222 \r\n >é rápido de fato \r\n >apenas configurações realmente necessárias \r\n >suporte múltiplo pra extensões \r\n \r\n Ele é um navegador que foi criado se baseando no projeto Chromium, anão. Tem temas customizáveis e é prático. No mais, baixe, teste e veja se gosta.
+ >>27307246 \r\n Sei que não parece grande coisa, mas eu também estou usando ele há pouco tempo… Ele é chei ode configurações e funções. Eu gostei dele. Meu PC não é muito bom e ele roda tranquilamente.
+ >>27307263 \r\n >cheio de 
+ Ex-Vivaldifag aqui. \r\n \r\n Hoje baixei o Opera GX. \r\n Dê uma chance para este navegador, anão. \r\n É incrível como ele é rápido. \r\n O vivaldi era o mais rápido de todos até então, o GX consegue ser mais rápido ainda. \r\n \r\n >inb4 Navegador Gamer \r\n Sim, é completamente retardado isso que eles fizeram de tentar apelar para o público gamer, mas o navegador realmente é bom. \r\n \r\n Pode testar, abra uma aba anônima em seu navegador favorito e outro no Opera GX, carregue a mesma página nos 2 e verá a diferença, sem contar que é level é tem um visual muito sharp e clean.
+ O que me deixa louco no Firefox é que quando você deixa o computador parado por horas, ao voltar a mexer o navegador trava e aí você tem que esperar duas horas para destravar ou fechar e abrir novamente.
+ >>27307263 \r\n >meu PC não é muito bom \r\n >e ele roda tranquilamente \r\n Vou baixar agora anão, era o que eu precisava ouvir.
+ >>27307279 \r\n Sei que a pergunta é meio idiota, anão… Mas dá pra colocar Thumbs Personalizadas na página personalizada?
+ >>27307295 \r\n Anão é irmão!
+ >>27307305 \r\n >na página inicial 
+ >>27307305 \r\n Até agora não encontrei como, também estou procurando como fazer isso. \r\n Parece que só algumas páginas já carregam com a thumbnail pronta.
+ >>27307281 \r\n Caramba, anão… Eu pensei que isso acontecesse só aqui, pois meu PC é muito fraco. E pensar que o Firefox já teve seus dias de glória…
+ >>27307321 \r\n Ah bom, obrigado.
+ >>27307327 \r\n Minha máquina é um i7 de quarta geração e 8gb de ram rodando Linux Mint. \r\n Não é o computador, é o navegador mesmo.
+ >>27307341 \r\n Sim. Não sei o que aconteceu com a raposa, eu a utilizava há alguns anos atrás e não era assim.
+ >>27307327 \r\n Engraçado. Tem um PC aqui bem fraquinho, um AMD A4 7300 com 8GB de RAM e isto não acontece. Roda liso, inclusive com várias abas.
+ Aproveitando o parênquima. O software da pica relatada já foi utilizado por algum de vocês? Como ele consegue liberar memória RAM sem interferir na funcionalidade do browser?
+ >>27307397 \r\n Aqui também roda liso com 82189389783897231 abas abertas, mas se deixar o firefox aberto sem uso por algumas horas, ele trava.
+ >>27307417 \r\n A grosso modo, ele troca processamento por memória RAM.
+ >>27307417 \r\n >lá vamos nós reclamar de consumo de RAM \r\n Caralho, entope essa merda de RAM e o resto que se fornique. Não custa fortuna.
+ >>27307437 \r\n Nunca vi isso. E olha que fica aberto por horas ou dias enquanto trabalha nos torresmos.
+ >>27307417 \r\n A grosso modo, ele troca processamento por memória RAM.
+ Curiosidade: por que vocês deixam 5.754 abas abertas? O PC fica ligado 24/7?
+ >>27307446 \r\n Quem reclamou? Parece até que não sabe ler.
+ >>27307462 \r\n Sim.
+ Firefox ficou uma bosta a partir do momento que algo foi mudado e a maioria das extensões pararam.
+ >>27307463 \r\n Se está usando programa para fazer trambiques no uso da RAM, é que o consumo da mesma o está incomodando ou prejudicando.
+ >>27307464 \r\n Sério isso? As vezes deixo o meu 1 semana e já fico cheio de fornicações na cabeça.
+ >>27307469 \r\n >algo foi mudado \r\n Kek, mexeram foi em tudo com o Quantum.
+ >>27307335 \r\n >>27307305 \r\n Descobri como fazer, você só precisa clicar no coração que fica no campo da URL. \r\n \r\n Se o site já tiver a thumbnail configurada ele vai te trazer ela logo de cara, caso contrário você pode ir clicando na seta da sonserina para puxar uma print da página. \r\n Se quiser usar uma imagem do seu PC você só precisa arrastar ela no seu navegador, clicar no coração, ajustar o Zoom com o scroll e clicar em salvar, daí depois disso vai na págian inicial e troca a URL e nome dessa thumbnail. \r\n \r\n É meio chato, mas não é como se você fosse fazer isso regularmente.
+ >>27307472 \r\n >se está usando \r\n >ninguém afirmou que está usando \r\n Volte pro colégio anãozinho.
+ >>27307281 \r\n Falta memória RAM aí, o retorno fica lento pois o Jewindows usou a virtualização para liberar memória RAM, isso é basicamente usar o HD como memória RAM.
+ >>27307489 \r\n Meu Deus, lá vai começar o bola de sebo a engatilhar.
+ >>27307488 \r\n Obrigado, anãozinho!
+ Não tem problema ter 1 milhão de abas abertas se você deixa a função 'Lazy Loading' habilitada. \r\n \r\n Dessa maneira cada aba não vai gastar nem 100KB de ram.
+ >>27307489 \r\n Volto, mas antes traga a vírgula que enfiastes na bunda.
+ Eu tenho a impressão que o FF é mais rápido. Gosto mais da interface dele. \r\n \r\n Mas a dev tools dele ainda está bem atrás da do Chrome. \r\n \r\n Aí vem o Brave com dev tools do Chrome e um monte de tracker/ad blocker? Sinto muito, firefox n vai dar… \r\n \r\n Ah e sabe o que é pior. Se os devs não estão usando FF, a tendência é os sites cada vez mais terem bugs no FF. Efeito cascata.
+ >>27307486 \r\n Do que se trata?
+ >>27307520 \r\n >n vai dar \r\n Realmente. Mods, por favor.
+ >>27307279 \r\n Realmente muito bom, anão. Ainda estou revisando as configurações, mas já estou gostando do que ví até o momento.
+ >>27307532 \r\n Também gostei bastante, até o momento está perfeito. \r\n Espero que não caguem nesse navegador com futuros updates.
+ >>27307522 \r\n Vou deixar para que te expliquem com maior propriedade.
+ >>27307279 \r\n Darei uma testada nele, mas já tentei usar outro navegador além do baseado Vivaldi, não consigo de jeito nenhum larga ele. Ele é extremamente customizável e nem é cheio de frescuras que a gente nem usa. Mas testarei este Opera GX agora mesmo.
+ >fogoraposa \r\n >pós 2012 
+ >>27307505 \r\n Hum… interessante, obrigado, anão!
+ >sem função picture-in-picture \r\n Tem sim, crioulo. \r\n \r\n >sem poder usar múltiplos dicionários ao mesmo tempo \r\n >usando corretor ortográfico \r\n \r\n >versão mobile sendo a mais absoluta bosta \r\n >navegando pelo celular \r\n \r\n >cheio de porcaria que ninguém pediu, tal como a integração deles com o pocket \r\n O Pocket pode ser desativado por completo no about:config, se é uma feature que te incomoda tanto assim. \r\n \r\n >ficam investindo em coisas que ninguém liga ('oh, nosso navegador carrega páginas 0,08% mais rápido!) \r\n >ninguém liga para um aumento de performance na função principal de um navegador (carregar páginas) \r\n \r\n >>27307281 \r\n Aqui não acontece mais, desde que comecei a usar o Nightly há alguns anos. Umas 100 abas abertas e tenho só 8GB de RAM. \r\n \r\n >>27307469 \r\n Trocaram o XUL por WebExtensions, que é a engine de extensões do Chrome. A justificativa foi segurança, já que o XUL era muito mais versátil, mas permitia que os inclusos detonassem o próprio navegador. Foi o maior downgrade no Firefox desde o Australis. \r\n Ao menos o Quantum trouxe um aumento significativo de performance para compensar.

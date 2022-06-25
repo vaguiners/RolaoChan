@@ -1,0 +1,30 @@
+ Me expliquem esta tourobosta. Exatamente o que eu multiplico pela matriz de marmelo para receber a imagem filtrada?
+ Isso é convolução, OP. Você na verdade acaba fazendo uma soma.
+ A matriz que forma a imagem, que obviamente não é 3x3. As matrizes 3x3 foram dadas como exemplo.
+ >>27327165 \r\n Mas se tiver um número diferente de colunas/linhas não consigo fazer a multiplicação.
+
+ >>27327357 \r\n Batatei.
+ Se o /b/ tivesse fios assim ia ser uma delícia, só a nata.
+ >>27327359 \r\n O azul é a imagem? E se ela tiver muitos mais pixels que o grão de milho?
+ >>27327375 \r\n O azul claro é a imagem, que é representada em números. A sombra é o marmelo, que são os números da sua pica. Você multiplica o marmelo/kernel pelos pixels locais, e soma eles.
+ >>27327390 \r\n Então não é uma multiplicação de matriz?
+ >>27327403 \r\n Não, é uma multiplicação de elementos.
+ >>27327429 \r\n Então por que a notação é como se fosse uma multiplicação de matriz? Also, isso é o básico que eu preciso para implementar visão computacional?
+ >>27327108 \r\n > http://setosa.io/ev/image-kernels/ \r\n Anão, pra cada grupo de pixels da imagem original (no caso para cada grupo 3x3 adjacente) você faz a multiplicação do pixel pelo valor do milho, e faz a soma dos elementos da matriz resultante, esse valor é o pixel correspondente na imagem final.
+ >>27327485 \r\n Então cada pixel na nova imagem é basicamente uma média dos pixels no entorno da imagem original, cada um deles tendo uma participação diferente no total?
+ Ok, como eu faço um robô day trader a partir disso?
+ >>27327465 \r\n É o básico do básico. Se está querendo aprender ConvNets, estude direto pra elas, não vá por esse lado de processamento digital de imagens.
+ >>27327527 \r\n Mas eu quero fazer algo com visão computacional antes. Já percebi que isso tem um certo potencial.
+ >>27327549 \r\n O que pensa em fazer? Conseguiu tirar a dúvida?
+ >>27327569 \r\n Imagino algo que vetorize a imagem de uma webcam ligada em um microscópio e conte quantas células estão em uma lâmina. Daí eu vendo por 25 mil reais para os laboratórios.
+ >>27327569 \r\n Also, sim. Não é uma multiplicação de matriz.
+ >>27327587 \r\n Tem modelos já treinados para isso. É uma das principais área de 'inteligência artificial'. \r\n \r\n https://paperswithcode.com/task/semantic-segmentation 
+ >>27327606 \r\n Dá pra ganhar graninha com isso?
+ >>27327606 \r\n https://paperswithcode.com/search?q=cell+count \r\n \r\n Eu conheço essa U-net, mas ela já é antiga (2015), deve ter métodos mais novos. \r\n \r\n >>27327614 \r\n Se você tiver pra quem vender, claro. Um hospital, por exemplo, economizaria muito dinheiro automatizando contagem e identificação de células. Você só tem que ver se é permitido, e vender a ideia.
+ >>27327626 \r\n O que é uma 'u-net'?
+ >>27327642 \r\n Foi uma das primeiras arquiteturas de rede neural que teve um bom sucesso nessa tarefa de caracterização.
+ Caralho, como eu odeio fazer contas.
+ >>27327465 \r\n Espera, isso é o que eu estou pensando que é? \r\n Você está treinando uma rede neural para reconhecer viados? \r\n Genial. Imagina só, colocar fotos dos seus amigos e saber de cara que dá o brioco? \r\n Se você não fizer, eu vou fazer!
+ >>27327864 \r\n Perdi.
+ >>27327864 \r\n Also, seria puro lulz se você fizesse isso com retratos de milhares de pessoas. Você poderia publicar o seu paper por aí e ele seria reproduzido amplamente no meio acadêmico. Peraí, já fizeram.
+ >>27327891 \r\n Meucon frade…

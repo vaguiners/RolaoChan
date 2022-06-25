@@ -1,0 +1,2 @@
+ >control alt T \r\n >nvidia-settings \r\n >escolho o meu monitor principal \r\n >controls \r\n >digital vibrance \r\n >de 0 para 1023 \r\n >mfw 
+ >control+alt+T \r\n >não sendo Super+Enter \r\n Plebeu.

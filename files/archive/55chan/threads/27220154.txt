@@ -1,0 +1,30 @@
+ Algum anão entendido sabe mexer no Proteus? \r\n \r\n Os meus cálculos bate com o simulador do phet, mas o Proteus está bugadaço. Picas relatadas. 
+ Por algum motivo o proteus está dando apenas o valor da corrente de I2, alguém sabe porquê?
+ >>27220178 \r\n >por quê \r\n Fixado.
+ UFSC? 
+ >>27220178 \r\n Os pontos não estão ligados corretamente entre os polos dos resistores.
+ Aproveitando o parênquima paliçádico, podem me explicar como passo a passo como o professor chegou ao valor final? \r\n \r\n Cumps
+ Refaça as conexões entre todos os resistores e os amperímetros.
+ Eu entendia essa merda com 13 anos de idade, hoje em dia sou brainlet.
+ >>27220269 \r\n Você quer que eu explique a manipulação algébrica?
+ >>27220269 \r\n Ele errou.
+ >>27220269 \r\n Isso aí é muito fácil, e é só matemática.
+ >>27220269 \r\n -15.861422, -48.028184
+ >>27220294 \r\n Exatamente.
+ >>27220312 \r\n Não fui em quem tirei a foto mesmo, e tem 40 alunos na minha sala.
+ >>27220353 \r\n >não fui eu quem tirei 
+ Baixe o LTspice. Proteus só presta pra eletrônica digital.
+ >>27220269 \r\n O professor pediu para entregar o projeto pelo Proteus.
+ Ali no 2,2-(21,5/91)j, o valor correto não seria (91*2,2-21,5/91)-2,2j ?
+ >>27220319 \r\n >>27220301 \r\n Por isso não entendi. Meus resultados sempre divergiam e eu achava que estava errado.
+ >op pergunta algo \r\n >anões respondem e são solícitos \r\n >op não responde mais \r\n Toda fodendo vez.
+ >>27220353 \r\n >tirou \r\n Fix'd.
+ >>27220269 \r\n A resposta é 8514÷39949 = 0,2. \r\n De nada, anão brainlet.
+ >>27220392 \r\n Estava tentando fazer o que o >>27220248 e o >>27220283 disse. Deu certo (pica relatada), obrigado. \r\n \r\n Also, preciso fazer toda esse malabarismo para a corrente I3 ficar positiva?
+ >>27220432 \r\n >todo esse \r\n >fixado. 
+ Seu R1 no Proteus é 10k, nas outras imagens é 35 e 35k.
+ >>27220489 \r\n Foi batatisse minha, o valor de R1 é 35k. Vide o circuito do papel.
+ >>27220432 \r\n >preciso fazer toda esse malabarismo para a corrente I3 ficar positiva? \r\n \r\n >>27220392 \r\n Me responda.
+ >essa questão teórica sem aplicação prática nenhuma 
+ Obrigado a todos os anões que me ajudaram. \r\n \r\n O meu circuito final ficou assim: primeira pica relatada. \r\n \r\n Que coincidiu com os meus cálculos: segunda pica relatada. 
+ >>27220432 \r\n >preciso fazer toda esse malabarismo para a corrente I3 ficar positiva? \r\n Você pode fazer isso, OP. Mas não deixa de ser um malabarismo.

@@ -1,0 +1,7 @@
+ A redhat/CIA forçou o systemD e eu aceitei calado, o Pulseaudio eu aceitei e agora estão me forçando a usar o wayland. \r\n \r\n O sistema operacional GNU/Linux falhou. \r\n \r\n Anões, que já usaram o FreeBSD reportem dentro. Tiveram algum problema?
+ Depende, o FreeBSD no notebook é uma porcaria, já no PC é usável, mas bastante limitado.
+ Use haiku.
+ >freeBSD \r\n \r\n Traveco travecoso.
+ Libre-Kernel, OpenRC e Xenocara (X do openBSD) \r\n \r\n https://www.hyperbola.info/ \r\n \r\n Seja bem vindo!
+ O que aconteceu com o Linux? \r\n Alguém me explica, não entendi nada.
+ >>27388853 

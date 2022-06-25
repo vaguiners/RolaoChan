@@ -1,0 +1,11 @@
+ Anões, quero usar um DNS familysafe direto no meu modem, assim vai bloquear a pornografia da rede inteira, não apenas do computador. Mas o pepino é que eu divido a internet com meu vizinho. O mesmo pode querer descabelar o palhaço e dar de cara com uma tela dizendo que está bloqueado ou um pagina que não carrega. Estaria eu sendo filho da puta? Na verdade eu estou com medo dele perceber que está bloqueado e me perguntar algo. Não tem como eu dizer que bloqueei porque sou viciado. \r\n \r\n Also, essa merda deixa claro: 'O administrador da rede bloqueou este site'.
+ Coloque marmelos no seu ublock origin ao invés disso.
+ Tu vai estar ajudando ele. Se ele vier reclamar, tu pergunta qual site e pede para ele mostrar.
+ É só você colocar um hostfile personalizado na sua maquina/gadofone.
+ >>27322039 \r\n Mas aí vai dar vergonha, anão.
+ >>27322078 \r\n Como assim? O que é um hostfile?
+ O que ele te perguntaria? 'Ei, vizinho, não tô conseguindo abrir meus pornozão aqui'. \r\n Pensando agora, é muito complicado usar esse DNS safe? Quero fazer isso só para ver se meu vizinho reage.
+ E o que te impediria de ir lá desconfigurar quando quiser assistir o pornô?
+ >>27322130 \r\n Muito fácil, leva um minuto. \r\n \r\n https://www.youtube.com/watch?v=GStlOJc5Nc8 \r\n \r\n Esse vídeo mostra como colocar o DNS no computador, mas pra colocar na rede deve ser a mesma coisa. \r\n \r\n >>27322162 \r\n Anão, meu anão… o problema é o constrangimento.
+ >>27322162 \r\n Li seu post errado, desculpe o autismo. \r\n \r\n Realmente, mas daria uma motivação a mais.
+ Diga para ele que precisa do MAC da máquina dele e coloque como exceção.

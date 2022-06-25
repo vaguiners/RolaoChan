@@ -1,0 +1,34 @@
+ Instalei o Android Studio. \r\n \r\n Como eu faço um 'Hello World' que apareça no meu espertofone? Estou começando a me arrepender de ter conseguido este emprego. \r\n \r\n Tenho que fazer um aplicativo para espertofone android que se comunique com um outro dispositivo bluetooth.
+ Como aprender a programar: \r\n >ler um livro \r\n >ver vídeo aulas \r\n Ou: \r\n >perguntar no /b/ como fazer \r\n \r\n Estou ponderando qual a melhor alternativa. Alguém consegue me dar uma dica?
+ >>26872963 \r\n Acredito que a melhor opção é perguntar no /b/. \r\n Temos travestis com doutorado em vários assuntos por aqui. Com certeza muito melhor que perguntar ao Google.
+ print('Hello world')
+ >>26872963 \r\n Eu sei programar, porra, eu quero saber como eu uso essa bosta de Android Studio.
+ >>26872976 \r\n Oh, claro, como me esqueci? Os adoráveis travestis, que com apenas uma pirocada no teclado conseguem escrever 300 mil linhas de código.
+ >>26872992 \r\n Sabe programar, mas não sabe usar o Google?
+ >>26872995 \r\n Parece muito complicado, com muitas 'dependências' e frameworks de frameworks de frameworks.
+ Aprenda o básico. \r\n \r\n https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/ 
+ >>26873000 \r\n Você se esqueceu do seu link de referral.
+ >>26873006 \r\n Tenho medo de quebrar o anonimato.
+ Muito bem, o que eu faço nessa tela?
+ >>26873020 \r\n Liga o som e requebra.
+ >>26873020 \r\n Empty.
+ >>26873080 \r\n Como faço pra botar uma imagem e um botão agora?
+ >>26873128 
+ >>26873158 \r\n Que merda, Visual Basic era melhor do que isso. Vamos lá.
+ E agora como eu faço para acontecer alguma coisa quando eu apertar em um botão?
+ >>26873286 \r\n Te vira, amigão.
+ >>26873292 \r\n Como eu coloco uma função no onclick?
+ >>26873307 \r\n Se vira, filho da puta!
+ >>26873307 \r\n Você tem que dar um id pra cada componente e referenciá-los no MainActivity.java, criando os métodos. Vá estudar.
+ >>26873321 \r\n Vai tomar no seu cu, se fosse você perguntando como fazer isso no Delphi eu te diria: clica nas propriedades do botão, escolhe 'onClick' e coloca lá dentro. \r\n \r\n >>26873335 \r\n Vai estudar o que? Essa merda é toda confusa.
+ >>26873345 \r\n O curso >>26873000 ou veja videoaulas no Youtube. É bem simples, na verdade.
+ Esse negócio é confuso pra caralho, de um ano pro outro metade da API fica obsoleta, ao contrário de programas como Delphi e Visual Basic onde você pode fazer a mesma coisa do mesmo jeito em todas as versões do programa.
+ >>26873286 \r\n Adiciona o botão e dê uma id '@+id/botaoCaralhudo', vá no arquivo java da view onde está o botão e crie uma instancia do gênito de meretriz com o mesmo nome, e ele será referenciado por reflexão (ou alguma merda assim, considere fodendo mágica) e no método inicial daquela Activity ou Fragment adicione ou EventLisener para o botão. Assim (mais ou menos): \r\n bottaoCaralhudo.setOnClickListener(event -> { \r\n // Alguma merda para acontecer quando clicar no botão. \r\n }); \r\n \r\n Não lembro se é exatamente 'setOnClickListener', mas dá pra ter uma idéia. \r\n \r\n Estou com uma tarefa exatamente igual a sua nas proximas semanas. Vou precisar desenvolver um app que se comunica via bluetooth com uma impressora térmica. Estou adiando ao máximo, e prevejo que vai ser uma grande bosta. \r\n \r\n Boa sorte, e se conseguir fazer algo mais, vá postando aqui, estou curioso. \r\n \r\n Eu odeio desenvolver para Android, é bem pouco intuitivo essa putaria de Activities e Fragments, eles querem deixar tudo 'mais fácil' e funcionando magicamente, mas até você entender como funciona essa mágica toda leva um tempo. JavaFX e WPF em C# é bem mais fácil.
+ Acho que estou começando a pegar o jeito desse negócio. Vou ficar bostejando no chã até dar a hora de ir embora. Isso já é trabalho o bastante para hoje.
+ >>26873443 \r\n >Vou precisar desenvolver um app que se comunica via bluetooth com uma impressora térmica \r\n Meua migo, se fosse pra se comunicar com uma impressora térmica pela porta RS232 usando um PIC e um Max232 eu faria em 20 minutos, mas no Android tudo tem que ser do jeito mais difícil.
+ >>26873463 \r\n Acredito que a comunicação será via Serial por Bluetooth, que praticamente seria a mesma coisa de ter um cabo conectado, essas impressoras usar algum protocolo em específico? É só mandar os caracteres para elas e elas saem imprimindo? Como é que funciona, anão?
+ >>26873482 \r\n >essas impressoras usar algum protocolo em específico? \r\n O protocolo é rs232, se você for usar um bluetooth-serial chinês (HC-05, JYD30, etc) precisa de um Max232 no caminho, ou não, dependendo da impressora. Na prática é só acertar o baud/paridade e escrever os comandos. Procure nome da impressora + command set.
+ Outra coisa, tem algumas impressoras chinesas que já tem o bluetooth embutido, e o bluetooth delas usa o perfil de porta serial, então você pode testar com um terminal serial bluetooth qualquer antes de se dar o trabalho de programar.
+ >>26873642 \r\n >>26873656 \r\n Por 'protocolo' acho que eu quis dizer esse 'command set'. Já fiz comunicação com uma Argox, de etiquetas, e ela usa um 'protocolo' chamado PPLA ou PPLB. Mas para essas impressoras de cupons fiscais menores eu nunca fiz nada, então estou meio que na dúvida. Dei umas pesquisada meio por cima e encontrei um tutorial do link abaixo que praticamente envia a sequencia de caracteres ASCII e a desgraçada imprime. Não consigo pesquisar por uma command set específico, pois quero comprar umas chinesas pequenininhas para revender junto com um software próprio para vendedores ambulantes, e como elas não tem marca, fica difícil. \r\n Bom, irei arriscar comprando uma e tentar aprender fazendo. Parece mais fácil do que eu pensei inicialmente. \r\n \r\n Link mencionado: \r\n https://www.androidcode.ninja/android-bluetooth-tutorial/ \r\n \r\n Código que me faz acreditar que seja necessário apenas enviar os bytes da string em ASCII: \r\n \r\n // this will send text data to be printed by the bluetooth printer \r\n void sendData() throws IOException { \r\n try { \r\n \r\n // the text typed by the user \r\n String msg = myTextbox.getText().toString(); \r\n msg += '\n'; \r\n \r\n mmOutputStream.write(msg.getBytes()); \r\n \r\n // tell the user data were sent \r\n myLabel.setText('Data sent.'); \r\n \r\n } catch (Exception e) { \r\n e.printStackTrace(); \r\n } \r\n } \r\n \r\n \r\n Aparentemente é só isso, não?
+ bump
+ >>26873729 \r\n O commandset chama ESC/POS. Os comandos em si são só caracteres não imprimíveis. Também dá pra imprimir bitmaps com eles. \r\n \r\n Cheque fora: https://mike42.me/blog/what-is-escpos-and-how-do-i-use-it 

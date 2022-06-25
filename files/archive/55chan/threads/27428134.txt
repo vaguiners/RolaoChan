@@ -1,0 +1,5 @@
+ Ajudem um anão leigo em informática, indiquem um repetidor de sinal WiFi bom e barato, que não seja difícil de configurar.
+ >ele paga pra ouvir musica 
+ Repetir é uma bosta. Compre um roteador, puxe um cabo pra lá, configure ele desabilitando o DHCP e enjoe um sinal muito melhor por quase o mesmo preço. \r\n Tem milhões de vídeos explicando como fazer isso.
+ >>27428164 \r\n Mas a questão toda é não precisar de cabos, anão.
+ Não recomendo comprar um repetidor. Se tiver grana, compre um roteador mesh, caso contrário compre um adaptador powerline.

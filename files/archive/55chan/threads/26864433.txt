@@ -1,0 +1,11 @@
+ Anões, eu comprei uma mesa igual essa da pica, e estou treinando alguns desenhos, porém os traços saem tremidos mesmo com os drivers instalados. \r\n \r\n Alguém sabe uma maneira de resolver? \r\n \r\n Also, qual é o melhor programa para desenhar na mesa?
+ Poste o que você já desenhou para agente dar um olhada e ver como pode lhe ajudar.
+ Eu uso o programa 'Krita'. \r\n Estes rabiscos 'tremidos' é por causa de como você desenha. Não é igual ao papel, na mesa, você precisa fazer um rabisco rápido e direto. Caso não saia como queria, é só dar Ctrl+Z e faze-lo novamente.
+ A caneta precisa ficar em um ângulo de 90 graus, caso contrário a merda fica ruim.
+ >>26864439 \r\n Eu não desenhei nada ainda, pelo motivo de os traços saírem todos cagados.
+ >>26864439 \r\n Agente Pereira?
+ >>26864441 \r\n Eu não sabia disso, pensei que era algo de errado com o driver, uma vez meu amigo explicou que o traço sairia cagado se eu não instalasse o driver antes. \r\n \r\n >>26864439 \r\n Anão, fiz isso agora como teste.
+ É dessas linhas curvas que estou falando.
+ Baixe algum software com estabilização.
+ >>26864524 \r\n Obrigado, vou procurar, já relato se consegui algum resultado.
+ Se usa o SAI, tente ajustar o Stabilizer até encontrar um valor que lhe agrade.

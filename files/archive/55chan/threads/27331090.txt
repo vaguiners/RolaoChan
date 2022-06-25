@@ -1,0 +1,54 @@
+ E chega ao fim a Era do Desktops e Laptops: \r\n \r\n https://www.raspberrypi.org/products/raspberry-pi-4-model-b/ \r\n \r\n \r\n https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/ 
+ Já chegou faz tempo, só neckbeards ainda os utilizam, normalfags só usam Word.
+ >4GB de RAM \r\n Meus lados, serve pra nada.
+ >1,5Ghz \r\n >4gb RAM \r\n >acabaram os desktops \r\n \r\n Uau.
+ Tenho três Raspberries Pi 3. É possível juntar os três num cluster e usá-los como computador pessoal?
+ Como compro uma caralhudinha dessas ? Como rodo um sistema operacional nisso?
+ Nada de realmente revolucionário, nem o preço é algo diferencial hoje em dia. \r\n \r\n Eles só atualizaram a plaquinha porque estavam perdendo espaço pra odroid xu4.
+ FORNIQUE SIM! Finalmente vou ter uma razão para vender minha Paixão Box Android.
+ >4GB de RAM 
+ Estou doido pra comprar um e transformar num Media Center. \r\n \r\n Provavelmente chegará aqui custando 600 talkeis.
+ A questão é: O Preço do RPI3B+ vai abaixar? Um kit legal no ali express custa entre 170 e 250 reais. Preciso comprar alguns para um projeto. \r\n \r\n Also, não esperava apreciadores de SoC no /b/. Não me digam que vocês querem isso apenas para joguinho? \r\n Usem o Orange Pi 3 para isso, criançada. 
+ >>27331158 \r\n Sim. \r\n Tem uma caralhada de vídeos sobre isso. \r\n A porta Ethernet do 3 e abaixo não é Gigabit, então gera gargalo. \r\n A partir do 4 vai ser Gigabit, então será melhor para isso.
+ >>27331347 \r\n Eu quero só para rodar meus filmes e séries.
+ >>27331105 \r\n Por quê?
+ >4gb \r\n >1,5Ghz \r\n Tá melhor que a instância que o Google deixa usar de graça, vou comprar um e mudar minha aplicação para ele.
+ >>27331402 \r\n >instância que o Google deixa usar de graça \r\n Conte mais sobre esta porra aí! \r\n Quer dizer que eles estão dando VPS de graça?
+ Nem sei o que é RaspBerry Pi. Me ajuda aí, amizade.
+ E RTC? Colocaram RTC nessa bosta?
+ >>27331390 \r\n Não precisa de tanto poder assim. Acho que mais interessante seria um Banana Pi, por ter suporte sata, você pode conectar um HD sata e enjoar teras das suas merdas pirateadas em torrent.
+ >>27331427 \r\n Você é incluso, porra? A comunidade inteira está falando sobre o lançamento do novo rpi. Essa merda é mais poderosa que um notebook que você compra com 2k.
+ >>27331440 \r\n Qual a utilidade?
+ Dá pra instalar um xpzinho e por um monte de emulador?
+ >>27331472 \r\n Nem sei que merda é essa.
+ >>27331423 \r\n Google Cloud, anão. \r\n Azure e AWS também dão instâncias parecidas. \r\n Mas não dá pra fazer quase nada com elas, ou talvez eu tenha cagado na configuração.
+ >>27331457 \r\n >Banana Pi \r\n Caralho, nunca ouvi falar nessa porra. Perdi. \r\n \r\n Also, a maior parte do meu acervo fica em HD's quase 9 teras em armazenamento externo via USB, e os outros PC's via rede. A porta SATA embora útil, não seria vital. \r\n \r\n Além de querer deixar ele como um NAS na rede como ouvir músicas via rede interna no esperto , ele PRECISA rodar H.265, coisa que até então os Pi não faziam e esse parece estar apto. Acho que o Banana não aguenta.
+ >>27331502 \r\n Existem sistemas dedicados inteiramente a emuladores, anão. Pesquise sobre Batocera e Recalbox para Raspeberry Pi.
+ >>27331472 \r\n Será que dá pra ter retorno em altcoins, senhor entendido?
+ >>27331347 \r\n \r\n Seria ótimo se o suporte não fosse uma bosta. Já tive um Banana Pi e os drivers da GPU Mali são péssimos.
+ >>27331472 \r\n Pode ser mais poderoso, mas e preço contando os 'extras'? E a mobilidade? Comparar com notebook para mim é besteira, não é essa a 'função' do Rpi. Mostre-me um notebookpi e mude minha opinião.
+ >>27331502 \r\n Obrigado, anão.
+ >>27331482 \r\n >ter o relógio no canto da tela 
+ >>27331502 \r\n >>27331517 \r\n https://sergiogracas.com/emular/iso/index.html \r\n Aqui há várias imagens prontas com roms, para serem instaladas em SD e rodar diretamente no RP.
+ >Essa merda é mais poderosa que um notebook que você compra com 2k. \r\n Também não sei se chega a tanto, anão, mas vamos lá. \r\n Comprei um notebook cerca de 5 anos atrás com 4gb de RAM e um i5-4200U por R$1800, hoje deve custar algo em torno de uns 600 reais, um com configuração parecida. \r\n Uma coisa interessante, é que ontem quando vi a notícia fiquei pensando em como as configurações dele eram iguais às do meu notebook, 4GB e 4 núcleos @ 1.5GHz, porém acabei de realizar quando executei o Speccy que o meu processador tem apenas 2 núcleos e 4 threads. Então a porra do RPi4 é mais rápida que ele. \r\n Não estou dizendo que é um computador ruim, sempre achei que fossem 4 núcleos, fiz apenas um upgrade para 8GB de memória e não tenho intenção de trocá-lo tão cedo. Ou seja, se lançassem uma versão do Pi com 8gb de RAM e suporte à SATA ou M.2 eu usaria como 'daily-driver', pois seria melhor que o que estou usando no momento, mas infelizmente 4GB ainda limita um pouco meu trabalho. \r\n Em breve comprarei alguns para testar e tentarei vender para clientes como substituto de desktops.
+ >>27331506 \r\n Procure por Odroid HC1 / HC2 e Open media vault, é simplesmente a melhor placa pra fazer NAS. \r\n \r\n Tenho um aqui em casa rodando com um HD green de 6Tb e é uma delicia, Nas, ftp, download de torrent remoto, servidor plex, vpn, bloqueador de anuncio em rede e ate docker rodando sem gargalo algum através dos plugins do open media voult.
+ >1gb ram \r\n Isso aí não aguenta nem um navegador aberto.
+ >>27331657 \r\n Esse barbudinho deve tomar rola com strap on.
+ >>27331657 \r\n Tem opção com 1gb, 2gb e 4gb, analfabeto.
+ Macaco que não manja porra nenhuma reportando dentro. Sempre vi esses fios e ignorava automaticamente, mas vendo agora achei interessante. Você compra esse negócio assim mesmo? Só a placa crua?
+ >>27331657 \r\n Eu tinha um netbook com 1 giga de ram que era uma koshervilha, jogava até o torchlight 1.
+ >>27331654 \r\n Não dá pra comparar, a arquitetura do processador dos RPI são ARM.
+ >>27331703 \r\n Você pode pedir crua, mal passada ou ao ponto. \r\n Depende do seu paladar.
+ >>27331656 \r\n Puta que pariu, muito obrigado. Vou enfiar a cara nisso.
+ >>27331656 \r\n Será que é possível adaptar um AP de 5GHZ AC a ele? Funcionaria bem?
+ >>27331709 \r\n E isso é algo superior ou inferior ao x86? \r\n Entendo o que quer dizer, mas nunca pesquisei sobre.
+ >>27331711 \r\n OBRIGADO, AMIGO. O FRETE É GRATUITO PARA SÃO PAULO, AMIGO?
+ >>27331722 \r\n É mais ou menos o mesmo poder de um espertofone de entrada.
+ >>27331743 \r\n Ok, mas esse espetofone de entrada não seria equivalente a um notebook de entrada? \r\n Digamos que o notebook tenha 4x1.5GHz x86, e o espertofone 4x1.5GHz ARM, eles não iriam executar o mesmo tanto de ciclos por segundo? O que torna um superior ao outro?
+ Cadê o anão maneiro pra explicar como botar um desses pra rodar? Quero uma explicação básico do tipo: \r\n >liga em um hd/ssd \r\n >roda um OSzinho desiginado para ele \r\n >liga no cabo de rede \r\n >liga em alguma tela/monitor \r\n >???? \r\n >profit! \r\n \r\n É assim mesmo ou eu estou perdendo alguma etapa?
+ >>27331722 \r\n A arquitetura x86 em questão de performance sempre vai ser superior, porém o consumo de energia é maior, por isso não faz sentido um mestreraça ARM, por isso também quase não se vê processadores x86 em dispositivos móveis que dependem de bateria.
+ >>27331783 \r\n Leia, acho que isso é bem mais didático do que minha explicação. \r\n \r\n https://www.tecmundo.com.br/produto/119693-diferenca-processador-arm-um-x86.htm 
+ >>27331787 \r\n >baixa o NOOBS \r\n >copia arquivos pro cartão SD \r\n >liga o framboesa num teclado/mouse e numa tela pelo hdmi \r\n >boota o NOOBS, conecta na rede (wifi ou cabeada) e instala o que quiser \r\n É basicamente isso.
+ >>27331787 \r\n >liga em um hd/ssd \r\n Não, apenas um cartão de memória direto na placa. Uso um de 64GB. \r\n Você coloca em um coputador e grava um arquivo .img com a imagem do SO nele, como se fosse gravar um CD, mas com um programinha chamado Etcher. \r\n >roda um OSzinho desiginado para ele \r\n Roda Rapsbian, é uma versão do Debian modificada para ele, e além desse, vários outros sistemas operacionais baseados em linux, mas modificados para propósitos específicos, como emulação, media center, cientifico, etc. \r\n >liga no cabo de rede \r\n Sim. Tem porta Ethernet, mas também funciona no Wifi (embutido na placa) e Bluetooth. \r\n >liga em alguma tela/monitor \r\n Sim. Tem porta HDMI. \r\n >???? \r\n !!!!!! \r\n >profit! \r\n PROFIT!
+ >>27331816 \r\n >quase não se vê processadores x86 em dispositivos móveis \r\n Exato. O Atom foi um fracasso retumbante nos espertos.
+ Pra que vocês usam isso? Se for pra ligar na tv eu ligo o notebook.

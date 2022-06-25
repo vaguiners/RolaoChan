@@ -1,0 +1,5 @@
+ >NBR 5410 \r\n >4.2.2.1 Esquema de condutores vivos \r\n >São considerados os seguintes esquemas de condutores vivos: \r\n >a) corrente alternada: \r\n > monofásico a dois condutores; \r\n > monofásico a três condutores; \r\n >bifásico a três condutores; \r\n > trifásico a três condutores; \r\n > trifásico a quatro condutores; \r\n \r\n >monofásico \r\n >três condutores \r\n >duas fases e 1 neutro \r\n >duas fases \r\n >monofásico \r\n \r\n Anões entendidos do assunto, como isso é possível? A única coisa que diferencia bifásico para monofásico é o grau de defasagem? Sendo monofásico 120° e o bifásico 90°?
+ No bifásico você vai ter dois condutores cada um com uma fase. No monofásico com três condutores você tem uma fase, um neutro e um terra. A defasagem entre duas fases sempre é de 120º, não tem como ser de 90º.
+ >>27156744 \r\n \r\n This. Fase neutro e terra.
+ >>27156744 \r\n Então esse cara falou um monte de groselha?
+ >>27156744 \r\n Also, condutores vivos são os que passam corrente. Excluindo assim o terra.

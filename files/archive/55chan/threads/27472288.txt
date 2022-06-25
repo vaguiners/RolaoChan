@@ -1,0 +1,2 @@
+ >simula o motor nos mínimos detalhes \r\n >simula todas as tensões na carroceria \r\n >faz o ar condicionado de qualquer jeito mesmo \r\n Perdi.
+ No eixo da saída de ar tem um gerador que recupera parte da energia e joga como potencia pro carro. Você que não sabe dos designs otimizados.

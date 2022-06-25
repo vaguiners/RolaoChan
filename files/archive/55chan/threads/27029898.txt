@@ -1,0 +1,9 @@
+ Suponhamos que eu precise embarcar um executável dentro de outro executável, carregá-lo e executá-lo de dentro do executável-mãe. \r\n \r\n Os programas de antivírus reconheceriam isso como sendo um vírus?
+ Sage e hide animefag fios.
+ >windows \r\n Por gentileza, retire-se.
+ >antivírus \r\n >reconhecer alguma coisa 
+ >>27029915 \r\n O usuário final usa Windows.
+ Faço isso com uma certa frequência, chamando o ffmpeg pra fazer conversões dentro de alguma aplicação que fiz. \r\n \r\n Nunca antivirus veio me encher o saco pos isso. Uso .net. \r\n \r\n Se você quiser que seu executável chame um vírus, aí só você testando pra descobrir se o antivirus vai achar (provavelmente vai).
+ >>27029982 \r\n Não é para chamar um vírus, é para chamar um executável que serve para reescrever a memória flash de um determinado dispositivo. Quero fazer um programa com GUI e embutir tudo nele próprio para o quejim minas que é o meu usuário final não ficar bisbilhotando.
+ >>27030003 \r\n Então acredito que não terá problema.
+ Aproveitando o parênquima paliçádico, como eu poderia fazer para fazer um aplicativo com HTML5 e enfiá-lo no Android de tal maneira que ele consiga chamar funções que estão no aplicativo e ter funções chamadas pelo aplicativo? Acredito que assim eu consiga fazer uma só interface e usar no Android e iOS.

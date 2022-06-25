@@ -1,0 +1,7 @@
+ Pessoal, alguém conhece um programa para Android ou IOS que faça ordem de serviço e controle de estoque? Eu tenho uma impressora térmica 58mm, e queria poder usar um celular para imprimir os pedidos.
+ >pessoal 
+ >>27321018 \r\n Que que tem ? \r\n Para com essa frescura cara. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ Ajudar que é bom nada.
+ Vai tomar no cu, newfag analfabeto.
+ Você escreve como um macaco e parece ser novo por aqui. \r\n Mas vamos lá. Em qual cidade você mora? Se a cidade for pequena, as chances de existir tal aplicativo, ainda mais que imprima em 58mm vão ser praticamente inexistentes, visto que os WebServices de recebimento de Nota Fiscal de Servico (se é que você precisa emitir uma nota à partir da Ordem de Servico) são gerenciados pelas prefeituras, então depende muito de outras pessoas na sua cidade terem precisado da mesma coisa que você precisa no momento. E se existir, provavelmente será pago. Atualmente estou desenvolvendo um aplicativo como o que você citou, mas para vendedores ambulantes, que emite NFe em vez de NFS, e imprime em uma impressora térmica bluetooth de 80mm, e acredito que não deve ser muito difícil implementar NFS também, então o farei. \r\n Also, nunca me ralacionei com ordens de serviço. Poderia dar alguns exemplos de como funciona uma?
+ >>27321164 \r\n E como se fosse esse aplicativo só que funcionando em um celular móvel. \r\n https://sempreupdate.com.br/conheca-o-novo-qubes-os-4-0/ 

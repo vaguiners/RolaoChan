@@ -1,0 +1,7 @@
+ Supondo que eu saiba o login de uma pessoa no cancro, e eu sei que tal pessoa não tem verificação de duas etapas, e eu queira logar no cancro dela, porém, ela é de outra cidade logo se o cancro notificar, ela vai saber que fui eu quem loguei. \r\n \r\n Se eu usar um VPN de outro país, como o VPN nativo do Opera, o cancro vai bloquear o login ou vai me permitir logar apesar da notificação? \r\n \r\n Ajudem um anão e eu deliverarei qualquer conteúdo interessante que encontrar.
+ Eu acho que bloqueia, essa é a rede social mais chata pra fazer esse tipo de coisa. Talvez não só bloqueie como notifique a tal pessoa.
+ Vai alterar sua localização, mas vai notificar a pessoa que teve acesso a conta dela em outra localidade e para reconhecer o dispositivo. Quando eu uso o cancro pelos dados móveis ele já faz essa merda.
+ >>26935430 \r\n >>26935441 \r\n Que merda, a pessoa logou o cancro dela aqui em casa sem pedir absolutamente nada. \r\n Queria logar usando um VPN para qualquer coisa, falar que foi um hackerman estrangeiro, mas essa incerteza é fornicação, pois se chegar uma notificação e eu não conseguir logar, a pessoa muda a senha e não entro mais.
+ >>26935441 \r\n >>26935430 \r\n >>26935462 \r\n Fiz um teste no cancro da minha mãe e não apitou nada, logou normal. Acredito que é seguro.
+ >>26935490 \r\n Conferiu o esperto dela? Entre pelo computador e veja, o Google notifica tudo por lá.
+ >>26935490 \r\n Então tenta aí, brother.

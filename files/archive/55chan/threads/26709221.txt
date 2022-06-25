@@ -1,0 +1,12 @@
+ >i5 \r\n >h61br ddr3 \r\n >8gb ram \r\n >placa de vídeo N420 2gb \r\n Anons, preciso de ajuda. \r\n Sou incluso e isso aí em cima é o meu computador (comprei recentemente), mas estou sofrendo para rodar o primeiro Mirror's Edge nele. Logo depois do encontro da Faith com a irmã dela, onde aparecem os policiais atirando, o jogo fica muito lento. \r\n Era para rodar o jogo tranquilamento, mas não aguenta. Será que estou fazendo algo de errado?
+ Essa parte pesa pra caralho por causa do PhysX e sua placa de vídeo é uma bosta pra simular isso, é só desligar.
+ Embora você não tenha postado o modelo do seu i5, com toda certeza te digo que o problema é sua placa de vídeo. N420 = GT 420, uma placa que além de antiga pra caralho, já era fraca quando saiu. \r\n \r\n Quanto você pagou nessa merda? Você provavelmente foi vítima de picaretagem.
+ >placa de vídeo de 9 anos atrás 
+ >>26709243 \r\n Sua única alternativa com essa vga de merda é colocar tudo no mínimo e desligado, e mexer no nvidia control panel.
+ >>26709244 \r\n >>26709243 \r\n >>26709245 \r\n Paguei 400 reais. \r\n Parece que fui enganado mesmo. O cara que me vendeu disse que aguentava rodar tranquilo.
+ >>26709262 \r\n Eu vendi minha GTX 550 TI por 300 reais recentemente. \r\n Ela sim rodava. \r\n Até GTA V aquela merda rodava, \r\n \r\n Meus pesames.
+ >>26709262 \r\n 400 no computador inteiro? Se sim, você não foi tão enganado assim, visto que por 400 gibeiras não se consegue nada decente, francamente. \r\n \r\n Agora se foram 400 apenas na placa de vídeo, rapaz…
+ A depender do processador(que o paixão não falou o modelo), é figurativamente melhor rodar na onboard do que nessa placa. \r\n \r\n Essa placa nem pra falar 'é melhor que nada' serve. \r\n \r\n https://gpu.userbenchmark.com/Compare/Nvidia-GeForce-GT-420-vs-Intel-HD-3000-Desktop-V2-135-GHz/m10183vs2170 
+ >>26709280 \r\n Caralho, tomei no cu. \r\n \r\n >>26709282 \r\n 400 na placa.
+ >>26709325 \r\n >400 na placa. \r\n \r\n É, rapaz, você foi enganado. Pra caralho. Devolva essa bomba e pegue seu dinheiro de volta. A lei te ampara nesses casos, visto que claramente vigorou má fé de quem vendeu e você não detinha conhecimento sobre as peças do computador. O preço é extremamente abusivo e a lei reconhece isso. \r\n \r\n Boa sorte. Procure vídeos no Youtube da placa rodando jogos antes de comprar.
+ A sua placa é uma bosta, mas era para o i5 dar conta de rodar essa porcaria.

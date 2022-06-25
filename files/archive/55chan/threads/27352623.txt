@@ -1,0 +1,3 @@
+ >overclocando a Vega iGPU do 2200G \r\n >Dynamic SOC voltage em +0.144V (somado à 1.1V, imagino) \r\n >GFX voltage em +0.00625 (o mínimo que ela deixa colocar. Fiz isso para que a voltagem do SOC permaneça a mesma quando a iGPU está em stress e em idle, pra não ter variações na estabilidade da RAM) \r\n >isso se traduz nas leituras da pica \r\n Devo levar em consideração apenas a leitura de ~1.2v e ignorar a de ~1.08? Also, essa voltagem ainda não está estável, é apenas o suficiente pra não dar tela azul no meio de algum joguinho pesado; em vez disso somente o jogo para de responder e fecha.
+ bump
+ Considere comprar uma placa de vídeo dedicada.

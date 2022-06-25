@@ -1,0 +1,35 @@
+ Por que imagens com dimensões iguais tem tamanhos diferentes? Não é tudo pixel?
+ Porque Deus quis assim.
+ Depósito burra, puta que pariu.
+ E o QI, Ó!
+ >>27132250 \r\n \r\n Ah sim, como eu desconfiava, mais uma pegadinha do Demiurgo.
+ Todo pixel é igual, mas alguns pixels são mais iguais do que outros. É a triste realidade em nossa sociedade de desigualdade pixelar. Alguns pixels tem ganham mais espaço e outros têm que se amontoar na pouca memória que lhes deixam. \r\n Mas nós podemos enfrentar essa situação. Mudando o sistema político-econômico-virtual de JPEG/PNG para BMP, estaríamos dando oportunidades iguais a todos os pixels, uma verdadeira reforma de justiça pixelar. Vá hoje mesmo no /mod/ e exija que sejam banidos todos os formatos de imagem exceto BMP.
+ >>27132287 \r\n \r\n Acho que entendi, alguns pixels são mais pesados que outros, então? Tem a ver com a cor deles? Algumas cores são mais pesadas que outra, é isso?
+ Pixels brancos ocupam mais espaço porque os bits deles são todos 1. Pixels brancos ocupam menos. Quanto mais bits = mais pesado.
+ É só ler as especificações dos formatos, OP. \r\n JPEG reduz a qualidade da imagem para comprimir as informações em um arquivo menor, e exige um pouco de processamento para abrir. \r\n PNG é melhor para desenhos, pois quando existe uma área com a mesma cor, ele guarda o tamanho da área e a cor em vez de informações repetidas em cada pixel.
+ Nunca parei pra pensar nisso. Então posso diminuir o tamanho infinitamente e não gastar praticamente nada de memória, mesmo tendo as mesmas coisas nela?
+ >>27132398 \r\n Exato. Só não para diminuir ainda mais o seu QI, de tão baixo que já é.
+ Porque dá para esconder CP dentro de imagens comuns.
+ >>27132398 \r\n \r\n Eu sei lá, eu quero saber porque alguns quadrados são mais pesados que outros, sendo que no fim do dia é tudo quadradinho.
+ >>27132346 \r\n >>27132284 \r\n >>27132398 \r\n >>27132423 \r\n A carência por atenção da vadia só é superada por sua burrice.
+ >>27132438 \r\n Nossa, anão. Que brabo você é. Relaxa, cara.
+ >>27132472 \r\n Então poste suas tetonas para eu relaxar.
+ >>27132489 \r\n Mas eu sou menino, cara. Pare de ser idiota.
+ Já ouviu falar em resolução, animefag burro do cacete?
+ >>27132472 \r\n >>27132438 \r\n >>27132489 \r\n >>27132520 \r\n \r\n Comportem-se, símios. Essa é uma thread para discussões acadêmicas de alto nível intelectual, merdapostagem é desencorajada.
+ >>27132422 \r\n >esse método ultrapassado 
+ >>27132544 
+ A pergunta do OP faz sentido. \r\n \r\n Imagine uma pica A. Ela é, digamos, 500x500. Por que o tamanho dela não é igual as outras picas de 500x500? São 250000 pixels no final, não?
+ Tecnicas de compressão e quantia/qualidade de cores, anão.
+ >>27132581 \r\n Alguns pixeis são muito gordos.
+ >>27132580 \r\n Reportado.
+ https://8ch.net/vaidarnamoro2/index.html 
+ >>27132583 \r\n \r\n Conte-me mais, eu tenho sede de conhecimento.
+ >>27132580 \r\n Incluso.
+ >>27132621 \r\n Você tem é sede de piroca, sua putinha.
+ >>27132542 \r\n Não precisa ficar com inveja dela, poste suas tetas também. \r\n \r\n >>27132590 \r\n Iguais seus lados gordona. \r\n \r\n >>27132664 \r\n Para de chamar a atenção, puta.
+ >>27132664 \r\n Para de atrapalhar o amigo. \r\n \r\n >>27132621 \r\n Cada tipo de imagem tem uma estrutura diferente que o software que você usa pra visualizar decodifica. Normalmente os primeiros bytes do arquivo contem a assinatura da extensão, seguido das 'opções'. Essas opções determinam o tamanho da palheta de cores, tipo de compressão, etc. E o resto é propriedade de cada pixel. \r\n \r\n Num formato de imagem hipotetico, vamos supor que ele não suporte transparência, então não precisa registrar o alpha channel/grayscale, só a truecolor (RGB). Então em comparação com um arquivo que suporta transparência, ele vai ser mais leve porque já são bits a menos pra cada pixel que for registrado. \r\n \r\n Por exemplo, pra uma pica 1x3 de um formato que não suporta transparencia ou uma gama menor de cores, só vai precisar registrar 3 bytes pro vermelho, verde e azul: \r\n 000000 000000 000000 \r\n Enquanto um que considera grayscale/alpha channel: \r\n 00000000 00000000 00000000 \r\n Então repita isso por milhares de vezes e você vai ver a diferença que faz num arquivo. \r\n \r\n Also, antes que venha um computeiro espertinho: eu estou sendo didatico e não estou considerando 99% das tecnicalidades.
+ >>27132785 \r\n \r\n Acho que entendi, ou pelo menos peguei a ideia do negócio. Muito obrigado pelos seus esforços, anão, me sinto menos burro agora.
+ >>27132864 \r\n Sem problema, anão. Não possuir todo o conhecimento do mundo não é sinônimo de burrice, nunca questionar que é. Fico feliz de ter ajudado a entender um pouco melhor disso. \r\n \r\n >>27132618 \r\n O que diabos essa board? Parece um bomdia parênquima paliçádico a céu aberto.
+ As vadias carentes por atenção não param.
+ É óbvio meu caro anão, cada imagem tem uma dimensão completamente diferente, representada por pixels que compõem a tela do seu computador, como todo mundo sabe. Porém nada disso se passa mais do que vagabundas delirando por uma chupada na minha piroca assassina, body'sinthetruck body'sinthetruck body'sinthetruck bodysinthetruck.

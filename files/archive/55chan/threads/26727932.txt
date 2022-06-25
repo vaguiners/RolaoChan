@@ -1,0 +1,20 @@
+ Mathfag aqui. Proponho um desafio para os anões mais intelectualmente dotados do recinto: \r\n Seja um triângulo ABC com lados a, b e c opostos aos ângulos α, β e γ, respectivamente. Os lados a, b e c formam uma progressão aritmética nessa ordem. Determine a relação correta entre as funções trigonométricas dos ângulos dos vértices desse triângulo: \r\n a) 2sen(α+γ) = sen(α) + sen(γ) \r\n b) 2cos(α+γ) = cos(α) + cos(γ) \r\n c) 2sen(α-γ) = sen(α) - sen(γ) \r\n d) 2cos(α-γ) = cos(α) - cos(γ) \r\n e) 2cos(α+γ) = sen(α) + sen(γ)
+ O que eu ganho se responder isso aí?
+ >>26727954 \r\n Beijinho virtual de um animefag.
+ >mais intelectualmente dotados do recinto \r\n Quem é realmente intelectualmente dotado não vai perder tempo em Exatas, que é só decoreba de fórmulas.
+ >>26727959 \r\n Ok. O resultado é 6. E agora? Cadê meu beijinho?
+ >>26727965 \r\n E lá vamos nós.
+ >>26727954 \r\n O mesmo que ganha por sentar nessa cadeira com a sua bunda fétida e batatar no bê. Disse que era para os anões mais intelectualmente dotados, não para os 'Gérsons' que querem lucro em tudo.
+ >>26727965 \r\n KEK, boa sorte resolvendo cálculos diferenciais.
+ >>26727971 \r\n Feche os olhinhos e abre a boquinha.
+ >>26727965 \r\n Você ao menos estatística multivariada?
+ Não sei nem por onde começar. Pensei em fazer uma representação especial do três termos, escrevendo-os em função de b e r razão , mas depois disso travei. Você tem a solução, OP? Duvido que alguém aqui irá resolver. Poste alguma coisa que exija mais criatividade e menos conhecimento específico.
+ >professor de calculo fala qualquer coisa de número imaginário \r\n >pergunto pra ele qual número não é imaginário \r\n >não consegue me responder \r\n Matematicafags são puro lulz.
+ >>26728054 \r\n Na qualidade de bacharel em Matemática, com mestrado em números complexos, eu perdi.
+ >>26728039 \r\n Primeiramente temos que considerar que o triângulo não é retângulo, já que o OP quer complicar, agora, como sabemos que a=b - c…
+ sen(a+b)=sen(a)*cos(b)+sen(b)*cos(a) \r\n cos(a+b)=cos(a)*cos(b)-sen(a)*sen(b)
+ >>26728109 \r\n Acho que estou chegando em algum lugar. Um segundo.
+ b = a + r \r\n c= a + 2r \r\n \r\n Perímetro = 3a + 3r \r\n \r\n a/sen(a)=(a+r)/sen(b) \r\n \r\n sen(a)/sen(b)=1+r/a
+ OP aqui. Lá vai outro menos chato: \r\n Determine o valor de x e da diagonal do quadrado.
+ >>26730294 \r\n Esse é do ITA, se não me engano.
+ >>26730294 \r\n Essa porra aí é uma dor de cabeça do caralho pra resolver.

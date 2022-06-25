@@ -1,0 +1,9 @@
+ Quero quebrar um pouco minha cabeça instalando uma distro mais complexa, então…Arch ou Gentoo?
+ Arch.
+ Arch se estiver com o tempo curto. Gentoo se tiver tempo livre e um bom hardware para compilar.
+ >>27601674 \r\n Gentoo é tão complicado assim?
+ >>27601693 \r\n Tudo é questão de costume, mas não é complicado. A parte ruim é ter que compilar qualquer coisa básica (ignorando os erros que podem ocorrer, claro) que em outro SO você instalaria com um único comando.
+ Aproveitando o parênquima paliçádico, como faço dual boot do Linux Mint com o Janelas 10?
+
+ Vou testar por uma máquina virtual primeiro.
+ >>27601674 \r\n Esse pepe é raro?

@@ -1,0 +1,23 @@
+ Olá, anão. Eu preciso te fazer uma perguntinha; por que eu deveria usar o Linux ? Além de para se proteger de Agentes Mentais . (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ Customização, segurança e privacidade.
+ Eu apenas gostaria de interromper por um momento. O que você está se referindo a como Linux, é na verdade, GNU/Linux, ou como eu passei recentemente a chamá-lo, GNU e Linux. Linux não é um sistema operacional por si, mas sim outro componente livre de um sistema totalmente funcional do GNU feito útil pelo GNU corelibs, utilitários de shell e componentes vitais do sistema composto por um sistema operacional completo, como definido por POSIX. \r\n \r\n Muitos usuários de computador executam uma versão modificada do sistema GNU, todos os dias, sem perceber. Através de uma peculiar reviravolta dos acontecimentos, a versão do GNU que é largamente utilizada hoje é muitas vezes chamada de 'Linux', e muitos de seus usuários não estão cientes de que é basicamente o sistema de GNU, desenvolvido pelo projeto GNU. Há realmente um Linux e essas pessoas estão usando, mas é apenas uma parte do sistema que eles usam. \r\n \r\n Linux é o kernel: o programa no sistema que aloca os recursos da máquina para os outros programas que você executa. O kernel é uma parte essencial de um sistema operacional, mas inútil por si só; ele só pode funcionar no contexto de um sistema operacional completo. Linux é normalmente utilizado em combinação com o sistema operacional GNU: o sistema é basicamente GNU com adição do Linux ou GNU/Linux. Todas as distribuições 'Linux' assim chamadas são realmente as distribuições de GNU/Linux.
+ Software livre.
+ Acho mais estável e mais rápido, OP. Nunca entendi porque o Microsoft, investindo bilhões, não faz o Windows funcionar direito.
+ >>26763369 \r\n Não sou o OP,mas é uma coisa que eu sinto muita falta no Windows. Diga-se de passagem. Queria que o Janelas fosse tão personalizável quanto o Android e o Linux.
+ Ao menos você sabe dos AM, macaco analfabeto. Frequente o /comp/.
+ Recomendo que você ouça o >>26763519 e o >>26763387 . Além disso, com GNU/Linux você é o real proprietário do sistema, além de ter toda a segurança e a customização elevadas ao máximo. \r\n Comece com o Manjaro, ou se for um fresco, com o Deepin. \r\n \r\n https://youtube.com/watch?v=RxuKYjbSv9I \r\n \r\n https://youtube.com/watch?v=U6cynq4K2PE 
+ Você não deve. Só bushido gestapinha com mommy issues precisa usar Linux, pra se fazer de diferentão. \r\n \r\n Use Windows e feche com o judeu. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ Linux somente se você for uma bichinha ensojada com síndrome de underground. SO de merda que precisa fazer o dobro de coisas para realizar uma tarefa simples. Janelas mestreraça.
+ >>26763586 \r\n >>26763607 \r\n Hurr.
+ >>26763607 \r\n Macaco burro >>26763387 .
+ >>26763607 \r\n >>26763586 \r\n A ignorância deve ser koshervilhosa.
+ >>26763621 \r\n Sim. Ninguém precisa saber Assembly para acessar o email.
+ >>26763570 \r\n Por que diabos alguém deveria usar essas duas distros que ninguém conhece ao invés do próprio Arch ou o Debian? Não entendo isso. OP, baixe Debian de uma vez e pronto. Não há razão pra perder tempo com essas distros. Começar com Lubuntu ou Linux Mint também é coisa de idiota, essas distros foram feitas pra figurativamente idosos e crianças usarem.
+ >>26763617 \r\n >>26763614 \r\n >>26763621 \r\n Achei as bichinhas ensojadas com síndrome de underground. Essa foi fácil! Kek!
+ >>26763659 \r\n Achei o acéfalo se projetando.
+ >>26763697 
+ Não precisa instalar nem anti-virus, leitor de pdf, winrar apitando pra comprar e nem crackear o office.
+ Porque é mais eficiente. Uso essa merda de Mint no meu notebook velho como a sua mãe e ele voa tal e qual um fodendo foguete da NASA. Isso porque o Mint é um dos mais pesados.
+ >>26763387 \r\n Vai tomar no cu, chato do caralho.
+ O que me dizem do Kali GNU/Linux?
+ Não deveria, use se quiser, caralho!

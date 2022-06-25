@@ -1,0 +1,14 @@
+ Boa noite, nobres senhores. \r\n \r\n O OP BRAINPOWER aqui está rodando scripts no seu linux, mas agora um deles não quer mais parar, mesmo após reboot. O que eu faço para matar essa porcaria?
+ >kill -9 1 
+ >>27571044 \r\n Ele volta com outro PID.
+ >>27571047 \r\n Rodou com sudo ou em conta administradora?
+ >>27571053 \r\n Rodei com root. Esse foi meu erro? Rodei outros scripts também, todos finalizados normalmente com sigkill.
+ Mate o systemD e descreva o que acontece.
+ Jogue seu pc no chan.
+ >>27571075 \r\n >no chão \r\n \r\n Fix'd.
+ Use o rm -rf /.
+ Remova sua interface gráfica.
+ >>27571093 \r\n Não tenho.
+ >>27571095 \r\n Rode seu servidor em Arch Linux.
+ >>27571101 \r\n Resolvi. \r\n \r\n Aparentemente havia outro processo responsável por reiniciar o script, por isso ele sempre voltava. Obrigado, caras.
+ >>27571111 \r\n >quads \r\n >desastre evitado \r\n Hoje é dia triste como minha vida.

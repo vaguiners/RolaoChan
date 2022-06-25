@@ -1,0 +1,23 @@
+ Alguém pode me ajudar nesse exercícios básico de geometria plana? Eu realmente estou com problema de resolver isso.
+ Eu posso anão, poste o problema.
+ >>27380211 \r\n Você é retardado?
+ AB=2AC \r\n AC=CB \r\n \r\n AC+ED=30
+ Quem mandou não prestar atenção na aula?
+ No seu caso, eu recomendo ir estudar soma e subtração. Em 5 linhas você denunciou sua cor de pele.
+ Preciso voltar à estudar, cheguei a conclusão que ab/2 = ab/2 
+ >>27380229 \r\n Esse do tópico? Vou fazer agora, já te mando o resultado.
+ O comprimento do segmento AE é igual a 30 cm. \r\n \r\n Vamos considerar que o segmento AB possui medida igual a x. \r\n \r\n Como C é ponto médio de AB, então AC = x/2 e BC = x/2. \r\n \r\n Agora, vamos considerar que o segmento CD possui medida igual a y. \r\n \r\n Como E é ponto médio de CD, então CE = y/2 e DE = y/2. \r\n \r\n Porém, observe que: \r\n \r\n CE = BC + BE \r\n \r\n y/2 = x/2 + BE \r\n \r\n BE = y/2 - x/2. \r\n \r\n De acordo com o enunciado, o segmento, temos que: \r\n \r\n AB + ED - AC = 30 \r\n \r\n ou seja, \r\n \r\n x + y/2 - x/2 = 30 \r\n \r\n x + y = 2.30 \r\n \r\n x + y = 60. \r\n \r\n Como queremos o valor de AE, observe que: \r\n \r\n AE = AB + BE \r\n \r\n AE = x + y/2 - x/2 \r\n \r\n AE = x/2 + y/2 \r\n \r\n AE = (x + y)/2 \r\n \r\n AE  = 60/2 \r\n \r\n AE = 30 cm.
+ >>27380284 \r\n >Desconsidere o reddit spacing \r\n Copiado do google, demorei 1 minuto para achar a resposta.
+ >>27380284 \r\n Obrigado. Estou apanhando desse tipo de exercício.
+ >>27380284 \r\n Você tem um canal no YouTube onde o professor resolve esse tipo de exercício? Pode ser em inglês, digo, caso não tiver um canal em pt.
+ a = b; \r\n b + c = d; \r\n \r\n Quanto é a + b + c? \r\n \r\n se a + b + d - a = 30; \r\n \r\n b+d = 30; \r\n \r\n Substituindo d por b+c; \r\n \r\n b+ b +c = 30; \r\n \r\n Como a = b: \r\n \r\n a + b + c = 30 = AE.
+ Recomendem canais do YouTube que envolvam resoluções do tipo 
+ >>27380396 \r\n Lurke mais.
+ >>27380408 \r\n Macaco.
+ >>27380412 \r\n Você é muito mal-educadinho anão, ninguém vai querer te ajudar desse jeito.
+ >>27380485 \r\n Desculpa. É que tô irritado.
+ >>27380513 \r\n Não sei o que te dizer, se procurar no youtube vai achar milhares e nenhum é muito melhor que os outros.
+ >>27380537 \r\n Encontrei alguns indianos, mas nada do tipo igual da imagem.
+ >>27380574 \r\n Alias, alguém consegue resolver o problema 20 sem olhar na internet? Eu não consegui fazer, confesso que é bem complexa essa questão.
+ >>27380582 \r\n Vou fazer aqui, sou o:>>27380377 e >>27380282 . Se demorar é porquê estou em horário de trabalho.
+ >>27380592 \r\n Tudo bem.

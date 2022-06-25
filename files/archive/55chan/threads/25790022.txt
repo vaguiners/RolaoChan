@@ -1,0 +1,3 @@
+ Adquiri um novo espertofone e venderei o meu antigo, porém tenho coisas aqui que absolutamente não podem vazar. Se é que me entendem. \r\n \r\n Como posso garantir que os dados tornem-se irrecuperáveis após o factory reset? Que método recomendam? \r\n Uso o dban para o HD, ms não sei o que seria o equivalente à zero fill no celular. Não entendo nada de celulariarias.
+ >restaura a memoria de fabrica \r\n >enche a memoria com imagens de animes \r\n >restaura a memoria de fabrica \r\n >enche a memoria de imagens de cachorrinhos \r\n >restaura a memoria de fabrica \r\n >profit 
+ >>25790042 \r\n Kek, não há ferramentas que fazem isso automaticamente? Será que criptografar todos os dados atuais e aí fazer o factory reset não funcionaria?

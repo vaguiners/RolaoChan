@@ -1,0 +1,82 @@
+ Ajudem um burrinho nesse exercício de JS. Eu tentei resolver esse problema com função recursiva usando o IF aninhado e o switch case e nada!
+ Espero que você não seja o anão que fez uma thread falando que tinha se apaixonado e se encontrado na programação, kek.
+ Perdi.
+ Não li tudo. \r\n \r\n public static int isEven(int v) { \r\n int t = v - 2; \r\n if (t < 0) { \r\n return v; \r\n } \r\n if (t > 2) { \r\n return isEven(t); \r\n } \r\n return t; \r\n } \r\n \r\n Fiz em java rapidinho, só pra você ter uma ideia. Não tenho de cabeça algumas coisas de js e fiquei com preguiça de procurar. Eu sei que em js você pode ter retornos de tipos diferentes, então basta adicionar uns ifs para verificar se é 0 ou 1 e retornar true ou false antes da recursão.
+ >>27320701 \r\n >Java \r\n \r\n Essa linguagem vai ficar morta daqui uns meses.
+ https://pastebin.com/kWBew5w7 \r\n \r\n Lhe falta ódio, OP.
+ >>27320723 \r\n >pouquíssimas linhas resolvendo o problema \r\n \r\n Caralho, eu realmente sou burro! \r\n \r\n O-Obrigado. 
+ >>27320721 \r\n \r\n Pythonlets são puro lulz. \r\n \r\n Porque você não responde o OP na sua linguagem favorita, então? \r\n \r\n A verdade é programador não pode ficar restrito a linguagens. Eu programo em qualquer merda que precisar.
+ >>27320701 \r\n Deve existir uma forma mais otimizada de fazer isto. Para um número grande, a função isEven seria chamada vezes demais.
+ >operador resto \r\n CA-RA-LHO! \r\n Quem escreveu isso é um iletrado ou só macaco mesmo?
+ >>27320808 \r\n Sim, se chama dividir por dois, macaco burro.
+ >>27320808 \r\n Existe, mas o exercício pede para fazer desse jeito. \r\n \r\n if ((x % 2) == 0) return true;
+ O que a fornicação é esse switch case? Nunca vi coisa tão grotesca na minha vida.
+ >>27320823 \r\n Macaco, eu trabalho com programação e ganho mais em 1 mês do que você em 1 ano. Apenas estava tentando fazer o OP pensar um pouco. \r\n \r\n function isEven(n) { \r\n const positiveNumber = Math.abs(n); \r\n \r\n if (positiveNumber === 0) \r\n return true; \r\n \r\n if (positiveNumber === 1) \r\n return false; \r\n \r\n return isEven(Math.floor(positiveNumber % 2)); \r\n } \r\n \r\n console.log(isEven(50)); \r\n console.log(isEven(75)); \r\n console.log(isEven(-1)); \r\n console.log(isEven(-2));
+ >>27320904 \r\n >eu trabalho com programação e ganho mais em 1 mês do que você em 1 ano \r\n \r\n \r\n Quanto?
+ >>27320904 \r\n Com essa merda que você acabou de postar, deve ganhar sim…
+ Quando foi que essa merda encheu de programadores?
+ >>27320618 \r\n >Eu tentei resolver esse problema com função recursiva \r\n Perdi.
+ >>27320972 \r\n Tem poucos computeiros de verdade, mas muitos wanna be .
+ >>27320983 \r\n Perdi pra você perdendo.
+ >>27320972 \r\n Não existe. Macaco bostileiro cor de bosta é incapaz de programar, ainda mais as crianças que participam desse chan. \r\n \r\n >>27320983 \r\n Outro retardado que não consegue nem abrir a imagem do OP e ler o exercício.
+ >>27320972 \r\n Se houvesse tantos programadores assim esse chan não seria todo bugado.
+ >>27320830 \r\n return ((x % 2)||0);, teutão
+ >>27320996 \r\n Não sei, só hoje eu vi um retardado falando de como ele fez CC e se arrependeu e dias atrás tinha um anão falando que estava aprendendo programação.
+ >>27321004 \r\n Que tal assim, sabichão: \r\n \r\n \r\n \r\n function isEven(x){ \r\n x=abs(x); \r\n if(n>0){ \r\n if(n ==1){ \r\n return false; \r\n }else if(n==2){ \r\n return true; \r\n }else{ \r\n return isEven(x-2); \r\n }; \r\n }else{ \r\n console.log('Zero é par ou ímpar?') \r\n return 1488; \r\n }; \r\n }; \r\n \r\n 
+ >>27320940 \r\n E o que tem para se fazer de mirabolante em um exercício desses, merdafag?
+ x = ((numero % 2) ? 'ímpar' : 'par'); \r\n print(x); \r\n \r\n Aqui, anãozinho.
+ >>27321081 \r\n Batatei. \r\n \r\n Esse funciona: \r\n \r\n function isEven(n){ \r\n n=Math.abs(n); \r\n if(n>0){ \r\n if(n ==1){ \r\n return false; \r\n }else if(n==2){ \r\n return true; \r\n }else{ \r\n return isEven(n-2); \r\n }; \r\n }else{ \r\n console.log('Zero é par ou ímpar?') \r\n return 1488; \r\n }; \r\n }; \r\n 
+ >>27321081 \r\n Tente esta, OP. \r\n \r\n \r\n function isEven(n){ \r\n n = n>0? n :-n; \r\n while(n > 0) n-=2; \r\n if(n==0) return true; else return false; \r\n }; \r\n 
+ Ao OP, agora faça funcionar com números negativos também, conforme o exercício manda.
+ >não usando o módulo isEven e o módulo isOdd \r\n \r\n https://www.npmjs.com/package/is-even \r\n \r\n Finalmente pleb.
+ >>27321153 \r\n Assim fica mais eficiente: \r\n \r\n function isEven(n){ \r\n n *= ((n<0)*(-1)+(n>0)); \r\n while(n > 0) n-=2; \r\n return(!n) \r\n }; \r\n 
+ >>27321207 \r\n Js é realmente degustante.
+ >>27321261 \r\n Estou tentando eliminar essa primeira atribuição para ficar mais eficiente e legível ainda, mas está difícil. Será que os anões conseguem? \r\n \r\n function isEven(n){ \r\n n *= ((n<0)*(-1)+(n>0)); \r\n return n==0 ? \r\n true : \r\n n==1 ? \r\n false : \r\n isEven(n-2); \r\n }; \r\n 
+ Consegui. Pronto, OP. Simples, legível e eficiente. Tem que usar a cuca, não é só escrever linhas. \r\n \r\n \r\n function isEven(n){ \r\n return n==0 ? true : n==1 ? false : isEven((n*((n<0)*(-1)+(n>0)))-2); \r\n }; \r\n 
+ >>27320972 \r\n >scq são jornalistas tentando aprender a codar 
+ >>27321334 \r\n Assim fica mais amigável: \r\n \r\n function isEven(n){ \r\n return n==0? \r\n true : \r\n n==1 ? \r\n false : \r\n isEven((n*((n<(false))*(-true)+(n>(false))))-(true<<true)); \r\n }; \r\n \r\n \r\n Mande outra, OP.
+ >>27321395 
+ iseven(n) \r\n {if(n<0) n*=-1; \r\n n<=2? n%2==0 : isEven(n-2)}
+ >>27321434 \r\n ><=2 \r\n <=1 \r\n Fixado. Nem sei se funciona esta merda. KEK!
+ >>27321423 \r\n \r\n \r\n var resp = 0 \r\n var palavra = prompt('Digite alguma palavra: ') \r\n var letra = prompt('Digite uma unica letra: ') \r\n tamanho = palavra.length \r\n \r\n for(contador=0; contador<=tamanho; contador++){ \r\n if(palavra[contador] == letra) \r\n resp += 1 \r\n }; \r\n console.log(resp) \r\n \r\n \r\n \r\n 
+ >>27321423 \r\n Tem que ser com laço ou pode ser com recursão?
+ >>27321452 \r\n https://playcode.io 
+ >>27321474 \r\n Fixado. \r\n function iseven(n){ \r\n if(n<0) n*=-1; \r\n return n<=1 ? n%2==0 : iseven(n-2); \r\n }
+ >>27321423 \r\n >var 
+ Como eu posso aprender React? Me ajudem, quero recomendações de livros ou cursos sobre isso.
+ >>27321423 \r\n \r\n function countChars(s,char,p=0,c=0){ \r\n if(s[p]==undefined){ \r\n return c; \r\n }else{ \r\n return countChars(s,char,p+1,c+ (s[p]==char)); \r\n } \r\n } \r\n function countBs(s,p=0,c=0){ \r\n return countChars(s,'B',p,c); \r\n } \r\n \r\n \r\n Fácil. Próxima.
+ >>27321613 \r\n Forma mais eficiente e legível: \r\n \r\n function countChars(s,char,p=0,c=0){ \r\n return s[p]==undefined ? c : countChars(s,char,p+true,c+(s[p]==char)); \r\n } \r\n function countBs(s,p=0,c=0){ \r\n return countChars(s,'B',p,c); \r\n } \r\n 
+ Dá pra ver a diferença brutal entre um macaco de código repetidor e um Programador de Verdade comparando as seguintes soluções: >>27321463 e >>27321631 
+ >>27321510 \r\n Não pode usar %, bichona.
+ >>27321641 \r\n Então a grande diferença entre um macaco de código e um programador de verdade é usar operador ternário? Puta que pariu, hein, retardado mental. O código é exatamente igual.
+ >>27321720 \r\n Não é não, pode reparar que o primeiro teve que contar o comprimento da string duas vezes (uma com length, a outra iterando para catar os Bs). Eu fiz com um único movimento fluído e desimpedido.
+ >>27321761 \r\n Macaqueei, achei que estivesse comparando o >>27321613 com o >>27321631 , kek.
+ Você é o anão programadeiro que eu recomendei estudar JS ontem/anteontem? \r\n \r\n Enfim, >>27320701 .
+ >>27321774 \r\n Em C eu teria feito sem ternário, só com soma.
+ >>27321781 \r\n S-Sim.
+ >mpq trabalho com TI e não tenho ideia do que caralhos são essas letrinhas coloridas que vocês estão postando 
+ >>27321869 \r\n Você trabalha com o quê? Basta acessar o 'repl.it/languages/javascript', colar cada código e depois colocar para rodar, nada demais!
+ >>27321813 \r\n Fico feliz que seguiu meu conselho de estudar programação para web, anão. Fique com meu boa sorte mais uma vez.
+ >>27321887 \r\n Sou responsável pela plataforma de telefonia em uma das maiores varejistas do país. responsável que digo é que sou o único representante in loco da empresa que fornece esse sistema, ganho apenas 3k 
+ >>27321761 \r\n >>27321641 \r\n Que culpa ele tem se praticamente todo lugar ensina a 'programar' desse jeito? \r\n \r\n Todos aqui sabemos que o OP não tem futuro algum programando, ainda mais se seguir usando essa bosta de site pra aprender.
+ >>27322030 
+ >ainda mais se seguir usando essa bosta de site pra aprender. \r\n \r\n Então mostre uma opção melhor.
+ >>27321948 \r\n O código de um programador tem que ser que nem os golpes com a espada de um samurai. \r\n \r\n >>27322030 \r\n Perdi de leve, Yan Orestes.
+ >>27322030 \r\n >monamour \r\n >defenderay \r\n \r\n Senti até o cheiro de bacalhau.
+ >>27322030 \r\n MOD, PELO AMOR DE DEUS, LIBERA O IP DESSE SUJEITO.
+ >>27322060 
+ >>27321010 \r\n return(x%2), plebeu.
+ >>27321423 \r\n Apenas a melhor solução de passagem. \r\n \r\n const pipe = (…fns) => arg => fns.reduce((acc, fn) => fn(acc), arg); \r\n const length = arr => arr.length; \r\n const isSmaller = (a, b) => a < b; \r\n const filter = fn => arr => { \r\n const result = []; \r\n \r\n for (let i = 0; isSmaller(i, length(arr)); i++) { \r\n if (fn(arr[i])) \r\n result.push(arr[i]); \r\n } \r\n \r\n return result; \r\n }; \r\n const isSameLetter = letterA => letterB => letterA === letterB; \r\n \r\n const countChar = letter => pipe( \r\n filter(isSameLetter(letter)), \r\n length \r\n ); \r\n \r\n const countBs = countChar('B'); \r\n console.log(countBs('BBabB'));
+ >>27322056 \r\n https://www.youtube.com/watch?v=z-OxzIC6pic \r\n \r\n Enfie este site lixo de Bostascript no cu.
+ >>27322110 \r\n Não entendi.
+ Posta os exercícios, OP! \r\n \r\n Por onde está fazendo?
+ >>27322110 \r\n Que merda, esse deve ser pitoleiro.
+ >>27322216 \r\n Eloquent JavaScript, basta procurar que esse livro está até no github.
+ >>27322110 \r\n Que sintaxe de merda, quando foi que colocaram essa abominação?
+ >>27322242 \r\n Como você faria uma função genérica que retorna um objeto válido ou falso, considerando que o segundo argumento da função retornaObjetoValido é uma função 'testadora' e que pode variar para diferentes tipos de objetos? \r\n Eu tentei abstrair essa ideia de retornaObjetoValido mas estou meio perdido. \r\n Os parametros da função testadora podem variar. Até pensei em usar call na função testadora mas não sei.
+ >>27321701 \r\n Então eu faço o modulo na mão, o que é bem simples.
+ >>27321761 \r\n >Eu fiz com um único movimento \r\n KEK. Finalmente carente de atenção.
+ Estou estudando JS pelo curso em vídeo. Para onde vou depois disso?
+ >>27321701 \r\n n==0.
+ \r\n \r\n def isEven(num): \r\n \r\n if num % 2 == 0: \r\n print(f'{num} é par.') \r\n return True \r\n print(f'{num} é ímpar.') \r\n return False \r\n \r\n num = int(input('Insira o número e ser testado: ')) \r\n \r\n isEven(num) \r\n \r\n 
+ >>27323570 \r\n Pra casa do caralho. Use o mesmo livro que o OP, é 10/10. 

@@ -1,0 +1,26 @@
+ Anão brainlet aqui. \r\n \r\n Qual a melhor distro do Linux pra alguém que nunca tocou em um computador com SO Linux. \r\n Não precisa ser a mais fácil de trabalhar, apenas a melhor (eu aprendo rápido). \r\n Windows vai começar a baixar atualização de 50GBs e eu estou cansado dessa bosta. \r\n Also, Linux como vai ficar a questão dos meus joguinhos que tenho em um HD externo, vou ter que baixá-los novamente?
+ Urubuntu.
+ Manjaro, mint ou ubuntu. Pegue uma dessas e vai ficar tudo certo.
+ Mint.
+ >>26971493 \r\n >brainlet \r\n >aprendo rápido \r\n Sim, de fato você é brainlet. \r\n \r\n Recomendo Ubuntu, não é a melhor, mas é a única que um retardado como você vai conseguir usar.
+ Arch Linux. \r\n Confie em mim, sou pardo. 
+ Xubuntu (Ubuntu com interface Xfce). Derivados do Debian serão a melhor opção se você quiser jogar joguinhos da Steam sem ter muitas complicações instalando bibliotecas, also oferece uma instalação de drivers proprietários bem fácil, se você tiver placa de vídeo. Quanto ao Xfce, é uma interface mais funcional e mais leve que as demais. Usei por anos e nunca tive grandes problemas.
+ >>26971513 \r\n Eu desisti de usar o Manjaro quando o instalador do live boot crashou. KEK.
+ >Windows vai começar a baixar atualização de 50GBs e eu estou cansado dessa bosta \r\n \r\n O meu 7 nunca baixou nenhuma. Que coisa, não?
+ Use o Windows 10 LTSC/B ( https://thepiratebay.org/torrent/32061731/Windows_10_Enterprise_2016_LTSB_X64_pt-BR_OEM_APRIL_2019__Gen2_ ) para evitar atualizações gigantescas como essa. Em relação ao GNU/Linux, recomendo que use alguma distribuição baseada no Ubuntu 18.04 LTS: Linux Mint, Lubuntu, etc. Lembre-se que alguns dos seus jogos podem não ser compatíveis com o GNU/Linux.
+ Linux Mint com Cinnamon.
+ >>26971600 \r\n Baseado, LTSC é a única versão do Windows que presta.
+ Ubuntu ou mint.
+ Eu ouvi algumas pessoas dizendo que o Mint não é muito seguro devido a algumas merdas que ocorreram nos últimos anos.
+ >como vai ficar a questão dos meus joguinhos que tenho em um HD externo, vou ter que baixá-los novamente? \r\n \r\n Se forem jogos pra rodar em emulador, não muda nada. Jogos que precisem de instalador ou rodam direto pelo .exe poderão rodar via Wine.
+ Vou migrar para o Mint essa semana.
+ Vá de Manjaro com o baseado i3wm.
+ >>26971648 \r\n Não faça isso! Você vai se frustrar.
+ >>26971617 \r\n Isso é paranóia de gordões do /g/. De fato os servers dos repositórios do Mint foram invadidos anos atrás e foram adicionados pacotes maliciosos no meio, mas tudo foi corrigido horas depois. \r\n \r\n Se está com receio de já sair instalando, baixe o WMare player ou o Virtualbox e instale uma máquina virtual para testar, ou mesmo só de boot pela Live CD e brinque um pouco.
+ A melhor de todas é indiscutivelmente o Arch Linux. Saudades de usar esse caralhudo, ter que o usar o macOS e abandonar o Arch contribui de forma significativa para minha depressão.
+ >>26972107 \r\n Por que o simbolo do Arch é um bushido?
+ >>26972107 
+ >>26972126 \r\n Excluindo aqui.
+ >>26971521 \r\n Retardado.
+ >>26972126 \r\n Secundo esse OC.
+ >>26972126 \r\n Porra amigo, tá ingreis .

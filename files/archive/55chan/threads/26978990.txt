@@ -1,0 +1,1 @@
+ >a ='o rato roeu a roupa do rei de roma' \r\n >a.replace('ro','mama'') \r\n >o rato mamaeu a mamaupa do rei de mamama 

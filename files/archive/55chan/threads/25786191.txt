@@ -1,0 +1,27 @@
+ >baixo o Opera \r\n >abro \r\n >meio segundo depois o Opera fecha sozinho \r\n >ad infinitum \r\n \r\n O que a fornicação, anões? Pesquisei aqui e não achei nada sobre isso, comecei nas linuxsarias hoje, me iluminem.
+ Caralho, que puta sensação de deja vu.
+ RELIGUE! NÃO DESL-
+ Você simplesmente pulou etapas, aí deu isso. \r\n Todo mundo sabe que o primeiro passo é deixar o mesatopo bem homossexual e cheio de garotinhas 2d, pra poder attwhorar nos fios de desktop. \r\n Faça isso, depois pense em browser.
+ >opera no linux \r\n Caralho, você quer parar de ser incluso ou não? Tá na cara que não ia dar certo.
+ Você instalou via gerenciador de aplicativos/synaptic ou baixou o .deb direto do site do Opera? \r\n \r\n Se foi a primeira, desinstale via apt e instale novamente usando a segunda maneira.
+ Abra pelo terminal e veja se aparece algum aviso quando ele fecha.
+ >>25786205 \r\n Farei isso depois de baixar outro navegador. \r\n \r\n >>25786208 \r\n M-mas a barra lateral e o próprio ad-block nativo é tão legal! E também dá pra pesquisar no google direto da barra de pesquisa. \r\n \r\n >>25786214 \r\n Pesquisei no gerenciador e não apareceu o Opera, fui no site instalar mesmo.
+ >>25786218 \r\n C-como faço isso?
+ >>25786243 \r\n Abra o terminal e digite opera e dê enter. \r\n \r\n anão@anon:~$ opera \r\n [14815:14815:1128/222057.471736:ERROR:sandbox_linux.cc(379)] InitializeSandbox() called with multiple threads in process gpu-process. \r\n \r\n 
+ >>25786264 \r\n Estou com medo de printar você me hackear. Mas parece que está faltando algum arquivo, 'NSS >= 3.26 is required' apareceu diversas vezes.
+ O Mint vem tudo pronto para usar sem dor de cabeça, apenas use o raposa.
+ >>25786292 \r\n Não estou conseguindo atualizar o mozilla.
+ >>25786291 \r\n Dependência de pacote. Entre no synaptic e procure pelo pacote pedido. Aproveite e verifique se não tem nenhum pacote quebrado ou faltando.
+ OP, você atualizou o sistema após a instalação?
+ >>25786301 \r\n Apenas abra o gerenciador de atualização ali do lado direito na barra e clique em instalar atualizações. 
+ >>25786357 \r\n SIm, mas só tinha 2 pacotes disponíveis para instalar, no Ubuntu baixou meio gigabite direto. \r\n \r\n >>25786371 \r\n Estou baixando os pacotes que apareceram agora, aproveitei e dei uma lida sobre o nível de periculosidade de 1 ao 5. \r\n \r\n >>25786327 \r\n Acredito que era pacote faltando mesmo, já estou baixando todos os disponíveis. \r\n \r\n >>25786325 \r\n Vou fazer isso em alguns minutos, parece que não dá pra fazer algumas coisas com o gerenciador de atualizações em uso.
+ >>25786399 \r\n >Acredito que era pacote faltando mesmo, já estou baixando todos os disponíveis. \r\n \r\n Espero que você esteja falando só das dependências, pois se estiver fazendo o que estou achando que você está fazendo, você estará instalando a porra do sistema inteiro com um monte de pacote inútil que nunca irá usar.
+ >>25786419 \r\n Eu estou fazendo o que você acha que eu estou fazendo.
+ >>25786475 \r\n Então pare o que está fazendo.
+ >opera \r\n \r\n Essa merda tem botnet e ainda usa VPNs compartilhadas sem verificação das mesmas de tempos em tempos, enjoe ter o FBI na sua cola.
+ >>25786491 \r\n Ok. \r\n \r\n >>25786505 \r\n Não vou assistir pornô de criança.
+ Baixei o Vivaldi e estou amando. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>25786524 \r\n Cancele tudo o que está fazendo. Na certa você só obteve os pacotes e ainda não instalou nada. Depois abra um terminal e digite: 'sudo apt auto remove' e depois, 'sudo apt auto clean'. \r\n \r\n Feito isso. Desinstale o Opera 'sudo apt purge opera' e instale novamente via aquele .deb que você baixou. Depois só dê um apt update seguido de um apt upgrade. \r\n \r\n Isso vai deixar tudo instalado na versão mais recente. Se der merda, reporte aqui e a gente vê o que faz.
+ >>25786530 \r\n Perdi pra esse ban.
+ >>25786595 \r\n Que rabão.
+ >ano corrente \r\n >linux \r\n Kek, mais um que caiu na pescaria…

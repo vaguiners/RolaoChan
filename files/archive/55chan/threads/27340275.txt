@@ -1,0 +1,5 @@
+ Algum anão poderia me ajudar? \r\n \r\n O sufixo em um ip 37.100.211.25 com máscara 255.255.224.0 seria 10011.00011001? \r\n \r\n Ip em binário: 00100101.01100100.11010011.00011001 \r\n \r\n Máscara em binário: \r\n 11111111.11111111.11100000.00000000
+ Pra que caralhos postar os binários? \r\n Não posso ajudar pois tem anos que estudei isso e nunca usei pois nunca trabalhei com redes. Nunca trabalhei, kek. \r\n \r\n Mas alguém pode.
+
+ >>27340289 \r\n \r\n Legal, anão, mas e o passeio?
+ Bump.

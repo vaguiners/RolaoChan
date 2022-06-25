@@ -1,0 +1,5 @@
+ >tento instalar o linux mint tessa, cinnamon \r\n >faço o FDD bootável \r\n >HD não detectado na instalação, mesmo após ter sido detectado com o GParted \r\n \r\n Assim fica difícil usar GNU/Linux pela primeira vez. \r\n \r\n >inb4 macaco dizendo que não 'mereço' usar Linux 
+ Bump.
+ Tenho que sair, anões. Vou deixar a aba esperando respostas.
+ Como assim? É só digitar 73 comandos no terminal que funciona. \r\n Qualquer coisa pergunta no forum: www.gordao-sem-vida.neet.
+ Feche o GParted antes de iniciar o instalador.

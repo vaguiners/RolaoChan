@@ -1,0 +1,57 @@
+ Vou instalar o Janelas LGBT (LTSC) na minha carroça. \r\n Requesto manodicas do que fazer, baixar, ajustar, depois de instalar o sistema.
+ Aqui não é o Google, incluso.
+ Nesse horário, só vai ter respostas nesse nível aqui: \r\n >>27546773 \r\n Apague este parênquima paliçádico e crie novamente na madrugada (ou até mesmo de noite), talvez tenha bons frutos.
+ Queime em um CD e depois enfie no cu.
+ Instale Gentoo.
+ Ainda assim é melhor que usar linux.
+ Falando nisso, eu desabilitei o Windows Defender ontem, tem perigo de hackers russos roubarem meus dados agora?
+ >>27546861 \r\n Tava consumindo muito ram e eu sou pobre de ram. Não sou o OP. 
+ Não faz isso, macaco. \r\n \r\n Ficar sem updates é pedir pra deixar seu Windows vitaminado. \r\n \r\n Instale o Windows normal e aplique políticas para desativar o lixo no O&O ShutUp10.
+ >instalar windows \r\n Mais um que caiu na pescaria.
+ >>27546787 \r\n Não, parceiro. Em qualquer DotA com cavalos você vai ter resposta desse nível com perguntas estúpidas.
+ >>27546887 \r\n LTSC recebe todas as updates de segurança.
+ >>27546887 \r\n Já uso o Windows normal (versão pro), o desempenho está um lixo.
+ Win 10 só vale a pena com dois tweakers que ajudam em tudo. A grande massa, que mal sabe formatar, reclama de desempenho o tempo todo.
+ >>27546713 \r\n >instale o windows \r\n >instale os drivers \r\n Pronto, o resto é com você, anão, não tenho bola de cristal para saber o que você faz no computador. \r\n \r\n >>27546814 \r\n >>27546914 \r\n Pica relatada \r\n \r\n >>27546976 \r\n Aqui está tudo ótimo, talvez você esteja precisando formatar seu PC ou comprar outro.
+ >>27547222 \r\n Nossa, que prático!
+ Afinal, a versão LTSC é mais rápida que o Pro no Windows 10 ou não? Considerando que é uma máquina excelente e usarei para joguinhos. \r\n Also, não quero ter problemas com drivers, atualizações e merda nenhuma. Só estou na dúvida pelo LTSC nesse aspecto, e se a diferença de performance entre o Pro é realmente significante. \r\n Preciso decidir logo para ver qual key comprarei.
+ Sage foi sem querer. bump 
+ >>27547222 \r\n Eu cansei de usar Linux, fiquei uns 3 anos usando distribuições Linux, passei pelo Debian e seus derivados (Ubuntu, Elementary…) e Fedora, um dia me peguei pesquisando por 3 horas uma maneira de tirar o chiado do meu microfone, fiz dezenas de gambiarras e nada, dei rage quit, puxei o Windows, instalei, e nunca mais tive que ficar horas pesquisando para resolver problemas simples que não era para estarem lá. Linux para mim é servidor e Mobile, o resto é pescaria.
+ >>27547317 \r\n Eu usarei o Winaero Tweaker e um arquivo .ini que um anão tinha postado antes com as configurações que desabilitam muitas judiarias e coisas irritantes do Win 10. Vou ficar com o Pro mesmo. \r\n \r\n Eu só queria que esse anão aparecesse aqui e falasse cada função que aquele arquivo .ini desabilitava. Claro que dá pra ver no Tweaker, mas eu gosto da detalhação que ele deu no parênquima paliçádico.
+ >>27547355 \r\n Pode deliverar o arquivo, anão? Fiquei interessado.
+ Cuidado com vírus.
+ >>27547317 \r\n >A verdade é que se você se importasse mesmo com esse negócio de privacidade, não usaria o W10 nem Windows nenhum. \r\n Nunca entendi essa lógica, quem te garante que se você instalar o Ubuntu, por exemplo, a Canonical não estará roubando seus dados. \r\n >ah anão, mas é open source \r\n Todos puxam as distribuições Linux já compiladas e instala no PC, se você quiser ter 100% de certeza que não estão roubando seu dados, puxe todos o códigos fontes, leia todo ele, tanto do kernel como dos aplicativos, interface gráfica etc, compile e instale, por outro lado meu amigo, não teremos certeza de nada.
+ >>27547358 \r\n Claro, anão. \r\n https://file.io/5brt6z \r\n \r\n Não, não é viros. É um arquivo .ini. Dá pra abrir com o bloco de notas. 
+ >>27547391 \r\n 404.
+ >>27547222 \r\n >susana aberta \r\n Quem caralhos usa isso no computador pessoal?
+ Anões que já usaram LTSC, eu realmente preciso baixar outra build para ativar essa versão? \r\n Depois que eu já estava com o sistema funcionando tentei ativar com KMS38, porém não deu certo. Pesquisando no Google, eu descobri que terei que baixar outra versão do LTSC para fazer o KMS funcionar. Não existe algum método de ativação manual para contornar essa situação? Não queria ter que fazer backup e formatar.
+ >>27547369 \r\n Caralho, como você pode ser tão burro?
+ >>27547451 \r\n Compre a licensa. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>27547355 \r\n Anão, recomendo usar o ShutUp10 também. O Winaero deixa muitas coisas habilitadas, como por exemplo 2 níveis de telemetria, que algo que compromete sua privacidade. \r\n https://www.oo-software.com/en/shutup10 
+ >>27547472 \r\n Não possuo uma empresa e não pretendo voltar para o Pro.
+ >>27547484 \r\n Kek! \r\n Windowsfags são puro lulz.
+ >>27547472 \r\n >licença \r\n Fixei pra você.
+ >>27547475 \r\n Isso seria o print da sua configuração, ou apenas uma pica aleatória? Pretendo copiar. \r\n Não sou o OP nem o quotado, mas vou instalar essa merda hoje mesmo.
+ >>27547504 \r\n Fico agradecido.
+ >>27547391 \r\n Porra anão, link quebrado. Me ajuda aí.
+ >>27547466 \r\n >Caralho, como você pode ser tão burro? \r\n Ótimo argumento. Tem mais alguma explicação para me ajudar?
+ >>27547391 \r\n >>27547418 \r\n >>27547522 \r\n https://anonfiles.com/h916R701n1/settings_ini \r\n \r\n Desculpem-me, anões. Fixado.
+ >>27547475 \r\n https://winaero.com/ \r\n \r\n Infinitamente superior, anão. \r\n Não sabia que eu tinha uma máquina tão veloz. \r\n \r\n Dentro desta pica relatada, eu coloquei um .INI que acabei de exportar por esse programa. \r\n Instale o programa, e importe o .INI para não ter trabalho e ter já uma máquina muito optimizada.
+ >>27547570 \r\n É este .ini aqui que você está falando. É o mais optimizado possível. \r\n \r\n >>27547564 
+ Eu >>27547570 entrei no parênquima paliçádico correndo e não li acima. \r\n \r\n >>27547564 \r\n >>27547355 
+ >>27547509 \r\n É minha configuração mesmo. Eu desativei absolutamente tudo menos o Windows Defender, nada faz falta.
+ >>27547523 \r\n Vem comigo, anão. \r\n O negócio é open source. \r\n Você diz que mesmo sendo open source não dá pra saber se é seguro. \r\n Agora me diz, quem caralhos iria roubar informações das pessoas usando um sistema open source? \r\n Imagina, um deputado tem um esquema pra desviar dinheiro, mas ele posta todos os detalhes do esquema no cancro oficial dele. \r\n É a mesma merda, porra.
+ >>27547580 \r\n Esse meu embutido na pica é levemente parecido com o OP. \r\n Eu só liberei a habilidade de docar as janelas no lado esquerdo e direito, dividindo com outra janela e maximizar ao arrastar pra cima, que o OP havia retirado. Também habilitei a loja de aplicativos do Windows, porque eu preciso usar um App de lá e das atualizações dele. \r\n Mas eu aconselho, depois de importar e reiciar, você abrir e ler por si o que faz cada opção. \r\n Esse recurso que eu acho que se chama Snap, de arrastar janelas me fez muita falta, por exemplo.
+ >>27547570 \r\n Eu prefiro combinar os dois, pois tem coisas que o Winaero não e faz, e outras que o ShutUp não faz.
+ >>27547619 \r\n Mas não existe conflito?
+ >>27547619 \r\n >não faz \r\n Fix'd.
+ >>27547637 \r\n Não vi conflito nenhum, anão.
+ >>27547369 \r\n Quando eu usava o Ubuntu, ele tinha um sistema de busca, que podíamos pesquisar sobre coisas no nosso sistema, músicas, filmes, aplicativos e etc. Mas tinha um sistema da Amazon que sempre te dava sugestões de compras. \r\n \r\n >ainnnn, Linux não rouba seus dados. kek. 
+ >>27547650 
+ >>27547276 \r\n A diferença é muito pouca. Sem o MSI Afterburner é imperceptível, mas o LTSC é superior nos jogos.
+ >>27547608 \r\n Obrigado, fera feroz.
+ >>27547712 \r\n >pauso o vídeo em segundo qualquer \r\n >FPS no WinPro = 218 \r\n >FPS no LTS = 216 \r\n Mais uma vez, Baboo estava certo.
+ >>27547650 \r\n Não, Linux não rouba os seus dados. \r\n Linux é um Kernel, seu retardado. \r\n Ubuntu é uma merda e todo mundo sabe que essa bosta possui adware e telemetria. \r\n Você pega uma única distro que todo mundo sabe que é uma bosta e faz de regra.
+ >instalar o windows \r\n >não, instale essa versão \r\n >tire todas as atualizações, inclusive as de segurança \r\n >desative o firewall e windows defender \r\n >vá no site da nvidia ou amd baixar drives e fazer um monte de merda \r\n >baixe programas duvidosos para desativar várias merdas do seu sistema \r\n >depois disso, você reinicia o seu PC várias vezes para instalar .NET, VisualBasic, C++ e um monte de bosta \r\n >toda vez que você reinicia demora meia hora pra aplicar as bostas \r\n >linux \r\n >instale uma distro doméstica \r\n >tudo pronto \r\n >no máximo troca de navegador e reinicia o PC uma única vez, ao escolher o driver de vídeo \r\n Windowsfags são retardados sem capacidade de aprendizado. \r\n Estão acostumados com esse lixo e a empresa caga na cabeça deles, depois eles vão lá defender quem está fazendo eles de corno.
+ >não da descrição da máquina \r\n Vai tomar no cu.
+ >>27547852 \r\n E fique sem os melhores programas. \r\n Essa porcaria não tem nem o pacote Adobe. Qualquer programa que você for baixar, terá que ser uma imitação de menor qualidade de um já existente no Windows. \r\n Quer jogar joguinhos? Terá que se contentar com uma biblioteca limitadíssima de jogos, que rodam muito pior do que no Windows. \r\n Linuxfags são retardados sem cérebro, essa é a verdade. Poderia passar o dia inteiro listando problemas dessa porcaria e dizendo como Windows é superior, mas não tenho tempo a perder com moleque.

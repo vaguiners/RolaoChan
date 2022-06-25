@@ -1,0 +1,16 @@
+ Algum anão entendido do assunto? Eu acho que é a 2º opção (letra b), e vocês?
+ >Algum anão entendido do assunto? \r\n Sim. \r\n >Eu acho que é a 2º opção (letra b), e vocês? \r\n Olha, cara, fazer a regra de Cramer é um cu, tente você, se quiser mostre as contas e responda.
+ >>27190695 \r\n Qual é mais a fácil de se utilizar, a regra de Cramer ou a de Sarrus?
+ Não tenho ideia do que seja isso, mas eu diria que é a D.
+ I1=(15-0.5)/(10k+10k)=0,725mA \r\n I2=(5+0.5)/(10k+10k)=0,275mA \r\n I3=(15+5)/(10k+10k)=1mA \r\n \r\n O fato do sinal estar positivo ou negativo depende de como a análise da corrente é percorrida. \r\n \r\n >>27190695 \r\n Você não é entendido do assunto porra nenhuma, macaco.
+ >>27192441 \r\n Also, será -1mA.
+ >>27192351 \r\n Perdi.
+ >>27192441 \r\n No caso a resposta seria a letra b, e o OP estava certo?
+ >>27192569 \r\n Letra A. A última corrente tem o sentido contrário.
+ >>27192619 \r\n Entendi, obrigado, anãozinho. :3 . E essa aqui, consegue resolver?
+ Mete tudo numa matriz e manda a questão pro caralho, colega.
+ >>27192714 \r\n É preciso saber o conceito, não dá para se resolver tudo com matriz. Como você resolveria essa questão >>27192704 com matriz por exemplo?
+ >>27192704 \r\n Para potência máxima dissipada, 'R=r' Isto é, a resistência a ser colocada no circuito deve ter o mesmo valor da resistência interna da bateria., Logo, Rl = Rthevenin = 20//5 = 20*5/25 = 4. Letra C. Ele só cagou os valores ai.
+ >>27192886 \r\n >letra C \r\n Na verdade seria a letra D.
+ >>27192869 \r\n Você vai ter uma equação que representa a corrente em RL, daí você otimiza.
+ >>27192923 \r\n Considerando <text> = Ohm, é 4Ohm a resposta. \r\n \r\n Não é D não.

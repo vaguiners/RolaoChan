@@ -1,0 +1,44 @@
+ Anões, acabei de terminar de montar a minha carroça, falta só esses cabos que são do gabinete. Estou extremamente confuso.
+
+ Vê no manual da placa mãe, incluso. São os parênquima paliçádicos do speaker e do USB.
+ >>>Google 
+ >>27584844 \r\n >usando o Jewgle 
+ Tokosher que ligue errado e fornique a placa-mãe. \r\n Não saber fazer isso deveria ser motivo de surra.
+ >>27584816 \r\n Ele só queria uma desculpa para usar a palavra carroça.
+ Siga o manual da placa pra ver onde ficam os conectores e a polaridade. parênquima paliçádico colorido no polo positivo, parênquima paliçádico branco no polo negativo.
+ >>27584852 \r\n >não sabe ligar os parênquima paliçádicosinhos da gabinete \r\n >ainnn bê eu não quero usar a rede do judeu 
+ Você é o anão da placa biostar?
+ São os cabos que ligam a placa mãe até o painel frontal do seu gabinete: botão de energia, LED's (de leitura do HD, se o computador está ligado, etc), USB's frontais e até mesmo jacks de headphones. \r\n Sua placa mãe provavelmente vem com um manual que vem explicando como liga-las corretamente. Se sua placa mãe não veio com manual, você pode olhar na própria placa mãe, ela vem estampada com os nomes que vem nos cabinhos, eles podem não ser idênticos, mas dá pra ir no bom senso.
+ >>27584901 \r\n Sim. \r\n \r\n >>27584866 \r\n Vou tentar fazer isso, obrigado, animuamigo. :3 
+ >fonte da pcyes \r\n >placa mãe BIOSTAR \r\n \r\n Macaco de merda. Como odeio a China, agora todo macaco nordestino consegue montar uma bosta e chamar de computador. E nem vou falar dessa pcyes.
+ >>27584922 \r\n >macaco \r\n Garanto que sou mais branco do que você, poste uma pica com tempoestampa.
+ Na própria placa vem impresso os esquemas do painel frontal.1 minuto de pesquisa porra. Vcc e data ( https://www.youtube.com/watch?v=gF0WQoZe1JU )
+ É do painel fontral, anão. O encaixe da placa mãee deve ficar perto do encaixe dos cabos SATA.
+ Sem sombra de dúvida é a parte mais chata na hora de se montar um PC.
+ >>27584913 \r\n Agora que parei para analisar o manual parece que eu coloquei as memórias RAM erradas. O correto seria colocar no primeiro e terceiro slot (DIMMA1 e DIMMB1) para ativar o dual channel, né?
+ Isso me lembrou do técnico que conseguiu convencer meu pai que eu havia colocado um cabo de energia em uma entrada de dados…
+ >>27585033 \r\n 1-3 ou 2-4
+ >>27585046 \r\n Eu tinha colocado 1-2, kek. Obrigado vou colocar 1-3 agora. :3 
+ >>27585046 \r\n Ou no seu caso, A1-B1 ou A2-B2.
+ >>27584973 \r\n Vou assistir esse vídeo e tentar aqui, daqui a pouco eu volto para dizer o resultado.
+ Eu sempre dou um jeito de ligar isso antes de colocar a fonte e a placa mãe, essa merda é minúscula e eu sou cego.
+ Você colocou pasta térmica no processador?
+ Nem precisa de manual, caralho. Está tudo escrito diretamente na placa-mãe.
+ >>27585033 \r\n Caramba, quantos slots.
+ >>27585186 \r\n Nao. Serve pra que?
+ >>27585186 \r\n Óbvio.
+ >>27585186 \r\n Eu não tinha, então vi na internet que pasta de dente servia como substituto. Inclusive eu esqueci de perguntar no começo da thread se tinha problema ou não.
+ >biostar \r\n Caralho, qual o problema dos anões ultimamente? Não é possível que tenha dois idiotas comprando merda da biostar.
+ KEK. Esse anão tá pescando desde o parênquima paliçádico do setup dele.
+ >>27585267 \r\n São 3.
+ Deu certo, OP?
+ É só ver um dos milhares de vídeo que mostra como montar corretamente um compiuter. Mas não, o filho da puta tem que vir aqui attwhorar. \r\n Vai tomar no seu cu.
+ Bump.
+ >>27585583 \r\n Não sei eu liguei o Power SW, Reset SW, HDD LED e Power LED. Só que no manual da placa mãe diz que são 3 pinos para o Power LED (2 positivos e 1 negativo) e aqui no gabinete só tem um positivo e um negativo. No manual também pede um conector de +5V no pino 1 e aqui no gabinete não tem esse conector. ;_; 
+ >8k em um pc \r\n >não sabe montar 
+ >>27585779 \r\n Se não souber fazer é melhor nem tentar. Vai fornicar essa placa-mãe de bosta .
+ >>27585779 \r\n Devo tentar ligar assim mesmo sem o pino de +5V? Also, o Power LED (+) eu coloco no pino 12 ou deixo no 13 mesmo?
+ Aposto um pepe raro que o pc ou não vai ligar ou se ligar vai soltar cheiro de queimado dessa fonte asquerosa.
+ >AMD 
+ >>27585838 \r\n Respondam.
+ Ainda não montou esse computadô, Pedrinho?

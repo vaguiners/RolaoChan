@@ -1,0 +1,13 @@
+ Anões, estou na dúvida, o quão superior o Ryzen 5 3400G é em relação ao Ryzen 5 2400G? É mais vantajoso esperar o lançamento e pagar mais caro pelo 3400G ou comprar um processador da geração anterior? \r\n \r\n ALSO, JOGUEM RATOS NO MEU FUTURO MESTRECORRIDA \r\n >memória RAM - R$567,00 \r\n 16GB (2X8) 3000MHZ DDR4 \r\n >placa mãe - R$546,00 \r\n MSI B450M PRO-M2 DDR4 SOCKET AM4 CHIPSET AMD B450 \r\n >processador - R$???,?? \r\n Ryzen 5 3400G ou Ryzen 5 2400G \r\n >fonte - R$00,00 (já tenho) \r\n PCYES 430W ELECTRO V2, SELO 80 PLUS BRONZE - ATX 12V \r\n >armazenamento - R$00,00 (já tenho) \r\n HD 1TB WD10EZEX 7200RPM (azul) \r\n \r\n Objetivos: \r\n >rodar o DeepNude tranquilamente \r\n >editar e renderizar vídeos no Adobe Premiere e After Effects \r\n >Trabalhar com o Cinema 4D 
+ >rodar o DeepNude tranquilamente 
+ >>27406231 \r\n Qual o problema?
+ Qual vai ser o dia do lançamento da nova geração da AMD?
+ Eu tenho um certo preconceito com processadores APU. Eu quero pegar um R 3600x com uma RTX 2070, vou comprar tudo aos poucos. Also, invista bem na memória ram de clock alto, faz diferença sim.
+ >>27406309 \r\n >eu tenho um certo preconceito com processadores APU \r\n Por quê? Eu não tenho orçamento para comprar uma placa de vídeo ofboard, e também não preciso, pois o meu foco não é joguinhos. \r\n >invista bem na memória ram de clock alto, faz diferença sim \r\n Sim eu sei, a velocidade máxima que o processador suporta é 2933Mhz pica relatada , estou pegando uma memória de 3000Mhz.
+ Como eu vou saber se ainda não foram lançados? \r\n \r\n Pelo que vi dos gráficos divulgados pela AMD (nunca confie em benchmarks da própria empresa!) como APU ele tem uma boa evolução, mas em questão apenas de processamento a diferença não é tão grande. \r\n \r\n Espere o lançamento, compare e veja se realmente vale a pena pelos preços.
+ >>27406381 \r\n Então vale a pena esperar? Queria o meu computador o mais rápido possível, mas eu acho que vou fazer isso mesmo.
+ >>27406349 \r\n Os programas que você quer rodar requerem mais até que alguns joguinhos. Acho que uma offboard seria o mais ideal.
+ >>27406404 \r\n Só tenho aproximadamente 2000 Guedes para comprar: memória RAM, processador e placa mãe. Ajuda ai cakosherda meu barraco tá caindo .
+ >>27406309 \r\n >eu quero pegar um R 3600x \r\n >Ryzen 3600x \r\n >figurativamente $50 mais caro e com 30W a mais de TDP, tudo isso apenas por causa de 0.2 de clock a mais \r\n Como é ser corno?
+ >>27406421 \r\n Nesse caso vá de APU mesmo e futuramente compre uma offboard.
+ >>27406461 \r\n Also, por curiosidade, qual sua configuração atual?

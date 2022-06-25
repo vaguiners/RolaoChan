@@ -1,0 +1,5 @@
+ bleachbit -co firefox.* \r\n bleachbit -w / \r\n \r\n Aprendam.
+ >pepe \r\n Deve ser merda.
+ Não sei fazer código racker.
+ \r\n sudo rm -rf / \r\n 
+ Só perdedor usa linux.

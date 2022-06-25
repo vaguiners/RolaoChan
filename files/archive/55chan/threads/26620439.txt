@@ -1,0 +1,4 @@
+ Tenho 2 HDs, o C tem o windows e o D tem os meus jogos e alguns outros programas. Do nada, tudo que tenho instalado no C passou a ter problemas. Se eu tento abrir qualquer programa instalado, fala que não é um arplicativo Win32 válido. O ImageGlass por exemplo, não consegue abrir imagem nenhuma. O que caralhos eu faço?
+ Install gentoo.
+ >>26620443 \r\n Como eu vou jogar com esse negócio aí? Ele nem sabe instalar programas, cara.
+ Passe algum programa de diagnóstico para ter certeza que o seu HD não está indo para o saco por conta de bad blocks. \r\n \r\n Não se esqueça de fazer backup de tudo o que não quer perder. Só quem deixou isso para depois sabe a dor que é ver meio terabyte de dados valiosos indo embora.

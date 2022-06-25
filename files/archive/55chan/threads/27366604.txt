@@ -1,0 +1,11 @@
+ Qual carteira bitcoin eu deveria utilizar para armazenar minhas moedinhas?
+ Electrum.
+ Coinbase.
+ >>27366736 \r\n Mas a Coinbase não é uma carteira web? Carteiras web não são consideradas inseguras?
+ >>27366772 \r\n São totalmente inseguras, não escute ele.
+ >>27366804 \r\n Por qual devo optar então? Pela Electrum mesmo?
+ >>27366811 \r\n Sim. \r\n Ou pela bitcoin Core, mas boa sorte sincronizando +300gb de blockchain.
+ >>27366831 \r\n Vou optar pela Electrum mesmo. \r\n Muito obrigado. \r\n \r\n Mais tarde eu vou testar o cartão pré-pago que pode ser carregado através de bitcoins da Paycent, mas antes preciso de uma carteira para ser pago pelos meus serviços.
+ Paper wallet dentro de um cofre, sendo que você memorizou os últimos 6 dígitos da chave privada.
+ >>27366772 \r\n Eu acho que qualquer coisa web tem um nível de insegurança (não só em relação à interferência externa, mas também a erros do próprio usuário), mas a Coinbase já me passa uma boa imagem, então eu aceito correr os riscos em prol da praticidade que o serviço me oferece. Com dinheiro de verdade isso também aconteceu: eu já adotei a Nuconta como 'conta bancária principal' e deixei o banco tradicional um pouco lado. Mas por segurança eu não migrei 100%, então nos bitcoins eu também acho que não é uma boa deixar 100% da fortuna num só serviço.
+ >>27367008 \r\n Ah, sim. Eu li o guia sobre carteiras no coinvigilance e inforkosherm que as carteiras web são as mais inseguras, mas são boas para utilizar de forma mais prática. Porém recomendaram o armazenamento em hardware como o mais seguro, mas não estou a fim de pagar 89 libras em um dispositivo.

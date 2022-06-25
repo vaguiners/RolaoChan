@@ -1,0 +1,4 @@
+ Existe algum jogo para aprender regra de três escrita um Python3 que roda na IDE?
+ Por isso que existe tanto preconceito contra Python no Bostil.
+
+ Bump.

@@ -1,0 +1,5 @@
+ TIfags, como posso saber se meu PC está infectado com trojan e alguém monitora todos os meus passos?
+ Anti vírus.
+ Se você não consegue verificar isso sozinho, merece ser espionado.
+ Spybot: Search and Destroy \r\n NOD32 ou Kaspersky. NOD32 tira até resquício de keylogger que você usa pra administrar os logs de outros computadores.
+ >>25792515 \r\n Tô olhando aqui a inicialização de programas no msconfig mas nada de anormal.

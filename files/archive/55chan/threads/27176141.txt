@@ -1,0 +1,59 @@
+ Anons do meu /b/, me convençam a não pedir essa merda agora mesmo. \r\n \r\n Meu objetivo é jogar joguinhos dessa geração em 60fps, não importo se for nas configurações mínimas. \r\n \r\n https://www.pichau.com.br/computador-pichau-gamer-rtb-ryzen-5-2400g-geforce-gtx-1060-6gb-galax-oc-gddr5x-ram-8gb-ddr4-hd-1tb-500w-magpie-2 
+ >gtx 1060 \r\n >3000 pila \r\n Nem li o resto.
+ Antes de tudo procure o preço de cada peça desse setup em outras lojas. \r\n \r\n Se realmente sair em conta, compre, oras. \r\n Also, igual o anão de cima falou. Acho que dá para montar um melhor com 3K.
+ Kek, essa build não faz o mínimo sentido, colocando GTX 1060 em um fodendo Ryzen 5 2400G. \r\n Vá tomar no seu cu, você é retardado.
+ >>27176144 \r\n Mas só a placa já é 1000 pila pra mais, anon.
+ >>27176152 \r\n Disserte, anon. Gostaria de entender o seu ponto pra tentar montar um outro, caso necessário.
+ Fonte ruim, memória ruim e HD duvidoso também. Vai pagar caro por um processador bom e uma placa de vídeo boa, o resto do dinheiro é lucro pro vendedor. \r\n \r\n Só pra ter uma comparação, comprei uma memória de 16GB ddr4, só ela foi 1mil.
+ Esse setup vai te dar 60fps em 1080p com gráficos no alto tranquilo. E é o menor preço que já vi desde 2017 já vi sair por 3.900 quando as memórias RAM estavam com pico no preço .
+ A melhor configuração atual (considerando custo, benefício e qualidade) acredito que seja: Ryzen 5 2600 e RX 580 8GB e com 3K você consegue tranquilamente fazer essa configuração OP (inserindo também custos com fonte, mobo, ram e SSD).
+ >essa placa mãe vagabunda produzida no Brasil de 150 guedes \r\n >geForce com processador AMD \r\n >não é dual channel \r\n >esse preço 
+ >>27176181 \r\n Essa merda tem placa de vídeo integrada, gênio. Se quer usar um Ryzen com placa de vídeo, compre os que não tem placa de vídeo integrada, são bem mais fortes.
+ >>27176197 \r\n Obrigado pela indicação, anon. Irei fazer algumas pesquisas sobre o preço. \r\n \r\n >>27176201 \r\n Entendi, anon. Agradeço pelo esclarecimento.
+ >>27176199 \r\n E por acaso a geforce tem que ser com a intel que é outra empresa que nada haver tem com eles?
+
+ >>27176267 \r\n >pagando 350 em mb \r\n >pagando 550 em hd \r\n \r\n Como é burro. Invista mais na mb, macaco.
+ >>27176267 \r\n O Ryzen 5 2600 é R$100 a mais e tem 6 núcleos/12 threads. \r\n \r\n SSD tá em um declínio fodido de valor, eu não gastaria muito em armazenamento agora.
+ >>27176267 \r\n >ryzen 5 2400g pra usar vom placa de vídeo off-board \r\n Tem retardado pra tudo mesmo.
+ >>27176304 \r\n >com 
+ Dê preferência ao dual channel OP, single channel pode causar spikes em alguns jogos digo isso por experiência própria. Ao invés de pegar um pente de 8gb vá de 2x4gb. Recomendo montar sua configuração personalizada tendo que vista que esses sites geralmente tem essa opção.
+ >>27176313 \r\n 8GB de memória já voltou aos R$200, melhor pegar um pente de 8 agora e comprar outro algum tempo depois, pente de 4GB é coisa de 2012.
+ 1º argumento: Espere mais 1 mês até os novos processadores Ryzen chegar, isso vai abaixar os preços \r\n 2° argumento: Pare de ser paixão e NÃO compre processadores no Bostil. R7 2700x no aliexpress custa R$1100 e você não é taxado. \r\n 3º argumento: Compre memória ram no aliexpress, aqui no Bostil é um absurdo \r\n 4º argumento: Só negrinhos bem escuros compram HD. Se você não morar na favela, provavelmente sua internet é 300Mbps ou mais, um HD vai gargalar a porra toda. Você acha SSD 480gb por R$250 no ML se procurar direito. \r\n 5º argumento: Só teutões compram computadores prontos.
+ >>27176406 \r\n 6º argumento: Sempre compre o clock máximo em memória ram que seu processador aguenta. Por exemplo, um R7 2700x aguenta 2933mhz, então compre a porra de memória 2933mhz.
+ >>27176406 \r\n >4º argumento: Só negrinhos bem escuros compram HD. Se você não morar na favela, provavelmente sua internet é 300Mbps ou mais, um HD vai gargalar a porra toda. Você acha SSD 480gb por R$250 no ML se procurar direito. \r\n Meu Desu, quanta bosta.
+ >>27176428 \r\n Ótimo argumento, negrinho.
+ >>27176438 \r\n Macaco, você sabe que 300Mbps são 30MB/s, não? \r\n Qualquer HD consegue entregar isso tranquilamente. \r\n Incluso tentando dar dica pra outro incluso é uma porra.
+ >1º argumento: Espere mais 1 mês até os novos processadores Ryzen chegar, isso vai abaixar os preços \r\n \r\n Kek. Os anões sempre falam isso e nunca abaixa.
+ >>27176444 \r\n Aliás, 37MB/s.
+ >comprando computador montado 
+ >>27176444 \r\n Negrinho, você sabe que 300Mbps são 37,5MB/s? Sem contar que é comum a velocidade ultrapassar 40MB/s. Nem deve saber a diferença de bit para byte. Negrinhos não conseguem projetar o futuro, daqui 1 ou 2 anos, quando a velocidade de internet for 1Gbps o HD estará gargalando.
+ >>27176485 \r\n Eu digitei errado, mas fixei aqui >>27176450 . \r\n E sei sim a diferença, macacola. \r\n Também não tira o fato que um HD decente aguenta tranquilo 100Mb/s de leitura e escrita. \r\n >1Gbps \r\n No Bostil? \r\n Com essa internet fodida do país, só daqui 10 anos pra ter isso, até lá todo mundo vai ter SSD. \r\n Poucas operadoras já entregam mais de 240Mbps se não for pra empresa, a NET e VIVO fazem isso.
+ >>27176485 \r\n Como você você consegue ser burro a esse ponto? \r\n Você é judeu?
+ >todo mundo xingando o OP \r\n >ninguém montou uma build que bate o OP \r\n Apenas criticar, não te faz melhor, idiota.
+ >>27176551 \r\n Cheguei a gaguejar de tanto ódio.
+ >>27176199 \r\n >esse maymay sobre 'usá geforce com amd xDxD' em 2019 \r\n Volte para o clube do hardware em 2004.
+ Eu esperaria pela terceira geração dos Ryzen. Também não pegaria uma 1060, já partiria logo pra algo no nível de uma 1660ti.
+ >>27176541 \r\n >>27176551 \r\n >>27176556 \r\n Chora mais, negrinho favelado. Se você mora no cu do Brasil, numa cidade nordestina que não tem nem 99% de saneamento básico, não espere ter uma boa infraestrutura para internet NUNCA. A cada ano a internet triplica a velocidade, 2017 era 40Mbps, 2018 foi 100Mbps, esse ano 2019 é 300Mbps. Provável que 2020 será 600Mbps, 2021 1Gbps, e por aí vai. Eu não moro na parte subdesenvolvida do Brasil, pago R$150 para ter 5G ilimitado + 300Mbps internet.
+ NT: Como explicar para uma pessoa como funciona um PC comprado inteiro.
+ >>27176623 \r\n >pago R$150 para ter 5G ilimitado + 300Mbps internet. \r\n >5G 
+ >>27176611 \r\n Verdade, esqueci dessa parte. \r\n 7° Argumento: GTX1060 já está defasada.
+ >comprando PC pronto \r\n Sempre é mais caro que montar o seu próprio.
+ >>27176623 \r\n >5G \r\n \r\n Ai forçou meu rei. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>27176629 \r\n Não entendi.
+ >>27176631 \r\n Corrigindo: 4.5G. \r\n Estava pensando na internet wifi 5Ghz. Não tem nada a ver uma coisa com a outra, ignore o erro.
+ >>27176629 \r\n Exemplo infeliz. \r\n Com esse exemplo, você estaria dizendo que comprar um computador montado é melhor. Olha esses carros de favelados, puta que pariu.
+ >>27176646 \r\n Me mostre a propaganda vendendo 4,5G com internet ilimitada e a este preço.
+ >>27176623 \r\n >esse damage control porque ficou sem argumento \r\n KEK.
+ >>27176660 \r\n Expirou, era a promoção de maio.
+ >>27176679 \r\n >provei categoricamente que a porra do HD ficará defasado em 1 a 2 anos \r\n >dur hur ficou sem argumento \r\n \r\n Kek's.
+ Nunca mudem.
+ >>27176646 \r\n >4,5G \r\n KEK. Mal temos 3G funcionando direito aqui e as empresas de telefonia enganam o quejim minas com 4.5G. \r\n Nem existe isso de 4.5G. Não existe padrão que defina isso.
+ >>27176485 \r\n Na verdade, a maioria dos serviços de streaming baixam o conteúdo direto na memória.
+ >pichau 
+ Kit 4k: \r\n \r\n Ryzen 2700x: R$1050 \r\n https://pt.aliexpress.com/item/AMD-Ryzen-7-2700X-R7-2700X3-7-GHz-Eight-Core-16-Sinteen-Rosca-M-105-W/33016315875.html?spm=a2g03.search0104.3.9.7ab867ce6krgTI&transAbTest=ae803_5&ws_ab_test=searchweb0_0%2Csearchweb201602_9_10065_10068_10547_319_10059_10884_317_10548_10887_10696_321_322_10084_453_10083_454_10103_10618_10307_537_536%2Csearchweb201603_52%2CppcSwitch_0&algo_pvid=c21f48b0-a488-46e2-be04-7ee88e278f83&algo_expid=c21f48b0-a488-46e2-be04-7ee88e278f83-1 \r\n \r\n 2x 8gb 3000mhz Corsair: R$490 \r\n https://pt.aliexpress.com/item/CORSAIR-pc4-ram-ddr4-8-GB-3000-MHz-RGB-PRO-Suporte-de-Mem-ria-DIMM-de/32965771646.html?spm=a2g03.search0104.3.1.5dd41136niCfw6&transAbTest=ae803_5&ws_ab_test=searchweb0_0%2Csearchweb201602_9_10065_10068_10547_319_10059_10884_317_10548_10887_10696_321_322_10084_453_10083_454_10103_10618_10307_537_536%2Csearchweb201603_52%2CppcSwitch_0&algo_pvid=9455706a-0d4b-4e46-8efc-a9d6be5027e6&algo_expid=9455706a-0d4b-4e46-8efc-a9d6be5027e6-3 \r\n \r\n Fonte 80 plus Gold 650W: R$340 \r\n https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=92714 \r\n \r\n Placa Mãe Gigabyte B450M DS3H: R$500 \r\n https://www.terabyteshop.com.br/produto/9851/placa-mae-gigabyte-b450m-ds3h-ddr4-crossfire-am4 \r\n \r\n SSD 480GB: R$280 \r\n https://pt.aliexpress.com/item/Kingston-UV400-SSD-120GB-240GB-480GB-2-5-inch-SATA-III-HDD-Hard-Disk-HD-SSD/32805591095.html?spm=a2g03.search0104.3.8.45752515MphEGl&ws_ab_test=searchweb0_0,searchweb201602_9_10065_10068_10547_319_10059_10884_317_10548_10887_10696_321_322_10084_453_10083_454_10103_10618_10307_537_536,searchweb201603_52,ppcSwitch_0&algo_expid=ec27be1a-9971-4eec-ba55-20c87668885d-1&algo_pvid=ec27be1a-9971-4eec-ba55-20c87668885d&transAbTest=ae803_5 \r\n \r\n RTX 2070: R$2600 \r\n https://www.kabum.com.br/produto/100858/placa-de-video-msi-nvidia-geforce-rtx-2070-ventus-8g-gddr6 \r\n \r\n Se não puder comprar tudo de uma vez, aconselho comprar o computador à vista e depois ajuntar dinheiro para comprar a placa de vídeo.
+ >>27176885 \r\n >Se não puder comprar tudo de uma vez, aconselho comprar o computador à vista e depois ajuntar dinheiro para comprar a placa de vídeo. \r\n E que placa de vídeo ele usará até terminar de juntar dinheiro, macaco?
+ >>27177258 \r\n A placa da sua mãe, aquela puta.
+ O pós venda da Pichau é uma merda anão. Enjoe ser tratado como um judeu caso alguma peça precise de garantia.
+ >3000 presidentes num pc midend \r\n Alguém me tira desse país, pelo amor de deus.
+ Por que esses macacos insistem em enfiar placas mãe e memória lixo? Qual a dificuldade de fazer um PC com memória de clock alto e placa mãe que as aceite sem precisar ser OC?
+ Só esse gabinete gaymer já vale uns R$ 500 ou mais, é melhor tu pegar as configurações dele e montar com um gabinete mais simples em outro site.

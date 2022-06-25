@@ -1,0 +1,30 @@
+ Anões, qual é o serviço de Armazenamento em Nuvem que oferece mais espaço? Irei precisar de upar dezenas de vários arquivos, e essa brincadeira vai acabar em uns 10TB (no mínimo). Existe algum serviço que ofereça esse tanto de espaço, ainda que seja pago? \r\n \r\n Pago sendo um bom anão.
+ Eu uso um chinês muito louco. Upo até cafezinho lá e feijoada. \r\n \r\n Eu fecho com chinês da tecnologia!
+ Google drive oferece 15gb no plano gratuito além de integração completa com android e serviços google. Recomendo.
+ >>27209223 \r\n Você definitivamente não viu o parênquima paliçádico do anão que teve a conta deletada porque tinha livros 'piratas'
+ >>27209235 \r\n Tenho 8gb de livros didáticos há mais de dez anos na minha conta, além de diversos softwares piratas. \r\n Esse anão estava pescando.
+ >>27209213 \r\n Você sabe que você vendeu a alma para o chinês?
+ >>27209223 \r\n Você é burro? O Op perguntou uma coisa e você respondeu algo totalmente diferente. \r\n \r\n Op, recomendo o Mega, mas ele só oferece no máximo 8TB com um plano pago. O drive só presta se usar para coisas pessoais, mesmo assim (((eles))) vão ficar de olho em tudo. 
+ >>27209282 \r\n Obrigado, anão. Como irei usar mais de 8TB, irei criar duas contas e é isso. Acho que de todos, o MEGA é o 'menos pior'.
+ Op, vamos lá. \r\n Backblaze vai te oferecer o melhor preço. $60,00 pelo plano ilimitado, mas ele não oferece sincronização igual Google Drive ou Dropbox eu acho. É algo para backups, mas espaço não iria faltar. \r\n https://www.backblaze.com/backup-pricing.html 
+ >>27209306 \r\n Anão é irmão. \r\n Also, o único problema é a 'qualidade' do mega, os seus aplicativos parecem estar em uma versão beta de 2014, espero que melhore na versão paga.
+ PCLOUD. Eu tenho 7gb aqui, mas se não me engano tem como pegar até uns 20. \r\n \r\n Tem sincronização de pastas no PC. Eu uso ele no android também, mas não lembro se dá pra sincronizar pastas.
+ >>27209330 \r\n Also, Esse plano de $60,00 ilimitado é por ano. \r\n \r\n Acabei de ver aqui, eles também tem armazenamento comum por $0.005 por gb por mês, 10tb ficaria $50 por mês.
+ >>27209242 \r\n Não é pescaria. \r\n Eu também já tive arquivos deletados.
+ >>27209372 \r\n Tenho o Drive há anos e salvo de tudo por lá, desde minha pasta /b/, até shows e filmes piratas. Tenho também milhares de ebooks, e nunca deletaram um arquivo sequer. Só deletam qualquer coisa, se você for macaco o suficiente para ficar compartilhando links dos seus arquivos a torto e dire­ito.
+ Por que não compra um HD externo?
+ >>27209404 \r\n Eu tenho 2 HD's Externos… 1 de 8TB e outro de 4TB, e todos os arquivos estão nele… A questão é que eu realmente vou precisar de upar isso em algum servidor on-line. Trata-se de um trabalho.
+ >>27209422 \r\n Você realmente acha que precisa ter backup de tantos filmes? Isso é doença.
+ >>27209422 \r\n Nesse caso os $60,00 por ano para backup ilimitado seria ideal, anão.
+ >10TB \r\n Meua migo, isso é coisa pra caralho. Dos 3 que eu confio (Google, Microsoft e Dropbox), só o Google oferece tudo isso numa só conta, pela bagatela de R$ 350 por mês. Nos outros 2 serviços e até no próprio Google sai mais barato criar diversas contas. Se estiver disposto a isso compensa pegar 2 Office Home, que oferece 1 GB para 6 usuários cada (no total seria 12 GB e 12 usuário) e custa R$ 180 por ano (totalizando R$ 360). Se não quiser toda essa divisão acho melhor alugar um servidor mesmo.
+ >>27209448 \r\n >acho melhor alugar um servidor mesmo \r\n Ia sugerir isso mesmo ao OP. Um básico da OVH sai por praticamente o mesmo preço do Google Drive mensal, só que com 24TB de espaço. \r\n \r\n https://www.ovh.com/world/dedicated-servers/advance/adv-stor-1/ 
+ >>27209486 \r\n A página está em inglês.
+ >>27209512 
+ >>27209535 \r\n Me ajuda ai, irmão, eu não falo inglês.
+ Usa o Dropbox, anão. \r\n Postaram um link aqui esses dias para adicionar espaço na conta gratuita. \r\n \r\n Dropbox 18 Gb (na Sua Conta Atual, Vitalício) \r\n \r\n \r\n https://produto.mercadolivre.com.br/MLB-1177524338-dropbox-18-gb-na-sua-conta-atual-vitalicio-_JM 
+ >>27209486 \r\n 1000 dólares por mês?
+ Caralho, amizade, conta pra gente o que você quer upar? Não precisa falar detalhadamente, é que eu fiquei realmente curioso.
+ >>27209242 \r\n Não estava não. Eu já tive a conta inteira deletada porque upei um vídeo com copyright privado pra mim no youtube. Vá shillar na casa do caralho. Não é porque não aconteceu com você que não vai acontecer com os outros, floquinho de neve centro do universo. \r\n \r\n Also, estou esperando o dia em que vou rir da cara de vocês por botarem essas merdas na nuvem e tiverem que responder por isso.
+ >>27211197 \r\n Complementando. OP, tem esse aqui de 3TB lifetime: https://home.zoolz.com/3tb-lifetime-ho/ \r\n \r\n Basta pagar 3 contas e nunca mais pagar nada.
+ >não comprando um raspberry pi \r\n >não criando um servidor com ele usando Express \r\n >não pegando um sistema pronto do github para transferência de arquivos para o servidor e vice-versa \r\n >não enjoando uma nuvem sempre online sem nenhuma interferência do judeu 
+ >>27211130 \r\n Pagar por 18 é melhor botar num container e upar no google de uma vez, com 15 grátis.

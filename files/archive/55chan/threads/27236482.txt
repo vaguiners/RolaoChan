@@ -1,0 +1,30 @@
+ Objective-C é melhor do que C++. \r\n \r\n Mude a minha mente.
+ Não. Passar bem.
+ Não sou programador, anãozinho.
+ >>27236490 \r\n Sua mamãe não te ensinou a fazer programa?
+ >>27236507 \r\n Que bobão sem graça.
+ Python < all.
+ >>27236521 \r\n Não, pera, eu errei o lado do sinal.
+ >>27236521 \r\n Será que vale a pena tomar a pythonpill?
+ Use Nim rod.
+ >>27236542 \r\n Se você não sabe programar nada é um bom lugar para começar. \r\n Semana passada eu não sabia fazer nada, ontem eu fiz um pequeno Jankenpon :3.
+ >>27236550 \r\n Eu já sei programar. Python me parece bem popular hoje em dia.
+ >>27236542 \r\n Pythonpill é um supositório de 23cm.
+ >>27236563 \r\n Mesmo assim, parece uma boa linguagem para fazer scripts. Mas é bom você.
+ >>27236550 \r\n Passa o código pra cá, animeamigo. Deixe-me dar uma olhada nele!
+ >>27236683 \r\n >animeamigo \r\n Não me misturo com essa gentalha.
+ >>27236719 \r\n Me arrependo pelo equívoco e peço perdão por te rotular erroneamente como Animeamigo. \r\n Entretanto, solicito-lhe o seu código para uma posterior leitura e análise do mesmo.
+ >>27236796 \r\n \r\n from random import randint \r\n def menu(): \r\n escolha = int(input('''Bem-vindo ao Jankenpoii :3! \r\n \r\n Opções para jogar: \r\n 0 - Papel \r\n 1 - Pedra \r\n 2 - Tesoura \r\n \r\n Digite sua escolha: ''')) \r\n return escolha \r\n \r\n def jogo(jog, comp): \r\n if jog == comp: \r\n return 4 \r\n elif jog == 0 and comp == 2: \r\n return 5 \r\n elif jog == 1 and comp == 0: \r\n return 5 \r\n elif jog == 2 and comp == 1: \r\n return 5 \r\n else: \r\n return 6 \r\n \r\n def partidas(total, vitoria, derrota, empate): \r\n print('\nVocê jogou', total, 'partidas:') \r\n print('Porcentagem de vitórias: '+'{:.2%}'.format(vitoria/total)) \r\n print('Porcentagem de derrotas: '+'{:.2%}'.format(derrota/total)) \r\n print('Porcentagem de empates: '+'{:.2%}'.format(empate/total)) \r\n \r\n t = 0 \r\n v = 0 \r\n d = 0 \r\n e = 0 \r\n lista = ['Papel', 'Pedra', 'Tesoura'] \r\n player = menu() \r\n computador = randint(0, 2) \r\n print('O computador escolheu: {}'.format(lista[computador])) \r\n \r\n while player == 0 or player == 1 or player == 2: \r\n y = jogo(player, computador) \r\n t += 1 \r\n if y == 5: \r\n print('Você perdeu! ;_;') \r\n d += 1 \r\n elif y == 6: \r\n print('Você ganhou! >:3') \r\n v += 1 \r\n elif y == 4: \r\n print('Empate! ¯\_(ツ)_/¯') \r\n e += 1 \r\n player = int(input('\nEscolha de novo ou digite qualquer outro número para encerrar: ')) \r\n computador = randint(0, 2) \r\n if player == 0 or player == 1 or player == 2: \r\n print('O computador escolheu: {}'.format(lista[computador])) \r\n else: \r\n print('\nEncerrando jogo…') \r\n \r\n else: \r\n resultado = partidas(t, v, d, e) \r\n 
+ >>27236918 \r\n Seu código está bugado, anão. Trate de corrigir. \r\n \r\n Alias, chequem meu K/D quase perfeito.
+ >>27237175 \r\n Aqui está normal. \r\n \r\n from random import randint \r\n def menu(): \r\n escolha = int(input('''Bem-vindo ao Jankenpon :3! \r\n \r\n Opções para jogar: \r\n 0 - Papel \r\n 1 - Pedra \r\n 2 - Tesoura \r\n \r\n Digite sua escolha: ''')) \r\n return escolha \r\n \r\n def jogo(jog, comp): \r\n if jog == comp: \r\n return 4 \r\n elif jog == 0 and comp == 2: \r\n return 5 \r\n elif jog == 1 and comp == 0: \r\n return 5 \r\n elif jog == 2 and comp == 1: \r\n return 5 \r\n else: \r\n return 6 \r\n \r\n def partidas(total, vitoria, derrota, empate): \r\n print('\nVocê jogou', total, 'partidas:') \r\n print('Porcentagem de vitórias: '+'{:.2%}'.format(vitoria/total)) \r\n print('Porcentagem de derrotas: '+'{:.2%}'.format(derrota/total)) \r\n print('Porcentagem de empates: '+'{:.2%}'.format(empate/total)) \r\n \r\n t = 0 \r\n v = 0 \r\n d = 0 \r\n e = 0 \r\n lista = ['Papel', 'Pedra', 'Tesoura'] \r\n jogador = menu() \r\n computador = randint(0, 2) \r\n print('O computador escolheu: {}'.format(lista[computador])) \r\n \r\n while jogador == 0 or jogador == 1 or jogador == 2: \r\n y = jogo(jogador, computador) \r\n t += 1 \r\n if y == 5: \r\n print('Você perdeu!') \r\n d += 1 \r\n elif y == 6: \r\n print('Você ganhou!') \r\n v += 1 \r\n elif y == 4: \r\n print('Empate!') \r\n e += 1 \r\n jogador = int(input('\nEscolha de novo ou digite qualquer outro número para encerrar: ')) \r\n computador = randint(0, 2) \r\n if jogador == 0 or jogador == 1 or jogador == 2: \r\n print('O computador escolheu: {}'.format(lista[computador])) \r\n else: \r\n print('\nEncerrando jogo…') \r\n \r\n else: \r\n resultado = partidas(t, v, d, e) \r\n \r\n 
+ Programação é coisa de corno. \r\n Mudem a minha mente.
+ >>27237248 \r\n >Mudem a minha mente. \r\n Não.
+ Objective-C tem a mesma falha do Python, tem um desempenho sofrível.
+ >>27237227 \r\n Tente corrigir o erro das porcentagens. ( ou prove-me que aí realmente está funcionando perfeitamente )
+ >>27237263 
+ >>27237273 \r\n O que você está usando para rodar o Python?
+ >>27237277 \r\n Spyder. \r\n Você está usando Python 3?
+ >>27237297 \r\n Não. 2.7.
+ >>27237297 \r\n Usei o Repl.it e deu tudo certo. Desculpe o Brainletismo.
+ >>27236482 \r\n \r\n >tendo entender essa merda de imagem \r\n >@interface \r\n >(NSString *) \r\n >esses - e + no começo da linha \r\n \r\n Entendi foi porra nenhuma.
+ >>27237262 \r\n >desempenho sofrível \r\n >linguagem foi por muitos anos apenas uma grande macro por cima de C \r\n >hoje compila nativamente no gcc linkando uma única biblioteca (lobjc) \r\n \r\n Macaco, se você não sabe do que está falando, apenas mantenha-se calado.

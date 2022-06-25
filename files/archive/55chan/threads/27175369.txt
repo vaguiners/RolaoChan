@@ -1,0 +1,6 @@
+ Três frequências de ressonância num tubo de órgão são 1310 Hz, 1834 Hz e 2538 Hz. \r\n a) O tubo é aberto nas duas extremidades ou fechado numa extremidade e aberto na \r\n outra? \r\n b)Qual a frequência fundamental? \r\n c)Qual o comprimento do tubo? \r\n Velocidade do som = 340 m/s. \r\n \r\n Esqueci como faz essa bosta e preciso entregar, não sou criança, é um problema de física II. Eu era bom nisso, já esqueci tudo. \r\n Achei a frequência fundamental, e depois?
+ Tubo de órgão costuma ser aberto nas duas. \r\n \r\n Cheque: http://www.webassign.net/question_assets/buelemphys1/chapter21/section21dash10.pdf 
+ >>27175399 \r\n Como eu sei se esse do exercício é aberto? Como justificar?
+ >>27175400 \r\n É um órgão, porra. Precisa de um furinho pra entrar o ar. Os físicos simplificam as coisas de tal modo que elas não representam mais o que eles estão analisando, então provavelmente na verdade conta como tubo fechado em uma ponta.
+ >>27175427 \r\n Eu preciso do cálculo.
+ >>27175430 \r\n Veja o link que eu botei aqui: >>27175399 

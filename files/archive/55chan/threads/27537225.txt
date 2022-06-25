@@ -1,0 +1,2 @@
+ Existe algum modo de eu monitorar o consumo de toda minha rede residencial? O Windows mostra apenas o consumo no meu computador e eu gostaria de saber quanto todos aparelhos conectados consomem em um mês.
+ >Wireless Network Watcher \r\n >NetWorx \r\n >NetLimiter 

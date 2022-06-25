@@ -1,0 +1,1 @@
+ Estou querendo apostar uma dinheiro no PokerStar, mas eu uso linux e não estou afim de tentar emular esse programa com o Wine. Devo formatar o meu pc para o Ruindows só para jogar poker apostado? \r\n \r\n O meu pc é um intel celeron e não dá para virtualizar, pois ele é bem fraco! 

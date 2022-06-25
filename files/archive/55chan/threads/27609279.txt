@@ -1,0 +1,1 @@
+ Qual o melhor algoritmo de compressão existente na atualidade? Estou cansado da porra do tarball e do gunzip corrompendo meus arquivos toda vez que comprimo algo grande.

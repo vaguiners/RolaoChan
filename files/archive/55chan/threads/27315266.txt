@@ -1,0 +1,6 @@
+ Tenho que formatar meu notebook, o W7 está uma merda e estou cansado dele. \r\n Quero instalar o XP, não lembro mais quais são as maiores diferenças entre os dois. \r\n É possível formatar e instalar o XP em cima do 7 sem dar conflito?
+ Use Linux. Experimente o Mint Linux, se quiser algo mais leve, Lubuntu Linux.
+ Não dê ouvido a esses inclusos, use Arch Linux e viva na excelência!
+ Veja antes se seu notebook tem drivers para windows xp, mas dependendo do que for fazer, siga o conselho do anão acima, instale uma distro do Linux.
+ Recomendo o Linux Mint. Já vem com todos os drivers.
+ Instale Gentoo.

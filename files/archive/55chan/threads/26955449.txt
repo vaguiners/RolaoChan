@@ -1,0 +1,13 @@
+ Anões, o que devo aprender de matemática para ser um bom cientista da computação e não travar nos grandes livros de algoritmos e computação? \r\n \r\n Estou pensando em estudar: \r\n >Álgebra Linear \r\n >Análise Combinatória \r\n >Cálculo Diferencial e Integral \r\n >Geometria Analítica \r\n >Lógica Matemática \r\n >Matemática Discreta \r\n >Probabilidade e Estatística \r\n \r\n Esse é todo conteúdo do POSCOMP de matemática. O que acham?
+ Essa é a parte mais difícil do pos comp. \r\n O resto é fácil. \r\n Se você sabe programar em C, você sabe programar nas milhões de linguagens derivadas que são populares. \r\n SQL é ridículo de fácil. Teoria relacional também.
+ Eu odeio esse maldito curso. Não sei porque fui fazer essa merda. Só tem retardado pseudo-channer com mentalidade de adolescente na turma. Mesmo não dando fornicação pra amizades é difícil ouvir tudo. Só não saio dessa merda porque o mercado de trabalho tá melhor do que o de outros cursos que eu tinha em mente. Fim de tweet.
+ Muito bom.
+ >>26955513 \r\n Cringe.
+ Não gaste muito tempo com conhecimento teórico de matemática. Gaste tempo de fato programando e engordando seu portfolio.
+ >>26955513 \r\n >Só tem retardado pseudo-channer com mentalidade de adolescente na turma \r\n Pode dar exemplos? Algo que você ouviu um dia desses?
+ >>26955466 \r\n Poderia indicar algum livro para esses tópicos?
+ >>26955680 \r\n Secundo.
+ >>26955680 \r\n Esse livro.
+ >>26957240 \r\n Imagem não foi.
+ >>26957245 \r\n Esse livro não está defasado? (por causa daquelas viadagens da linguagem C ter padrões e por ele ter sido escrito em 88)
+ Pro mercado brasileiro talvez isso nem te ajude muito, mesmo em aplicações de aprendizado de máquina, é tudo feito como caixa preta. \r\n \r\n Agora se sua ambição é ser um bom cientista da computação, terá que estudar muita, mas muita matemática.

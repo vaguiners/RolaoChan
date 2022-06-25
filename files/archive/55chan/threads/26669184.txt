@@ -1,0 +1,10 @@
+ Existe alguma maneira de fazer stream sem depender de um serviço como cancrobook ou p eriscope? \r\n Digo, suponham que eu tenha um site hospedado em um servidor. Suponham que eu tenha um smartphone e queira fazer uma live usando ele, mas só que eu quero que essa live seja transmitida diretamente para meu site. Também seria bom que o site salvasse automaticamente a live, mesmo que ela fosse interrompida abruptamente. \r\n Isso é possível?
+ Só te digo se você me disser quantos vai matar!
+ >>26669193 \r\n Não quero fazer isso. A stream é para outro propósito.
+ >>26669195 \r\n É para se matar?
+ >essa foto \r\n >essa pergunta \r\n Porra, anão, onde vai ser o massacre?
+ >>26669197 \r\n 50%. \r\n >>26669198 \r\n Usei a primeira foto que achei na minha /b/ folder. Não tem a ver com o conteúdo do post.
+ RTMP.
+ >>26669207 \r\n Achei um aplicativo no JewglePlay. \r\n Como eu deveria fazer se quisesse ter uma página em um site meu com um player que mostrasse tudo que meu espertofone estivesse filmando?
+ Bump.
+ >>26669224 \r\n Existem vários tutoriais no jewgle explicando isso.

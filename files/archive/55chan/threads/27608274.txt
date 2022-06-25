@@ -1,0 +1,5 @@
+ Você aprendeu algo de novo hoje? \r\n Eu aprendi que há situações nas quais a palavra 'mas' não precisa ser precedida por uma vírgula. Também aprendi que já gravaram um filme no meu bairro.
+ Waterboarding é uma técnica muito efetiva e elegante de tortura, que eu já devia saber do item anterior e me sinto um pouco envergonhado pelo minha ignorância, um vídeo que eu sempre achei ser brasileiro na verdade era estrangeiro e que a vida vai continuar me chutando no saco de pequenas formas diferentes a cada vez que eu me sentir um pouquinho feliz pelo pouco que tenho.
+ Aprendi que cegos têm o relógio biológico meio bugado por causa do sono (ou o contrário).
+ Eu aprendi que pessoas vazias são compradas por uma quantidade irrisória de dinheiro.
+ Aprendi que aplicar limitação de corrente em um lm317, usando um operacional e resistor shunt não é tão simples como eu pensava. \r\n Não confiem no LTSpice, amiguinhos.

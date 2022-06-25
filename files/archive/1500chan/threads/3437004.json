@@ -1,0 +1,12 @@
+[
+  "Comecei a estudar Python e estou achando a linguagem um pouco estranha. \r\nAo invés de chaves ela te obriga a tabular o código. Isso parece ser algo bom pois evita péssimas tabulações que são permitidas em outras linguagens. Essa foi minha primeira impressão.\r\n\r\nA segunda é que Python na sua forma pura é uma linguagem server-side baseada em scripts.\r\nOu eu crio um script ou uma API.\r\nPara se criar uma interface é necessário usar alguma outra linguagem como Javascript, React, etc. + HTML e CSS.\r\n\r\nEstou correto? \r\nSou oldfag em linguagens antigas como Clipper, C, VB, Delphi, Java com Swing, etc. mas totalmente newfag em coisas mais modernas.\r\n\r\nOutra percepção que eu tenho é que Python tem várias vertentes diferentes. Criação de APIs, Data Mining, Data Crawler, hackearias, etc.\r\nSpringBoot por exemplo vejo mais sendo usada para a criação de APIs. \r\nQual o endgame do Python?",
+  "Python é mais simples, porém deixa a desejar em algumas áreas.",
+  ">Ao invés de chaves ela te obriga a tabular o código.\r\nIsso é uma merda sem tamanhos. A intenção é boa, mas atrapalha pra caralho.",
+  "Vale a pena eu estudar para virar o mago do Python ou é melhor estudar outra linguagem com mais futuro e salários mais altos?",
+  ">>3437170\r\nEstude outra merda. O mercado de Pitonio é restrito. ",
+  ">>3437176\r\nTou pensando em estudar Node, React e essa parafernalha toda de JS/TS para front e back. Não parece ser tão ruim.",
+  ">>3437287\r\nSó faça isso. ",
+  ">>3437170\nPython é a linguagem mais usada nas duas áreas que dominarão (já dominam, mas dominarão muito mais) TI: Big Data e Machine Learning.  Mas, obviamente, não são para macacos. Vai precisar estudar várias outras coisas além disso.",
+  ">Ao invés de chaves ela te obriga a tabular o código. Isso parece ser algo bom pois evita péssimas tabulações que são permitidas em outras linguagens. Essa foi minha primeira impressão.\r\nO surreal pra mim foi saber que tem gente que coda sem indentação.\r\n>Para se criar uma interface é necessário usar alguma outra linguagem como Javascript, React, etc. + HTML e CSS.\r\nExistem bibliotecas python que criam interfaces.\r\n>>3437176\r\nA caralhada de vaga aberta pra área de dados com python.\r\n>>3437170\r\nNão basta saber apenas python puro, pois dificilmente vagas em python são pra \"back-end\". Como o >>3437315 disse. Pra conseguir emprego com python tem que saber outras bibliotecas,pandas, pyspark, numpy, sckitlearn, etl, estatística, cálculo, etc.\r\n",
+  "Esttou começando agora, estou aprendendo no Portugol."
+]

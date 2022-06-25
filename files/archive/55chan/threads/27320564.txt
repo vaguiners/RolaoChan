@@ -1,0 +1,12 @@
+ Pra que serve o Linux? \r\n Sei programar php e sql, e entendo o um pouco mais que o básico de redes, ftp, essas merdas. Meu nivel de inclusão é leve. Mas até agora não entendi onde é que o Linux poderia me ser útil. Nunca consegui aprender aquela merda, ou usar alguma distro por muito tempo. Sempre acabo voltando para o bom e velho janelas. \r\n \r\n Ainda assim, tenho curiosidade de aprender a utilizar esse SO. \r\n \r\n Qual é o caminho das pedras? O que há no final deste caminho? Me tonarei um hackerman? Em que, exatamente, isso agregará na minha vida? Vale a pena me dedicar a estudar o assunto? \r\n \r\n Pica não relatada.
+ Instale e configure o Slackware.
+ >malhando pra pegar muié 
+ >>27320580 \r\n Pra que? Como? Eu fico 100% perdido quando tento configurar essas porras.
+ Só serve para fazer um servidor e deixar ele abandonado, sem contar que grandes empresas ainda preferem a estabilidade e confiança de um Windows Server.
+ Tem algumas toolchains que só tem pra Linux, e pra usar em Windows você precisa de máquina virtual. O fornicação é quando você pega um projeto aleatório para modificar e tem que ficar editando makefile e não consegue compilar de jeito nenhum porque o gcc não encontra arquivos que estão figurativamente na mesma pasta que outros arquivos que ele já compilou e linkou.
+ >acha que sabe programar \r\n >não sabe o que é gnu \r\n >nível de inclusão médio \r\n \r\n Perdi mais do que deveria.
+ >>27320584 \r\n >pagando pra fazer esforço 
+ Instale Haiku.
+ Puta que pariu, toda semana um retardado postando esse tipo de parênquima paliçádico. \r\n É igual a merda do seu Janelas, só não roda joguinhos. \r\n Instale alguma distro baseada em Ubuntu que qualquer imbecil consegue mexer e fazer o básico.
+ >agora não entendi onde é que o Linux poderia me ser útil \r\n >Sei programar php e sql, e entendo o um pouco mais que o básico de redes \r\n Não. Você não sabe nada.
+ >agora não entendi onde é que o Linux poderia me ser útil \r\n >Sei programar php e sql, e entendo o um pouco mais que o básico de redes \r\n \r\n - Você não sabe o que é SSH; \r\n - Você não sabe configurar um switch CISCO; \r\n - Você não sabe operar um XenServer; \r\n - Você não sabe o que é túnel reverso; \r\n - Você não sabe configurar um firewall; \r\n - Você não sabe levantar um medíocre servidor web sem piratear ou sem gastar uma grana com licença. \r\n …

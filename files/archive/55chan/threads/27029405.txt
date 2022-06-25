@@ -1,0 +1,13 @@
+ Estou tentando conectar o meu celular no USB pra passar uns arquivos mas a cada 10 segundos essa porcaria parece que desconecta e aparece uma nova janelinha de permitir a conexão MTP. Quais as chances de o cabo que era bom ter estragado, ou de ser a porta usb do próprio celular? Carregar, ele carrega normalmente.
+ 50%.
+ Tentei com outro cabo e deu a mesma coisa. É só começar a copiar um arquivo que o celular desconecta. Ô desgraça.
+ O cabo fica firme no celular? Já tive esse problema e tive que comprar outro cabo. A entrada do celular fica larga com o tempo, igual sua mãe, OP. \r\n Also, use um gerenciador de arquivos que permita transferência FTP. O ES File Explorer faz isso.
+ >>27029411 \r\n Como você sabe? Aconteceu com a sua mãe? \r\n Sim, inclusive acabei de testar com um cabo que fica bem firme e deu a mesma coisa. Qual a diferença do FTP? Acabei de ver que o ES não está aparecendo na playstore, o que a fornicação? 
+ >>27029415 \r\n Use o Sweech, meu paixão.
+ >>27029421 \r\n Por WiFi tem o aidrdroid também, mas wifi é lento.
+ >tela do celular quebra \r\n >levo numa oficina \r\n >desgraçados colocam uma tela que estraga na mesma semana \r\n >fica mais dois meses na oficina \r\n >mesma coisa \r\n >outros três meses \r\n >volta com uma tela boa mas sem reconhecer SD e reiniciando sozinho \r\n >mais mês \r\n >resolveu isso mas agora a porta USB está desse jeito 
+ >>27029437 \r\n Qual é o seu celular? Chama o Celso Russomanno. 
+ >>27029451 \r\n S5.
+ É normal a porta USB do celular arrombar e o cabo ficar com mal contato e o MTP é uma merda. \r\n Use isso: https://f-droid.org/en/packages/org.primftpd/ \r\n Nunca mais precisei de cabos para transferir arquivos.
+ >>27029411 \r\n Perdi de leve.
+ >>27029411 \r\n Use o app primite ftpd e transfira essa bosta via rede wifi.

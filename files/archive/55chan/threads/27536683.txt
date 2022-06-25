@@ -1,0 +1,67 @@
+ Onde estão os anões das hackearias para deixar vosso recinto mais belo? Há alguns meses atrás um anão postou uma pica com um gif da lain no canto inferior esquerdo do recinto e o resto todo diferenciado com cores neon com uma coloração comfy, desde então tentei copiá-lo, mas.: falhei duramente. Após minhas falhas venho pedir a ajuda de vocês. \r\n PEDIR AJUDA É UM ATO DE CORAGEM. \r\n POSTEM CSS E JS 
+ Olha a hora, paixão.
+ O que eu ganharia te ajudando? Tirando alguns anões que são fáceis de indentificar e que já me ajudaram ou ajudaram outros anões, por quê eu ajudaria alguém nesse buraco?
+ >>27536691 \r\n Vou orar por você, querido anão. :3 \r\n >>27536688 \r\n Obrigado por me alertar, não tinha percebido que estava tão cedo. \r\n \r\n Also.: o mais próximo que cheguei a um css descente.
+ >>27536711 \r\n Você quer colocar uma imagem no seu código css?
+ >>27536722 \r\n Sim, mas não me lembro o comando para utilizar no css e o que procurei em alguns fóruns não funcionam aqui.
+ Foram presos pelo Agente Pereira.
+ Bump.
+ >>27536733 \r\n Faz isso pelo HTML com <img src='imagem.jpg'>. \r\n \r\n Pelo CSS acho que o máximo que pode fazer é colocar imagem de fundo com background-image:url(imagem.jpg). \r\n \r\n Aliás, esse chan é bugado para colocar imagem de fundo, infelizmente.
+ >>27536804 \r\n Also, negrei, você quer colocar no CSS, hue. \r\n \r\n Acho que vai ser díficil, anon. \r\n \r\n Tenta criar uma div e colocar uma imagem de fundo nela, acho que funcionaria. \r\n \r\n Exemplo: \r\n \r\n div { \r\n background-image:url(imagem.jpg); \r\n }
+ >>27536808 \r\n >criar uma div \r\n Acho que isso também não daria certo, puta merda, estou negrando demais hoje.
+ >>27536808 \r\n Vou tentar querido, querido anão.
+ >>27536828 \r\n Ao menos tente colocar assim: \r\n \r\n body { \r\n background-image:url(); \r\n } \r\n \r\n Mas aí estaria colocando uma imagem de fundo. \r\n \r\n De nada, anão, desculpe não ter conseguido te ajudar, ;_;.
+ >>27536836 \r\n Esse funcionou perfeitamente, mas ficou estranho.
+ >>27536840 \r\n Você colocou assim: \r\n >div { \r\n background-image: https://newvitruvian.com/images/lain-transparent-cute-4.png(imagem.jpg); \r\n } \r\n \r\n Mas seria assim, anão: \r\n \r\n div { \r\n background-image:url( https://newvitruvian.com/images/lain-transparent-cute-4.png ); \r\n }
+ >>27536843 \r\n Sim, mas é só você configurar o tamanho com background-size colocando qualquer tamanho em px mas aí a qualidade da imagem dependendo ficaria ruim.
+ >>27536846 \r\n >>27536844 \r\n esse último também funcionou, qual comando eu deveria usar para deixar no canto inferior esquerdo e apenas uma imagem? O no-repeat?
+ >>27536844 \r\n Use tags code e /code para facilitar a vida, parceiro. 
+ >>27536850 \r\n Certo, obrigado, anon. \r\n \r\n <code>Teste</code>
+ >>27536852 \r\n Perdi. \r\n \r\n Eu nunca soube como usar isso, desculpe.
+ >>27536849 \r\n Use: \r\n position:absolute; \r\n left:0px; \r\n bottom:0px;
+ >>27536852 \r\n [Use Isso]. E tudo bem, estamos na madrugada, não vou te julgar
+ >>27536855 \r\n Also, quanto mais aumentar os valores, mais afastado eles estarão dos lados. \r\n \r\n Por exemplo, left:10px;, ficará mais afastado do canto esquerdo.
+ >>27536856 \r\n Obrigado, anão é irmão.
+ body { \r\n background-image: url(' https://www.freepngimg.com/thumb/banana/6-2-banana-png.png' ); \r\n background-repeat: no-repeat; \r\n background-attachment: fixed; \r\n background-position: right bottom; \r\n } \r\n \r\n \r\n Roubei isso aqui de uma tábua do infinito, algum anão que saiba de códigos raquer consegue fazer uma mágica que faça isso daí aceitar imagens maiores sem que tudo fique negrado?
+ https://pastebin.com/YTh3PPGw \r\n \r\n Enjoe, OP. Acho que quem postou a pica há uns meses atrás fui eu mesmo. 
+ >>27536855 \r\n >>27536862 \r\n Talvez, isso não vai dar certo, OP. \r\n \r\n Vou tentar achar outro jeito aqui, reporte e poste imagens se possível para ver como está ficando.
+ >>27536871 \r\n Also, recomendo usar em conjunto com o dollchan para o spoiler não ficar da cor do plano de fundo que é judeu (se você não gostar do dollchan pode modificar o CSS e colocar o efeito blur no spoiler).
+ Eu estava fazendo totalmente errado. \r\n div { \r\n background-image:url( https://steamuserimages-a.akamaihd.net/ugc/957477287225358160/C20377A85AC435CB00B000AFAD88A7B0C7D85A87/ ); \r\n background-repeat: no-repeat; \r\n background-position: 980px 100px; \r\n Eu deveria trocar as medidas? \r\n >>27536871 \r\n \r\n >>27536876 \r\n >>27536855 \r\n Obrigado, anão. Irei testar agora mesmo.
+ Por que gostam tanto da Lain? Assisti o anime quando ainda estavam lançando as legendas dele, dropei no terceiro episódio.
+ >>27536876 \r\n Seria muita ousadia minha pedir essa png que está no canto inferior direito da sua tela? :3 
+ >>27536871 \r\n Também acho que foi você, eu estou até agora pensando nisso, amo cores vibrantes.
+ >>27536881 \r\n Nunca assisti porque tenho certeza que se trata apenas de crise de existencialismo adolescente, mas a música tema, versão acústica, está na minha playlist há anos. Esse anão que fica forçando o anime só me desanima ainda mais de dar uma chance.
+ >>27536869 \r\n Consigo mudar o tamanho da banana somente. \r\n \r\n \r\n body { \r\n background-image: url(' https://www.freepngimg.com/thumb/banana/6-2-banana-png.png' ); \r\n background-repeat: no-repeat; \r\n background-attachment: fixed; \r\n background-position: right bottom; \r\n background-size:500px; \r\n } \r\n \r\n \r\n >>27536880 \r\n Troque se quiser, como está ficando? \r\n \r\n Poste imagens, por favor.
+ >>27536885 \r\n https://i.imgur.com/1tIfoeI.png \r\n \r\n Era só dar uma fuçada no código dele que você achava.
+ >>27536890 \r\n Não tem ninguém forçando Lain, eu só perguntei sobre o anão que postou a pica da Lain, você é retardado?
+ >>27536892 \r\n Also, é só inserir outra url dentro dos parênteses que mudaria a imagem mas inserir outra seria difícil.
+ >>27536898 \r\n É claro que o forçador é você. Todo dia postam Lain e só tem eu e você aqui. 
+ >>27536890 \r\n Lain é sobre o Dataísmo e sobre a ideia de um consciente coletivo.
+ >>27536892 \r\n Porra, era isso mesmo que eu estava procurando, obrigado!
+ >>27536894 \r\n Desculpe-me pela falta de atenção, e mais uma vez, muito obrigado. \r\n >>27536892 \r\n Pica aqui e muito obrigado pela paciência comigo, anão. :3 \r\n Estou pensando em deixar a cor um pouco mais escura.
+ >>27536900 \r\n Você é o anão esquizofrênico do outro parênquima paliçádico?
+ >>27536906 \r\n De nada, anon! \r\n \r\n >>27536909 \r\n Ficou muito legal, anon. \r\n \r\n Also, teste colocar gradiente nos textos, vou tentar mostrar um pouco como se faz: \r\n \r\n background:linear-gradient(to top, left, right ou bottom, insira qualquer cor aqui, insira qualquer outra cor aqui); \r\n -webkit-text-fill-color:transparent; \r\n -webkit-background-clip:text; \r\n } \r\n 
+ >>27536917 \r\n Esqueci da imagem, ficou relativamente gay mas enfim.
+ >>27536917 \r\n Vou tentar agora mesmo!
+ >>27536919 \r\n Tente deixar essa imagem de fundo centralizada com o tamanho da tela para não cortar no meio e compartilhe seu css conosco, anão!
+ >>27536923 \r\n Vou fazer agora mesmo, só ajustar algumas coisas aqui, anon.
+ >>27536917 \r\n Não gostei muito, mas vale a informação para caso eu precise futuramente, obrigado.
+ \r\n \r\n body { \r\n background-image:url( https://www.r2pg.com.br/wp-content/uploads/2016/08/cyberpunk-desktop-wallpaper-24.jpg ); \r\n background-position:center; \r\n } \r\n \r\n p { \r\n background:linear-gradient(to top, black,red,green,blue,black,red); \r\n -webkit-text-fill-color:transparent; \r\n -webkit-background-clip:text; \r\n } \r\n \r\n \r\n \r\n Não consegui deixar muito bem mas enfim, é isto. \r\n \r\n >>27536940 \r\n Ok, de nada, anon. \r\n \r\n Vou tentar estilizar mais aqui qualquer coisa posto algo.
+ >>27536948 \r\n Eu adorei e vou utilizar quando enjoar desse que estou fazendo agora. \r\n Also, você saberia como adicionar mais de uma imagem? :3 
+ >>27536955 \r\n Eu gostaria de colocar essa imagem >>27536894 espelhada no meu canto superior esquerdo, e se possível mais alguma no meio.
+ >>27536955 \r\n Estou vendo o HTML do 55 pra ver se consigo fazer isso, nunca tinha ido a fundo nisso, enfim, qualquer coisa reporto no parênquima paliçádico.
+ >>27536963 \r\n Vou tentar também, qualquer coisa aviso no parênquima paliçádico.
+
+ >>27536967 
+ >>27536973 
+
+ >>27536981 \r\n Esse é puro ouro.
+ >>27536981 
+ >>27536963 \r\n Consegui. \r\n \r\n } \r\n \r\n body { \r\n background-image: url(' https://steamuserimages-a.akamaihd.net/ugc/905652017696416812/3218C10FCFE510E78EE70B19826A99388CE0220D/' ); \r\n background-repeat: no-repeat; \r\n background-attachment: fixed; \r\n background-position: right bottom; \r\n background-size:300px; \r\n } \r\n \r\n div { \r\n background-image:url( https://img.fireden.net/a/image/1494/47/1494472833588.gif ); \r\n background-repeat: no-repeat; \r\n background-position: 1010px 100px; \r\n background-repeat: no-repeat; \r\n background-attachment: fixed; \r\n background-size:200px; \r\n } 
+ >>27537015 \r\n Boa, anon. \r\n \r\n Vou ao menos tentar estilizar algumas coisas aqui agora. Ainda estarei no tópico.
+ >>27537018 \r\n Percebi que quando utiliza o mesmo nome de começo eles entram em conflito, tente não cometer o mesmo erro.
+ >>27537022 \r\n Certo, ficarei atento, obrigado.
+ >>27537032 \r\n Quando terminar o CSS poste aqui por favor, estarei esperando. :3 
+ >>27537035 \r\n Postarei! \r\n \r\n Mas acho que vou levar muito a sério isso, talvez não acabe tão rapido, ;_;.
+ >>27537039 \r\n Anão, eu desisto. Poste seu resultado aqui depois, boa noite.
+ >bom dia 

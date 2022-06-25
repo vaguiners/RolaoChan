@@ -1,0 +1,74 @@
+ A-anões computeiros, poderiam me informar qual o motivo de não conseguir executar esse código? O editor indica um erro na linha 4, mas que eu saiba é necessário declarar a variável dessa forma pois preciso possibilitar números fracionados no resultado. Talvez seja uma pergunta estúpida, porém estou iniciando na área.
+ >variável com acento 
+ Nome de variável não pode ter acento. Também me parece que falta a chave para fechar a função main.
+ Aposto que você nem ao menos tentou ler a mensagem de erro.
+ Como eu odeio macacos que programam em português.
+ >>26862313 \r\n >esse vira-latismo \r\n Dê a fornicação fora, pulguento.
+ Como vai computação I, anão? \r\n Está gostando do curso? Engenharia não é fácil.
+ >>26862339 \r\n Also, se for com o professor que eu estou pensando, faça todas as listas, ajuda bastante na nota.
+ >não inicializando as variáveis \r\n \r\n Esse seu 'c' vai começar com um valor como 917238759. Experimente exibi-lo com um printf antes do while para você ver.
+ >>26862313 \r\n Como eu odeio macacos que são rude gratuitamente com quem está aprendendo.
+
+ >>26862361 \r\n Aprenda do jeito certo, macaco imundo, daí ninguém vai reclamar.
+ Ahahaha, que macaco astucioso! Quais outras traquinagens ele faz?
+ >>26862329 \r\n Não é vira-latismo, macaco. Todas as keywords da linguagem de programação são em inglês. A lingua universal da programação é inglês. Se você mistura português com inglês no código você é autista. \r\n \r\n >>26862361 \r\n Desculpe, realmente exagerei no linguajar. Pensei em adicionar um 'mas eu perdoo o OP por estar iniciando' mas já tinha enviado a mensagem.
+ >>26862301 \r\n >>26862305 \r\n >>26862310 \r\n Realmente não sabia disso, obrigado por me avisarem. Also, dei hide no log e ainda não procurei como colocar para aparecer novamente.
+ Linha 8, faltou & no scanf.
+ >>26862358 \r\n É necessário atribuir um valor pra ela?
+ >>26862339 \r\n Acertou no curso mas não na disciplina, hue. Obrigado de toda forma, anão. \r\n Estou gostando sim do curso, porém meu conhecimento em programação prévio ao curso era basicamente nulo. Estou tendo mais facilidade na área da matemática em si do que na programação de fato.
+ >>26862405 \r\n Faça o teste.
+ >>26862374 \r\n Anão, eu faço o código em português pois visualizo o usuário como um nativo da língua portuguesa, não como um estrangeiro. É um vício facilmente contornável.
+ >>26862414 \r\n Tomei pau em computação I e odeio programar, fico puto só de lembrar dessa bosta.
+ Feijoada, /b/.
+ >>26862442 \r\n Mas o usuário não irá ver seu código. Se estiver falando das mensagens do programa, e ele vai ser usado por brasileiros, sim, faz sentido escrevê-las em português.
+ >>26862444 \r\n Eu gosto, mas está sendo bem complicado acompanhar o ritmo do curso. O bom é que eu gosto de me desafiar. No final isso tudo fará eu crescer como indivíduo.
+ >>26862486 \r\n >while (c <= 10) \r\n \r\n E se o nome da pessoa for Caio?
+ >>26862512 \r\n Figurativamente não faz diferença nenhuma, anão. Eu só uso pra ter tudo bonitinho.
+ >>26862522 \r\n É natural ou você se esforça, anão?
+ >>26862537 \r\n O OP sou eu, não morda.
+ >>26862486 \r\n EU TÔ FICANDO PUTO COM ESSA MERDA! NUNCA CONSIGO EXECUTAR UM PROGRAMA SEM DAR ALGUM TIPO DE ERRO GROTESCO. 
+ >>26862537 \r\n Você não deve saber nada sobre programação, não é? \r\n O while vai ser verdadeiro enquanto c for menos ou igual a 10.
+ >>26862486 \r\n \r\n Essa merda é java?
+ >>26862486 \r\n Inicialize o c como zero.
+ >>26862587 \r\n Sim, isso é óbvio. Até agora não entendi a razão de vocês estarem discutindo.
+ >>26862587 \r\n Parabéns pela sua capacidade de interpretação.
+ >>26862598 \r\n Sim. É a versão do java que tem uma biblioteca stdio.h.
+ >>26862598 \r\n Kek.
+ >>26862603 \r\n >E se o nome da pessoa for Caio? \r\n >E se o nome da pessoa for Caio? \r\n >E se o nome da pessoa for Caio? \r\n >E se o nome da pessoa for Caio? \r\n >E se o nome da pessoa for Caio? \r\n >E se o nome da pessoa for Caio? \r\n >E se o nome da pessoa for Caio? 
+ Anões computeiros, como delimito esse mapa para as Américas com esse dado amostral do wordclim plotado para o mundo.
+ >>26862614 \r\n Olha, sou o OP e ainda não consegui resolver o erro, mas esse anão filho da puta que está tentando desvirtuar a thread pescando todo mundo simplesmente fez eu perder meus lados.
+ >>26862631 \r\n Isso é uma afirmação ou um questionamento.
+ >>26862644 \r\n O erro é sua vida, anão.
+ >>26862486 \r\n Troque esse while por um for e retire retire a incrementação no fim do loop. \r\n \r\n >for (c = 0; c <= 10; c++) 
+ >>26862601 \r\n Posso fazer isso da mesma forma como atribui o valor da variável 'media'?
+ >>26862486 \r\n Anão, como já foi falado por outros anões, você precisa inicializar essa sua variável 'c' (dar um valor inicial a ela ao invés de só declarar o nome e tipo). \r\n \r\n Como se trata de C, as variáveis que não são inicializadas possuem um valor qualquer, provavelmente um valor que ficou guardado no espaço da memória que está sua variável ocupa. \r\n \r\n O que deve estar acontecendo aí é: sua variável 'c' por não estar inicializada contém um valor maior do que 10, assim, nem ao menos entra no loop. \r\n \r\n Faça o teste, use printf() pra mostrar o valor de 'c' antes de entrar no laço e veja por você mesmo.
+ >>26862631 \r\n Adoro QGIS. \r\n \r\n Você pode criar uma camada (na mesma projeção que as outras camadas) com uma feature com os continentes americanos e usar as funções de vetor. Acho que com a crop você pode escolher uma camada e cortar com a outra. Esse mapa de interpolação você recria com as funções de Raster. QGIS é um programa incrivelmente bom pra uma coisa opensource e gratuita.
+ >>26862646 \r\n Desculpa, é uma pergunta. \r\n Estou cansado, cada variável pesa em torno de 1.5GB, estou trabalhando nisso desde as 15hrs da tarde. \r\n Cada carregamento meu computador levanta um voo.
+ >>26862660 \r\n >atribuí \r\n Fixed.
+ >>26862631 \r\n Mas isso aí é a Europa, não é?
+ >>26862663 \r\n \r\n Vou tentar, obrigado.
+ >>26862651 \r\n Esse erro eu não tenho culpa no cartório!
+ >>26862660 \r\n Sim.
+ >>26862677 \r\n Você não tem muita noção de geografia, não é mesmo?
+ >>26862486 \r\n coloque int C = 1 \r\n variável nome não vai receber com esse %f \r\n use %s
+ >>26862653 \r\n Meu professor pediu que eu utiliza-se o 'while', anão.
+ >>26862661 \r\n >que essa sua variável agora ocupa \r\n Fixed.
+ >>26862701 \r\n Seu professor é um belo de um corno.
+ >>26862699 \r\n >>26862661 \r\n >>26862661 \r\n >>26862601 \r\n Feijoada, O Parênquima paliçádico. \r\n Tentei também declarando c como 0, porém deu o mesmo resultado no terminal. Also, muito obrigado por estarem dispostos a me ajudar, anões. Perdão por estar batatando.
+ PROGRAMAR É MUITO CHATO, CU DO CARALHO, POR ISSO NÃO ENTRO EM TI PARA SAIR DESSA LATRINA! \r\n REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE 
+ >>26862735 \r\n >>26862691 \r\n \r\n Agora vejo que não fiz como foi feito com o 'media', pois me esqueci da linha 19, que possui o scanf.
+ >>26862735 \r\n Porra! Você tem que fazer int c = 1 antes do while.
+ >>26862737 \r\n >POR ISSO NÃO ENTRO EM TI PARA SAIR DESSA LATRINA \r\n Claro que é por isso, anão. Claro que não é porque você é um incapaz.
+ >>26862749 \r\n Porém também não sei como irei adaptar o c dessa forma, se é que é preciso.
+ >>26862754 \r\n P-perdão, irei arrumar…
+ >>26862754 \r\n Na linha 3, faça int c = 1;
+ >>26862759 \r\n JÁ FAÇO MEMENHARIA, PODERIA ENTRAR EM AUTISMO DA COMPUTAÇÃO FACILMENTE, MAS É UM CURSO DE NERDÕES VIRGENS DO CARALHO E AGORA TENHO QUE PROGRAMAR EM C PARA SER MEMENHEIRO. 
+ Na linha 17 \r\n mude para \r\n printf('Reprovado\n');
+ >>26862701 \r\n >que eu utiliza-se 
+ HOUVE PROGRESSO, ANÕES!!! 
+ >>26862796 \r\n KEK! Eu estou tão atordoado que nem respondo mais pelos meus atos, anon.
+ >>26862797 \r\n Formate essa merda de número, coloque um /n pra organizar essa desgraça.
+ >>26862803 \r\n É o que vou tentar fazer agora.
+ >>26862797 \r\n Houve graças a mim. \r\n Pague com lolis.
+ >>26862797 \r\n Coloque %.2f ou %0.1f no printf que mostra a nota, assim reduz o número de casa decimais :3
+ Perdi. É muito cringe ver um iniciante em programação. O cara se mata pra compilar um simples while, comete erros crachos e coloca a culpa no compilador.

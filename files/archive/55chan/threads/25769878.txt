@@ -1,0 +1,7 @@
+ Fui deletar um arquivo com o privazer e cliquei em avançado, me apareceu um balãozinho dizendo que 1 passo apenas (de zeros em cima do arquivo) já é suficiente e uma forma segura de apagar o arquivo, que programas de recuperação já não conseguem mais recuperar. Acima de 3 passos marca que é inútil e que apenas sobrecarrega o disco com escritas desnecessárias. Isso está certo?
+ Sim. Isso é o suficiente para evitar qualquer tipo de recuperação de dados. Se você for um pouco mais paranoico, pode criptografar os arquivos com o Ccrypt e depois usar o PrivaZer para excluir com segurança.
+ Tails no virtualbox é seguro? Preciso esquematizar meus planos, mas sei que a CIA me espiona e não tenho medo de dizer que sei , mas os arquivos poderão ficar seguros lá? O que me preocupa é que como são documentos de texto, não é difícil de abrir em qualquer lugar, e se isso cair nas mãos dos Rothschild, estou ferrado.
+ >>25769914 \r\n O Tails apesar de rodar perfeitamente em uma máquina virtual, na documetação do projeto não é recomendado ( https://tails.boum.org/doc/advanced_topics/virtualization/index.en.html ). Aliás, para que rodar em uma máquina virtual sendo que ele é Live USB?
+ O desenvolvedor do Bleachbit disse que mais que uma passada é inútil e que agências do governo só o fazem por paranóia.
+ >>25769926 \r\n Não tenho pen drive no momento. Mas o quão seguro é?
+ >>25769938 \r\n https://tails.boum.org/doc/advanced_topics/virtualization/index.en.html 

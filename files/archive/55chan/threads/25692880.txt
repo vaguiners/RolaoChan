@@ -1,0 +1,49 @@
+ Como eu resolvo essa merda? Física é complicado demais, nem parece com a física do ensino médio.
+ Parece sim, criança.
+ >>25692899 \r\n Eu já tenho 22 aninhos. \r\n \r\n Agora, me ajude a resolver.
+ Não é complicado. Você que não sabe qual fórmula usar. \r\n Depois de saber a fórmula, tudo se resume a cálculos básicos de adição, subtração, divisão, multiplicação, porcentagem (que na verdade é multiplicação). \r\n \r\n Você não é burro, você é desinformado. \r\n Sage porque acho que você é criança.
+ 20gsen15=Fsen(40-15)
+ >>25692909 \r\n Faça diagrama de forças, lembre-se da segunda lei de Newton, decomponha o peso em X e Y, lembre-se de semelhança de triangulos. \r\n \r\n Se eu falar mais que isso eu resolvo o exercício pra você. E sim, isso é ensino médio. Não exige nada de cálculo, tensores ou Geometria Analítica e Algebra Linear pra resolver.
+ >>25692929 \r\n Quem dera eu fosse criança, pode me passar algum lugar com as fórmulas?
+ >>25692951 \r\n Pesquise sobre a segunda lei de newton e sobre a força peso. É só isso que você precisa.
+ >>25692929 \r\n Você não tem ideia do quão ruim escolas públicas podem ser.
+ >pergunta como resolver mas na verdade quer o resultado \r\n >anões não sabem como resolver, enchem linguiça e nem imaginam qual é o resultado \r\n Sei como é, OP.
+ >>25692941 \r\n 20gsen15=Fcos(40-15) \r\n Fixado. \r\n \r\n >resolvo esta merda e todo mundo ignora 
+ >>25692968 \r\n Caralho, para de ser débil e tenta logo resolver o exercício. \r\n \r\n Faz alguns mais simples antes se precisar, tem recurso pra caralho na internet sobre exercícios de física de plano inclinado, é o tipo mais básico de exercício de física mecânica do Ensino Médio. \r\n \r\n É bem óbvio que quem respondeu aqui no parênquima paliçádico sabe resolver, mas não está afim de fazer dever de casa de calouro de Engenharia.
+ >>25692998 \r\n >não está afim de fazer dever de casa \r\n >não consegue só olhar pro desenho e tirar a equação de cabeça \r\n \r\n Confirmado pra 30 de QI.
+ >>25693008 \r\n Minha abstração é boa, mas minha velocidade pra cálculos de cabeça é muito ruim. Por isso mesmo que escolhi carreira acadêmica.
+ >>25693021 \r\n Não precisa de cálculo, só olhar que forças tem pra cada lado e montar a equação.
+ >>25693021 \r\n >Por isso mesmo que escolhi carreira acadêmica. \r\n Mas você pode usar calculadora no mundo, anão.
+ Resposta é 42.
+ >>25693054 \r\n Só nerde entende.
+ >>25692981 \r\n Por que subtrai 40 do 15 ficando 25 e mantém o 15 da rampa?
+ Somatório de forças em X = 0. \r\n Somatório de forças em Y = 0. \r\n Dessa forma, você faz uma decomposição de formas usando os ângulos (sin e cos), acha a força F para que não haja movimento. Para qualquer força maior que essa, haverá movimento.
+ >>25693062 \r\n No caso eu considero como se a aceleração em ambos eixos x e y seja 0 para achar a força mínima pra não haver movimento?
+ >>25693060 \r\n Torne o centro da caixa o seu eixo de referencia X e Y, ficará óbvio o porquê tem que subtrair por semelhança de triângulo.
+ >>25693062 \r\n Você precisa achar a força peso (somente em Y), decompor a Normal em X e Y e decompor a força F em X e Y.
+ >>25693074 \r\n Sim. Você vai encontrar a força F para o 'limiar o movimento' dessa forma. Qualquer força maior que essa gerará um movimento, já que não haverá mais equilíbrio de forças.
+ >>25693100 \r\n Se for uma força maior que a que você achar, a caixa se moverá na direção de F. Se for menor, se moverá na direção contrária.
+ >>25693112 \r\n Como se faz o teste do resultado?
+ F = |F|cos(40)i+|F|sin(40)j \r\n N = |N|sin(15)i+|N|cos(15)j \r\n P = 20*9,81j \r\n \r\n Agora faça o somatório em X e Y igualando a zero e ache F resolvendo o sistema.
+ >>25693174 \r\n Also, F, N e P são vetores.
+ >>25693171 \r\n Como você fez?
+ >>25692981 \r\n >simplesmente ignora a Normal \r\n >não quer ser ignorado 
+ >>25693193 \r\n F = m.g.sen(25)/cos(25) \r\n \r\n F= 55,97 ~ 56N
+ >>25693220 \r\n >sen(15) \r\n Fixado.
+ >>25693201 \r\n A normal é 20gsen15, retardado. \r\n Acha bonito passar o triplo do trabalho usando vetores e não consegue simplificar os vetores na hora. \r\n Tirei 163/180 no bar mitzvah e estou terminando engenharia mecânica em federal.
+ >>25693239 \r\n Também faço engenharia mecânica numa federal e fiz a disciplina de estática no semestre passado. Qualquer um do curso CAGA nota do Bar mitzvah.
+ >>25693239 \r\n Como que o cara vai saber que a normal é isso se você simplificar?
+ >>25693267 \r\n Usando o bom senso.
+ >>25693267 \r\n Mas não é só decompor as forças que você acha a Normal?
+ >>25693239 \r\n Essa normal está totalmente errada. Você acha ela fazendo o sistema, amigo. \r\n \r\n Demonstre seu raciocínio.
+ >>25693328 \r\n Faça a conta do seu jeito e do meu, e compare os resultados.
+ >>25693304 \r\n Você precisa fazer o sistema achando os vetores em Y e X e igualando a zero, como eu demonstrei anteriormente. Vai dar um sistema de 2 equações e 2 incógnitas, fácil de resolver. Nele você acha o valor do módulo de F e do módulo de N. \r\n O outro anão ali, que diz estar terminando o curso, mas se engrandece com a nota do BAR MITZVAH, acha isso complicado. Isso é extremamente simples e é a melhor forma de fazer uma análise dessas. É o tipo de análise que você verá no Hibbeler, por exemplo.
+ >>25693346 \r\n Eu já fiz, está errado.
+ >>25693352 \r\n >>25693349 \r\n Retardado, em vez de decompor em horizontal e vertical, decomponha direto no plano da rampa. \r\n Assim resolve em uma linha.
+ >>25693370 \r\n Não precisa ficar me xingando, anão. Seja mais educado. \r\n Ok, você vai fazer no plano da rampa. Você ainda vai ter de decompor as forças nos eixos x' e y'. Não vai simplificar nada. \r\n Decompor nos eixos x e y é até mais fácil, já que a referência do ângulo de F está no eixo x. \r\n O OP deve estar fazendo Física I e Geometria analítica, então ele entende essa decomposição de vetores, então pra ele é até mais simples fazer nos eixos x e y normais, tendo em vista que o ângulo de F é 40° em relação ao eixo x, e não em relação ao eixo x' da rampa.
+ Outro anão aqui. Estou na faculdade e não sei resolver. Não é humanas, mas também não é engenharia. Travei quando pensei em considerar o ângulo da força F em relação a rampa, que seria 25º. Aí fui tentar descobrir o cosseno de 25º e me dei conta que não sei como fazer. Já olhei aquelas fórmulas do Ensino Médio. Como faz isso?
+ >>25693470 \r\n >Já olhei aquelas fórmulas de arcos do Ensino Médio, mas não descobri. Como faz isso? \r\n Fixed
+ >>25693470 \r\n Como faz pra descobrir o cosseno?
+ >>25693495 \r\n O cosseno de 25º? Já falei que não sei.
+ >>25693470 \r\n Fazendo uma análise estática usando trigonometria básica (decompondo nos eixos x e y com sin e cos), anão. \r\n O OP vai achar a força F que vai causar o equilíbrio do sistema de forças. Qualquer força diferente dessa, causará movimento. Se for maior, moverá para a sonserina, se for menor, moverá para a Grifinoria.
+ >>25693499 \r\n Ué usa uma calculadora.

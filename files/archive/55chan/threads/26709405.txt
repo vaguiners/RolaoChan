@@ -1,0 +1,17 @@
+ Ganhei de um cliente dois servidores IBM X3500M4 com Intel Xeon E5-2620, sendo um deles com (pasmem) 96 GB de RAM. \r\n \r\n /r/ idéias do que fazer com eles.
+ Abrir muitas abas no chrome.
+ Faça um servidor de streaming de animus.
+ Abrir um servidor para jogatina conjunta com os anões.
+ Hospede o 55.
+ Com esse arduino aí? \r\n Constrói um fliperama.
+ Rode um Tor Node.
+ >>26709453 \r\n Melhor ainda, use algum S.O. que permita criação de VMs e hospede a pora toda. \r\n \r\n Você pode até mesmo abrir um serviço porco de hospedar servidor de minecraft dos outros ou algo parecido.
+ >>26709457 \r\n >>26709433 \r\n >>26709453 \r\n Pensei em coisas parecidas mesmo. Hospedar um chan ou um fórum de algum assunto específico, um servidor de synchtube, essas coisas. \r\n O único problema seria a conexão de internet, que é uma bosta.
+ >>26709411 \r\n Deve dar pra abrir umas 6.
+ >encha de café \r\n >disponibilize para os anões por um curtíssimo período de tempo \r\n >apague tudo no zero fill e faça outra coisa com ele 
+ >>26709453 \r\n Isso.
+ Deixe tudo num local específico para que eu leve embora.
+ Faça um servidor de torrent para os anões, em vista que os trackers estão fechando.
+ Rode joguinhos. :3
+ >pegue um HDD usado, formatado e vazio, de preferência com o maior armazenamento que encontrar \r\n >Recuva \r\n >???? \r\n Normalmente mobos server-grade tem mais de 2 slots pra CPUs do tipo, e Xeons possuem quantidades generosas de cores por chip e um sistema de refrigeração digno de um A/C . Não deve demorar mais que uma hora pra garimpar alguma coisa.
+ >>26709666 \r\n Vou fazer isso com os HDs que vieram no servidor.

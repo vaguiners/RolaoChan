@@ -1,0 +1,14 @@
+[
+  "Alguém salvou aquele script do anão que usou ffmpeg para comprimir episódios de animu em 1080p, de modo a ficar com um tamanho pequeno e com uma qualidade boa?\r\nAcabei não salvando e agora estou precisando liberar um espaço no meu HD.",
+  "Sim. Pague sendo um bom anão.\r\nALO YA TUDO BEM CONTIGO JAJAJA SIM SENHOR A DONO TA INDO TRABALHAR MAS EU JA LIGUEI SIM SENHOR TA A TRABALHAR AGUENTA SÓ UM MUCADO YA POR 600 KWANZAS MEMO AMANHA FALA COMIGO MANTORRAS, O HOMEM DA MASSA, DO CACONGO MANTORRAS TA BOM TA BOM MAS ELE NÃO ESTÁ CÁ DESLIGA AÍ DEPOIS.. DEPOIS.. ELE TA A TRABALHAR, TA LA EM CIMA TA EM CIMA DO ESTALEIRO TA A TRABALHAR COM O BRANCO TA BOM, DESLIGA, DEPOIS VOU, VOU LA A LHE CHAMAR O BRANCO TA A TRABALHAR COM ELE EU SOU TROPA NÃO POSSO TE… TA BOM TAL DINHEIRO É QUANTO? TAL DINHEIRO É QUANTO? É QUANTO, É QUANTO É? DINHEIRO É QUANTO? SIM, SOMOS É, SOMOS AUTORIDADE EU SOU FILHO DA POLÍCIA, SOU FILHO DUM POLÍCIA NO CACONGO EU TAMBÉM SOU TROPA, MEU PAI É POLÍCIA ENTÃO NUM COMEÇA OFENDER PESSOAS ATOA NA RUA SE VOCÊ É MALTRATADO, EU TAMBÉM SOU MALTRATADO AH, POR 600 KWANZAS FAZ BANG NA CIDADE A..AQUI SE VOCE.. VÁ PO CARALHO PO.. CONA DA YOLA CONA DA TUA MÃE VÁ FUDEER PO CARALHO VOCÊ TAMBÉM QUER.. SÓ FAZ BANG NA CIDADE VOCÊ BRINCAR AQUI NO CACONGO VAMO TE METER NA CELA VÁ PO CARALHO, SOU FILHO DO COMANDANTE, DA POLÍCIA CHAME MANTORRAS, PERGUNTA AÍ NA CIDADE QUE VOCÊ ANDA ABUSADO SE VIR AQUI NO CACONGO VAI DORMIR NA CELA POR 600 KWANZAS, CALA BOCA FILHO DA PUTA CARALHO ELE É MEU CUNHADO ENTÃO VOCÊ OFENDESTE MEU CHEFE E MALTRATAR DESLIGA ESSA MERDA PORCARIA CARALHO CONA DA YOLA\r\n",
+  ">>3495037\r\nEu acho que não é esse, anão.",
+  "Bump.",
+  "Bump.",
+  "Não há compressão alguma, OP. Ele apenas reduz a resolução pra qualidade ficar boa no chan.",
+  ">>3496038\r\nMas ele postou com a resolução em 1080p. Ele botava vários parâmetros no ffmpeg e o tamanho reduzia muito com perda mínima de qualidade.",
+  "https://sourceforge.net/projects/ifme/",
+  "Alguém salvou. Ou pergunte diretamente para quem fez a mágica.",
+  "Eu salvei, daqui a pouco eu posto.",
+  "ffmpeg \\\r\n\t\t-i '../BDMV/STREAM/00014.m2ts' \\\r\n\t\t-map 0:v:0 -map 0:a:3 \\\r\n\t\t-vf \"subtitles=f=tsuredure_children_01.mkv:si=2:fontsdir=fonts\" \\\r\n\t\t-c:v libaom-av1 \\\r\n\t\t-threads 8 \\\r\n\t\t-cpu-used 4 \\\r\n\t\t-tune ssim \\\r\n\t\t-lag-in-frames 24 \\\r\n\t\t-crf 35 \\\r\n\t\t-b:v 0 \\\r\n\t\t-pix_fmt yuv420p10le \\\r\n\t\t-c:a libopus \\\r\n\t\t-vbr on \\\r\n\t\t-b:a 48k \\\r\n\t\t-compression_level 10 \\\r\n\t\t-application audio \\\r\n\t\t-strict -2 \\\r\n\t\t-y \\\r\n\t\toutput/tsuredure_childred_01.webm",
+  ">>3496219\nObrigado, anãozinho! Você é chuchu beleza!"
+]

@@ -1,0 +1,117 @@
+ Bom dia, anões. Alguém de bom coração pode me ensinar a colocar o Linux e o Ruindows no meu PC? Não sei formatar e da última vez que tentei vendo tutoriais do Youtube não deu certo.
+ Chutaram o cabo do servidor.
+ >>27364825 \r\n Also, já tenho o Ruindows 7 instalado, que é o qual eu estou usando agora. Agora quero colocar o Linux Mint XFCE.
+ >>27364831 \r\n Sim, verdade. Fui tentar postar e deu um erro.
+ >>27364832 \r\n É só instalar normalmente em outra partição. O Grub reconhece a instalação do Windows automaticamente. A única coisa que você não pode fazer é instalar o Windows depois do Linux, porque ele não te permite escolher se você quer instalar um bootloader, e o bootloader do Windows não reconhece nenhuma instalação além dele mesmo e partições de recuperação OEM.
+ Você precisa olhar na BIOS pra descobrir se a instalação do Windows é UEFI ou Legacy. Baixe o Rufus e coloque o Linux Mint a partir da ISO, de acordo com o que você viu na BIOS. Escolha o modo DD no Rufus. Ele aparece como não recomendado, mas lembre-se dessa opção, pois se o modo DD não der certo, você tenta o modo recomendado (modo ISO). \r\n \r\n O problema é o seguinte: se o Windows é UEFI, você não consegue instalar o Linux em UEFI e vice-versa. \r\n \r\n Com o pendrive pronto, você precisa de espaço no HD para criar as partições do Linux. Você vai ter que liberar espaço para isso. Pesquise. \r\n Com o espaço pronto, apenas dê boot pelo pendrive e escolha a opção 'instalar o Linux ao lado do Windows'. Deixe ele fazer tudo automático e vá seguindo.
+ >>27364849 \r\n OK. \r\n >>27364844 \r\n Vou só terminar de baixar a ISO e olhar como é a minha instalação do Windows. Minha BIOS é daquela antiga, muda alguma coisa?
+ >>27364858 \r\n Por antiga você quer dizer que não é UEFI? Qual a sua versão do Windows?
+ >>27364860 \r\n Windows 7. A bios é uma azul, parecida com a da pica.
+ Baixa uma máquina virtual e treine antes.
+ >>27364868 \r\n Já treinei com o Mint antes no computador do meu primo.
+ >>27364860 \r\n >>27364858 \r\n Só para esclarecer, UEFI já está ultrapassada. Legacy é antigo, UEFI já tem mais de 10 anos. Tem uma outra mais atual que me foge o nome agora, mas é otimizada para o Windows 10. Para o Linux não faz diferença alguma.
+ >>27364881 \r\n Acho que você está pensando no UEFI Secure Boot. Mas nesse caso até faz diferença, pra pior. \r\n \r\n >>27364867 \r\n Não tem problema, desde que você consiga dar boot pelo USB. Perguntei a versão porque eu ouvi dizer que os updates do Windows 10 apagam sua configuração de bootloader às vezes, mas não sei se é verdade porque nunca usei o sistema. É bom ficar atento.
+ >não consegue instalar um SO \r\n >quer brincar de GNU/Linux \r\n Ah, essa molecada que posta nos fios de paredepapel…
+ >>27364894 \r\n O sub oficial desse desenho é bom, ou você assistiu com algum fansub?
+ >>27364889 \r\n Isso. Acho obrigatório desativar essa merda na BIOS, pois dessa forma você não abre o cu para o Windows fazer cagada. \r\n \r\n >>27364894 \r\n >ain bê, se não fizer faculdade na área não é patrício o suficiente para instalar o Linux \r\n Xô, macaco.
+ >>27364904 \r\n Oficial? Tá falando do da Crunchyroll? Ele não é muito bom não, mudaram algumas coisas (como o bordão da Kaguya). Procure por algum release corrigido. O anime, no entanto, é muito bom. \r\n \r\n >>27364905 \r\n Incluso.
+ >>27364914 \r\n Não sou incluso. Estou tentando ensinar o OP, para que ele comece devagar, experimente a ferramenta, descubra. Você escreve como se tivesse aprendido aos 3 anos, sentado no colo do Stallman enquanto ele comia seu cuzinho .
+ Anões, tô só esperando baixar o Mint aqui. Meu pai gosta de usar o Windows pra ver o resultado dos jogos dele da Quina/Mega-Sena, já que ele só usa pra isso, quantos GB eu devo deixar pro Windows?
+ Fui dar boot e deu esse problema, buceta.
+ >>27365139 \r\n Apenas retire o pendrive e mostre como você preparou a porra toda. Também mostre a configuração do UEFI na BIOS.
+ >>27364914 \r\n >Tá falando do da Crunchyroll? \r\n Acho que sim, se for o lançado pelo HorribleSubs. Eu baixei o fansub da GJM com honoríficos um dia desses, mas ainda não assisti.
+ Qual a dificuldade de instalar em uma maquina virtual para treinar?
+ >>27365144 \r\n Eu usei o Rufus pra tornar o pendrive bootável. Como eu mostro essa configuração da UEFI na Bios?
+ >>27365159 \r\n Procure a configuração até encontrar algo que te permita escolher entre 'Legacy', 'UEFI' e 'Auto'.
+ >>27365165 \r\n Also, tire um print do Rufus.
+ >>27365169 \r\n OK, me ajuda a refazer esse negócio do Pendrive.
+ Bump.
+ Desista do Rufus, formate o pendrive e faça o pendrive bootável com o YUMI. \r\n \r\n \r\n Tente primeiro o normal, se não der certo baixe o YUMI UEFI. \r\n \r\n https://www.pendrivelinux.com/yumi-multiboot-usb-creator/ 
+ >>27365207 \r\n Yumi é de longe o melhor.
+ >>27365207 \r\n >>27364867 \r\n Also, se quiser verifique antes essa merda do UEFI. Vá em Advanced Bios ou geralmente na segunda ou terceira opção (onde você escolhe o boot) e mande uma foto.
+ >>27365239 \r\n OK, já volto. Eu estava dando uma olhada no parênquima paliçádico do Pardoo.
+ >>27365244 \r\n AGORA NÃO É HORA PARA ISSO!
+ >>27365244 \r\n Porra, OP. Tenha foco.
+ >>27365207 \r\n >>27365229 \r\n É bom mas faz o serviço exatamente do mesmo jeito. Que bom que vocês estão ajudando, agora o OP consegue. \r\n \r\n >>27365179 \r\n Está como UEFI. Como está na BIOS? Also, não mude a BIOS, pois é como o Windows está rodando. Precisamos 'encaixar' o modo correto no Rufus/Yumi da mesma forma que está na BIOS.
+ >>27365248 \r\n >>27365244 \r\n >>27365247 \r\n \r\n Estou perdendo os lados.
+ Pelo visto o OP já voltou para punheta.
+ >>27365244 \r\n >>27365247 \r\n >>27365248 \r\n Aqui as fotos da BIOS. O Pc é antigo, demorei porque houve um imprevisto e porque tive que tirar o exif das fotos.
+ >>27365326 \r\n Peço desculpas pela qualidade da câmera, não sou phoneposter e meu celular é uma bosta. A câmera demora pra focar.
+ >>27365326 \r\n >>27365331 \r\n Voltei, amigos.
+ Vontade de cagar bateu agora, anões. Me ajudem aí.
+ >>27365326 \r\n Esse é dos antigos, mas acho que suporta boot por USB. Agora UEFI certeza que não.
+ >não consegue nem ao menos instalar sozinho o sistema mais friendy-level possível num dual-boot \r\n >não tem coragem de instalar o linux sozinho e se aventurar nele \r\n >quer brincar de usar GNU/Linux \r\n Anão…
+ >>27365375 \r\n Como eu configuro o pendrive então?
+ >>27365376 \r\n Ouça esse anão. Você vai acabar acidentalmente a porra toda.
+ >>27365376 \r\n Eu quero deixar o Windows porque meu pai também usa ele.
+ >>27365383 \r\n Modo BIOS (Legacy).
+ >>27365405 \r\n Se der merda eu volto pro Windows, sem problemas!
+ >>27365376 \r\n >animefag \r\n >GNU/Linux \r\n \r\n Muito socável.
+ Sempre relatado.
+ >>27365410 \r\n E agora?
+ >>27365406 \r\n Seu pai consegue ver os resultados da mega-sena no Linux também. Ele nem vai sentir diferença. \r\n >>27365413 \r\n E se você fornicar a instalação do Windows, vai correr pra onde, amigo? \r\n >>27365417 \r\n Caí pra porrada, otário.
+ >>27365422 \r\n Kek.
+ >>27365429 \r\n >E se você fornicar a instalação do Windows, vai correr pra onde, amigo? \r\n Já tem o Windows no computador, volto pra ele, bobão. \r\n >Seu pai consegue ver os resultados da mega-sena no Linux também. Ele nem vai sentir diferença \r\n Ele reclamou quando eu troquei o Chrome pelo Brave sendo que os dois são as mesma coisa. Ele é um senhor de idade, quase não sabe mexer em nada.
+ >>27365424 \r\n Aqui, ajudem.
+ >>27365429 \r\n Esse anão é meu amigo, mexeu com ele, mexeu comigo.
+ >>27365440 \r\n Anão, você não entendeu. \r\n Quando me refiro a 'instalação' do Windows, me refiro a partição com Windows 7 que já existe no seu computador. \r\n >>27365449 \r\n Bate nele, anão.
+ >>27365449 \r\n >>27365429 \r\n Sem briga aqui no meu parênquima paliçádico, ou vou chutar os dois pra fora.
+ >>27365458 \r\n Eu criei uma partição pro Linux, ué,
+ >>27365326 \r\n Ok. NÃO TEM UEFI, ESQUECE ESSA PORRA. \r\n \r\n Vamos lá. \r\n \r\n >>27365424 \r\n Tudo certo, marque a opção Fat32 Format E para ter certeza que não ficou nada da outra tentativa. Depois vá em Browse, escolha a ISO e crie o pendrive. \r\n \r\n Em seguida reinicia o computador com o pendrive espetado e já deixe ele para primeiro boot. \r\n \r\n Volte aqui >>27365326 \r\n Vá em Hard Disk Drives e coloque o pendrive em primeiro. \r\n Depois em 3rd boot selecione ele. \r\n (Melhor seria organizar 1st boot o pendrive, 2nd boot o leitor de dvd e 3rd boot o hd). \r\n \r\n Feito isso dê um f10 para salvar e ele irá iniciar na tela do Yumi. \r\n Escolha Linux Distributions > Linux Mint. \r\n Instale.
+ PAREM DE DISTRAIR O OP, ANIMEMERDAS! \r\n \r\n Foco aqui! >>27365472 
+ 1º- Você precisa ter a certeza de que está montando um pendrive corretamente. Se você quiser ter 0 trabalho mesmo, procure pelo Etcher. Ele é mais pesado, mas não tem frescura na hora de montar um pendrive bootavel com a porra da ISO que você quiser \r\n \r\n 2º - Você tem que ter a certeza de que já tem duas partições no seu HD. Se você tiver só uma com o Windows instalado e tentar realocar usando o particionador dentro do Live USB do Mint VOCÊ DESTRUIRÁ SUA PARTIÇÃO DO WINDOWS. \r\n \r\n 3º - Para realocar espaço livre do HD e criar uma segunda partição sem fornicar a porra toda, use a o gerenciador de partições do próprio Windows. Entre no gerenciador de partições do Windows(só buscar no iniciar) clique na partição que quer mudar, diminuir volume e diminua o bastante pra criar uma partição de uns 70 GB pro Linux. 70GB é bastante coisa para alguém que nunca mexeu e só quer brincar um pouco, mas se você tá aprendendo, ainda, vai querer instalar um monte de tranqueira pra testar. \r\n \r\n Só depois de fazer todos esses passos que você estará pronto pra tentar instalar o Mint.
+ >anão \r\n >não sabendo formatar um micro \r\n Você deve ser descolado pra caralho. \r\n \r\n Also, >>27365376 .
+ >>27365476 \r\n >kaguya-sama \r\n >gabriel drop out \r\n >essa vontade de se afirmar para a userbase de casuais e inclusos que eles mesmos fazem parte e cultivam intencionalmente \r\n Coisa de tryhard alimentado.
+ >>27365472 \r\n OK, instalando aqui. \r\n >>27365488 \r\n Não, eu não sou descolado. Sou feio pra porra, aqui onde moro me chamam de cabeça de camisinha.
+ >>27365485 \r\n 1º- Vai dar certo com o Yumi, não invente! Ignore isso, OP. \r\n \r\n 2º e 3º - Ouça o anão!
+ >>27365513 \r\n Eu já fiz o terceiro e o segundo, não sou tão burro.
+ >>27365521 \r\n Não é o que parece. \r\n \r\n Continue sua jornada.
+ >>27365526 \r\n Fabiano Honorato é gente boa.
+ >>27365521 \r\n Meu primo sempre falava isso 10 minutos antes de ligar pra mim desesperado perguntando como arrumar cagada.
+ >>27365544 \r\n Vamos torcer que não aconteça nada dessa vez.
+ >>27365521 \r\n Prove com um print do seu esquema de particionamento. Vamos ver se não é mesmo burro.
+ >>27365548 \r\n Não duvida não, eu sou bom.
+ >>27365537 \r\n O Fab pelo menos sabia formatar.
+ Pra que esse Novo volume no F:?
+ >>27365583 \r\n >>27365563 
+ >>27365563 \r\n Faça um serviço de branco e realoque esses 3GB com os 192 que sobraram. a menos que queria usar esses 3 GB pra swap, o que é um tremendo exagero.
+ >>27365612 \r\n >queira 
+ Deu esse problema aqui. Será que errei na hora de usar o Yumi? Also, o menu do Pinguim tinha aparecido e também a opção Linux distributions.
+ >>27365642 \r\n Tirou a foto com uma batata, amigo?
+ >>27365654 \r\n Celular é ruim, mas ali tá escrito assim 'No DEFAULT or UI configuration directive found!'.
+ >incapaz de formatar um mãefodendo computador \r\n Esse é o tipo de incluso que fala mal do Linux e força essa imagem aqui >>27365422 , nunca se esqueçam disso.
+ Vou tentar outra vez pelo Yumi, tá tudo certo até agora? \r\n >>27365659 \r\n Não fui eu, OP, quem postou. Esse anão é outro! Pare de me xingar, se eu não sei você poderia me ajudar, não custa nada.
+ >>27365659 \r\n O OP nem está falando mal do Linux. \r\n >satania \r\n >essa pica com marmelo \r\n Lembre-se, a userbase é um reflexo de vocês.
+ >>27365674 \r\n Anão, use a merda do Rufus. \r\n Sempre usei o Rufus e sempre funcionou.
+ >>27365326 \r\n Por que caralhos o seu primeiro e segundo boot estão marcados pro mesmo leitor de DVD?
+ >>27365684 \r\n Eu usei o Rufus e não deu certo.
+ >>27365694 \r\n Não sei, como eu devo fazer?
+ >>27365695 \r\n Se teve problema com o Rufus, terá com o Yumi. Ouça o >>27365485 e baixe logo a porra do Etcher, caralho.
+ >>27365702 \r\n Assim vocês me confundem.
+ >>27365702 \r\n Etcher é só pra 86 e 64 bits, o meu é 34.
+ >>27365674 \r\n Faça um trabalho de branco, nobre anão. \r\n \r\n Use esse programa, nunca falha. \r\n \r\n (Linux Universal Installer) \r\n \r\n https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/ 
+ >>27365702 \r\n Calma aí, animeamigo. \r\n Sem palavrões e termos chulos. \r\n >>27365717 \r\n Como caralhos seu sistema é 34 bits?
+ >>27365725 \r\n É o que está escrito nas especificações dele.
+ >>27365718 \r\n \r\n Secundo.
+ >>27365697 \r\n Ora porra, como você quer dar boot por esse pendrive se o sistema não está configurado pra procurar um pendrive pra bootar?. \r\n \r\n Se você quer instalar por um pendrive a ordem deve ser \r\n \r\n 1 - HDD(no caso ele vai enxergar o seu pendrive como um outro disco, dando boot por ele) \r\n 2 - O leitor de DVD \r\n 3 - O seu disco rígido \r\n \r\n Dependendo do caso, troque esse HDD por FDD. \r\n \r\n >>27365717 \r\n >Etcher é só pra 86 e 64 bits, o meu é 34. \r\n MAS DO QUE CARALHOS VOCÊ ESTÁ FALANDO, HOMEM? X86 é a arquitetura pra sistemas 32bits.
+ >>27365717 \r\n O seu é x86, ou 32 bits, pode ter certeza. Não existe sistema 34 bits. \r\n \r\n >>27365681 \r\n Eu não disse que o OP está falando mal do Linux, mas que ele é da mesma laia dos inclusos que desistem na primeira vez que tentam fazer algo e descobrem que não funcionava como o Janelas, e depois ficam depreciando o sistema. \r\n E, convenhamos, é bem provável que isso aconteça com o OP, por mais que eu torça pelo contrário. \r\n Não há nada de errado em postar Satania, filho da puta. 
+ >meu sistema é 34 bits 
+ Só estão rindo de mim.
+ >>27365718 \r\n \r\n Lucidez, finalmente.
+ >>27365753 \r\n OK, tô usando esse Universal USB Installer.
+ >>27365744 \r\n Será que o OP sequer baixou a ISO certa?
+ >>27365765 \r\n Sim.
+ >>27365765 \r\n \r\n Lamentável sua reação, ajude em vez de atrapalhar. \r\n \r\n \r\n >>27365718 \r\n \r\n Boa alternativa.
+ >>27365773 \r\n Mas o seu computador é 34 bits, anão.
+ >>27365782 \r\n Confundi, anão.
+ >>27365750 \r\n Fui banido por falar mal de k-on, mas estava aqui lurkando e perdendo. \r\n \r\n >>27365326 \r\n Isso aqui não garante que seu sistema é Legacy, apenas que o suporte a Legacy está ativado. Vá até o janelas e digite: \r\n msinfo32.exe \r\n Pica relatada, procure por essa informação e nos mostre. Você está indo bem, ignore os macacos. Afinal estamos no /b/.
+ Grave o ISO em um dvd, é bem mais prático.
+ Não deu certo outra vez, desisto. Muito obrigado aos anões que tentaram me ajudar.
+ >>27365880 \r\n Você me ignorou aqui >>27365803 . Sou o primeiro anão que estava tentando te ajudar.
+ >>27365880 \r\n Pelo amor de Madoka, homem. Leia isso >>27365733 \r\n \r\n Você não vai bootar esse pen-drive nem se Jesus formatar pra você caso não arrume essas opções de boot.
+ >>27365890 \r\n Eu fiz o que você mandou, mas não aparecia essa informação que você falou. \r\n >>27365892 \r\n Eu alterei essa ordem de BOOT, mas deu em feijoada. Eu acho que o problema é que meu computador não roda esse SO.
+ >>27365880 \r\n Temos um novo forçador daquela imagem.
+ >>27365901 \r\n Então o melhor que você pode tentar fazer é gravar essa iso num DVD e tentar instalar por ele. \r\n \r\n E se roda Windows 7, pode apostar que roda o Mint XFCE, quanto a isso tenha certeza.
+ >>27365920 \r\n Qualquer DVD virgem serve?
+ >>27365928 \r\n Sim.
+ >>27365901 \r\n Linux foi feito para rodar em qualquer PC. \r\n \r\n >>27365934 \r\n Boa sorte.

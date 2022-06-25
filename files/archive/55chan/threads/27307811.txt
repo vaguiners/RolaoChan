@@ -1,0 +1,12 @@
+ Qual a vantagem do Arch? Estou pensando seriamente em instala-lo no meu novo SSD. \r\n \r\n As únicas distros que eu usei foi o Xubuntu (que utilizo no meu trabalho) e o Manjaro (no meu antigo computador), acho que eu experimentaria o Arch por ser rolling release e por causa do AUR. \r\n \r\n Also, recomendem coisas para eu fazer ricing, sempre utilizo o i3 seco por pura preguiça e por ser mais simples, se tiverem outra alternativa melhor, agradeço.
+ Ele é leve, rápido, mas em compensação é uma das piores distros para instalar, e ainda vem sem interface. \r\n Se você é purista, tem experiência e está familiarizado com tudo isso, vá em frente, é o melhor que você pode fazer. Mas se você ainda não se sente confiante, recomendo o Ubuntu ou Xubuntu, ou até mesmo o GNU.
+ >>27307828 \r\n Já tenho experiência, acho que instalação não seria um problema.
+ Instale Gentoo.
+ Eu acho que o Arch tem duas principais vantagens: o AUR e a questão da personalização por ele vir sem nada.
+ O Ubuntu Minimal faz tudo que ele faz e só tem 60mb.
+ >>27307919 \r\n Tem o AUR?
+ >>27307934 \r\n KEK.
+ .-/+oossssoo+/-. EMERSON_EDUARDO_RODRIGUES_SETIM@MATOU-ROGERIO-GASPAR \r\n `:+ssssssssssssssssss+:` —————————————— \r\n -+ssssssssssssssssssyyssss+- OS: Ubuntu 18.04.2 LTS x86_64 \r\n .ossssssssssssssssssdMMMNysssso. Host: ChiefRiver Platform 0.1 \r\n /ssssssssssshdmmNNmmyNMMMMhssssss/ Kernel: 4.18.0-22-generic \r\n +ssssssssshmydMMMMMMMNddddyssssssss+ Uptime: 13 hours, 55 mins \r\n /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/ Packages: 1842 \r\n .ssssssssdMMMNhsssssssssshNMMMdssssssss. Shell: bash 4.4.19 \r\n +sssshhhyNMMNyssssssssssssyNMMMysssssss+ Resolution: 1366x768 \r\n ossyNMMMNyMMhsssssssssssssshmmmhssssssso DE: Xfce \r\n ossyNMMMNyMMhsssssssssssssshmmmhssssssso WM: Xfwm4 \r\n +sssshhhyNMMNyssssssssssssyNMMMysssssss+ WM Theme: Daloa \r\n .ssssssssdMMMNhsssssssssshNMMMdssssssss. Theme: Adwaita-dark [GTK2], Adwaita [GTK3] \r\n /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/ Icons: Elementary-xfce [GTK2], Adwaita [GTK3] \r\n +sssssssssdmydMMMMMMMMddddyssssssss+ Terminal: gnome-terminal \r\n /ssssssssssshdmNNNNmyNMMMMhssssss/ CPU: Intel Celeron 847 (2) @ 1.100GHz \r\n .ossssssssssssssssssdMMMNysssso. GPU: Intel 2nd Generation Core Processor Family \r\n -+sssssssssssssssssyyyssss+- Memory: 3629MiB / 5791MiB \r\n `:+ssssssssssssssssss+:` \r\n .-/+oossssoo+/-.
+ Rolling release. Versões mais novas de tudo. Software direto do upstream, sem patches.
+ O linux mint supre todas as minhas necissades. XFCE é o melhor.
+ >>27309338 \r\n >necessidades \r\n \r\n FIXADO.

@@ -1,0 +1,5 @@
+ >PGP \r\n >seguro \r\n >qualquer um com acesso ao seu computador pode enfiar mensagens criptografadas em seu nome sem precisar digitar sua senha \r\n >não precisa de senha para ver quem você certificou 
+ O que é uma key passphrase?
+ E por que alguém teria acesso ao meu computador, em primeiro lugar?
+ >>26999489 \r\n A passphrase is similar to a password. However, a password generally refers to something used to authenticate or log into a system. A password generally refers to a secret used to protect an encryption key. Commonly, an actual encryption key is derived from the passphrase and used to encrypt the protected resource.
+ >enviar \r\n Fix'd.

@@ -1,0 +1,13 @@
+ >pego galaxy s5 na oficina onde estava pra trocar a tela \r\n >não reconhece cartão sd mais, mas o resto parece normal \r\n >fodendo reinicia sozinho enquanto estou usando e depois fica preso em bootloop \r\n >se tento ligar, vai direto pro bootloop \r\n >se deixo ele um tempo sem a bateria, ele torna a ligar ao colocá-la de volta e funciona por uns minutos \r\n >aparentemente colocar o brilho da tela no mínimo e desabilitar wifi e rotação de tela aumenta esse prazo pra ele reiniciar sozinho \r\n >wipe cache, factory reset e até instalar outra stock rom pelo Odin não mudam isso \r\n >inclusive, após trocar a rom às vezes acontece de ele dar uma vibradinha ao apertar power e não mostrar nenhuma imagem \r\n >na verdade, ainda não consegui chegar a usá-lo com a nova rom e aparentemente ele está bugado com ela, porque naquela primeira tela de 'instalando aplicativos', eu apertei em qualquer canto e apareceu um menu de seleção de idioma, o qual deixou a tela borrada de branco onde estavam as opções, e a barrinha de instalando aplicativos não apareceu mais (estou fazendo isso agora, por isso ainda não posso relatar se essa rom é 100% falha) 
+ De novo esse parênquima paliçádico, ora porra?
+
+ >>26735715 \r\n O outro deu em nada, agora o verdetexto está mais conciso e explicativo.
+ O seu erro foi deixar na 'oficina' pra arrumar. \r\n Deixei o meu S5 uma vez nessas 'assistências' para verificarem se tinha problema na tela e o resultado: \r\n Trocaram o meu SD por um pior, minha bateria original por uma vagabunda, tampinha que protege a entrada do carregador por uma sem a borracha pra vedar contra água… Enfim uma porcaria. \r\n \r\n Depois de um tempo eu acabei comprando um kit de ferramentas fuleiras de 40 reais, peguei um secador de cabelo e desmontei tudinho, troquei a tela, troquei a tampa e depois a bateria, juntei tudo e liguei, resultado? Não irei me desfazer dele tão cedo. \r\n \r\n Confie em mim, sou branco.
+ >>26735735 \r\n No meu caso eles simplesmente removeram a tampinha do usb.
+ >>26735741 \r\n Como também podem ter fodido a leitura do seu SD e a porra toda.
+ OP aqui. Consegui chegar ao desktop e mexer normalmente no celular, aí ele reiniciou depois de uns minutos, e em vez de ir para o bootloop, a tela simplesmente apagou e ele ficou vibrando aleatoriamente.
+ >>26735782 \r\n Xiiiiii. Meu tio morreu disso.
+ >>26735782 \r\n Já era, junte mais um pouco e compre um iPhone XS.
+ >>26735797 \r\n >ainphone xs \r\n >5000 gibeiras \r\n >junte mais um pouco \r\n >um pouco 
+ >>26735782 \r\n Tente vender essa merda e comprar um Iphone.
+ >>26735797 \r\n Secundado. \r\n \r\n >>26735808 \r\n Trabalhe e deixe de ser pobre.

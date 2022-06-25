@@ -1,0 +1,86 @@
+ >N possui infinitos elementos \r\n >R possui infinitos elementos \r\n <R é maior que N 
+ >N possui infinitos elementos \r\n >Q possui todos de N e mais infinitos entre cada de N \r\n <N e Q são do mesmo tamanho 
+
+ Tinha que ser animebicha. \r\n \r\n A cara dos engenheirofags que não entendem cardinalidade de conjuntos.
+ Infinitos são os caralhos que o OP suga.
+ >>27150828 \r\n Cadê o erro?
+ >>27150821 \r\n Baseado!
+ >>27150831 \r\n Sai pra lá, viadão.
+ >>27150853 \r\n Erro em dizer que um conjunto infinito é maior em número de elementos do que outro conjunto com infinitos elementos. Eles têm cardinalidade diferente, não se trata de mensurar a quantidade de elementos para dizer que um é maior que o outro.
+ >>27150871 \r\n >são diferentes em cardinalidades, não em quantidade de elementos \r\n E você não é um pret o de bosta, é um negr o de merda.
+ >>27150883 \r\n Eu digo Itadakimaaaasu para o conhecimento!
+ >>27150883 \r\n Não se passe por mim, anão. \r\n Poxa, que chato.
+ >>27150883 \r\n Ei, eu não disse isso.
+ Conjuntos realmente são uma coisa interessante.
+ Simples. Entre 1 e 2 há infinitos números. Entre 2 e 3 há infinitos números. Podemos concluir que apesar dos conjuntos 1 e 2 terem infinitos números entre eles, o conjunto 2 e 3 também tem infinitos números, mas 2 e 3 é maior que 1 e 2.
+ >>27150905 \r\n Perdi. Boa tentativa. Mas você está definindo outra relação, não de cardinalidade, baseada no elemento maximal do conjunto. \r\n Sim, mordi.
+ >>27150923 \r\n Estou só tentando. Calma.
+ >>27150903 \r\n Realmente.
+ >>27150905 \r\n O neg´ócio é: tente enumerar todos os números entre 0 e 1. \r\n Por onde você sequer começa? 0 é o primeiro, mas e o segundo número? 0.00000…01? Mesmo que você comece com os números de uma casa decimal, depois vá para os de 2, e use todos os números naturais até infinita casas decimais, sempre haverá números que você não terá numerado. Portanto, entre 0 e 1, existe mais números reais do que os números naturais entre 0 e infinito. \r\n Essa não é uma prova formal, mas ela existe.
+ >>27150816 \r\n >maior \r\n Quem por acaso tem que explicar melhor é você, filho da puta. Isso se trata da questão sobre a cardinalidade dos elementos ou a quantidade deles?
+ >>27150944 \r\n Mas é óbvio. Os números Reais engloba também os naturais. Não entendi onde você quer chegar.
+ >>27150972 \r\n Mas não estou comparando todos os números reais, somente os números reais entre 0 e 1.
+ Puta que pariu, como pode ser tão burro?
+ Até mais, OP. \r\n Fique com essa belezinha.
+ >>27150895 \r\n \r\n Fornique sim, rei marinho! \r\n \r\n Animeamigos unidos em busca do conhecimento!
+ >>27150972 \r\n Não é óbvio. Ser maior não é conter os outros, mas haver bijeção.
+ >>27150993 \r\n Refute, bobão.
+ >>27150999 \r\n Que bonito, anão! Obrigado, e belos números. \r\n \r\n >>27151026 \r\n Fornique sim, amigo!
+ >esse parênquima paliçádico \r\n \r\n ESSA NÃO, MEU CÉREBRO ESTÁ SENDO SUGADO PELOS ANÕES! 
+ >>27150905 \r\n Belo raciocínio, se estendido para a realidade dá para perceber que praticamente não existem números naturais no nosso dia a dia, nós que forçamos porque não existem métodos perfeitos de medição.
+ >>27150953 \r\n Cardinalidade de um conjunto é a quantidade de elementos do conjunto.
+ >>27150816 \r\n >Conjunto dos reais \r\n >Existe \r\n Escolha um.
+ >>27151127 \r\n Horas, dias, anos, quantidade de pães, quantidade de dedos, quantidade de braços, de pernas, de nádegas, de rodas num carro, de ruas numa cidade, de cruzamento destas ruas, de placas na cidade, de pessoas na cidade, de folhas numa árvore, de galhos numa árvore, de árvores numa floresta, de florestas numa região, de animais numa região, de grãos de areia num monte, e de picas na sua bunda. \r\n \r\n >ué, então naturais são mais usados pra contar do que pra medir? \r\n Pois é, anão.
+ >>27151139 \r\n Sei que está pescando, mas tenho salvo é vou deliverar.
+ >>27151164 \r\n >e é bom deliverar \r\n Comecei escrevendo uma coisa e terminei escrevendo outra.
+ >>27151155 \r\n Você não entendeu. \r\n Mas tudo bem.
+ >>27151155 \r\n Claro, mas isso é questão de padronização de quantidade. A rigor você teria de contar o número de elementos que compoe um pão, um braço, uma roda, já que nunca na natureza eles serão idênticos. Você pode pegar um pão pequeno e outro que tem o dobro de tamanho, por padronização serão dois pães e não 1,5 pães etc.
+ Os números não são infinitos; são indeterminados. Algo infinito não pode ter uma unidade adicionada ou subtraída. \r\n \r\n Engraçado como até hoje os macacos repetem esse erro dos gregos. Que falta nos faz filoaofia da matemática nas universidades.
+ >>27151187 \r\n >indeterminação é uma propriedade para solução de equações \r\n >usa pra números \r\n São uma quantidade infinita de numeros, cara.
+ >>27151180 \r\n Leia o verdetexto.
+ >>27151187 \r\n \r\n 'Um conjunto se diz infinito se pode ser colocado em correspondência biunívoca com uma parte própria de sí mesmo' \r\n \r\n Vide Dedekind, anão.
+ >>27151202 \r\n \r\n Além disso, o infinito pode ser hierarquizado em termos de potência. X² ao infinito 'cresce' mais rápido que X, por exemplo.
+ >>27151184 \r\n Não, isso é só quantidade mesmo. Não precisa ver isso que você falou pois uma coleção de coisas possui um argumento, que dá as características do que está dentro.
+ >>27151164 \r\n >Pescando \r\n Caboclo, você não consegue armazenar um número real arbitrário no seu computador, você não consegue definir adição de dois números reais arbitrários de uma forma que faça sentido, você nunca conseguirá, e isto está provado, definir a grande maior parte dos elementos do seu conjunto de contos de fadas, e eu é que estou pescando?
+ Odeio estas threads. Sempre sou pescado se alguém fala algo que já estudei. Estou a ficar triggered, então parem.
+ >>27151208 \r\n Pois então, o próprio argumento em si já é um conceito abstrato-filosófico, dado que tanto elemento como conjunto são conceitos primitivos. Não há definição exata para eles.
+ >>27151209 \r\n >existe só o que é computável \r\n O Halting problem deve ter destruído sua vida.
+ >>27151199 \r\n Indeterminado no sentido estrito da palavra, não no matemático. \r\n \r\n >>27151202 \r\n Existem saltos lógicos aí. Comecemos da base. \r\n \r\n >algo infinito é algo a que nada pode ser acrescentado ou subtraído \r\n >os números podem ser acrescentados ou subtraídos \r\n >os números, portanto, não são infinitos \r\n \r\n >algo infinito não pode ser menor que nada \r\n >um conjunto de números pode ser maenor ou maior que outro \r\n >os números, portanto, não são infinitos 
+ >>27151229 \r\n Na verdade não, já que esses problemas já foram superados com o predicativismo de lógica sortidade.
+ >>27151271 \r\n Sortida, no caso.
+ >>27151270 \r\n >Indeterminado no sentido estrito da palavra, não no matemático \r\n Então a objeção é irrelevante.
+ >>27151230 \r\n >acredito na existência de números que não fazem sentido porque não tenho bolas nem cérebro suficientes para encarar a realidade de que existem equações polinomiais sem soluções complexas \r\n Aposto que você também acredita em Deus e Papai Noel.
+ >>27151280 \r\n >estruturas fechadas não existem porque números grandões me ofendem \r\n PURO LULZ.
+ >>27151270 \r\n >essa definição de infinito tirada do cu \r\n Perdi.
+ >>27151280 \r\n >reais não fazem sentido \r\n Você que é burro.
+ >>27151270 \r\n \r\n >Existem saltos lógicos aí. Comecemos da base. \r\n Anão refutando fodendo Julius Wilhelm Richard Dedekind, finalmente elite intelectual.
+ TODO ANIMEFAG É PEDÓFILO SHOTAFAG 
+ >>27151336 \r\n Perdi.
+ >>27151303 \r\n Prove que minhas premissas estão erradas. \r\n \r\n >>27151336 \r\n >aiin a academia 
+ >>27151348 \r\n Está errada por definição, mula. Um conjunto de Px é infinito se, por exemplo, pra todo conjunto finito de Px existe um y que não está neste finito. Isso é materialmente equivalente à definição do anão: há bijeção com um subconjunto próprio.
+ >>27151187 \r\n >Algo infinito não pode ter uma unidade adicionada ou subtraída \r\n Você ao menos hotel infinito?
+ >>27151362 \r\n Finalmente brainlet. Você nem mesmo objetou à minha premissa. \r\n \r\n >>27151366 \r\n Ele parte de premissas erradas.
+ >>27151292 \r\n >>27151331 \r\n Okay, crianças, a 'análise' para a qual vocês rezam afirma que a equação x^7 = x+1 possui uma '''solução real'''. Escrevam ela aí pra mim, sem aproximações e sem símbolos de definição circular.
+ >>27151366 \r\n Verdade. Inclusive, você pode adicionar infinitas novas coisas à um infinito sem mudá-lo. O macaco tirou do cu uma definição que nem matemática é e veio aqui lacrar ou pescar .
+ >>27151362 \r\n É melhor exemplificar, anão. \r\n \r\n Se você pega o conjuntos dos naturais não nulos: \r\n {1,2,3,4,…} e dele tira o conjunto dos números pares {2,4,6,8,…}. A correspondência de um no outro é uma relação biunívoca, visto que há tantos números pares quanto ímpares e pares reunídos, basta ver a correspondência 1 está para 2, 2 está para 4, 3 está para 6 e assim sucessivamente. Faça seu dever de casa, anão. Recuso me extender mais nesse assunto.
+ >>27151392 \r\n É só não ser brainlet e ver que a definição dada implica no oposto da suas premissas, sojagaroto.
+ >>27151392 \r\n >Ele parte de premissas erradas. 
+ >>27151393 \r\n >se eu não vejo, não existe \r\n Finalmente niilismo algébrico.
+ 'Existem infinitos maiores do que outros.' \r\n \r\n Essa merda é paradoxal. Infinito é um conceito que não admite a propriedade de ser 'maior' ou 'menor' do que outro conceito.
+ >>27151420 \r\n Mostre f:N->R sobrejetora ou você está errado.
+ >>27151409 \r\n >eu acredito em certas coisas só porque todo mundo ao meu redor acredita nelas \r\n >meus argumentos são feitos com o objetivo de chegar a uma conclusão pré-definida que eu desejo ser verdade; se sua conclusão final não me agrada, eu os abandono \r\n Vá ler Tomás de Aquino e deixe a matemática para os homens de verdade.
+ >>27151409 \r\n Vai deixar ele >>27151447 
+ >>27151462 \r\n .. Falar assim com você, anão? >>27151409 \r\n Negrei. 
+ >>27151447 \r\n >projeção \r\n > por isso estruturas fechadas que podem ser definidas não existem, entendeu? \r\n Perdi.
+ Seria legal se houvesse uma board só para discutir essas coisas ou pelo menos fios semanais sobre Matemática.
+ >>27151474 \r\n Defina aí (R, +, x) satisfazendo as propriedades conhecidas sem usar axiomas fantásticos como o da escolha, anão.
+ >>27151496 \r\n >discutir \r\n Não é uma discussão se eu sempre estou certo, e você sempre está errado.
+ >>27151496 \r\n Bela ideia. Mas algo que os moderadores cuidassem para que não fosse descarrilado. Eu ajudaria, com certeza.
+ >>27151503 \r\n >AC é fantástico \r\n Porra, por que estou mordendo?
+ >>27151427 \r\n Isso nem faz sentido, anão. \r\n \r\n N está contido em R, então todos elemento de N pertence à R, isso por sí só garante sobrejeção…
+ >>27151521 \r\n >garante a injeção \r\n Fixei pra você.
+ >>27151532 \r\n Vai tomar no cu. \r\n \r\n >>27151496 \r\n >>27151515 \r\n Não tem como no /b/, sempre vai ter um macaco para pescar os anões.
+ >>27151549 \r\n Vai você, brainlet. \r\n \r\n É injetora: \r\n f:N->R \r\n f(x)=x
+ >>27151519 \r\n Você pode admitir que sua posição não faz sentido, anão. \r\n >conjuto de fórmulas lógicas é contável \r\n >''R'' é incontável \r\n >logo basicamente nenhum ''número real'' é definível \r\n Qual o sentido em acreditar na existência de tal objeto?
+ Para comparar dois conjuntos, é preciso estudar funções(mais geralmente relações) entre os mesmos. Se existe uma bijeção entre A e B, então A e B possuem a mesma cardinalidade. Se pensarmos na função f como uma transformação de A em B no tempo e f é uma bijeção, é natural eles terem o mesmo 'tamanho'. Parece muito trivial pra mim. \r\n \r\n >>27150820 \r\n Caro anão, como dito anteriormente, é muito simples, vou definir a seguinte função dos naturais nos inteiros(a idéia é setar os positivos como pares e negativos como ímpares): \r\n \r\n f(2*n) = n e f(2*n + 1) = -n, claramente f é uma bijeção, logo N e Z tem a mesma cardinalidade. \r\n \r\n Agora segue que a definição de Q é {q é racional se existem a, b pertencentes à Z, onde b != 0, tal que q = a/b} \r\n Agora definindo o conjunto I = {1/n, onde n é natural} \r\n É muito trivial perceber que Q = N x I, como N e I possuem a mesma cardinalidade, seu prodito cartesiano também o possui, logo, #N = #Z = #Q. \r\n \r\n Um fato adicional é que como essas bijeções são em torno dos naturais, dizemos que esses conjuntos são enumeráveis. \r\n \r\n >>27150828 \r\n Eu sou engenheiro e sei bastante matemática, é uma coisa até que comum, pois fazer um curso acadêmico puro no Brasil é estupidez.
+ >>27151427 \r\n \r\n Não adianta inventar regra. Infinito significa sem fim e apenas isso. É um conceito que não diz nada sobre tamanho.

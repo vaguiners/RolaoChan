@@ -1,0 +1,2 @@
+ Se eu salvar um container na nuvem e baixá-lo em outro dispositivo, vou poder descriptografar normalmente?
+ 50%.

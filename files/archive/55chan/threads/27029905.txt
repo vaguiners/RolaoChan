@@ -1,0 +1,3 @@
+ Alguém aqui poderia me ajudar em JavaScript? Alguma recomendação de livro ou curso sobre isso? E alguma recomendação de IDE?
+ Sim.
+ Alguém aqui poderia te ajudar em JavaScript com alguma recomendação de livro ou curso sobre isso e alguma recomendação de IDE. Espero ter ajudado.

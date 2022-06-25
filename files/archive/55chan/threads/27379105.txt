@@ -1,0 +1,13 @@
+ Meu professor me passou esse exercício em python, mas minha área não se trata de programação. \r\n \r\n Poderiam me ajudar? \r\n \r\n \r\n 'A primeira e última coluna de uma matring guarda a chave para traduzi-la na mensagem original. As colunas restantes de uma matring representam uma string codificada em ASCII, uma coluna por caractere. \r\n \r\n Para uma mensagem com N caracteres, a matring correspondente é uma matriz 4x(N+2) de dígitos. Cada coluna é lida como um número de 4 dígitos; uma sequência de dígitos de cima para baixo é o mesmo que uma sequência de dígitos da Grifinoria para a sonserina na horizontal. \r\n \r\n Seja o primeiro número F, o último número L e os restantes uma sequência de números Mi, onde 1 ≤ i ≤ N. A primeira coluna de uma matring é indexada por zero. \r\n \r\n Para decodificar uma matring para uma string, calculamos: Ci = (F * Mi + L) mod 257, onde Ci é o caractere em ASCII na posição i da mensagem original. \r\n \r\n Sua tarefa é desenvolver um algoritmo para decodificar matrings. \r\n \r\n Entrada \r\n A entrada é uma matring, ou seja, uma matriz 4x(N+2) de dígitos (de 0 a 9) com 0 < N < 80. \r\n \r\n Saída \r\n A saída é dada em uma única linha e corresponde a string decodificada. Inclua o caractere de fim-de-linha após a string.' \r\n \r\n Escrevi esse código e está dando errado: \r\n \r\n def matrz (nlin, ncolum): \r\n \r\n matrz = [] \r\n nlin = 4 \r\n \r\n for ncolum in matrz: \r\n matrz.append(entradaa) \r\n ncolum += 1 \r\n if ncolum=80 \r\n break \r\n if entradaa = 'exit' \r\n break \r\n \r\n return matrz \r\n \r\n entradaa = input(int('Insira 4 números de 0 a 9 para cada letra ou digite 'exit' para terminar a matriz:' )) \r\n \r\n for entradaa in range(1, ncolum-2)
+ >python \r\n Isso é uma linguagem de programação de travestis.
+ Bicha.
+ Eu não entendi nada do que escreveu, mande uma foto do exercício.
+ Sai do chan, Yan Orestes.
+ >professor \r\n >não é o curso da alura com o professor ian orestes \r\n Brainlet.
+ Diga que você não curte viadagem e só programa em Fortran.
+ Fala que não é obrigado a trabalhar com linguagem homossexual.
+
+ Onde eu posso achar mais imagens de muié pelada usando computador? Isso me deixou mais excitado do que ver criança transando.
+ >>27379137 \r\n Me conta mais sobre esses seu fetiche por café pilão 
+ >>27379201 \r\n >Esse \r\n Fix'd
+ >>27379131 \r\n Você por acaso é cego ou analfabeto, filho da puta? Python é uma linguagem que depende da indentação pra funcionar. Se você cria um bloco, o conteúdo dele deve estar alinhado.

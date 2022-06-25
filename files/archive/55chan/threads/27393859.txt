@@ -1,0 +1,31 @@
+ Como funciona um chip de celular?
+ Mesma tecnologia das batatas chips.
+ >>27393861 \r\n Engraçadinho.
+ >>27393862 \r\n Você achou engraçado mesmo? Valeu, anão. Agora estou um pouco mais orgulhoso de ter feito essa piada besta.
+ O chip é um computador extremamente leve e que funciona com pouquíssima energia. Roda programas escritos em fodendo Java. Mais especificamente, o chip é um criptoprocessador, um elemento seguro onde é possível realizar operações criptográficas sem medo. Operações como criptografia, assinatura digital e autenticação. O aparelho comunica com o chip e pede com que ele autentique sua linha telefônica com a operadora, e então ele realiza essa operação dentro do próprio chip e fornece a resposta ao aparelho, sem nenhuma possibilidade das chaves privadas vazarem para fora do chip.
+ >>27393876 \r\n Seriosamente? O chip é um microprocessador que roda scripts em Java? \r\n Para mim era só uma memória que guardava informação e chaves para autenticação. \r\n Como um chip em um cartão de crédito conseguiria energia?
+ >>27393879 \r\n O chip de um cartão crédito é diferente de um chip de celular.
+ >>27393879 \r\n Sim. É um processador. \r\n \r\n >Para mim era só uma memória que guardava informação e chaves para autenticação. \r\n \r\n Não tem como garantir a segurança das chaves se você precisa entregá-las para o aparelho pra ele fazer slguma operação criptográfica. O próprio chip realiza esas operações e cede apenas o resultado das mesmas para o telefone/maquininha de pagamentos. \r\n \r\n >Como um chip em um cartão de crédito conseguiria energia? \r\n \r\n Pino VCC.
+ >>27393887 \r\n >alguma 
+ É possível usar um cartão SIM em um Raspbery pi?
+ >>27393895 \r\n Não, mas você pode comprar um token criptográfico USB que é a mesma merda. O que você quer fazer?
+ >>27393895 \r\n Porra, anão. Cuidado com essas coisas. \r\n Não quero ver um anão preso.
+ Vejo muitos dizendo que a maneira mais segura de se guardar 'chaves' bitcoin (pois sabemos que não se guarda bitcoins localmente, uma vez que é algo abstrato que 'vive' na blockchain, ou seja, na nuvem) é usando uma ledger wallet. A pergunta é: quão seguro pode ser essa porra se ela pode ser destruída, falhar ou roubada? \r\n \r\n Não seria mais seguro usar um app wallet, pois, mesmo que você perca o device, basta usar seu cérebro para resgatar as informações na nuvem e descriptografá-las? \r\n \r\n Expliquem-me mais por que acham que a ledger é a mais segura. Acredito que até carteira de papel é mais segura se forem feitas várias cópias e espalhadas por cofres cujas senhas só você tem.
+ >>27393896 \r\n Mas a função do token não é gerar um certificado digital?
+ Como posso conseguir um celular temporário? Tem um site que está pedindo um número de celular e não quero dar meu número pessoal.
+ >>27393918 \r\n Ele tem essa função também. Certificado digital é uma infraestrutura centralizada. O governo é a autoridade máxima e confia no ICP-Brasil, que confia nas certificadoras, que passam a confiar em você depois que você vai lá neles e prova que você é Anão da Silva. A vantagem é que o governo reconhece legalmente assinaturas digitais provenientes destes certificados. É óbvio que o judeu consegue subverter esse processo em qualquer uma das etapas supracitadas. \r\n \r\n Você pode também criar um certificado PGP e usar com software livre. Você sabe quem é quem verificando as chaves uns dos outros pessoalmente. Não tem respaldo legal algum, mas o mundo open source faz uso disso para assinaturas digitais. Com isso você também criptografa emails, arquivos, discos rígidos inteiros com RSA 4096 ou ECC 384. Pode também autenticar com SSH.
+ >>27393913 \r\n A mais segura é seed phrase, que é uma versão aprimorada do paper wallet.
+ Por que andam falando que no futuro celular não vai precisar mais de chip? Me falaram que é possível fazer ligação sem chip atualmente.
+ >>27394001 \r\n Já existe o e-sim, os últimos celulares já tem suporte para ele, mas não sei muito sobre a tecnologia.
+ >>27393876 \r\n Que fascinante. Imagino como descobriram essa tecnologia.
+ Queria fazer um rastreador pra manter dentro do carro com um caralhudinho desses. \r\n Porém minha ideia foi por água abaixo com o reply deste anão >>27393896 . \r\n Só queria um dongle pra deixar dentro do estofado, minha cidade é notória pelo roubo de carros.
+ >>27394076 \r\n Um chip comum que foi ficando menor e menor com o tempo.
+ >>27394076 \r\n É mentira, anão. O 'chip' (só tem esse nome no Brasil, pois, em outros locais, chamam-no de cartão), é apenas um controlador com uma unidade de armazenamento. Ele não processa dados.
+ >>27394405 \r\n Sabia que tinha caroço nesse angu.
+ >>27394405 
+ >>27394405 
+ Essa porra de chan virou um google e páçaro, não é possível. Ô crioulo de merda, se quer fazer trabalho da escola, vá para o google, macaco de merda. Ao menos use a porra da board certa, paixão de merda.
+ >>27394656 \r\n Jorge do caralho.
+ Anões, eu encontrei um chip de celular perdido, o que posso encontrar de interessante nele? Apenas contatos telefônicos? \r\n Isso aconteceu hoje de manhã e não quero testar nada cancroso no meu celular, pretendo chegar em casa e testar em um aparelho velho.
+ >>27394710 \r\n As operadoras também fazem uns applets de merda que executam no próprio chip, como se alguém desse uma fornicação pra isso. Fora isso e os contatoa, não deve ter muita coisa.
+ >>27394489 \r\n Claro, parça. Você acha que haveria uma CPU naquela merda? Para quê? Aquilo é puro cartão de memória. Veja que você pode até cortá-lo para transformar um micro num nano etc. Você acha mesmo que se houvesse esses circuitos, você poderia cortar mais de 70% da porra toda e ficar de boa? Não morda as iscas que esses filhos das putas jogam. \r\n \r\n >>27394510 \r\n Chupe o meu cu, arrombado. \r\n \r\n >>27394607 \r\n Pare de mentir, seu filho da puta!

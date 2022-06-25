@@ -1,0 +1,72 @@
+ Linux é uma merda. estou a meia hora tentando instalar o zsnes e nada. Como é bom servir a Microsoft.
+ >ZNES 
+ Caralho, fornique-se, ninguém liga.
+ >>27012729 \r\n higan é travado e snes9x só crasha
+ Qual distro está usando? Qualquer coisa baseada em Debian teria instalado o Snes9x sem problemas.
+ >>27012955 \r\n arch
+ >instalar \r\n Você sabe que Linux não funciona assim, não sabe? O que você chama de instalar, no contexto do Windows, é apenas descompactar os arquivos em uma pasta específica e gravar algumas informações no regedit. No Linux você coloca o arquivo onde quiser, mas por padrão ou convenção, costumam colocar em alguns lugares como /opt e outros. Mas não é obrigatório, o sistema é seu e você faz o que quiser. Eu sempre que posso apenas descompacto e deixo tudo na /home.
+ >>27013089 \r\n \r\n Está explicado.
+ >>27013132 \r\n >tentei pelo pacman \r\n >tentei pelo aur \r\n >tentei compilar \r\n não entendi o que está querendo dizer
+ >>27013089 \r\n De todas as distros existentes, por que escolheu uma das mais escrotas?
+ >>27013169 \r\n eu gosto do arch. ele é rolling release, os pacotes do repositório estão sempre atualizados na última versão (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>27013205 \r\n Início de frase com minúscula e sem ponto final… você provavelmente vai levar ban por esse post.
+ Acabei de instalar o pop_os. Não regreto nada. \r\n \r\n Estou com darktable e krita instalados, tudo indo muito bem. \r\n \r\n Não jogo nada então não ligo para essa história de joguinhos. Vou me dedicar agora a desenharias. Also, vou retornar com os desenhofios. 
+ >>27013256 \r\n >1366x768 \r\n Isso deveria ser ilegal.
+ >>27013272 \r\n Estou usando notebook, meu monitor ao lado está em falta com cabo HDMI que irei comprar amanhã. :3 
+ >>27013248 \r\n Me perdoe, adm .
+ >>27013205 \r\n \r\n Quais pacotes você se interessa em estarem sempre atualizados? Qualquer Xbuntu com PPAs consegue oferecer o mesmo que o Arch e ainda sem a chance de cagar todo o sistema. O Packman do Opensuse ou o RPMfusion do Fedora também seguem a mesma lógica. Não perca seu tempo e saúde com coisas tão simples.
+ >>27013256 \r\n Comente um pouco sobre sua distro, anão.
+ >>27013300 \r\n A maioria deles. Para mim não vale a pena usar uma distribuiçao LTS. Já tive vários problemas com pacotes desatualizados.
+ >>27013089 \r\n >primeira vez no Linux \r\n >instala Arch \r\n Você é doido? Apenas pegue uma Debian based como o Ubuntu para a sua primeira viagem. \r\n \r\n >>27013256 \r\n Requesto vosso wallpaper.
+ >>27013366 \r\n Não é minha primeira vez. Já tenho uma experiência intermediária com Linux. Confesso que criei o parênquima paliçádico devido a uma frustração momentânea por não conseguir jogar com nenhum emulador.
+ >>27012717 
+ >>27013311 \r\n Acabei de instalar, é bem simples e auto explicativo. Sei que o pop os é meio desconhecido pelos brasileiros mas estou gostando. Os devs fazem máquinas próprias bem baratas em EUA com esse os. \r\n \r\n Me perdoe pela demora, estava instalando mais algumas aplicações. \r\n \r\n >>27013366 \r\n Está aí, cama rada.
+ >>27013409 \r\n Esqueci de completar que minha experiência com linux é bem rasa. Sou usuário de windows a anos e tenho o mesmo pago, totalmente desbloqueado com vínculo no e-mail. Comecei a regretar ao usar com o alto consumo de ram e ao ver taxa de upload subindo mesmo eu desabilitando todas as keys que conhecia sobre upload de arquivos para os servidores da microsoft que pedem permissão para analisar dados e aprimorar o sistema.
+ >>27013397 \r\n >>27013366 \r\n Aliás, um dos motivos de eu não estar usando Ubuntu ou essas distros mais comuns são: \r\n \r\n https://www.gnu.org/philosophy/ubuntu-spyware.en.html \r\n \r\n http://without-systemd.org/wiki/index.php/Main_Page \r\n \r\n e alguns outros, também voltados para a privacidade.
+ Dando uma olhada meio rasa encontrei essa distro: https://www.hyperbola.info . Me parece boa. É baseada em arch, não tem systemd e ao que parece tem o zsnes no repositório oficial
+ >>27013571 \r\n Nunca vou entender esse pula pula de distro, kek. Como alguém olha para o Arch e acha razoável usar aquilo? \r\n Como um homem são e de bem você tem três opções: Debian, Fedora e Ubuntu. \r\n Larga a mão de ser desocupado.
+ Como faço para deixar a barra de favoritos fixa? Aliás, acho que não vai ficar legal deixando-a fixa, né?
+ >>27013571 \r\n >não tem systemd \r\n Começou.
+ >>27013256 \r\n >pop_os \r\n Qual é a graça dessa distro?
+ >>27013610 \r\n Ubuntu: cheio de spyware e feito por uma empresa centralizada \r\n Fedora: baseado em redhat, que agora é da IBM \r\n Debian: usa SystemD \r\n \r\n Como um homem que presa por liberdade você tem duas opções: \r\n \r\n Gentoo ou Arch sem SystemD
+ >>27013610 \r\n >ubuntu \r\n As únicas opções são Debian, Fedora e Manjaro.
+ >>27013640 \r\n >Fedora: baseado em redhat, que agora é da IBM \r\n Por que é da IBM agora é ruim?
+ >>27013640 \r\n >m-mas o systemd anão! \r\n Kek, vá arranjar uma vida. \r\n \r\n >>27013643 \r\n >manjaro 
+ >>27013627 \r\n Não sou nenhum hackerman da vida, nunca fui ao avançado das linuxarias e o máximo que fiz de uso em alguma distro foi para ter wifi gratuito quando o meu caísse. Sempre me mantive seguro no Windows até cansar de ter arquivos subidos para sei lá quem. Also, tenho uma máquina muito fraca e esse pop_os está me rendendo boas transições de aplicações e até agora não vejo nenhum engasgo.
+ >>27013664 \r\n >não usando manjaro \r\n Ayy!
+ >>27013662 \r\n Vão fazer igual a canonical e espionar os usuários, se é que já não fizeram.
+ >>27013675 \r\n >Manjaro, lá. \r\n >Manjaro lá. \r\n >Manjaro la. \r\n >Manjarola. \r\n >Manja rola. \r\n \r\n Anão confirmado para viado.
+ >>27013682 \r\n t.
+ >>27013703 \r\n >não sendo OpenBSD \r\n \r\n Para o lixo.
+ Você já recompilou o kernel?
+ >>27013728 \r\n Fale mais sobre BSD, anão.
+ >>27013728 \r\n \r\n Nunca.
+ >>27013728 \r\n >não sendo beOS 
+ >>27013754 \r\n >seguro \r\n >melhor desempenho de kernel \r\n >gerenciador de pacotes que presta \r\n >leve \r\n \r\n É uma pena que não é tão popular como o linux, então obter software é bem trabalhoso.
+ >>27013781 \r\n Não dá pra simplesmente compilar o código fonte deles? Não tem make no BSD?
+ >>27013671 \r\n Se a sua máquina é fraca você deveria é pegar uma distro mais leve. GNOME come um monte de memória à toa. \r\n >>27013699 \r\n Não projete seus desejos mais íntimos, bundeiro.
+ >>27013781 \r\n Tenho muita vontade de usar FreeBSD, mas falhei nas 2/3 vezes em que tentei
+ Por que linuxfags são tão bitolados com privacidade? É medo do Pereira descobrir a pasta de café? É medo da empresa malvada descobrir que tipo de anime você vê e pra qual categoria de pornô você bate punheta?
+ >>27013800 \r\n t. usuário de manjarola
+ >sudo apt-get install higan \r\n >senha \r\n >y \r\n Retardado mental. Vem pro Linux querendo fazer igual no Windows e acha ruim quando não dá.
+ >>27013781 \r\n >É uma pena que não é tão popular como o linux, então obter software é bem trabalhoso. \r\n Que bom, vai usar um OS com um problema pior do que o do Linux que é software. \r\n A vontade de ser hipster nunca me impressiona.
+ >>27013805 \r\n Maioria acha que alguém liga para o que eles se masturbam. Eu uso por desempenho, meu notebook é uma carroça.
+ >>27013682 \r\n Você fala como se auditasse o código fonte e compilasse tudo que usa no computador. Deixe de lado essa paranoia de spyware e botnet que você aprendeu no /g/, Fedora é uma ótima distribuição. Agora, se quer mesmo continuar com essa loucura, imagino que você já tenha um Thinkpad com Libreboot, certo? Saia do Arch e instale Gentoo de uma vez, não é como se você apenas estivesse usando Linux para inflar seu ego ou algo do tipo.
+ >>27013795 \r\n Isso, mas isso é bem trabalhoso pra um usuário comum.
+ >>27013809 \r\n t. bundeirão de armário
+ >>27013823 \r\n E mais, eu acho que essas pessoas que ficam reclamando do systemD nem ao menos sabem para que serve.
+ >>27013805 \r\n Não sei, uso tanto linux quanto windows. \r\n A minha teoria é que eles ficam lendo merda online e acham que é tudo real, e também tem um bom tempo livre para fazer merda à toa. \r\n TL;DR: retardados vagabundos.
+ >>27013841 \r\n >>27013841 \r\n >>27013841 \r\n >>27013841 
+ >>27013800 \r\n >GNOME come um monte de memória à toa. \r\n Sim, sei que consome um pouco mais que os outros mas precisava de uma distro funcional, estável e que fosse agradável. Elementary estava um saco e essa pop_os é baseada nele, porém, melhorada. Tanto que a loja tem em seu executar o nome do elementary ainda mas sem algumas coisas como botão de doação e umas aplicações exclusivas. \r\n \r\n De todo jeito, tenho 6GB RAM e 2GB swap se não me engano. Está indo bem, o que irei fazer é apenas doujins e no máximo será streaming de desenharias. \r\n \r\n /r/ papeis de parede comfy para um anão que vai começar a treinar traços animarescos pra fazer doujins incluindo doujins próprio para os anões .
+ >>27013811 \r\n >linux \r\n >problema de software \r\n >flatpak e snap \r\n \r\n Tá certo.
+ >>27013861 \r\n Não, imagina. Tem tudo no Linux, você só precisa perder um dia para fazer um monte de gambiarra para rodar o software meia-boca.
+ >>27013294 \r\n Esse corno se explicando.
+ >>27013875 \r\n Tá certo, anão. Agora vai lá passar o antivírus e cuidado com javascript, ok? Principalmente se seu pc for Intel. Vá se fuder, viado safado.
+ >>27013889 \r\n >esse linuxfag com o cu em chamas \r\n Perdi. \r\n Não sou o cotado. 
+ >>27013902 \r\n >cotado \r\n Eu não estava preparado.
+ >>27013902 \r\n >cotado \r\n Já chega, boa noite.
+ Todo parênquima paliçádico é igual. \r\n \r\n >op chega falando que o o linux não funciona x coisas \r\n >anão pergunta qual a distro, sem falar que uma ou outra é boa \r\n >zomba da escolha do op sem explicar razão nenhuma, ele zombaria e soltaria o nome de uma distro aleatória só para fazer o op perder mais tempo tentando \r\n >outro anão chega falando outra distro é melhor, tentando confundir ainda mais o op \r\n >alguém aparece, solta uma buzzword querendo dizer que o op não tentou o suficiente e que deveria saber de muito mais coisas, como que culpando o usuário pela má qualidade do software 
+ >ZSNES \r\n >século XXI \r\n \r\n KEK
+ >>27013205 \r\n E por isso eles são bugados e instáveis.
+ >>27013771 \r\n Era um sistema operacional muito caralhudo. Pena que morreu.
+ >>27013889 \r\n >esse rasquerman em negação \r\n Vai lá fazer 3.000 gambiarras para rodar um simples programas e depois mais 3.000, porque na 2.999 gambiarra o SO quebrou e agora você tem que arrumar ele linha por linha. \r\n Desocupado de merda.

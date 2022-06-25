@@ -1,0 +1,79 @@
+ >computador para jogos \r\n >por causa do processador é obrigado a colocar Windows 10 \r\n >diversas inutilidades que só consomem disco/ram \r\n >ferramenta inútil chamada game DVR que capa o desempenho dos jogos \r\n >mesmo quem opta por versões como LTSB/LTSC tem que desabilitar o game DVR pelo registro \r\n >de vez em quando isso volta \r\n Windows é uma bosta.
+ >computador para jogos \r\n >jogando joguinhos \r\n Errou aí.
+ Se acalme, anão. \r\n Sente aqui e ouça a introdução de devil's paradise.
+ Arch Linux + Lutris + Steam Play.
+ Busque cal e cimento.
+ É só comprar mais RAM.
+ Antes de formatar, com HD mecânico de 5400 rpm: 170-200 fps. \r\n Depois de formatar, com SSD e 16gb de ram: 60-90 fps. Drivers estão atualizados, nvidia otimizou o jogo.
+ >>27428275 \r\n >60 fps no CS:GO \r\n \r\n Vocês está jogando com uma 1030? Eu nunca joguei com menos de 75 fps e eu tinha uma GTX 1050.
+ >>27428264 \r\n 16GB DDR4.
+ >windows \r\n corno.
+ Apenas faça dual boot e use o Proton pra rodar a maior parte dos jogos na Steam. Não há motivo para usar um sistema cheio de bloat e que te espiona como o Windows a maior parte do tempo.
+ Um parênquima paliçádico que não fala sobre muié. Estranho…
+ >>27428275 \r\n Deve ter algum marmelo (FXAA, essas merdas) habilitado aí.
+ >por causa do processador é obrigado a colocar Windows 10 \r\n Mesma merda aqui. \r\n Tinha que reinstalar o sistema em no máximo 3 meses pois começava a ficar lento, jogos atrasados ou bugs sinistros. \r\n Teve uma vez que a internet simplesmente parou de funcionar, para sempre. Procurei fix por todo lugar e ninguém teve esse problema, e outra onde o computador reiniciava do nada. Ia para uma tela de erro, pedia desculpas e que precisava reiniciar. Aí reiniciava. Acabava que tinha uma bomba relógio onde a cada ~2 meses eu iria precisar perder um dia inteiro criando um pendrive, fazendo backup de todos os meus arquivos e reinstalando aquela merda. \r\n Por simplesmente não poder lidar com tal instabilidade na minha vida(estava em uma época ocupada), troquei pelo Linux. \r\n Estou há 8 meses na mesma instalação, com a mesma performance de novo.
+ >>27428295 \r\n Eu tenho uma 1030 e jogo a 90~180 fps. O >>27428275 fez alguma merda ai. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ Por que diabos você utilizaria um sistema operacional defasado? O que você citou como desvantagens do Windows 10 é pura evidência anedótica. \r\n Já tenho que passar raiva diariamente com clientes contratando 'formatadô' que instalam Windows 7 desatualizado e cheio de vulnerabilidades por pura ignorância, causando inúmeros problemas no funcionamento do meu software, ainda tenho que entrar no chan e ver essa thread de merda que o viado do OP fez. \r\n \r\n t. TIfag
+ >>27428433 \r\n >shillando para a M$ \r\n Oi, Baboo.
+ >>27428386 \r\n Eu ia comprar esse Aspire no meu PLR, mas desisti. Imagine passar raiva com uma máquina supostamente premium?
+ >>27428444 \r\n Não consigo entender como os cornos tem tantos problemas com Windows. Tenho Windows em todas as minhas máquinas e não tenho dor de cabeça. É só manter atualizado, não compartilhar pastas feito um macaco, que não terás problemas.
+ >>27428479 \r\n Bom pra você.
+ >>27428479 \r\n Não tem problemas porque fecha com o judeu. E nós que não fechamos?
+ >>27428433 \r\n >enfia a merda de sistema deles goela abaixo \r\n >bloqueia a instalação de versões anteriores nos processadores mais recentes \r\n >só para ser o SO mais utilizado em desktops \r\n Essa bosta vai acabar como o Windows 2000.
+ >>27428502 \r\n >não fechando com o judeu hoje mesmo 
+ Estou pensando em pegar a CPU da pica. Mas vou esperar mais um meses, para eles atualizarem as CPUs que estarão nessa faixa de preço 2.8k-3k. Quero uma máquina que rode o Cyberpunk2077, estou com muita vontade de jogar essa bosta. \r\n \r\n https://www.pichau.com.br/computador-pichau-gamer-rtb-taweret-ryzen-5-2400g-geforce-gtx-1050-ti-4gb-pny-ram-8gb-ddr4-hd-1tb-500w-kazan \r\n \r\n Roda?
+ >>27428523 \r\n >3 mil \r\n >essas configurações \r\n Com 3 mil dá pra montar um setup melhor.
+ >>27428523 \r\n >apenas 8gb de ram \r\n >hd mecânico \r\n Não compre computador montado, é sempre essa safadeza.
+ >>27428523 \r\n Com 3k você monta um Ryzen 7 + GTX1070/RX580.
+ É só instalar o Windows 7 com um teclado PS/2!
+ https://github.com/bmrf/tron/blob/master/README.md#use \r\n \r\n https://bmrf.org/repos/tron/ 
+ >>27428275 \r\n >muh fps \r\n \r\n Inclusos de bosta.
+ >>27428594 \r\n Vá caçar algo para fazer, Baboo.
+ >>27428523 \r\n >1050 ti \r\n \r\n Em que resolução pretende rodar?
+ >>27428606 \r\n Incluso de bosta.
+ >>27428539 \r\n Acabei de falar com um colega por ligação, e ele falou o mesmo. Disse que aumentam artificialmente o preço da máquina por umas frescuras de luzes neon. \r\n \r\n >>27428559 \r\n Meu caderno tem 4gb de ram, uso ele apenas para entrar na internet. Jogo L4D2, e as vezes GTA IV no Low, mas dá para brincar um pouco. Parece que agora o mínimo é 16GB para se ter algo decente, não é? Tô muito desatualizado. \r\n \r\n >>27428563 \r\n Antigamente AMD era sinonimo de tacar fogo na máquina, agora parece que ela superou a Intel pelo que meu colega disse. \r\n \r\n >>27428622 \r\n Ainda não sei o monitor, mas acho que vou herdar uma TV de 44 polegadas que tem saída para monitor de PC. \r\n \r\n Agradeço as recomendações dos anões, sou totalmente incluso em computarias. 
+ >>27428636 \r\n >Roda? \r\n Não dá para saber, ainda não colocaram os requisitos. https://store.steampowered.com/app/1091500/Cyberpunk_2077/ 
+ >>27428648 \r\n Era pra ter quotado, o >>27428523 .
+ >>27428648 \r\n Vamos ver se até final do ano sai alguma coisa relacionada a requisitos. Seria muita palhaçada o estúdio simplesmente do nada adiar a porra toda, para 2022, por exemplo.
+ Das primeiras versões do 10 que eu testei, eu corri igual o diabo da cruz. Atualmente devido a baixa de preços, penso em comprar meu primeiro SSD, e vejo que o mais lógico seria usar o 10 pelo suposto melhor desempenho dele no SSD em comparação com o 7. Continua uma porra ainda?
+ >>27428523 \r\n >Roda? \r\n Não.
+ >>27428684 \r\n Se eu pudesse, eu utilizaria o windows 8.1
+ >>27428695 \r\n Mas aí o cara está especulando, veja que tem um ponto de interrogação ali depois do negócio escrito em polonês.
+ https://www.youtube.com/watch?v=Co6FePZoNgE&t= 
+ >>27428696 \r\n Até tenho o 8.1 por aqui, mas embora com os bugs o 10 pareceu deixar o PC mais 'redondo'. Não vou executar jogos, e o 7 de certa forma já parece mostrar o peso da idade. É bom, mas já está ficando defasado.
+ >>27428695 \r\n >>27428695 \r\n Que site é esse? tem link?
+ >>27428708 \r\n É uma depósito de porra, Alicja é o equivalente polonês de Alice. Ela trabalha na CD PROJETK RED. \r\n Ela está perguntando 'Vocês querem as especificações?'.
+ >>27428847 \r\n >PROJEKT \r\n Autofix'd.
+ >>27428847 \r\n Então fornicou. Não tem nada que chegue perto dessas especificações com 3 pila?
+ >>27428464 \r\n Eu tenho o modelo anterior, VX5, (i5 7300hq+GTX1050). Infelizmente o disco rígido dá muita raiva, o display ficou suave com uma regulagem de cores, as temperaturas são baixas e a GPU com overclock (1v a 1999MHz core clock e 4035Mhz nas memórias) estável no The Witcher 3, algo que nem as versões de desktop são capazes de chegar. (eu acho). \r\n Consigo temperaturas melhores que desktop, com undervolt a GPU na casa dos 60° e a CPU abaixo de 75°.
+ Já experimentou usar a versão mais básica? Pelo menos no 7 e 8 esses aplicativos de segundo plano só vinham nas versões server e ultimate.
+ >>27428961 \r\n Eu tenho quase certeza de que essas são as especificações recomendadas, e não as mínimas, principalmente pelos 32 GB de RAM. No mais, você pode esperar o dólar baixar um pouco.
+ >>27428641 \r\n AMD não superou, mas se tornou uma opção viável.
+ >>27428695 \r\n Isso foi na versão de apresentação. Imagine quem quer rodar isso em um PS4 Fat então, esse sistema está anos-luz em desempenho. \r\n Não caia na pescaria, o Cyberpunk vai ser DRM Free sem aquela porcaria de Denuvo, um processador intel 4/4 (i5 da vida, chuto qualquer coisa acima de um i5-4440 e uma GTX 960/1050 conseguindo levar o jogo em Full HD/30fps com tudo no minimo, como o que recomendaram para o Metro: Exodus. Se vir muito pesado, logo vão detonar a CDPR. \r\n Tenho aqui um i7 3770, e to cogitando muito ir de RTX pra aproveitar esse joguinho em 4k, onde desde 2014 não tive coragem de por uma GPU no meu PC.
+ Qual processador, OP?
+ >>27429093 \r\n >mais desempenho \r\n >preço menos \r\n >não superou \r\n \r\n Imagino quem está por trás desse post.
+ >>27429275 \r\n >menor \r\n fix'd
+ >>27428243 \r\n Por que esse OS é tão forçado ultimamente?
+ >>27429430 \r\n Feply rail.
+ >>27429224 \r\n i7 8550U. Sim, sei que serie U é uma merda, mas HQ é caro pra cacete. Also, vi que o Windows está atualizando. Se não resolver, vou me desfazer dessa bosta e comprar um com processador de sexta geração.
+ >>27428188 \r\n >arch \r\n Lixo.
+ >>27428243 \r\n >ubuntu com tema diferente \r\n Lixo também.
+ Instalem o Mint e vivam na excelência.
+ Dá para trocar o processador do meu notebook para um i5 ao menos e dobrar a RAM? \r\n \r\n Tinha criado um parênquima paliçádico para isso, mas vou apagar e deixar o post aqui mesmo.
+ >>27429456 \r\n Entendo, perguntei só por curiosidade pois tenho um 2700x e consegui instalar o windows 7. \r\n \r\n Já os Intel não sei se é possível.
+ Instalem o Void Linux e vivam na excelência.
+ Só desativar o DVR. \r\n \r\n >>27428188 \r\n >qualquer coisa que não seja windows para jogar \r\n Perdi.
+ >>27429495 \r\n Processador soldado, esquece. No máximo vai conseguir trocar a ram.
+ >>27429513 \r\n Eu estava pensando nisso. Atualmente uso Arch, mas, apesar de gostar bastante, queria escapar no systemd.
+ >>27429495 \r\n Tem que abrir para ver se tem slot disponível. Quando meu notebook queimou, eu comprei um Positivo barato, confiando que daria para eu aumentar a quantidade de ram dele. Comprei a RAM e quando abri descobri que o desgraçado só tinha um slot.
+ >>27429546 \r\n >>27429570 \r\n Aumentar a RAM só vai deixar mais rápido, mas basicamente vai continuar sendo uma carroça, é isso? \r\n Ele está meio lento mesmo. \r\n \r\n E para rodar joguinhos, eu precisaria ter uma placa de vídeo? Pelo o que eu vi ele não tem placa de vídeo. \r\n \r\n Sobre o processador, um i5 custa R$500 e a RAM uns R$269, valeria a pena melhorar ele. \r\n \r\n E de pensar que nesses processadores vem junto um backdoor para espionagem… Realmente te faz pensar.
+ >>27429570 \r\n >Tem que abrir para ver se tem slot disponível. \r\n Vou ler aqui no manual dele, mas pelo o que pesquisei ele comporta até 16 GB de RAM.
+ >>27429340 \r\n Ele é muito simples e fácil de manipular. \r\n Já vem com os drivers da Nvidia e Amd instalados. \r\n Instala tudo praticamente com 2 cliques, eu coloquei em dual boot aqui no meu computador. \r\n Quanto mais eu interajo, menos vontade eu sinto de voltar para o windows. \r\n Instalei o Wine, Steam e Lutris. \r\n Figurativamente agora da para rodar qualquer jogo, obviamente jogos mais pesados como GTAV, é necessário mais programas para ajustar a compatibilidade. \r\n Eu por exemplo só jogo Samp e L4D2, então para min é o suficiente.
+ >>27429586 \r\n RAM + SSD tira qualquer notebook velho da UTI.
+ >>27429586 \r\n Esquece processador, é soldado.
+ >>27429626 \r\n Por que SSD? Ele tem um HD que está para dar pau, mas até agora sem problema nenhum, talkey? Tem 1TB de armazenamento. \r\n Eu sou muito inclusivo em computarias, só sei o básico. \r\n RAM eu sei que é para executar múltiplas tarefas, o processador seria o quanto aguenta rodar e a placa de vídeo, para jogos. \r\n \r\n >>27429630 \r\n Qual a dificuldade em mexerem na solda e após soldarem novamente? \r\n Aliás, será que ganham bem esses filhos da puta que mexem em notebooks e celulares? \r\n Deve ser um trabalho comfy.
+ >>27429677 \r\n >Eu sou muito inclusivo \r\n Realmente.
+ >>27429732 \r\n >hur, como sou fodão das computarias 
+ >>27428295 \r\n Você pode ter uma 1080 e ainda jogar CS:GO com FPS baixo, pois esse jogo é totalmente processador, a placa de vídeo dorme.
+ >>27429677 \r\n Anão, sou o >>27428523 . Olha, eu sei que é filha da putice dizer isso, mas vou dizer mesmo assim: faça com eu, compre uma máquina nova. Gaste o máximo que der em uma coisa de ponta, porque só com esse concerto aí seu, já é meio-caminho andado para uma máquina fornicação. \r\n \r\n Ficar fazendo essas negrices só irá te dar dor de cabeça e não vai adiantar muita coisa, além de torrar grana que poderia ser investida melhor. O SSD é uma memória mais potente que a habitual, ela ajuda DEMAIS no processamento da máquina. Veja, também sou incluso, mas por favor não faça essa negrice, é desperdício de tempo tunar carroças. \r\n \r\n >caderno \r\n Estou doido para me livrar do meu, pega um gabinete aí e vai montando, é melhor, vai por mim.
+ >>27429831 \r\n >como eu \r\n Fixado, desgraça de teclado.

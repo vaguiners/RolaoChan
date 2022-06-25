@@ -1,0 +1,7 @@
+ Estou pensando em contratar este plano e gostaria de saber se da para acessar o Chan normalmente com apenas 128 kbps?
+ 50% .
+ Sim.
+ Não.
+ Talvez.
+ A página inicial do /b/ tem cerca de 1~2MB. Com essa velocidade demoraria de 1 a 2 minutos pra carregar. \r\n Se usar o safemode o tamanho vai pra uns 600KB, que demorariam 40 segundos pra carregar.
+ >>25778831 \r\n Also, dá pra reduzir o tempo usando um frontend próprio que dependa apenas do json da api do chan. O dashchan provavelmente deve fazer isso.

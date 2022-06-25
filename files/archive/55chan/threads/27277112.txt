@@ -1,0 +1,3 @@
+ Estou tentando fazer um overclock na minha GTX 970. \r\n \r\n Estou aumentando o clock da gpu de 10 em 10 mhz e testando a estabilidade. Se eu aumento em 40 essa porra já dá erro, sendo que vi o pessoal que faz tutorial aumentava até +180 sem problema. \r\n \r\n Qual será o motivo?
+ É necessário aumentar o core voltage e acompanhar as temperaturas para não fritar seu cachorro. A cada acréscimo de core voltage você tem um espaço para aumentar a frequência da memória e do core. Há um ponto ideal para cada placa, tudo depende da sua sorte na loteria do silicone.
+ >>27277143 \r\n Eu conheço essa referência.

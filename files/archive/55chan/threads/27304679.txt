@@ -1,0 +1,1 @@
+ Pessoal, alguém conhece um programa para Android ou IOS que faça ordem de serviço e controle de estoque? Eu tenho uma impressora térmica 58mm, e queria poder usar um celular para imprimir os pedidos.

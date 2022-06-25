@@ -1,0 +1,2 @@
+ https://www.cnet.com/news/new-intel-chip-flaw-leaves-your-pc-exposed-again/ \r\n >2019 \r\n >ainda usa processador (((deles))) 
+ Fornique não. Só queria usar RISC-V em um chip sintetizado em um FPGA.

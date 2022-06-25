@@ -1,0 +1,16 @@
+ Deem dicas para um anão que começou a estagiar esta semana com desenvolvimento e esta perdido que tudo.
+ A plataforma que irás trabalhar é .Net?
+ >>25734931 \r\n Sim, trabalharei com asp net mvc, mais pra frente começarei com Angular, mas agora estou trabalhando com o Razor.
+ bump do desespero.
+ Kek, você é eu? A diferença é que eu estou trabalhando efetivamente, entrei na empresa sem saber nada de nenhum dos dois. \r\n \r\n Minha dica é pra buscar na documentação da própria Microsoft, não tem lugar melhor pra aprender sobre asp.net (lá é tudo muito bem explicado). \r\n \r\n Sobre o Angular, veja esses vídeos: \r\n https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G \r\n \r\n Não aprendi Angular com eles, meu chefe comprou um curso no Udemy e aprendi de la. Mas boa sorte e tente não enlouquecer com essa merda. Eu aprendi Angular em 1 semana, quase fiquei louco com essa desgraça, porque me sentia pressionado e quanto mais me pressionava menos conseguia me concentrar. \r\n \r\n Quando entrei na empresa não sabia nem como funcionava uma API Restful. Se também não sabe, comece aprendendo o que é isso e como funciona, pois isso é usado no Angular.
+ Já trabalhei com isso e te aconselho a ir atrás das documentações oficiais. \r\n Para C#, esse é o melhor livro. \r\n Na Microsoft Virtual Academy tem tutorial e vídeos para as tecnologias deles. Se puder pagar, procure no Pluralsight ou Alura.
+ Quantos anos OP?
+ >>25735540 \r\n Esqueci do mais importante: \r\n Não sei se está nervoso ou ansioso, mas tente ao máximo ficar tranquilo. O judeu sabe que você não conhecia asp.net e nem angular e mesmo assim te contratou, então não precisa encher a cabeça de fornicações e estude tranquilamente e no seu tempo.
+ >>25734958 \r\n Está no ASP.NET MVC ou ASP.NET Core?
+ >>25735540 \r\n Obrigado pelas dicas, anão. Nunca fui de olhar documentação, vou fazer isso desta vez. \r\n \r\n Estudei um pouco de Angular essa semana, porém, como ainda não vou utilizar agora, vou tentar focar mais no MVC5. Also, também comecei esse curso da Loiane. \r\n \r\n \r\n >>25735558 \r\n Obrigado pelas dicas, anão. Estou fazendo os cursos da Alura de .NET, porém o de MVC5 não é muito bom. Vou dar uma olhada na Microsoft Virtual Academy. \r\n \r\n >>25735592 \r\n 22. \r\n \r\n >>25735618 \r\n MVC 5. \r\n \r\n \r\n >>25735593 \r\n Esse é o meu maior problema, anão. Me sinto mal por não conseguir produzir, mesmo com eles dizendo que vão me dar tempo para aprender. Não quero perder este estágio.
+ >>25735758 \r\n >Esse é o meu maior problema, anão. Me sinto mal por não conseguir produzir, mesmo com eles dizendo que vão me dar tempo para aprender. Não quero perder este estágio. \r\n \r\n Mesmo problema que eu tive por um tempo, mas coloque na sua cabeça que vai atrapalhar muito sua concentração e desempenho você ficar se sentindo assim. \r\n \r\n No meu caso, eles vieram me falar que estavam preocupados, porque eu fiz o curso muito rápido e não perguntei nada sobre Angular ou ASP.NET pra ninguém. Então tome isso como exemplo.
+ >>25735540 \r\n >>25734905 \r\n \r\n Quando o judeu está pagando para vocês?
+ >>25735758 \r\n Dê uma olhada no Balta.io. É mais focado em arquitetura, mas pode te ajudar.
+ >>25736050 \r\n Nada que te interessa. 
+ 4k
+ Quais tecnologia devo conhecer para conseguir um estagio de moderador ?

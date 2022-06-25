@@ -1,0 +1,7 @@
+ Anões manjadores das computarias, por favor, ajudem-me. Tenho um trabalho para \r\n apresentar amanhã sobre um tipo de malware, o ransomware, aquele que criptografa o \r\n banco de dados do usuário e pede um valor em bitcoin para distribuir a chave. Estou em \r\n dúvida em uma coisa e por mais que eu procure livros e trabalhos na internet, não estou achando resposta. Depois que o ransomware é baixado pelo computador da vítima, ela \r\n precisa instalar alguma coisa para que ele funcione ou só por ter baixado o arquivo \r\n infectado o estelionatário já pode fornicar a porra toda? Digo, eu preciso abrir a imagem \r\n infectada, por exemplo, ou apenas baixando-a eu já fodo a porra toda?
+ Tem que executar, levando em consideração que o sistema operacional seja windows.
+ >>26976899 \r\n Muito obrigado, anão.
+ Já fui vitima mas não faço ideia de como funciona, não lembro de ter baixado nada suspeito ou aberto nada, quando ligo o computador tudo estava encriptado.
+ >>26976907 \r\n Fale mais, anão. Será interessante para mim.
+ A sua pergunta pode funcionar para qualquer coisa. Qualquer programa pode ser alvo de um exploit que consiga executar código arbitrário. No seu exemplo, se o visualizador de imagens do Windows estiver comprometido, a imagem pode carregar código malicioso para ser executado. No entanto, a maioria dos casos será o usuário executando um programa suspeito, ou seja, burrice mesmo.
+ >não sabe a diferença entre baixar e abrir \r\n \r\n Esse é o nível dos universiotários bostileiros.

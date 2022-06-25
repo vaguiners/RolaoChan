@@ -1,0 +1,209 @@
+ Vamos lá, voltamos. Como o sadpanda voltou, voltei animado também. \r\n \r\n Não briguem tanto com o servidor, ele é uma delícia, mata lolicon/shotacon e um monte de outra coisa no peito e ainda faz embaixadinha, o problema é em outro lugar e já já resolve. \r\n \r\n Enquanto isso gostaria de apresentar aos senhores o beta: https://beta.55chan.org/ \r\n \r\n Eu queria fazer um AMA antes e reunir mais gente pra cooperar, mas algum arrombado descobriu e soltou antes do tempo. Logo logo vou atualizar a engine do chan e ir pra uma fork ou até mesmo desenvolver uma caminho mais correto de segurança, já que o vichan morreu mesmo. Gostaria que dessem uma passadinha por lá e nos ajudassem a cobrir a maioria dos features que faltam e resolver alguns bugs rápidos. \r\n \r\n Quando estiver tudo certo no beta, vou deixar o /b/ com ela e ver o que acontece; se der tudo certo no /b/, vai o chan todo. Talvez essa semana ou na outra, mas quero trazer pro chan ainda esse mês. \r\n Ah, e notei uma coisa engraçada desde o fim 2015: não temos um e-mail oficial. Àqueles que desejam ajudar, peço que usem o /mod/ por enquanto ou até o próprio beta, vou botar a mão na massa por agora. \r\n \r\n Se tiverem alguma pergunta a fazer, estou aqui.
+ >Vamos lá, voltamos. \r\n Você pode provar?
+ >memes \r\n Épico.
+ Bom dia.
+ Só queria saber no que deu a seleção de moderadores na época do atentado de Suzano. Aliás, esse parênquima paliçádico já é o AMA sobre o beta?
+ Voltou!
+ >>27597586 \r\n >Eu queria fazer um AMA antes \r\n Eu sabia que a moderação dessa joça era rediteira e cancerígena.
+ Já estava com saudades.
+ >>27597591 \r\n São seus olhos. \r\n \r\n >>27597594 \r\n Bom dia. \r\n \r\n >>27597595 \r\n Achamos melhor cancelar e esperar a poeira abaixar, embora a maioria dos e-mails eram e-mails pessoais ainda tinha muito usuário bom por lá. Mas não se preocupe, em breve terá outra. E sim, é um AMA sobre tudo.
+ Fornique-se.
+ O que vocês vão fazer pra que o Neo55 não chegue no estado desse aqui? Bolaram uma guideline para os macacos de código? Vão liberar uma API pra dump?
+ Eu quero a nova versão o mais parecido com a atual possível, nada de bazingarias e grandes mudanças, por favor.
+ E eu com isso?
+ 55ch, onde aqui até o chan é beta!
+ >>27597604 \r\n >>27597609 \r\n >essa falta de respeito com o mod educado \r\n Sumam daqui.
+ >oppai loli \r\n Finalmente bom gosto!
+ >>27597611 \r\n >mod \r\n Aprenda a hierarquia. Ele é administrador.
+ >>27597603 \r\n Alguma chance de termos novamente um contador?
+ >>27597611 \r\n >defendendo a merderação \r\n Que tipo de viadão você é?
+ >beta \r\n Isso aí está me parecendo o Grande Irmão em forma de ABIN.
+ >>27597605 \r\n Ter mais cuidado é a melhor resposta que posso pensar, sério. Mas, sim, nada está sendo feio às coxas, o problema é a pressa e sair consertando as coisas com gambiarra. \r\n \r\n >>27597608 \r\n Sim sim, é exatamente o que será feito. Mesma engine, mesmos scripts, apenas consertando algumas funções que deveriam funcionar direito com uma versão diferente. \r\n \r\n >>27597612 \r\n Toma, presente: https://exhentai.org/g/1008934/e40e7a3af0/ \r\n \r\n >>27597615 \r\n Já temos: https://55chan.org/ipcount.json \r\n \r\n Pelo menos o .json já tá aí, falta só colocar em algum lugar.
+ >>27597618 
+ Pelo amor de ~, bote ID nessa merda. Não aguento tanto samefag.
+ >>27597619 \r\n >esse presente \r\n Minha nossa, você é muito cruel. \r\n Espero que tudo dê certo então. Pelo amor de D'us não façam backup no mesmo HD.
+ >>27597614 \r\n Eu também.
+ >sem marmelos \r\n >board /teutões/ para nós macaquearmos \r\n >sem dose diária \r\n >score positivo para ips \r\n \r\n Sim, gosto de sonhar.
+ Se eu fosse você, me basearia no NPFchan. Ele tem algumas coisas a mais, especialmente para a moderação.
+ >AMA 
+ >>27597633 \r\n Quer um modo noturno também?
+ >>27597633 \r\n >>27597633 \r\n Sem marmelos e ID nos parênquima paliçádicos já tá bom demais.
+ >>27597623 \r\n This. \r\n Não entendo por que isso é visto como um problema, se ainda continuaria anônimo.
+ >>27597633 \r\n >score para ips \r\n Vá para a puta que te pariu.
+ >>27597633 \r\n >score positivo para ips \r\n Quer que fique igual o Leddit?
+ naruto ou saske? (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ Eu sou um bom anão? Also, secundo o >>27597608 .
+ Vai ter tabela do brasileirão e chat no topo da página?
+ >pode lolicon \r\n >não pode garotinhas vestidas fazendo cara de safada ou poses sensuais \r\n Libera aí, ademir! \r\n \r\n Viver é uma merda.
+ Bota o /high/ outra vez por favorzinho.
+ >>27597645 \r\n Macaco, quantas vezes levei ban por causa de uma vírgula, mesmo tendo criado parênquima paliçádicos de qualidade. \r\n Quem tem ip fixo sabe como é.
+ >>27597623 \r\n Tem que ver com os outros. Talvez sim, talvez não, o problema é que alguns samefags bem-intencionados se foderiam no processo. \r\n \r\n >>27597636 \r\n Vou dar uma olhada nos outros forks e ver o que tem de bom. O do lainchan também tem umas coisinhas a mais. \r\n \r\n >>27597633 \r\n Vou morder Melhor ficar só sonhando mesmo, anão. \r\n \r\n >>27597657 \r\n Acima da média. Se todos postassem nas outras boards fora o /b/ como você, o 55 seria um lugar melhor. \r\n \r\n >>27597663 \r\n Não porque 2d>3d vocês não sabem ter coisas boas. Se não tiver alguém com uma havaiana na mão de olho, vocês tocam o fornique-se. \r\n \r\n >>27597664 \r\n >55chan \r\n >/high/ \r\n Não.
+ >>27597666 \r\n >essa mentalidade de quem evade bans \r\n Já sei sua cor. DEABO! 
+ >>27597666 \r\n >mesmo tendo criado parênquima paliçádicos de qualidade \r\n >qualidade \r\n >animemerda \r\n Claro, anão, claro. Agora pegue a fornicação fora.
+ >>27597672 \r\n >sapo da panela 
+ >>27597662 \r\n Chat de quê?
+ >>27597666 \r\n Triplos de Satanás denunciam que você mereceu cada ban, precto.
+ >>27597633 \r\n >sem marmelos \r\n Os marmelos nos acompanham desde o original e tem um bom motivo para isso, se você discorda disso, 'anão', você é só um newfag patético. \r\n >board /teutões/ para nós macaquearmos \r\n Sim, peça uma board para ERP também. Também poderíamos pedir uma board para imagens do cancro, anão! \r\n >sem dose diária \r\n >aumentar ainda mais a susceptibilidade para raids \r\n Não. \r\n >score positivo para ips \r\n Volte para onde veio, macaco.
+ >>27597633 \r\n >score positivo para ips \r\n Perdi. O macaco está achando que isso aqui é o cancro, quer até 'like'. Vá tomar no seu cu, rapaz. Animefag só fala merda mesmo.
+ Vocês irão implementar o sistema de ID pra parar os sameafags?
+ >>27597677 \r\n >>27597677 \r\n >>27597677 \r\n >>27597677 
+ O bom de ter ID é que assim dificultaria as vagabundas e intrusos que fazem fanfics. \r\n Muitos criam e movimentam parênquima paliçádicos de bosta só pra estragar ainda mais o /b/.
+ >bostanimufag 
+ >>27597670 \r\n Baseado, lugar de zé droguinha é na puta que pariu.
+ >>27597687 \r\n Eu não me importaria em fazer um teste com IDs por thread.
+ >>27597687 \r\n Isso é verdade e eu posso provar.
+ 'vou deixar o /b/ com ela' ?
+ >>27597688 \r\n >está no /b/ \r\n >não gosta de animes \r\n \r\n Seu lugar não é aqui, nunca foi e nunca será!
+ >>27597670 
+ >>27597688 \r\n Xinguem mais, na cara do ademir. \r\n Ele irá mostrar a fúria de mil bans para quem reclama dos grandes animeamigos.
+ >>27597705 \r\n Mato os dois na porrada.
+ >>27597705 \r\n Pronto, chegaram as aberrações que estragam o chan.
+ >>27597693 \r\n Nas vésperas do reator do Fukushima ir pelos ares colocaram IDs, não resolveu muita coisa.
+ >>27597711 \r\n >que mandam no chan \r\n \r\n Fixado.
+ Essa guerrinha de anti-animefags e animefags não era passível de martelada? Como estão as regras atuais comparadas com as de 2018?
+ >>27597705 \r\n A real é que nunca tive problemas com animefofinhos, eles sempre foram dengosos comigo.
+ Galera, parem de ofender nossos amigos animufags. \r\n O próprio mod é um deles, sem eles o chan não seria o mesmo. \r\n Guardem esse ódio para quem merece.
+ >>27597681 \r\n >>27597687 \r\n Respondi lá em cima. \r\n \r\n >>27597716 \r\n Ainda é, só deu ma afrouxada. Se continuarem se comendo enquanto descarrilam threads, aí aperta de novo. No mais as regras não mudaram muito, são as mesmas, o problema é que não são só as funções dos usuários que estão cagadas, até pra administrar quem administra dá trabalho. \r\n \r\n Se o beta der certo, isso muda e ficamos mais consistentes.
+ >>27597696 \r\n Perdoe a negrice, agora que eu percebi que você estava se referindo a engine do chan n-né? 
+ >>27597716 \r\n Bostafags são viadões e vadias apenas. Animefag de verdade não fica postando viadagem.
+ >>27597715 \r\n >que foram surrados num parênquima paliçádico no /mod/ \r\n Fixei para você, anão.
+ >>27597724 \r\n Vai tomar no cu. Esses merdas de merdanimufags passam o dia floodando e descarrilhando parênquima paliçádicos no chan. Está na hora até mesmo vocês da bosteração pararem com isso.
+ >>27597670 \r\n >alguns samefags bem-intencionados se foderiam no processo \r\n Isso é fácil de decidir, apenas analisem quantos sameafag prejudicam e quantos ajudam, pelo o meu ver a maioria querem apenas prejudicar.
+ >>27597718 \r\n Você é um bom anão, e sempre será bem tratado por um animeamigo! \r\n Nós sempre vamos proteger pessoas de bem, como você. \r\n Agora, esses teutões descolados que ficam nos menosprezando, sempre sentirão nossa fúria ardente!
+ >>27597726 \r\n Ah, sim, não são ataques a torto e a direito enquanto contra qualquer um que poste imagem de desenho cambojano, não é mesmo? \r\n \r\n >>27597724 \r\n Mais uma coisa: Vi que as threads de baixo esforço estavam sendo banidas, mas vocês não podem bater mais forte nos retardados que ficam fazendo threads do tipo 'peidei e saiu fedido', 'tirei meleca do nariz e comi' etc? As vezes eles dão uma parada e voltam com tudo nesse retardo. Seria bacana se vocês adotassem a politica da âncora que eles usam no ptchan. No lugar de trancar é só deixa a thread em autosage e apagar as próximas.
+ >>27597744 \r\n >mas vocês não podem bater mais forte nos retardados que ficam fazendo threads do tipo 'peidei e saiu fedido', 'tirei meleca do nariz e comi' \r\n É a saída que encontraram quando ERP foi caçado. Sim, começaram a banir isso há um tempinho, mas sempre tem uns que passam batido. \r\n \r\n >apagar as próximas \r\n Apenas trabalho desnecessário. Pra mim, pelo menos, trancar é o suficiente.
+ >>27597740 \r\n Muitos parênquima paliçádicos bons só vingam por causa de samefag.
+ Administrador, por favor, implemente a função de arquivamento de thread no archive.is, através de algum botão ou assim, que basta clicar e já salva e gera o link de onde foi salvo, isso não deve ser tão difícil.
+ >>27597670 \r\n Pode conversar sobre droga, pelo menos? Não gosto de maconheiro attwhore, mas tem muita coisa interessante que também é classificada como 'droga'.
+ O que está acontecendo.
+ >>27597744 \r\n >peidei e saiu fedido \r\n É o próprio Admin que posta isso. 
+ >>27597765 \r\n Isso já é feito, incluso.
+ >>27597765 \r\n Outra coisa, criem alguma função bem feita para casos de emergência, onde a máscara de ferro é necessária, sempre que vocês usam a máscara conseguem negrar o chan todo por 1 semana.
+ Tem como colocar o estilo festaduro de novo?
+ >>27597763 \r\n Eu vejo mais threads sendo descarrilados por samefag do que boas threads sendo aproveitadas por eles.
+ >>27597776 \r\n Onde existe um botão para arquivar a thread dentro do próprio chan? Já pedi isso no /mod/ e eles mesmo responderam que não gostariam de colocar isso, ou seja, não existe ainda.
+ >>27597777 \r\n Aquele roda-a-roda jequiti do 1° de abril foi ótimo.
+ >>27597765 \r\n Eu queria fazer um arquivo próprio como o 4pintos e como o que o 8ch tentou fazer. Temos espaço, se o chan pesar meio TB é muito, então acho que dá pra fazer. Mas isso é lá pra frente, há coisas mais importantes agora. \r\n \r\n >>27597769 \r\n Sim sim, sem problemas. Discussões que envolvam a droga tanto no meio social, meio político ou no meio da saúdo sem problemas. Agora se quiser relatar o quão 'doidão xDddd' está ou o que usou semana passada, recomendo fazer isso em outro lugar, não vamos ficar sustentando esse tipo de gente aqui. \r\n \r\n >>27597773 \r\n Apenas um dia normal no 55chan. \r\n \r\n >>27597777 \r\n >sempre que vocês usam a máscara conseguem negrar o chan todo por 1 semana. \r\n Rude! \r\n Se o beta der certo, não vai quebrar mais, relaxa. \r\n \r\n >>27597779 \r\n Tem sim, recuperei uns .css do tempo do kusaba, vou ver se deixo disponível no beta. \r\n \r\n >>27597786 \r\n O do ano que vem vai ser melhor ainda, preparem-se.
+ Oi 'Admin', tem como chamar o K, por favor?
+ >>27597792 \r\n >saúde \r\n Brofix.
+ >>27597792 \r\n Poderia não excluir o /pfiu/, por favor?
+ Seria legal se o irc fosse implementado dentro do chan, não um link por fora, creio que isso iria gerar mais movimento e interação por lá. \r\n Alguma espécie de shoutbox, ou que seja de fácil acesso para conversar e utilizar outras boards normalmente.
+ >>27597785 \r\n Existe uma extensão para isso. Além de que quando um parênquima paliçádico é apagado, automaticamente já fica arquivado.
+ >>27597802 \r\n Tá faltando uma vírgula aí, irmão.
+ >>27597765 \r\n >>27597792 \r\n NPFchan tem uma função própria de arquivamento.
+ >>27597791 \r\n Só se você postar o cu e a vagina depilada antes.
+ >>27597810 \r\n >quando um parênquima paliçádico é apagado, automaticamente já fica arquivado \r\n Mentir é feio.
+ Denunciado.
+
+ Isso é real? Realmente tem um programador aqui agora? Ele vai até mesmo mudar a engine do chan? Meua migo. Que tempos!
+ >>27597861 \r\n Parece que a mineração de bitcoins do admin está funcionando.
+ >>27597865 \r\n Espero que sim. Aliás, você esqueceu de algo, ele quer mudar a engine para melhorar a segurança também. Estou no aguardo que não seja só pra eles. Quando a esmola é demais, o santo desconfia. 
+ >>27597861 \r\n >agora \r\n Eu sempre estive aqui. \r\n \r\n >>27597869 \r\n Vocês seguros é a mesma coisa que nós seguros. Não se esqueça que também somos usuários, assim como vocês.
+ Porra ninguem se toca que essa farra começou com o propósito de reunir animeamigos? Ficam querendo marretar eles.
+ >>27597874 \r\n Pera aí, você sempre esteve aqui? Então por que só agora você começou a fazer algo? Quanto e quem está pagando essa brincadeira, Ademir?
+ >>27597874 \r\n E quanto a seleção de novos moderadores? Semana passada isso daqui estava sem ninguém em plena tarde. Arruma isso aí, cara de mamão.
+ ADMIN, eu sei como vermelho-texto funciona, mas teria como modificar o chan para permitir que ele funcionasse ==dentro das frases?==
+ >>27597881 \r\n Porque só agora isso aqui resolveu quebrar pra valer. Antigamente eu empurrava com a barriga pra ver até onde ia, mas chegamos no limite. \r\n \r\n >>27597886 \r\n Vendo a quantidade de mods ativos que temos agora, não duvido. Relaxa, esse mês ou no outro terá uma. \r\n \r\n Mas pelo amor de ~, não mandem com e-mail pessoal.
+ >>27597881 \r\n >ademir \r\n Eu pedi um ban colorido no beta, mas você que merece um ban colorido para combinar com sua fagotagem. Volta para o grupo do zap, filho da puta!
+ >>27597900 \r\n Adenilsom, realmente isso aqui está caindo aos pedaços, direto vejo imagens e mensagens sendo duplicadas.
+ >o beta já caiu 
+ Pelo menos o admin parece ter um powerlevel decente. Nem tudo está perdido nesta bagaça.
+ >>27597900 \r\n Tudo bem, mas então por que sempre tinham que pagar absurdos pra alguém concertar o chan?
+ >>27597924 \r\n \r\n Limpe uma foça e te darei 2 caramelos e uma banana, aceita?
+ Cadê os retardados que ficam spammando 'hurr durr animefag' agora? \r\n \r\n O admin é animefag, pau em vossos cus, filhos da puta.
+ >mata lolicon/shotacon no peito \r\n \r\n O que significa isso? Quer dizer que isso era problemático no outro servidor?
+ Que milagre! O mundo vai acabar.
+ >>27597938 \r\n >>27597937 \r\n Samefag.
+ >>27597937 \r\n Por isso é uma bosta.
+ Quando vai ter outro censo? \r\n Já tem anos que ele não é feito. \r\n A maioria dos anões ainda são do DF?
+ O que muda no Beta?
+ Devolve meu pedomingo, cabra!
+ >>27597900 \r\n Deixe que usem e-mail pessoal, assim vocês já sabem quem desclassificar.
+ >>27597938 \r\n >no outro \r\n É o mesmo do outro, só que esse tem mais espaço. \r\n \r\n >>27597924 \r\n Isso >>27597932 \r\n \r\n >>27597980 \r\n A última vez foi há quase 3 anos. Talvez tenha quando tudo estiver mais calm, mas há coisas mais importantes a se priorizar, certo? \r\n \r\n >>27598010 \r\n Nova versão, code novinho em folha, features que funcionam, e mais que estou com preguiça de citar, é pra ficar mais rápido e por aí vai.
+ Ademir, por favor, não adicione marmelos na nova engine, essa merda só serve pra fazer com que os paneleiros se sintam especiais por frequentarem um 'clubinho secreto'.
+ Os anões que foram banidos aqui, estarão banidos lá?
+ >>27598047 \r\n >ademir \r\n Você é um paneleiro.
+ >>27598111 
+ >>27598120 \r\n t. oldfag do feto.
+ >>27598047 \r\n Tomar no teu cu, rapaz.
+ >>27597953 \r\n É, você tem um ponto.
+ >>27598124 
+ >>27598131 \r\n >>27598135 \r\n Também vale pra você.
+ >>27598135 \r\n t. oldfag do feto.
+ Você posta muito no chan, admin?
+ >>27598145 \r\n Eu não vou discutir com você, bobão.
+ Vai resolver as rusgas com o Dollchan? Aqueles erros pós postagens irritantes? \r\n \r\n Also, ainda está uma porra para postar. Leva meio século.
+ >>27598068 \r\n Talvez, depende da boa vontade do DB. \r\n \r\n >>27598148 \r\n Uso mais o /an/, /34/ e o /lang/. Mas geralmente moderadores/admins diminuem a frequência de postagem depois de um tempo moderando. Enxugar gelo cansa, sabe? \r\n \r\n >>27598153 \r\n Não uso dollchan, mas se tem alguma coisa impossibilitando de postar aqui, então acho que no beta vai funcionar. Tenta postar lá.
+ >oppai loli \r\n Absolutamente plebeu.
+ Admin, quando é que você vai dar um jeito nesses merdafags que vivem descarrilhando parênquima paliçádicos? Toda fodenda thread tem uma dessas aberrações afeminadas para estragar completamente a thread com seu roleplay retardado. \r\n \r\n Also, deem um jeito nessa infiniférias, não é surpresa para ninguém que esse recinto se tornou mais cancroso que o normal, existe grupo no discord e cancro sobre este lugar, estamos no limite da radiação.
+ >>27598180 \r\n >admin é merdafag \r\n >vai banir os merdafags \r\n Certeza que é o admin e os mods que descarrilham os parênquima paliçádicos que eles não gostam com essas merdas de anime. Bando de bicha louca.
+ >>27597643 \r\n >sem marmelos \r\n >figurativamente a melhor parte do chan \r\n Aí não, homem.
+ >>27598186 \r\n O problema não é o 2D, mas sim o roleplay, o admin não está agindo feito um doente mental.
+ >>27598158 \r\n Ok, vou tentar. De qualquer forma, os erros não são de agora. Tem muito tempo que ocorre isso. \r\n \r\n Você me parece ser um cara legal. Agradeço por manter a lona de pé.
+ >>27598195 \r\n >marmelos \r\n >melhor parte do chan \r\n Nem preciso me esforçar pra perceber que você começou a frequentar esta pocilga há pouco tempo.
+ >>27597777 \r\n Jackpot!
+ >>27597781 \r\n >eu vejo \r\n Não, você acha que vê. \r\n Não tem como saber.
+ >>27598224 \r\n Prove.
+ Uma curiosidade minha. Por que o sadpanda caiu, e como voltou?
+ >>27598172 \r\n Pfff \r\n \r\n >>27598186 \r\n >>27598180 \r\n Acredite, detesto tanto essa cria do tripchan que fica se comendo no meio das threads quanto vocês. E já estamos banindo isso há um tempinho, pode reportar por derail que os mods dão um jeito. \r\n \r\n >>27598200 \r\n Nada, precisar, estou aqui.
+ >>27597810 \r\n >anão pergunta uma coisa \r\n >responde outra e ainda mente \r\n Porra, compadre, seja honesto.
+ Baalseado.
+ >>27598234 \r\n Cade o abismo? Meus confrades de lá estão preocupados com os sigilos que colocamos no /b/ para captar a energia dos macacos, mudando o /b/ para lá, anula toda nossa magia. 
+ >>27597924 \r\n Porque deve ser complicado. \r\n Imagina, ter que transformar tanta merdapostagem em música. \r\n Além disso, concertos tendem a ser caros de organizar. Tem que pagar os músicos, o lugar, etc.
+ As imagens não estão aparecendo no beta, admin.
+ >>27598204 \r\n Novoviado.
+ >>27598288 \r\n Tentei importar a porcaria do database daqui e é incompatível com a nova versão do vichan. Dá pra arrumar, mas vai dar um trabalho da porra. \r\n \r\n Vê se melhorou aí.
+ >>27598230 \r\n Aroma suave e sabor adocicado.
+ Sugestão: \r\n Coloque uma opção para criar threads com ID's como existe no ptchan, assim o OP é que decide se a sua thread tem ID's ou não.
+ Esse teu chan é um lixo, tragam o QB de volta.
+ Boa tarde, Admin, posso meter na sua esposa?
+ >>27598312 
+ >Como o sadpanda voltou, voltei animado também. \r\n \r\n WAT? Voltou?
+ Vou fazer as verdadeiras perguntas aqui! \r\n Quais são as atitudes tomadas quando alguém posta pedofilia no chan (além de ban e apagar o conteúdo)? Existe alguma ação que vai além da repercussão dentro do chan? \r\n Como vocês agem quando a polícia entra em contato querendo mais informações sobre os usuários do chan?
+ >>27598346 \r\n Além disso, forneça os links dos jsons existentes como fez aqui >>27597619 para que os anões (eu) possam criar algo interessante.
+ Tá explicado.
+ Quais as implicações de permitir a postagem de outros tipos de arquivos no chan? \r\n Me refiro a .pdf, .epub, .txt, .tar.gz, etc. \r\n Da mesma forma que o lainchan permite, por exemplo.
+ >sadpanda voltou \r\n Fod​e-sim, estava em abstinência da minha rotina desde /1997/ em acessar aquela merda todo dia. Farei um jantar de comemoração essa noite. Minha onahole se sentirá especial hoje :3
+ >>27598361 \r\n Porque não teria como a moderação ficar verificando o conteúdo interno disso, para saber se é algo legal ou não, teriam de ficar baixando e verificando manualmente.
+ Estou esquecendo de alguma coisa?
+ >>27598346 \r\n >Quais são as atitudes tomadas quando alguém posta pedofilia no chan (além de ban e apagar o conteúdo)? \r\n Só isso. Talvez um rangeban ou hashban ou outra coisinha pra impossibilitar o negrinho de postar CP. Quando algo ilegal é postado, geralmente é com proxy/VPN, do que adianta fazer algo? \r\n \r\n >Existe alguma ação que vai além da repercussão dentro do chan? \r\n Por enquanto nenhuma. \r\n \r\n >Como vocês agem quando a polícia entra em contato querendo mais informações sobre os usuários do chan? \r\n Estou aqui há bastante tempo e posso dizer com clareza que isso nunca aconteceu. Mas se acontecer, não é como se fôssemos virar a bunda às autoridades e deixar eles enfiar a mão no db, também sou usuário. Não estamos sujeitos às leis/legislações brasileiras e não arquivamos nada dos usuários, então não tem o que ver aqui. Obviamente nos negaríamos a entregar qualquer coisa arbitrariamente e reduziríamos a retenção de dados para figurativamente 0, como no 8ch. \r\n \r\n >>27598352 \r\n Ok, se quiser desenvolver algo, dá uma passadinha lá no /mod/ ou no beta mesmo. Vou ver o que temos aqui. \r\n \r\n >>27598361 \r\n Esse anão explicou exatamente o motivo de não ter: >>27598371 
+ Não seria interessante colocar um ID para evitar samefags?
+ Faz o /bairro/ agora.
+ >>27598408 \r\n A ID deveria ser opcional. Se muitos começam a pedir a habilitar a ID na thread, o moderador poderia atender essa votação, como acontecia no BRchan antigo.>>27598408 \r\n \r\n Also, \r\n >404 toda hora 
+ >>27598371 \r\n Então nos chans que possuem essa funcionalidade a verificação é feita manualmente? \r\n Que merda. \r\n Fornique não, só queria compartilhar livros com os anões.
+ Sobre os marmelos: não tem como ser só com a palavra isolada? Por exemplo, a palavra Desaparênquima paliçádico fica Desaf i o mesmo. \r\n \r\n E outra: Grifinoria e sonserina.
+ >>27598436 \r\n >desaparênquima paliçádico \r\n >píparênquima paliçádico \r\n >meio-parênquima paliçádico \r\n >desconparênquima paliçádico \r\n >parênquima paliçádicorino \r\n >parênquima paliçádicona 
+ >>27598398 \r\n Por que vocês não tiram a possibilidade de postar com proxy? Só melhoraria o chan. \r\n \r\n O Dogola antes de ir para a DW era assim. Até facilitaria a administração dos bans para os mods. \r\n \r\n É chato que um usuário anônimo tenha que ensinar a forma de trabalhar para o próprio dono do fórum. Enfim…
+ >>27598468 \r\n Sim, isso é uma merda. Grifinoria e sonserina também, Harry Potter é uma bosta.
+ >>27598436 \r\n Na realidade tem sim, basta a moderação adicionar espaço antes da palavra ao adicionar um novo marmelo, como por exemplo: '(espaço)parênquima paliçádico', ao invés de salvar apenas a palavra diretamente, com o espaço antes evitaria que o marmelo entrasse no meio de palavras.
+ >>27598470 \r\n Uma só pessoa não consegue pensar em absolutamente tudo. A sociedade cresceu com a difusão de ideias, o compartilhamento de sabedoria. Noutras palavras, duas cabeças pensam melhor que uma.
+ >Gostaria que dessem uma passadinha por lá e nos ajudassem a cobrir a maioria dos features que faltam e resolver alguns bugs rápidos. \r\n \r\n Deixa o código no github, meu lindo. \r\n Aceite ajuda dos anões programadeiros.
+ >sadpanda voltou \r\n Como é que é? Quer dizer que eu passei horas fazendo backup à toa?
+ >>27598470 \r\n >dono do forum \r\n Sou só o macaco dos códigos. Tem o macaco do servidor, o negrinho da administração, enfim, um grupo de antigos usuários que apenas querem ter sua casinha de pé. O 55 não tem dono. \r\n \r\n Enfim, se quiser uma resposta, digo sem nenhuma vergonha na cara: preguiça. Dá pra fazer, mas meh, barraria VPN de quem só quer se prevenir, barraria uns testes que faço de vez em quando, por aí vai. O objetivo aqui não é tirar o anonimato de vocês. \r\n \r\n >>27598487 \r\n Por enquanto tá no vichan seco mesmo. Estou fazendo uns testes no database, se tudo der certo, eu deixo sim. \r\n \r\n >>27598489 \r\n Melhor um passarinho na mão do que dois voando. Depois dessa merda 80% do meu hd ficou à mercê do lolicon.
+ >>27598394 \r\n Limpe os cookies e refaça o login no e-hentai.
+ Admin, por favor, arrume o tamanho da caixa 'Responder' para 63x15, assim ficará perfeitamente alinhado aos outros elementos, como no exemplo abaixo.
+ >AMA \r\n >It is an acronym for 'Ask Me Anything'. It is usually seen on reddit. \r\n >usually seen on reddit \r\n A cara da administração.
+ >>27598494 \r\n >>27598494 \r\n Ademir, tem uma espécie de limitação de caracteres no verificador e as vezes consigo postar sem passar pelo verificador.
+ >>27598545 \r\n >esse anão com toc \r\n Se fornique aí, hue.
+ >>27598312 \r\n Melhorou. \r\n >alguém nessa bagaça está trabalhando \r\n Nunca pensei que veria esse dia.
+ Fiz uma mudança aqui nesse 55 pra fazer esses 404 parar de acontecer. Melhorou aí? Parou de cair?
+ >>27597643 \r\n Eu gosto dos marmelos: \r\n Paixão (Não sei se vai sair Paixão ou Teutão, mas ambos são engraçados) \r\n Paus no meu cu \r\n sonserina \r\n Grifinoria \r\n gibeira \r\n \r\n Esses serão os que eu sentirei mais saudades, e provavelmente eu irei usá-los. \r\n Adeus, marmelos.
+ >>27598558 \r\n Fornique-se, eu prefiro um canceroso que põe o chan pra funcionar do que um ancietfag que salva o backup dentro do proprio hd do servidor.
+ >>27598643 \r\n Acabou de cair no beta, mas voltou depois de um f5.
+ >>27598643 \r\n O que você gosta de ouvir enquanto programa, anãozinho? :3
+ >>27598651 \r\n O beta vai ficar caindo mesmo. A vps é fraca. Estou falando daqui.
+ >>27598659 \r\n Faça >>27598545 
+ Voltou? Voltou e já caiu novamente?
+ >>27598669 \r\n Lembra mais pra frente, tem coisa mais importante que isso aí. \r\n \r\n >>27598656 \r\n https://www.youtube.com/watch?v=P7dLp2Eb7cg \r\n https://www.youtube.com/watch?v=hXmQDpTY6io \r\n https://www.youtube.com/watch?v=moaXUZIBLNg \r\n https://www.youtube.com/watch?v=8dHMVmhBogk \r\n https://www.youtube.com/watch?v=7RBJ4NMOBV0 \r\n https://www.youtube.com/watch?v=vaw8WyORAZY \r\n https://www.youtube.com/watch?v=K96VIem5os4 \r\n \r\n Sim, eu escuto os temas seco mesmo. Native Faith e deaf to all but the song são minha cafeína. Mas esse aqui é uma delícia: \r\n \r\n https://www.youtube.com/watch?v=es4MFjdtpYo 
+ >>27597670 \r\n Acabe com marmelos, VAGABUNDO!
+ >>27598234 \r\n >mod do 55 banindo por descarrilamento \r\n Faz-me rir.
+ Liberem o pedomingo. Pago 150 R$ podemos negociar por toda semana que vocês liberarem. \r\n Estou falando sério.
+ >>27598644 \r\n Você não é especial. Pau no seu cu, viadinho.
+ >>27598700 \r\n Patrício/10. Eu costumo ouvir música clássica. Não consigo programar ouvido nada que contenha voz ou mudanças repentinas de noas na música, como rock ou prog, por exemplo.
+ >>27598715 \r\n Olha o nível que chegam os doentões do chan, querem até pagar pra poderem ver criança com roupa.
+ >>27598729 \r\n >doente por gostar de crianças gostosas \r\n Se fornique aí.
+ Admin, existem shills ainda na ativa? Parece que tenho percebido um fluxo maior de vadias do magali e de grifinoristas e não tenho certeza da quantidade de pessoas que estão por trás de tais posts. \r\n Also, como ficou essa coisa de 'muié'? Vocês aceitaram aqueles prints como prova?
+ >>27598719 \r\n Fresquinho.
+ >>27598700 \r\n Então é você que coloca essas musiquinhas de weeb pra tocar no chan quando tem algum evento? Pois saiba que você é um belo de um patrício. 
+ >>27598700 \r\n Só viadagens.
+ O backend é feito em PHP?

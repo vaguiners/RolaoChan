@@ -1,0 +1,8 @@
+ Tenho sob o meu controle centenas de computadores e servidores da empresa em que trabalho. Não sei o que fazer para tirar proveito pessoal desses equipamentos. \r\n Pra minerar acho que não presta. \r\n Quase tudo é Linux e consigo automatizar qualquer coisa. \r\n Alguém tem alguma ideia?
+ DDos no chan nordestino. Não faço a menor ideia de como fazer isso.
+ Tudo mentira.
+ >Centenas \r\n Presta pra minerar, sim, por mais podre que sejam. Além disso, computadores empresariais geralmente contam com processadores decentes, na maioria dos casos sendo aqueles pré-configurados da HP, Dell ou similares. \r\n \r\n A quantidade rapidamente transforma-se em qualidade.
+ Minere, é o melhor que você faz. Ou então>>25772392, é uma excelente ideia.
+ >>25772408 \r\n Qual moeda? Bitcoin mesmo?
+ >>25772428 \r\n Bitcoin tornou-se extremamente inviável de se minerar usando hardware comum já fazem anos. Talvez Monero funcione. Procure por uma moeda que seja grande o suficiente para ter estabilidade e boa liquidez (Monero, Ethereum, Eth. Classic) e veja se te rende algo. \r\n \r\n Antes de tudo, você deveria ver qual o hardware específico de cada máquina, supondo que seja tudo a mesma coisa, para então pesquisar a taxa de hashes/segundo que consegue numa moeda ou outra. Existem sites que fazem a conversão.
+ DDoS.

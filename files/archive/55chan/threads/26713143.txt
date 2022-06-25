@@ -1,0 +1,5 @@
+ Anões que manjam de música, me ajudem aqui. Encontrei um cd com qualidade Flac, mas o disco vem todo em um único arquivo de música. Tem algum jeito de separar as músicas aqui dentro desse arquivo para passar para o meu celular? Agradeço desde já.
+ Parabéns, OP. \r\n Você caiu na pescaria do .FLAC.
+ >querendo escutar FLAC em um celular 
+ >>26713162 \r\n >>26713159 \r\n Eu só encontrei assim. Geralmente baixo os discos no rutracker e lá a maioria vem em flac.
+ Não sei se vai funcionar, mas baixe o Audacity, abra o arquivo no audacity, separe as ondas sonoras das músicas, salve-as individualmente em MP3.

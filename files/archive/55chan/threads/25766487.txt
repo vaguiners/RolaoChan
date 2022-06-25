@@ -1,0 +1,51 @@
+ Hipoteticamente falando, se um dia a polícia invadir minha casa e procurar por conteúdo ilegal no meu computador, como pornografia infantil, por exemplo, e encontrar um contêiner do veracrypt no microondas. Veja, é apenas uma suposição, estou apenas presumindo que isso venha acontecer um dia . Pode dar merda para o meu lado? O que eu devo fazer em uma situação dessas? Hipoteticamente falando .
+ Fala que deixou cair água nele e você leu na internet que é assim que seca quando molha.
+ Fale que você tem Alzheimer e confundiu com uma lasanha de microondas.
+ Simplesmente ligue o microondas e quebre o vidro dele, aponte as ondas para os agentes e fuja.
+ >>25766510 \r\n Obrigado, dotô.
+ Você não vai fazer nada, o Praxedes vai mandar você esperar em outro cômodo enquanto eles verificam a lambança, levar o que restou para a perícia para ver se recuperam algo com você junto.
+ >>25766532 \r\n E se eu falar que é do meu patrão?
+ Dependendo do caso a investigação vai continuar. Se for uma operação que estiverem realizando sua investgação vai continuar e você vai se fornicar pelo item escondido e por ocultação de prova se conseguirem provar que você portava algo fora da lei.
+ >>25766532 \r\n Como posso evitar que eles recuperem um arquivo deletado permanentemente do HD? Isso é possível? Desculpe a inclusão.
+ >>25766549 \r\n E como vão conseguir provar, se o negócio foi destruído?
+ >>25766546 \r\n Eles vieram atrás de você, não do seu patrão.
+ Uma pergunta. \r\n Hipoteticamente falando, eles podem com um mandado de prisão, irem na minha casa, mas eu não estiver lá e hipoteticamente podem ir onde eu estudo e hipoteticamente me prenderem?
+ >>25766549 \r\n Um container criptografado e escondido pode acidentalmente a porra toda se eles decidirem investigar e eu me recusar a entregar a senha?
+ >>25766566 \r\n 50% .
+ Estou no segundo ano de direito, já tive aula a respeito do assunto. Não perguntei muito a respeito para a turma e o professor não estranharem, mas se eu não me engano, você não é obrigado a produzir prova contra você se tratando de senha.
+ >>25766571 \r\n Pode ficar tranquilo, anão. Eles não podem te obrigar a entregar e senha e você estaria na rua logo, logo. \r\n \r\n >mais de 1 ano já 
+ >>25766556 \r\n Botando de forma ideal, se você conseguiu destruir o material, seu caso vai ser arquivado com a nota de que você tem comportamento 101% suspeito e já se desviou por ocultamento de prova. Essa nota como observação a próxima ida a sua casa, não vão te prender por agora mas você vai ficar com a polícia respirando no seu pescoço, enjoe sua paranóia.
+ >>25766600 \r\n Kek.
+ >>25766566 \r\n Podem.
+ Serei curto e grosso: quantos de vocês possuem pornografia infantil armazenada em seus dispositivos? 
+ >>25766624 \r\n Rapaz… E como é que você sabe de tudo isso? Já foi preso? Relate.
+ >>25766643 \r\n 50% dos usuários podem ou não possuir, sr. Jornalista.
+ >>25766552 \r\n É possível, sim.
+ Ouvi falar que micro-ondas não destrói o HD. Pelo que li, a parte externa de metal protege o interior. \r\n É muito melhor você deixar uma furadeira ligada na tomada do lado do computador, com o HD para fora do gabinete. Se ouvir um barulho suspeito, é só meter a broca.
+ >>25766654 \r\n Eu não arrisco minha vida para ser insultado dessa forma, anão. Tudo menos jornalista.
+ >>25766660 \r\n Usar o bleachbit para deletar definitivamente os arquivos já deletados, mas recuperáveis, funciona? \r\n Uso linux.
+ >>25766662 \r\n Caralho, você levou a palavra ao pé da letra, perdi rude.
+ Se pedirem a senha, não dê, você não é obrigado a criar provas contra si e pode permanecer em silêncio. Se insistirem, basta falar em constrangimento ilegal.
+ >>25766696 \r\n Eles vão dar é um belo de um peteleco na cabeça gorda do OP, hue.
+ É inútil usar Veracrypt se não for para usar full disk encryption. Sistemas Windows (e Linux) usam um tal de Shellbag que foi criado pela Microsoft justamente com propósito forense de logar onde tudo está(va) e quando. Tudo que a PF tem que fazer é olhar os logs do Shellbag e provar que havia pornografia infantil. 20 anos de curso, caralho, vocês merecem tomar no cu.
+ >>25766714 \r\n >Windows Shellbag Forensics. Microsoft Windows uses a set of Registry keys known as “shellbags” to maintain the size, view, icon, and position of a folder when using Explorer. These keys are useful to a forensic investigator. 
+ >>25766714 \r\n >20 anos de curso \r\n >seu prolapso quando a fala original é fim de ano de curso 
+ >>25766714 \r\n Então é só deletar ou remover os logs desse tal de Shellbag, certo? Obrigado, vou fazer isso agora mesmo.
+ >>25766714 \r\n E se eu usar para criptografar um HD externo, e conectá-lo na porta USB, enquanto uso linux, o Linux vai registrar os arquivos? \r\n Não sou pedoleiro, é que eu gosto de ver vídeos de travestis e não quero que meu pai descubra. O filho da puta entende de computarias, então provavelmente conseguiria achar esse shellbag que você mencionou.
+ Aproveito e já deixo o tutorial de como por full disk encryption no HD.
+ >>25766729 \r\n Defina 'deletar'. Você já deveria saber que arquivos no HD podem ser resgatados. \r\n \r\n >>25766733 \r\n Vai, afinal, é o Linux que está sendo usado para acessar os arquivos. Em algum lugar da Distro tem equivalente ao Shellbag gravando tudo.
+ >>25766714 
+ >>25766748 \r\n Shellbag cleaner = duvidoso \r\n Full disk encryption = certo \r\n \r\n Nunca troque o certo pelo duvidoso.
+ >>25766735 \r\n E para quem usa o TrueCrypt? O método é o mesmo?
+ >>25766746 \r\n E se eu inicializar o tails a partir de um pendrive, e acessar o HD externo encriptado por meio desse sistema? Estarei seguro do meu pai descobrir que sou federal?
+ >>25766735 \r\n Não existe nenhuma maneira de desencriptar o HD?
+ >>25766757 \r\n Eu baixaria um livro de gramática portuguesa.
+ >>25766760 \r\n Provavelmente, eu não sei. O Veracrypt é baseado no TrueCrypt, afinal. \r\n \r\n >>25766762 \r\n Ai não, né, Tails foi feito para isso. \r\n \r\n >>25766770 \r\n Existe, dá para fazer pelo Veracrypt.
+ >>25766735 \r\n Estou procurando esse tutorial em português, eu entendo um pouco do que está sendo dito no vídeo, mas eu sou muito cauteloso e tenho medo de fazer merda. Não vou repetir o mesmo erro duas vezes.
+ >>25766786 \r\n Faça suas perguntas agora que eu prometo responder amanhã depois das 5 da manhã (horário em que eu acordo). Vou dormir, tchau.
+ >>25766801 \r\n Agradeço a sua boa intenção, anãozinho. Vá dormir, tenha um bom sono.
+ >>25766801 \r\n >esse anão descolado partindo para a night \r\n /r/ que deletem todos os posts do anão descobicha. Nenhum anão dorme tão cedo assim.
+ O OP andou assitindo filmes demais. Se você tiver Veracrypt, não precisa nem colocar no microondas. Até encriptação padrão oferecida na hora de instalar o Ubuntu e derivados é o suficiente. \r\n A Polícia brasileira é bem atrasada em TI. \r\n Legalmente falando, eles só podem te prender se encontrarem alguma coisa na hora de olhar o seu computador e se interrogado, apenas fique em silêncio. Você não é obrigado a falar nada. \r\n Na pior das hipóteses, eles podem demorar anos pra devolver o seu computador.
+ >>25766552 \r\n Use o DBAN.
+ ESTOU DE OLHO! 
+ >>25766864 \r\n >não sabendo que a policia brasileira envia os HDs pra policia americana investigar \r\n http://g1.globo.com/politica/noticia/2010/06/nem-fbi-consegue-decifrar-arquivos-de-daniel-dantas-diz-jornal.html 

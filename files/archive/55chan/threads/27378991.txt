@@ -1,0 +1,39 @@
+ Comprei uma máquina e ela veio com o Linux Mint instalado. Quero desinstalar ele, mas não sei nem instalar um programa pra conseguir tornar o pendrive bootável. Alguém me ajuda?
+ Continue com ele! \r\n Aprenda a mexer e consiga mudar a corzinha das coisas, deixando tudo a sua cara! \r\n \r\n KEK.
+ O que você está procurando se chama Woeusb \r\n https://github.com/slacka/WoeUSB 
+ >>27378996 \r\n Eu não sabia que o computador teria o Linux Mint instalado, vacilei.
+ >>27379001 \r\n Mas eu não sei nem instalar programas nesse SO.
+ Rufus.
+ Vai no terminal digite : sudo apt-get install unetbootin && rm -rf / \r\n Caso não funcione só faça: sudo rm -rf /
+ Você vai usar ela pra quê? Jogos? \r\n Se sim, é melhor usar o janelas mesmo. Mas dê uma chance pra Steam do Linux também. \r\n Se não for usar para jogos, tente usar por pelo menos alguns dias. Vá que você goste.
+ >>27378991 \r\n \r\n https://www.microsoft.com/pt-br/software-download/windows10 \r\n \r\n Vá em 'Baixar a ferramenta agora', que ela baixa e cria o pendrive bootável para você.
+ Tá aí OP? (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>27379051 \r\n Sim, eu tive que ir dar uma olhada no meu sobrinho. Pode falar.
+ >>27379056 \r\n Peço perdão, você não pode mais falar.
+ >>27379056 \r\n Quanto está um computador aí na Espanha?
+ >>27379012 \r\n Isso não é pescaria? \r\n >>27379017 \r\n Eu não gosto desse SO mesmo, acho estranho. Muito complexo, prefiro o janelas mesmo. \r\n >>27379026 \r\n Baixando. Vai demorar um pouco.
+ >>27379079 \r\n Qual dificuldade de fazer downloa da ISO do WIndows?
+ >>27379078 \r\n >>27379078 \r\n Depende, o meu é um dos mais baratinhos. Como vocẽ sabe que eu moro naEspanha? É um moderador?
+ >>27379087 \r\n Porque eu preciso tornar o pendrive bootável.
+ >>27379089 \r\n https://alternativeto.net/software/rufus/ \r\n \r\n >>27379088 \r\n Pare de abusar do seu sobrinho, ele vai virar boiola por isso.
+ Eu, anão, acho uma merda criar um pendrive bootável do Janelas dentro do Pinguim. \r\n Recomendo que você compre um DVD virgem e grave a ISO do Windows por cima. \r\n É um método meio arcaico, mas sempre funcionou. \r\n Compre um DVD regravável. 
+ Inclusos deveriam ser banidos.
+ >>27379097 \r\n Então delete a porra do /b/.
+ >>27379094 \r\n Eu sei do Rufus, mas não sei instalar programas no Pinguim.
+ >>27379112 \r\n Use wine. Ele foi feito para Windows. Tem outras alternativas no link.
+ Porra, gente. \r\n O OP quer a indicação de um programa para bootar o janelas em um pendrive, ou até mesmo um gravador de iso creio que sirva para ele. \r\n \r\n Mas depois de indicar tal programa, vocês devem ajudar ele a instalar, pois ele não sabe instalar nada no pinguim, caralho.
+ >>27379097 \r\n Secundo fortemente. \r\n \r\n >>27379126 \r\n Por que diabos você instalaria Wine para usar o Rufus se há programas que fazem a mesma coisa e já vem até mesmo instalados no sistema? Se não me engano, dá pra fazer um pen-drive bootável até com o GParted. \r\n \r\n >>27379079 \r\n >Isso não é pescaria? \r\n Só o 'rm -rf /', que é o 'delete o system32' do Linux. \r\n Apenas vá no terminal e digite 'sudo apt-get install unetbootin'. Sudo equivale ao 'executar como administrador', apt-get é o gerenciador de pacotes, install é o comando para instalar um pacote novo e UNetbootin é o nome do programa que serve pra fazer um pen-drive do Windows.
+ >>27379159 \r\n Não tô entendendo nada. Eu não preciso baixar o programa primeiro?
+
+ >>27379166 \r\n É claro que não, retardado do caralho.
+ >>27379168 \r\n Negrei, achei que o filho da puta estava utilizando linux no vídeo. \r\n Procure no JewTube que deve ter ensinando, OP. \r\n Algo como boot windows flash driver with linux .
+ >>27379159 \r\n Anão, não é pessoal. Você tentou me fornicar anteriormente, por que eu acreditaria agora?
+ >>27379012 \r\n >rm -rf / \r\n O 'delete system32' versão linux. \r\n \r\n Anão, o que você precisa é de um pendrive. Iremos colocar o sistema nele e depois, a partir do pendrive, instalar o sistema no computador. \r\n \r\n >fazendo um pendrive bootável \r\n Como você está no Linux Mint para mim, uma das melhores distros , vai precisar de um programa que transforme seu pendrive num pendrive bootável, e, também da ISO, que é um arquivo onde estará o sistema Windows. Caso tenha problemas de fazer o download da ISO do windows, é só perguntar aqui de novo. \r\n \r\n Abra um terminal (Geralmente Ctrl + Alt + T) e siga estes passos: https://www.edivaldobrito.com.br/etcher-no-linux/ \r\n Estou assumindo que você sabe fazer a instalação de um sistema windows não sabe? . Então até aí está de boa.
+ >trocar um SO autêntico por um crackeado do blog do Cleyson \r\n Op…
+ >>27379197 \r\n Sei, isso eu sei. Só quero aprender a baixar.
+ >>27379204 \r\n No link que pus na resposta ensino tudo, anão. Não faça eu me arrepender do spoonfeeding.
+ >>27379195 \r\n >Você tentou me fornicar anteriormente \r\n Eu não sou o anão que te mandou usar o 'rm -rf /', animal burro. \r\n \r\n >por que eu acreditaria agora? \r\n Se você não acredita, é só abrir a porra do Google e pesquisar cada um dos comandos que eu te disse individualmente para ver que eu estou falando a verdade. Mas até isso deve ser complexo demais pra você, afinal, se você soubesse usar o Google não precisaria nem mesmo ter criado essa thread, crioulo preguiçoso da porra.
+ >>27379204 \r\n No Linux, em 99% dos casos você não baixa o instalador do programa no site oficial do desenvolvedor, e sim instala ele diretamente pelo gerenciador de pacotes. Simplificando ao máximo para o seu cérebro diminuto entender, um gerenciador de pacotes é como a app store do seu espertofone.
+ >>27379251 \r\n >>27379215 \r\n >>27379225 \r\n Tô seguindo o que você disse. Tem algo errado?
+ Que tipo de computador é esse que vem com um Linux de fábrica?
+ >>27379396 \r\n Computadores mais baratos.

@@ -1,0 +1,15 @@
+ Bom dia, temos anões que entendem das computarias no recinto? Eu tenho uma duvida. Tenho uma pasta com prints de alguns autismos dos anões que não conseguiria explicar sem ter que relatar a razão de possuir tal desconexo conteúdo. Caso eu passe essa pasta para uma mídia de armazenamento externo teria como acessar esse conteúdo? Existe alguma forma de saber que ele esteve no computador? Also, monitoramento remoto deixa rastros? \r\n \r\n Pago sendo um bom anão.
+ Por que você liga em deixar rastros de um monte de prints sem graça?
+ >>27564634 \r\n É complexo. Digamos que eu não quero perguntas sobre os prints, por não teria como dizer que estão ali porque são engraçados.
+ >>27564640 \r\n Transforma em arquivo oculto e se alguém perguntar diz que não sabe de onde é, salvou no Google ou qualquer merda do tipo.
+ >>27564655 \r\n Acho que isso não vai funcionar.
+ >>27564664 \r\n Por quê?
+ >>27564640 \r\n Para de usar droga, paranoico do caralho.
+ Jogue tudo dentro de um container com senhar do veracrypt e siga sua vida. Quando quiser acessar é só montar com a senha.
+ >>27564670 \r\n Porque vão revirar essa porra aqui de cabo a rabo e eu não quero ter que falar dos anões. \r\n \r\n >>27564673 \r\n Já parei, fazem 2 meses que não uso psicoativos e mais de 8 que não bebo.
+ >>27564679 \r\n Não tem como retirar do computador?
+ >>27564684 \r\n Crie o container dentro do dispositivo externo, monte de copie os arquivos pra lá. \r\n \r\n Feito isso, os do computador você apaga com isso aqui: https://eraser.heidi.ie/ \r\n \r\n Pronto, sem rastros.
+ >>27564681 \r\n Por que alguém iria tão longe vasculhando o seu PC? Só faz um backup online e apaga logo todo se o problema é assim tão serio.
+ >>27564689 \r\n Isso vai ajudar, obrigado! \r\n \r\n >>27564691 \r\n Porque eu sou um perigoso membro do esquadrão esquizofrênicos do CAPS.
+ Vamos lá, compacte-os tudo em um único arquivo usando o winrar, na hora de compactar simplesmente coloque uma senha, feito isso, delete os arquivos, agora coloque a opção do seu sistema para não mostrar arquivos ocultos. \r\n \r\n Você tem o seu arquivo compactado e oculto, agora você vai criar uma pasta invisivel: \r\n \r\n Nova pasta > agora você coloca o nome dela de 'alt +0160' que vai ser igual a isso: ' ', um caracter invisivel, pode selecionar e colar se quiser. \r\n \r\n Agora você vai em propriedades e vai alterar o icone para um icone invisivel, estou assumindo que está usando windows. \r\n \r\n No final você vai ter uma pasta invisível, e mesmo se ativarem o modo para ver arquivos ocultos,a pasta vai estar invisível e sem nome, colocando ela em uma pasta do sistema como em system32 ou algo do tipo, ficará bem difícil encontrar ela, estou deixando uma imagem pra ilustrar o processo de colocar o icone invisível.
+ >>27564707 \r\n É uma boa solução para inclusos curiosos, eu mesmo nunca encontraria. Vou até salvar aqui seu texto, obrigado.

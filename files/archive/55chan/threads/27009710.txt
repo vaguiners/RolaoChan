@@ -1,0 +1,3 @@
+ Como deixar o meu i3 parecido com o da pica relatada? Also, eu estou tendo problemas para controlar o brilho da tela, e não encontrei nada no google. Algum linuxfag pode me ajudar?
+ Bump.
+ Install Gentoo.

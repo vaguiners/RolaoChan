@@ -1,0 +1,14 @@
+ Só agora testei o DNS da Cloudflare. muito bom, realmente, melhor que o da Google. 1.1.1.1 ; 1.0.0.1 . Recomendo.
+ >>27265564 \r\n fix: Muito
+ Vamos ver se essa merda de chan para de cair agora, admin.
+ >>27265575 \r\n Podes confiar.
+ >dns que bloqueia sites porque sim \r\n \r\n Não mesmo.
+ Eu tenho um aplicativo que testa vários DNS ao mesmo tempo. O melhor DNS, no meu caso, é o da minha própria operadora, pois oferece a menor latência. \r\n Pica relatada.
+ >>27265880 \r\n /r/ nome do aplicativo.
+ >>27266027 \r\n Está no topo do tela tiro.
+ >>27266027 \r\n Use o namebench. E não é nenhuma surpresa os do próprio provedor terem menor latência. Sempre é isso. Mas eu não confio nem um pouco em dns gerenciado por um bando de macaco. \r\n \r\n Also, o windows faz cache de 1 dia dos domínios resolvidos. No fim das contas, latência não faz diferença pra sites que você entra todo dia. Busque cal e cimento.
+ >>27266075 \r\n Ano passado acusava que a Cloudfare tinha a menor latência pra mim. Mas aí parece que a NET ajustou a rota e o DNS da operadora se tornou a melhor opção por aqui.
+ >1.1.1.1 \r\n >8.8.8.8 \r\n \r\n Como a fornicação conseguem um IP fornicação como esse, caralho?
+ >>27267581 \r\n Comprando. Custou caro, para ambos.
+ >>27267592 \r\n Secundado. Google tem dinheiro pra comprar o caralho que for.
+ Só sucesso.

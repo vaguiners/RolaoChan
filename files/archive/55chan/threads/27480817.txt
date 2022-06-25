@@ -1,0 +1,3 @@
+ Se eu recuperar um arquivo com o Recuva e depois deletá-lo com o Eraser esse arquivo vai ser removido de forma definitiva do meu HD?
+ Não, o Recuva cria uma cópia do que foi deletado.
+ >>27480825 \r\n E agora?

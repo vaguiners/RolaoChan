@@ -1,0 +1,13 @@
+ Anões, essa partição de 279,50 GB está lotada de conteúdo lixo importante, porém não estou conseguindo acessar. \r\n \r\n >huur ruindows 10 \r\n Antes de dar merda eu estava usando o Ubuntu, Also deve ter dado merda por isso, pois o sistema de arquivos do Ubuntu é ext4. \r\n \r\n Algum anão tem algum dica do que eu devo fazer para tentar recuperar meus arquivos? Será que eu consigo acessar pelo Hirens Boot?
+ >>27610982 \r\n >Also deve ter dado merda por isso, pois o sistema de arquivos do Ubuntu é ext4. \r\n Você rodava o Ubuntu a partir daquela partição? Ruindows não lê ext4.
+ Tem um programa para acessar arquivos em partições com formato do Linux. Esqueci o nome, mas procure no google.
+ >>27611009 \r\n Sim, mas antes de eu formatar com o Windows 10 o HD já tinha dado 'pau'. Por isso formatei, para tentar recuperar.
+ >>27611033 \r\n >vagabundas postando livremente nesse recinto \r\n /r/ ban nessa vadia.
+ >merdindows 
+ >>27611033 \r\n Engraçado, é só aparecer parênquima paliçádicos como >>27609043 que as baratas e ratazanas começam a sair de tudo quanto é buraco nessa latrina. \r\n \r\n >>27611042 \r\n Então formatou a partição? Se foi formatação rápida, os seus dados ainda estarão ali e dá para recuperar com programas encontrados na internet. Se fez completa, vai ter que pedir as ferramentas de perícia do Pereira emprestado.
+ O Windows não lê ext4, mas eu sei que há programas de terceiros que fazem isso. Você pode também criar um pendrive bootável com Linux para acessar essa partição (recomendo usar o Slax, que pesa apenas 200 MB e é desenvolvido para ser usado em pendrives).
+ >HD dá pau \r\n >formata \r\n >quer recuperar algo \r\n Primeiro passo é não tocar em NADA. Primeiro recuperar, depois fazer o que quiser.
+ Eu tentei acessar com um outro HD que também tem o Ubuntu instalado mas não consegui, também tentei dar boot direto nessa partição (antes de formatar a outra partição com o Windows) e também não deu certo. Não sei o que fazer. \r\n \r\n >>27611147 \r\n Formatei apenas a partição de 185,63 GB que tava livre, a de 279,50 GB que estava os meus arquivos deixei intacta.
+ >>27611192 \r\n HD com Linux é encriptado e inacessível. Talvez você consiga se lembrar qual era a partição dele, e instalar a mesma versão anterior, colocando essa partição exatamente como estava. Se não funcionar assim, pode apagar tudo.
+ Abra no partition wizard, clique em cima, vá em change letter, escolha qualquer uma, depois é só dar Apply e esperar.
+ >>27611192 \r\n Sim, mas qualquer bloco que possa sofrer interferência pode te f­oder de vez. Você está lendo o que o programa te informa na tela, mas, como efetivamente o dado está alocado no disco? Qualquer diferença, lascou.

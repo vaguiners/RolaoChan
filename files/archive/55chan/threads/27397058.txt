@@ -1,0 +1,11 @@
+ Como resolvo isso? Pensei em descobrir as coordenadas do ponto C e em seguida do ponto M, para depois tentar aplicar pitágoras no triângulo MDB, já que a distância entre D e B é uma reta, mas não teria como. Daí pensei em fazer um segmento de reta AD e um AE para fazer um triângulo isósceles ou equilátero, mas aí como eu saberia se o ponto C é o baricentro do triângulo? O que fazer, meusa migos?
+ >não tem um entendedor acordado \r\n Eu esperava mais.
+ Bump.
+ Autocadfag aqui.
+ Parece um exercício que um anão postou terça…
+ Assim?
+ É só usar coordenadas polares.
+ CM = 0,5 de CB = R*cos 60 , já que cos de 60 = 0,5 \r\n MD = R cos 60 \r\n \r\n A resposta é só substituir o raio e somar dois MD.
+ >>27397160 \r\n Acho que batatei nos senos e cossenos, mas é só pensar no círculo trigonométrico. \r\n \r\n MD = R sen60
+ >>27397120 \r\n Não entendi seu desenho, mas me deu um ideia. O segmento AC = CD = CE = CB, porque são todos pontos da mesma circunferência. Daí é só aplicar pitágoras em CD e CM para encontrar DM, cujo dobro é DE. Obrigado! \r\n \r\n >>27397155 \r\n Não foi falado disso no livro ainda. \r\n \r\n >>27397160 \r\n Tirou esse cos do cu?
+ >>27397214 \r\n O desenho era pra ser o triângulo formado por CDM. \r\n Está estudando pra que?

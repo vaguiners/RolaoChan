@@ -1,0 +1,5 @@
+ Como descobrir esse e-mail?
+ >ctrl+shift+i \r\n >console \r\n >digite $('html').html('') 
+ Deve existir alguma forma de substituir esses asteriscos pela letra do e-mail.
+ >>26842691 \r\n Fica em qual desses 4? Cada um tem uma infinidade de coisas.
+ >>26842708 \r\n Sim, animefag, tem.

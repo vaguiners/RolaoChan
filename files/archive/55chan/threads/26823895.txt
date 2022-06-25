@@ -1,0 +1,27 @@
+ Sou o anão que duas semanas atrás pediu ajuda para instalar uma custom rom no espertofone. Estava esperando a porra da Xiaomi liberar minha conta para desbloqueio. \r\n Enfim, finalmente consegui instalar o TWRP, porém quando vou instalar o Pixel Experience, ele acusa erro 7 e aborta a instalação. Proxurei por soluções no google e só achei duas que eram: Atualizar o TWRP ou remover a linha 'assert' do código de um dos arquivos. \r\n Bem eu fiz os dois, e nenhum funcionou, continua dando erro 7. Algum manjador se disponibiliza a me ajudar?
+ https://www.youtube.com/watch?v=h5Kp_jybnjQ \r\n \r\n Essa é a solução!
+ Ajudem, pelo seu amor por tetas.
+ >>26823980 \r\n Então, eu cheguei a tentar isso, o erro continua. Eu formatei o celular de novo, estou baixando a rom original da Xiaomi e vou tentar o processo todo do começo para ver se foi algo que fiz de errado.
+ >>26824021 \r\n Tive esse mesmo problema no meu RN3P e resolvi editando esse arquivo. Todas as ROMs me davam erro 7.
+ >>26824034 \r\n Vou tentar de novo aqui, vamos torcer.
+ >>26824145 \r\n Also, no ruim de tudo, eu deixo a MIUI mesmo, fazer o quê? Pelo menos a xiaomi anunciou que vai lançar o android pie para os dispositivos dela, então é melhor que nada.
+ FOI! \r\n \r\n Não entendi nada. Talvez fosse algum arquivo corrompido, sei lá. Fornique sim, estou livre da espionagem xing ling.
+ >>26824187 \r\n Parabéns! Bem vindo ao seleto grupo de patrícios usuários da pixel experience!
+ >>26824187 \r\n >android.process.media apresenta falhas continuamente \r\n >fica piscando essa porra de aviso ad infnitum \r\n \r\n Vai se fornicar, de volta à prancheta.
+ >>26824203 \r\n Qual seu aparelho?
+ >>26824204 \r\n Redmi note 6 pro, vulgo tullip.
+ >>26824204 \r\n Vou tentar a versão antiga do google experience, essa que estou usando saiu ontem, talvez seja algum bug. A área de trabalho também não está ficando dentro da tela (parece estar com uma resolução maior, fica cortado nos cantos). \r\n Qualquer coisa vou tirar um print e postar aqui.
+ Você ao menos XDA? Você ao menos Sailfish?
+ >>26824187 \r\n >essa empregada aos 00:01 \r\n >esse chapéu de alumínio aos 00:05 \r\n >esse pai dedando o cu do shorts aos 00:10 \r\n >esses judeus catando shekels na areia aos 00:13 \r\n Perdi foi tudo.
+ >>26824252 \r\n >cu do shota \r\n Fix'd.
+ >>26824245 \r\n Estava fazendo por um guia do XDA mesmo. Agora foi, porém tá tudo bugado, a resolução tá toda escrota na tela. \r\n \r\n >>26824252 \r\n Caralho, eu sempre ficava olhando para a bunda da vadia, nunca reparei nesses detalhes.
+ Peço desculpas pela imagem ruim, mas tive de tirar a foto com um celular velho. Como podem ver, a resolução não está 'encaixando' na tela, os ícones de voltar, menu, etc deveriam ficar abaixo da linha preta, e não no meio dela. \r\n Sabem como resolver isso?
+ OP aqui. \r\n \r\n Estou voltando para a stock rom. Queria utilizar uma custom rom, mas todas ficam fora 'de quadro', tem algum bug com a resolução. Não dá para assistir vídeos em tela cheia direito, fica uma merda. \r\n Não vou poder me livrar das amarras chinesas hoje, mas meu dia chegará!
+ OP de novo, finalmente foi! Está uma delícia agora, instalei um treco aqui que achei no xda e a resolução ficou normal. \r\n Minha única decepção é não poder usar o aplicativo da câmera da MIUI. Esse googlecam nem usa as duas câmeras do aparelho, as fotos não ficam nem metade do que eram no aplicativo original, uma pena.
+ >>26826456 \r\n Já tentou isso? \r\n \r\n https://www.gizdev.com/miui-stock-camera/ 
+ De quebra, instale o Viper4Android e o jewtube vanced pelo magisk.
+ Só queria comprar um celular com Android e sair desse iOS de merda.
+ >>26826456 \r\n >ainn bê não quero usar MIUI \r\n >ain bê quero usar MIUI 
+ >>26826579 \r\n É só vender e comprar um Xiaomi mestrecorrida.
+ >>26826604 \r\n MIUI é uma bosta. Aceite, incluso.
+ >>26826793 \r\n Sou fâ da MIUI. É muito fácil desligar os anúncios, e o gerenciamento de memória e features são ótimos. Apenas lide com isso, grandão.

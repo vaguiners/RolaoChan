@@ -1,0 +1,32 @@
+ Anões, meu computador está com o problema da pica relatada. O que é isso?
+ Bump.
+ É Sage!
+ >>27472082 \r\n Vai tomar no cu, filho da puta.
+ Traduz pra mim o que diz a mensagem que eu ajudo.
+ >>27472123 \r\n Resumindo, ele diz que há um problema na conexão do computador. Mas, eu já verifiquei os cabos sata é está tudo okay. Eu busquei a solução do problema na www, mas nada funcionou. Não posso formatar o computador, porque não tenho uma leitor de cd/dvd e nem um pendrive com a capacidade superior a 4gb. \r\n \r\n Fornique não, anão, eu não posso perder esse HD. Eu tenho muitos documentos e pornografia nessa merda. Será que formatar é o único caminho?
+ >>27472088 \r\n Essa agressão gratuita é bem regozijante.
+ >>27472176 \r\n >>27472176 \r\n EU ESTOU NERVOSO, AMIGO. MINHA CASA ESTÁ CAINDO.
+ >>27472150 \r\n Tente instalar alguma distro de GNU/Linux em um flash drive. Use a versão live e tente salvar o máximo que conseguir dos arquivos do Windows.
+ Ligma.
+ >>27472221 \r\n Entendi. Depois de instalar e só dar boot pelo pendrive, né?
+ >>27472150 \r\n Você não pode afirmar 100% de certeza que 'está tudo okay', visto que o problema persiste e ele está categoricamente afirmando que não consegue ler corretamente os dados proveniente do disco. \r\n \r\n Observe neste vídeo: \r\n https://www.youtube.com/watch?v=7eWKJDwpnsE \r\n \r\n Após procedimentos comuns de verificação de erros, no final era sujeira nos conectores. Faça uma limpeza sonserininho aí, troque os cabos, limpe a ram, faça trocas diversas e vai testando a cada mudança.
+ Só tem um único hd.
+ >>27472333 \r\n ?
+ >>27472315 \r\n Entendo, anão. Mas, eu não acho que esse seja o problema. Porque eu testei num segundo hd e está funcionado normalmente. \r\n \r\n >>27472333 \r\n Não, senhor triplos. Eu tenho um de 1tb (com o problema) e outro de 500gb, o que eu estou acessando agora.
+ Já passou chkdsk?
+ >>27472362 \r\n Não, eu não consigo nem acessar o prompt comando.
+ >>27472351 \r\n Pode acontecer do problema estar bem no encaixe na parte do HD com defeito, seja sujeira ou problema de solda, uma trilha interrompida. Tente forçar para um lado, de forma a forçar uma conexão de mal encaixe por estar frouxo, coloque algo para segurar e veja se em algum momento ele consegue passar dessa parte.
+ >>27472386 \r\n Ok, vou tentar.
+ Já postou no /comp/. É sage, filho da puta.
+ >>27472386 \r\n Não adiantou, anão. Acho que vou tentar formatar ele. O pior é que a placa mâe reconheçe o hd. \r\n \r\n >>27472451 \r\n Vocé falha.
+ >>27472488 \r\n >você 
+ >>27472488 \r\n >reconheçe 
+ \r\n \r\n Obrigado aos que tentaram me ajudar. Vou seguir o conselho do anão e instalar uma partição do linux. Se não resolver, vou pedir um pendrive emprestado e instalar o windows de novo. \r\n \r\n \r\n >>27472488 \r\n >reconhece \r\n \r\n >>27472510 \r\n Pau no seu cuzinho.
+ >>27472286 \r\n Sim.
+ Lá vai o OP fazer merda e acabar de fornicar com o que já está ruim.
+ É problema de Windows. \r\n Instale alguma distro Linux.
+ >>27472543 \r\n Ao invés do linux baixe o Hiren’s BootCD PE ( https://www.hirensbootcd.org/ ) e use o hdtune para ver se o aparece algum erro no smart do hd. \r\n Aposto que vai aparecer alguma coisa, provavelmente bad block. Nesse caso nem vale a pena instalar o windows nele, se conseguir formatar (use o HDD Low Level Format Tool que já tem nele) use apenas para salvar arquivos que não são importantes. \r\n \r\n Com o Hiren's você já move o que precisar para o seu HD e não me lembro qual mas nele também já tem um programa que ajuda a salvar arquivos de HDs com bad block, copiando os arquivos por setores, dê uma olhada.
+ Houve um problema com um dispositivo conectado ao seu computador. \r\n Foi um erro de entrada/saída. \r\n Esse problema pode ocorrer quando um dispositivo é removido enquanto ainda está em uso ou está com mau funcionamento. Reconectar do modo correto o dispositivo ou reiniciar o seu computador pode resolver o problema.
+ >>27472488 \r\n \r\n >reconheçe \r\n \r\n Você foi longe demais.
+ >>27472488 \r\n Se reconhece então o problema é no HD em si, faça os testes nele.
+ >>27472619 \r\n Okay, já estou baixando. \r\n \r\n >>27472588 \r\n Vou tentar a solução do companheiro >>27472619 . \r\n Se não der certo, vou instalar um distro de linux. Honestamente, eu só quero recuperar meus arquivos. Se tudo correr bem, vou até instalar o Linux no pc. Windows só me deu dor de cabeça e desespero. \r\n \r\n >>27472649 \r\n Mi scusi.

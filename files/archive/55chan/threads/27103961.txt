@@ -1,0 +1,38 @@
+ Kek, vai lá tentar produzir coisa no Brasil. \r\n >desenho uma caixa pra um mini-rastreador de GPS \r\n >tudo perfeito \r\n >mando pra um severino fazer o molde \r\n >'pode deixar chefia, sou capaz de fazer' \r\n >faz o molde \r\n >erra \r\n >leva 5 meses pra conseguir fazer de novo \r\n >fez errado de novo \r\n \r\n Esse é o verdadeiro custo Brasil. A caixa são 2 metades iguais, em cada uma delas tem uma fileira de 3 pinos e outra fileira de 3 furos. As duas metades devem se encaixar. O protótipo que eu imprimi funcionou perfeitamente, mas o severino sumiu com a geometria no molde que produziria um dos pinos e os furos onde eles devem entrar. Resultado: as duas metades não encaixam. \r\n \r\n Brasileiro é MERDA.
+ O seu desenho não está padronizado de acordo com as normas de desenho e representação no primeiro diedro. \r\n t. estudante de engenharia mecânica
+ Que falta de humildade, OP. Você é racista?
+ >existem diversas empresas com impressora 3D, onde é só você mandar o desenho \r\n >pede pro severino fazer o molde \r\n \r\n Você pediu por isso.
+ Foi feito por injeção? O molde não deve ser barato.
+ >>27103986 \r\n Impressora 3D é para protótipo. \r\n É muito caro e demorado para utilizar em produção.
+ >>27103986 \r\n Não vou imprimir 10 mil pecinhas. \r\n \r\n >>27103987 \r\n Foi. Não foi barato, tanto em dinheiro como em tempo.
+ Não poderia ter feito um outro sistema de encaixe? As paredes laterais precisam ser tão grossas assim?
+ >>27104007 \r\n Os pinos/furos são só pra alinhar, as duas metades são presas com parafuso.
+ Anão, é mais fácil comprar uma impressora 3D e criar você mesmo.
+ >>27103993 \r\n Mas isso não é um protótipo? \r\n Tipo, você teria que ter o primeiro exemplar pronto pra depois produzir em série ao invés de ter tudo projetado no computador.
+ >esse tanto de material desperdiçado \r\n >esse formato ineficiente \r\n A cara dos engenheiros.
+ >>27104020 \r\n Brainlet.
+ >>27103995 \r\n E desde quando existe quantidade mínima para se imprimir em 3D, ne­g­ro? \r\n Todas as empresas que entrei em contado para imprimir uma peça em ABS me passaram um valor baixo e a possibilidade de imprimir apenas uma unidade.
+ >>27104031 \r\n Não é uma peça sólida.
+ >>27104019 \r\n 8 parafusos? É polipropileno?
+ >>27104030 \r\n O protótipo ele já fez. \r\n >o protótipo que eu imprimi funcionou perfeitamente \r\n Está na postagem do OP.
+ >>27104047 \r\n 4. Sim.
+ Você fez o módulo para injetagem ou só o modelo em 3D?
+ >>27104073 \r\n Eu mesmo não desenhei o molde. O severino garantiu que sabia fazer.
+ >>27104086 \r\n Eu acho que seria melhor o 'canal de alimentação' ficar atrás invés na cavidade da bateria.
+ >>27103979 \r\n É verdade o que esse anão disse?
+ >>27104162 \r\n Não. Diedro é um termo em geometria descritiva.
+ >>27104142 \r\n Dentro do buraquinho da bateria/circuitos ele fica escondido. É fornicação. Se tivesse pedido pra fazer na China tinha saído certo.
+ >>27104180 \r\n Não, não é, burro. Vá aprender desenho técnico.
+ Eu lembro de sua thread anterior e disse que o serviço dele estava uma bosta, mas você disse nele que gastou 3.000 cruzeiros e isso não paga nem o material para um serviço em uma ferramentaria porca. O molde mais barato custaria no mínimo 8.000 cruzeiros feito na forma correta. O culpado é você por querer ser esperto e economizar em tudo.
+ Esses 8 furos nas laterais servem para diminuir o peso? Essa caixa ficaria protegida de qualquer impacto?
+ >>27104210 \r\n É sim e eu já fiz essa matéria.
+ >>27104252 \r\n É pra colocar 8 imãs de neodímio. É um rastreador pra ser colocado sorrateiramente. \r\n \r\n >isso não paga nem o material \r\n O blank eu já tinha. Os chineses pediram menos do que isso.
+ >>27104210 \r\n >desenho técnico \r\n > fodendo modelo em 3D 
+ >>27104272 \r\n Burro, o desenho técnico é uma representação de peças em 3D. \r\n Brainlet.
+ >>27104271 \r\n Que safadinho. Daí colocaria embaixo do carro e usaria qual dispositivo para rastrear?
+ >>27104308 \r\n Ele fica mandando a localização por sms/gprs.
+ >>27104293 \r\n Isso é um desenho técnico. A pica do OP é de um modelo em 3D.
+ >>27104271 \r\n Esse seu projeto nunca vai funcionar em uma produção em linha, apenas para tirar amostrar e olhe lá. E os chineses cobraram menos do que isso porque consideraram apenas a usinagem. Isso não é um molde de injeção funcional. Até mesmo se fosse para uma injetora mula manca.
+ >>27104349 \r\n Sim, imbecil, brainlet. Esse desenho é a representação de uma peça em 3D, só que planificado. \r\n MORDI.
+ >>27104293 \r\n >E os chineses cobraram menos do que isso porque consideraram apenas a usinagem \r\n Estava tudo incluso no pacote menos o frete, que seria algo como 170 dólares.
+ >>27104361 \r\n O que o cu tem a ver com a calça \r\n Você só pode estar pescando. A porra de um desenho técnico serve justamente para tirar a geometria e cotas de um modelo 3D, mas o modelo em si não um desenho técnico. Ele é origem de um ou vice-versa.

@@ -1,0 +1,5 @@
+ Alguém pode me dar uma ajuda rápida? Estou tentando aprender html pelo aplicativo Mimo e não está dando pra resolver esse código simples, sou batata e esqueci algo ou o app está bugado mesmo?
+ Desculpe, não sei nada de programação e também gostaria de aprender. Este app é um bom início?
+ Tá certo, bug no site.
+ >>27627787 \r\n Acredito que sim, tenho dificuldade de aprender qualquer coisa por ser um batata, mas esses apps estilo joguinho me ajudam bastante. Outro que uso muito é o Duolingo.
+ Bug do site. Mas vamos lá. \r\n \r\n >tem um espaço antes do '<body>', tente excluí-lo \r\n >tente dar uma nova linha depois do '<body>' \r\n >tente colocar '<head></head>' depois de '<html>' 

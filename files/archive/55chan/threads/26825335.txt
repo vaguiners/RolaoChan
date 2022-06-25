@@ -1,0 +1,99 @@
+ Qual é o melhor?
+ SteamNeon.
+ Terminal.
+ Esse.
+ Dark Orange.
+ >>26825342 \r\n Tem o link?
+ Baseado DarkOrange.
+ >>26825350 \r\n Você seria gentil o bastante para, pelo menos, me dar o caminho das pedras para aprender a fazer temas?
+
+ >>26825353 \r\n body { \r\n background: #000000; \r\n color: #00FF00; \r\n font-family: sans-serif; \r\n font-size: 12px; \r\n } \r\n h1 { \r\n font-size: 20pt; \r\n text-align: center; \r\n letter-spacing: 0px; \r\n } \r\n div.title, h1 { \r\n color: lime; \r\n font-family: sans-serif; \r\n } \r\n div.title p { \r\n font-size: 10px; \r\n } \r\n a:link, a:visited, p.intro a.email span.name { \r\n color: #00FF00; \r\n text-decoration: underline; \r\n font-family: sans-serif; \r\n } \r\n a:link:hover, a:visited:hover { \r\n color: #00FF00; \r\n font-family: sans-serif; \r\n text-decoration: underline overline; \r\n } \r\n a.post_no { \r\n color: #00FF00; \r\n text-decoration: none; \r\n } \r\n a.post_no:hover { \r\n color: #00FF00; \r\n text-decoration: underline overline; \r\n } \r\n div.post.reply { \r\n background: #000000; \r\n border: 1px dashed; \r\n border-color:#00FF00; \r\n } \r\n div.post.reply.highlighted { \r\n background: transparent; \r\n border: transparent 1px dashed; \r\n border-color:#00FF00; \r\n } \r\n div.post.reply div.body a:link, div.post.reply div.body a:visited { \r\n color: #00FF00; \r\n } \r\n div.post.reply div.body a:link:hover, div.post.reply div.body a:visited:hover { \r\n color: #00FF00; \r\n } \r\n p.intro span.subject { \r\n font-size: 12px; \r\n font-family: sans-serif; \r\n color: #446655; \r\n font-weight: 800; \r\n } \r\n p.intro span.name { \r\n color: #00FF00; \r\n font-weight: 800; \r\n } \r\n p.intro a.capcode, p.intro a.nametag { \r\n color: #00FF00; \r\n margin-left: 0; \r\n } \r\n p.intro a.email, p.intro a.email span.name, p.intro a.email:hover, p.intro a.email:hover span.name { \r\n color: #00FF00; \r\n } \r\n input[type='text'], textarea, select { \r\n background: #000000; \r\n color: #00FF00; \r\n border: 1px dashed; \r\n border-color:#00FF00; \r\n padding-left: 5px; \r\n padding-right: -5px; \r\n font-family: sans-serif; \r\n font-size: 10pt; \r\n } \r\n input[type='password'] { \r\n background: #000000; \r\n color: #00FF00; \r\n border: 1px dashed; \r\n border-color:#00FF00; \r\n } \r\n \r\n form table tr th { \r\n background: #000000; \r\n color: #00FF00; \r\n font-weight: 800; \r\n text-align: left; \r\n padding: 0; \r\n border: #00FF00 1px dashed; \r\n border-color:#00FF00; \r\n } \r\n div.banner { \r\n background: #00AA00; \r\n color: #FFFFFF; \r\n text-align: center; \r\n width: 250px; \r\n padding: 4px; \r\n padding-left: 12px; \r\n padding-right: 12px; \r\n margin-left: auto; \r\n margin-right: auto; \r\n font-size: 12px; \r\n } \r\n input[type='submit'] { \r\n background: #000000; \r\n border: 1px dashed; \r\n border-color:#00FF00; \r\n color: #00FF00; \r\n } \r\n input[type='submit']:hover { \r\n background: #000000; \r\n border: 1px dashed; \r\n border-color:#00FF00; \r\n color: #00FF00; \r\n } \r\n p.fileinfo a:hover { \r\n text-decoration: underline; \r\n } \r\n span.trip { \r\n color: #00FF00; \r\n } \r\n div.pages { \r\n color: #00FF00; \r\n background: #000000; \r\n border: 1px dashed; \r\n border-color:#00FF00; \r\n font-family: sans-serif; \r\n font-size: 10pt; \r\n } \r\n div.pages a.selected { \r\n color: #00FF00; \r\n } \r\n hr { \r\n height: 1px; \r\n border: 1px dashed; \r\n border-color:#00FF00; \r\n } \r\n div.boardlist { \r\n color: #00FF00; \r\n } \r\n div.ban { \r\n border: transparent 0px dashed; \r\n border-color:#00FF00; \r\n } \r\n div.ban h2 { \r\n background: transparent; \r\n color: lime; \r\n font-size: 12px; \r\n } \r\n table.modlog tr th { \r\n background: #000000; \r\n color: #00FF00; \r\n } \r\n \r\n .desktop-style div.boardlist:nth-child(1) { \r\n background-color: black; \r\n border-bottom: #00FF00 1px dashed; \r\n } \r\n .desktop-style div.boardlist:nth-child(1):hover { \r\n background-color: black; \r\n } \r\n \r\n .desktop-style .sub { \r\n background: none; \r\n } 
+ >>26825350 \r\n Que fofinho, anão.
+ >>26825357 \r\n Desculpe, não fui eu que fiz. Um anão me passou.
+ >>26825368 \r\n Pois é. :3
+ Baseado Amber. \r\n \r\n https://raw.githubusercontent.com/cyber-user/Amber/master/amber.css 
+ >>26825363 \r\n Uau, me sinto um fodendo homemhacker.
+ >>26825387 \r\n Gostei. Obrigado, anão.
+ >>26825350 \r\n Você vai ficar cego com essa claridade.
+ >>26825402 \r\n De nada.
+ Aproveitando o thread, quais códigos js os anões usam pra deixar o chan mais comfy? Um anão tinha postado um que abria o captcha em uma janelinha e não precisava de ficar indo em outra página e fazendo essa macaquisse.
+ Yotsuba B sempre será o melhor tema, qualquer coisa além disso é merda.
+ >>26825410 \r\n Não gosto de temas escuros.
+ Aquele tema cyberpunk que o anão postou uma vez, porém eu perdi.
+ >>26825363 \r\n Outro que vai ficar cego com a claridade.
+ Eu acho um desrespeito com o desenvolver não usar o tema original.
+ Até hoje eu uso o tema da falecida cloaca. \r\n Fornique sim!
+
+ >>26825416 \r\n \r\n >tomando a dose ao invés de burla-la \r\n \r\n HUE.
+ Roubei do infinito.
+ Dark Orange. \r\n \r\n >>26825350 \r\n Eca. \r\n >>26825359 \r\n Eca. \r\n >>26825387 \r\n Eca. \r\n >>26825445 \r\n Eca.
+ >>26825410 \r\n Nem todo mundo tem a genética ruim, anão.
+ Eu uso o pacificada. Gostei da escolha de cores menos fortes. É claro e não dói o olho.
+ >>26825459 \r\n >Eca \r\n Tá com nojinho, é, vadia? E o amber é a melhor CSS.
+ >>26825479 \r\n Talvez, se você for afeminado.
+ >>26825455 \r\n Me mostre o caminho das pedras.
+ >>26825452 \r\n Você vai fazer isso mesmo, anão?
+ >>26825457 \r\n Porque quando eu colo o código do infinito aqui as cores ficam todas cagadas?
+ >>26825498 \r\n É só hackear o servidor.
+ >>26825506 \r\n Colou errado.
+ >>26825506 \r\n Tem que colocar um tema padrão correspondente e adaptar o css.
+ >>26825495 \r\n Gosta de uma arminha então? \r\n Conservadia.
+ >>26825452 \r\n Porra, mico.
+ >>26825459 \r\n Eca.
+ >>26825515 \r\n Chora mais, bichona.
+ >>26825513 \r\n Sou brainlet demais para isso. Mas se você puder me ensinar, eu agradeço.
+ >fundos escuros \r\n Não sei como os senhores conseguem, um minuto e minhas vistas ficam saturadas.
+ Yotsuba B, não sou bicha.
+ >>26825551 \r\n Finalmente patrício.
+ >>26825515 \r\n Gostosa.
+ Gentoochan e DarkOrange.
+ >>26825544 \r\n >fundo escuro \r\n >redshift setado em 2500 \r\n Isso é viver na excelência, anão.
+ Eu só uso temas escuros de qualquer forma, senhor agente.
+ >>26825551 \r\n Tá bom, anão, ninguém ia ter chamar de bicha.
+ >>26825577 \r\n >te 
+ Yotsuba B em todos os campos.
+ >>26825457 \r\n E como eu deixo as bordas quadradas?
+ >>26825596 \r\n Preguiçoso do caralho: >>26825387 
+ Eu uso este: https://pastebin.com/iXsvV6ZH .
+ >>26825605 \r\n Continua circular e ainda fornique com todas as cores que eu já coloquei.
+ >>26825625 \r\n Colocou Yotsuba B no tema?
+ >>26825613 \r\n O tema do Vhschan é muito confortável.
+ >>26825633 \r\n Paixão fodido.
+ >>26825656 \r\n Caralho, o que eu fiz, ignorante da porra?
+ >>26825656 
+ >>26825656 \r\n >>26825660 
+ >>26825656 
+ >>26825660 \r\n Bem vindo ao /b/.
+ >>26825660 \r\n >>26825656 
+ >>26825656 \r\n >>26825660 
+ >>26825359 \r\n Simplesmente o tema mais comfy, uma pena que eu coloco o raposa para apagar todos os rastros ao fechar, e todas as vezes preciso colocar essa merda.
+ >>26825702 \r\n Só configurar pra não apagar os cookies.
+ >>26825660 \r\n >>26825656 
+ >>26825625 \r\n >>26825633 \r\n >>26825656 \r\n >>26825660 
+ >>26825660 \r\n >>26825656 \r\n HUE. Com essa eu vou dormir.
+ >>26825660 
+ >>26825732 \r\n Agora eu não vou te ajudar mais, seu bosta.
+ >>26825732 \r\n calma, anão, nós já sabemos a sua cor.
+ >>26825744 
+ >>26825748 \r\n >Calma \r\n Fixado e cuidado com essa merda de tema amber, você escreva as coisas sem letra minúscula e nem percebe.
+ >>26825613 \r\n Como altero a cor da barra do topo? Quero deixá-la com a mesma cor do fundo do chan.
+ >>26825769 \r\n Procura os nomes, vai mudando a cor… dá teus pulos.
+ Caralho, eu fico indignado. É uma baitolagem, é uma putaria, é uma disputa de ego do caralho sem fim. Porra, usa uma cor neutra pra essa merda logo e pronto. Os temas que aí já estão são mais que suficientes, mas não, a criançada tem que se sentir diferente, tem que achar que é rácker, cyperpintowave e outras merdas.
+ Dark. O que melhor protege os olhos.
+ >>26825780 \r\n >dá teus pulos \r\n Veio do magali, vadia?
+ >>26825660 \r\n >>26825656 
+ >>26825806 \r\n Eu não, isso é usado lá? como você sabe disso? (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>26825793 \r\n >essa bundadoída sem motivo \r\n Denunciada, vadia. Vá tratar a sua TPM lá longe.
+ >>26825818 \r\n >Como você sabe disso \r\n Vou tirar essa merda de CSS.
+ >>26825824 
+ Esse parênquima paliçádico está uma negrice do caralho.
+ >>26825613 \r\n CARALHO! EU SÓ QUERO MUDAR A PORRA DA BARRA SUPERIOR, SÓ ISSO. ME DIZ ONDE EU PRECISO EDITAR PARA MUDAR A COR, FILHO DA PUTA. 
+ >>26825846 \r\n Disse o cara que assiste desenho de teutões.
+ >>26825861 \r\n Não precisa postar sua foto aqui, amigo.
+ >>26825861 \r\n Eu já percebi isso. Nos EUA só pretos gostam de anime. Qual é a explicação disso?
+ >>26825890 \r\n O que você acha? Anime é coisa de teutões.
+ DARK
+ >>26825890 \r\n >nos EUA só pretos gostam de anime \r\n O que a fornicação?
+ Favela, mas com máscara. :3 
+ >>26825890 \r\n >anime = shonen \r\n Kek, a cara da escória normalfag com 2 dígitos de QI.
+ >>26825950 \r\n É, figurativamente, a mesma merda.

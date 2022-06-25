@@ -1,0 +1,12 @@
+ >scq achei que finalmente ligaria o meu monitor \r\n Posso simplesmente quebrar aqueles 4 pinos extras?
+ Pode.
+ Pode sim, anão.
+ Sim.
+ Acho que não irá funcionar.
+ >>27232229 \r\n Vai sim, anão. Confia em mim.
+ >>27232229 \r\n A saída é DVI-D Dual Link e o adaptador é DVI-I Dual link. Só muda aqueles 4 pinos.
+ Claro, anão. É só de enfeite.
+ >esta mão precta 
+ Funciona, anão. Pode fazer que vai dar certo.
+ >>27232445 \r\n >esse bebê chorando \r\n Puta que pariu, fechei na hora.
+ Vai funcionar. \r\n \r\n Esses 4 pinos em volta desse pino horizontal são os pinos de sinal analógico, coisa que não existe mais nas placas de vídeo de hoje pois elas só suportam saída de vídeo no formato digital.

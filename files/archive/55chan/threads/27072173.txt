@@ -1,0 +1,29 @@
+ Como descobrir senhas da internet de vizinhos? \r\n Estamos cientes de que a maioria das pessoas inadvertidamente permitem que o WPS permaneça habilitado, o que vulnerabiliza a maioria dos roteadores atuais independente do firmware estar atualizado ou não. Alguns roteadores atualizados desligam o WPS após três tentativas não sucedidas de conexão após o exploit, e só resetam depois da internet cair ou o sujeito desligar o roteador. Sabemos, também, que a maioria dos roteadores da VIVO possuem um endereço MAC exatamente igual à senha, com exceção dos dois primeiros dígitos, tudo em uppercase. \r\n Com isto em mente, há mais alguma vulnerabilidade ou exploit recente que nos permita usufruir das remanescentes conexões das adjacências? \r\n \r\n Obrigado de qualquer modo. \r\n Caso queiram orientações com relação ao que foi mencionado ao decorrer do post, sintam-se livres pra questionar. Alguns aplicativos da Play Store fazem exatamente isto (WPSApp ; WPS/WPA Tester ficou horrível após algumas atualizações) e programas no Windows como o Dumpper, fora os HT-WPS do Kali Linux e mais alguns. Creio que bruteforce hoje em dia, seja perda de tempo, porém, sabendo alguns dígitos da senha, talvez seria útil?
+ Pr e to sujo. A fornicação fora, ladrão, filho da puta.
+ >>27072183 \r\n Baseado animefag.
+ >>27072183 \r\n >>27072183 \r\n >>27072183 \r\n >>27072183 \r\n >>27072183 
+ Gostei do parênquima paliçádico. Bump.
+ Bump do interesse.
+ Não sei, espero ter ajudado.
+ Sage & hide negronets parênquima paliçádico.
+ >>27072183 \r\n >>27072195 \r\n >>27072200 \r\n Além de ser merdafag, é uma mesmabicha do caralho.
+ >>27072265 \r\n >não é crioulo como eu \r\n >então deve ser samefag 
+ >>27072301 \r\n >sinal vem até minha casa \r\n >hurr furr ele é paixão 
+ >>27072309 \r\n Sua casa é na selva, escurão, volte para lá. Já estou ligando para o Ibama.
+ >>27072323 \r\n Macaco.
+ Bump
+ >ain beee num pódi usar internet do vizinho que eles mal usam, tem qui pagá mais 100 reais pro Mr. Shekelberg pra usá essa merda 
+ >>27072309 \r\n >sinal vem até minha casa então pertence a mim \r\n Imagino a cor.
+ Já utilizei deste recurso quando era pobretão. Hackeei a senha do vizinho de baixo 3 vezes. Por algum motivo ele chamava o técnico e reiniciava o modem. Eu até troquei o nome da minha máquina para o nome do cara no caso do técnico dar uma analisada na rede e ver um computador estranho ali. A primeira vez que ele trocou de senha, tive que fazer o mesmo processo chato e demorado do primeiro, mas consegui relativamente fácil. Na segunda vez, eu fui mais esperto. Quando o técnico reiniciou o modem, eu fui direto pegar o PIN do WPS gerado e depois só fiz entrar direto e pegar a senha. \r\n \r\n Lembro que eu usava o Kali Linux com airodump e aircrack. Qualquer tutorial na no youtube ensina a fazer. É coisa de incluso mesmo. Agora se o cara tiver desativado o WPS, fornicou. \r\n >>27072183 \r\n Kek, criança. E eu que ia nas configurações do roteador e limitava a velocidade do cara para não ficar lagado quando ele estivesse usando.
+ >>27072411 \r\n >limitava a velocidade do cara \r\n >Por algum motivo ele chamava o técnico \r\n Mas é burro, hein?
+ >>27072392 \r\n Definitivamente não é a mesma cor de carvão que a sua, paixão burro.
+ >>27072411 \r\n Entra no gateway, caralho.
+ >>27072411 \r\n >implicando que inclusos usem Kali Linux 
+ >>27072383 \r\n >>27072411 \r\n Se matem, crioulos.
+ >>27072506 \r\n Some daqui, animefag de bosta.
+ >>27072506 \r\n Isso tudo é medo de ter a internet sugada?
+ >>27072487 \r\n Usar Cáli Línuquis é o primeiro indicativo de que o cidadão não tem a menor ideia do que está fazendo. Quem realmente entende usa Arch e compila só o necessário.
+ >>27072526 \r\n Caramba, anão, obrigado por me ensinar essa parte do manual de hackerman.
+ >>27072526 \r\n Puxa vida, você é mesmo o bonzão, hein?
+ >>27072411 \r\n Você sabe que o técnico só conseguia ver os endereços MAC conectados, não sabia, autista? Não adiantava mudar o nome do dispositivo.
+ >>27072411 \r\n Não entendi nada.

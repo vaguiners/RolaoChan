@@ -1,0 +1,11 @@
+ Como resolver, anões?
+ Acredito que isso tenda a 1 positivo.
+ >anauê 
+ >>26704138 \r\n Também acho, meu programinha em C disse que isso chega a 1 depois de 54 iterações.
+ A resposta é 1.
+ >>26704138 \r\n E por que não tenderia a zero? Não sou o OP.
+ Resolver o quê? Já está escrito que n é igual 1.
+ >>26704153 \r\n É um somatório, macaco, o limite é o infinito. \r\n \r\n >>26704150 \r\n Vai somando um sobre todas as potências de dois, não pode resultar em um número negativo.
+ É só aplicar a fórmula da soma de uma PG infinita.
+ >>26704142 \r\n Kek.
+ Paixão, por favor. \r\n \r\n Procure por geometric series proof.

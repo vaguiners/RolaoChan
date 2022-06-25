@@ -1,0 +1,8 @@
+ Vamos autistar nessas câmeras de segurança, anões. Postem o que achar. \r\n http://www.insecam.org/ \r\n https://www.shodan.io/ 
+ Como funciona o shodan? Eu sempre vejo todo mundo falar dele mas nunca entendo como funciona esse sistema de pesquisa dele.
+ >>27109061 \r\n Como é que eu faço para checar se a câmera do meu condomínio encontra-se nesses sites?
+ >>27109082 \r\n Procure uma dork pronta no google, ou simplesmente veja aqui: https://www.shodan.io/explore \r\n >>27109091 \r\n Não faço ideia, anão, mas a chance é muito baixa. Se quer ver se ela está conectada a internet, escaneie sua rede com nmap ou alguma outra ferramenta. \r\n Para quem quiser ver o paixão porteiro: http://186.195.206.250:8081/view/index.shtml 
+ >>27109123 \r\n Eu teria que entrar na rede do condomínio, e só usei o nmap no linux. Dei uma olhada na minha cidade e não vi nada. \r\n Achei esse pessoal aqui https://www.insecam.org/en/view/739687/ .
+ O que a fornicação? \r\n https://www.insecam.org/en/view/627612/ 
+ >>27109139 \r\n É bom quando está completamente liberada, aí conseguimos trocar o nome e mexer em diversas configurações.
+ Comfy como a fornicação. http://220.208.139.66:8083/ 

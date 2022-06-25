@@ -1,0 +1,12 @@
+ Olá, anões. \r\n \r\n Recentemente comprei um notebook para me servir com tarefas básicas, como navegação na internet e digitação de documentos (trabalhos de faculdade, etc). Até aí, tudo bem. Mas a merda do notebook que comprei veio com o WINDOWS 10 sendo que o hardware dele não é preparado pra isso, resultando em diversas engasgadas e lentidão exacerbada. \r\n \r\n Estava pensando, sempre quis voltar a usar alguma distro LINUX mas estou fora do ramo há muito tempo e já não sei mais o que se adequaria ao que preciso. \r\n \r\n Me ajudem! Eu não jogo joguinhos (no máximo um emulador ou outro), pretendo desenvolver alguns sites em Jekyll como hobbie (não estudo ou trabalho com programação) e estou querendo expandir meus horizontes e sair da zona de conforto. \r\n \r\n Quais distros vocês me recomendam?
+ >exacerbada \r\n Fazia tempo que não via alguém usar essa palavra.
+ Primeiro configurações do notebook e sua experiência com GNU/Linux.
+ Vire um legítimo hackerman e use Kali.
+ >>27148900 \r\n Verdade, vou começar a usar de novo.
+ Arch se for iniciante, Gentoo se for bem autista.
+ >>27148908 \r\n \r\n >experiência com GNU/LINUX \r\n \r\n Bom, utilizei Ubuntu durante 2 anos e depois passei a testar distros que nem um louco, passando por diversas mas não parando em nenhuma. Sempre tive um apreço pelo Linux e queria muito utilizar caso vá ajudar a melhorar o desempenho da minha torradeira.
+ >>27148984 \r\n Rapaz, até com linux você vai sofrer com uma CPU de 15w e gibas de rambo. Você tem que aprender que notebook portátil não vai ser igual a um desktop high end. Tem que usar de modo diferente como abrir poucos programas, poucas abas, etc.
+ >>27149003 \r\n É, eu sei anão. Mas imagino que o W10 atrapalhe bastante mesmo que eu economize na utilização.
+ Use Xubuntu ou Kubuntu. Até mais anão.
+ Use o Puppy Linux, OP. Ressuscitei uma calculadora da Positivo que não tinha a menor condição de rodar o Rwindows. Com o Puppy ela funciona perfeitamente. \r\n \r\n Além de poder rodar do pendrive tranquilamente.
+ >Quais distros vocês me recomendam? \r\n Como um antigo usuário Windows a última distro que me satisfez foi o Solus.

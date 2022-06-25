@@ -1,0 +1,19 @@
+ Tá pegando fogo.
+ >Lunix \r\n \r\n Se mata.
+ >>26772748 \r\n Vai lá baixar o ativador pro seu Windows 7 pirata, bushido.
+ >>26772763 \r\n >implicando que eu não use Windows 10 mestrecorrida \r\n \r\n Vai lá passar uma hora baixando os drivers corretos pra essa sua máquina velha.
+ >>26772790 \r\n >linux \r\n >baixar driver \r\n Seu lugar é no Windows mesmo, bushido.
+ >>26772807 \r\n Claro, não existem drivers no linux, anão. Also, \r\n >kde \r\n Hue.
+ >>26772819 \r\n O KDE Plasma é lindão.
+ >>26772831 \r\n Qual seu computador? \r\n Notebook chora, mesmo em idle, com o KDE. Está explicado suas temperaturas absurdas.
+ >>26772807 \r\n É verdade, anão. Lunix é tão ruim que não precisa nem ao menos baixar drivers, pois não dá nem suporte a sua GPU.
+ >>26772880 \r\n É um Acer Aspire 4739. \r\n Qualquer coisinha que eu abro já faz o meu I3 370M chorar. \r\n Mas o Debian com KDE Plasma está rodando muito bem aqui.
+ Já trocou a porcaria da pasta térmica?
+ >>26772947 \r\n Já. \r\n O notebook é de 2012, a pasta térmica antiga já tinha virado uma pedra no processador.
+ >>26772924 \r\n Rodar bem, roda. Mas o fan ligando a todo segundo me deixa muito puto. \r\n Para quem gosta de um desktop robusto, o KDE é bem bom. Mas acho meio besta. Se for para complicar, prefiro ficar no janelas. Estou no leenoox pela simplicidade, uso i3, que é bonito através do simples e usa praticamente nada de recurso em background. Minhas temperaturas ficam em 40 e poucos em idle e 50-55 em load. Nada melhor do que um notebook silencioso.
+ >>26772969 \r\n Já limpou ou trocou o cooler?
+ >>26772971 \r\n O que você acha besta no KDE? \r\n Eu acho besta é o Gnome/Unity. \r\n O KDE Plasma é super simples, bonito e fácil de usar. \r\n Também me irrito com fan barulhento, mas estou com fones quase 100% do tempo, então nem me estresso muito com isso. \r\n >>26772995 \r\n Já. \r\n Esse processador que é esquentado da cabeça mesmo.
+ >>26773016 \r\n Bem eu tive um Lenovo que quando isso acontecia eu só trocava o cooler. Tanto que o sinal é quando ele ficava barulho. \r\n Mas Acer é uma marca complicada como HP para aquecimento.
+ Eu gosto da deepin.
+ >>26773016 \r\n Acho exagerado demais nas opções e features, fazendo com que as tarefas de background não parem. Tomando recursos úteis do computador. Você é louco de usar o KDE em um i3 de primeira geração. Uma parte significativa do poder de fogo do seu computador está sendo usada apenas para rodar a DE, sem você fazer nada. \r\n Resumindo em uma palavra: bloated. \r\n \r\n Gnome e unity são abominações. Quem usa, nem é gente. E olha que fedora e ubuntu são as maiores distros. Isso diz muito sobre a galera do loonix.
+ >>26773158 \r\n Então o que você me recomenda, anão? \r\n Uso um I3 370M, com 6GB DDR3. \r\n Pretendo botar um SSD também.

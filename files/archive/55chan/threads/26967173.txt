@@ -1,0 +1,6 @@
+ Estou tentando desenhar as trajetórias de dois objetos que orbitam um projétil em C#. A trajetória do projétil foi fácil de desenhar com equações básicas de física, mas meus conhecimentos na área não vão muito além disso. Os objetos orbitam um círculo perfeito ao redor do projétil, como tentei ilustrar na figura. Os dois satélites orbitam com a mesma velocidade constante e os três corpos estão sempre alinhados. \r\n \r\n Há alguma equação que defina o deslocamento x e y de cada um destes satélites? \r\n \r\n Não me parece tão difícil, tanto que vim aqui na esperança de haver algum anão um pouco mais entendido em física que possa me poupar um tempinho de pesquisa; nem que seja apontando um tópico mais específico que sirva de atalho para entender o esquema.
+ Calcule a posição horária dos dois objetos enquanto o projetil está no ápice e joga no X do vértice e Y do vértice. Depois faz o mesmo para quando o projétil estiver nas raizes. Isso ai é somente uma equação do segundo grau.
+ x_objeto = x_projetil + r*cos(t) \r\n y_obteto = y_projetil + r*sen(t)
+ >>26967173 \r\n >C# \r\n Já fez caca.
+ >>26967254 \r\n Espero um dia ser tão inteligente quanto você, anão. Obrigado.
+ >não sabendo modelar um gráfico usando as próprias funções 

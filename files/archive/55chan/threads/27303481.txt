@@ -1,0 +1,1 @@
+ >pega uma imagem de uma mão no google images \r\n >vetoriza e cobre as partes cinzas pra ficar tudo branco sem combinar tudo depois \r\n MATE UM MICREIRO HOJE MESMO. 

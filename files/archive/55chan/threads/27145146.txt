@@ -1,0 +1,13 @@
+ Toda vez que acesso a loja Kabum! o Judeu me empurra o anúnico desse produto. \r\n \r\n SSD Corsair Force Series MP300, 120GB, M.2 NVMe, Leitura 1520MB/s, Gravação 460MB/s - CSSD-F120GBMP300 \r\n \r\n Baseado, no alto nível sócio-cultural dos anões da tarde, me respondam com tranquilidade: \r\n \r\n 1 - Essa espécie de placa PCIE é um SSD? \r\n \r\n 2 - Se isso é um SSD, porque vocês semprem recomendam aquele ssd quadradinho que liga na entrada sata, tipo um hd? \r\n \r\n Fale mais dessa novidade Judaica.
+ Esse tipo de SSD é para ser usado internamente em notebooks, batata.
+ Com esses jogos gigantes que estão lançando ultimamente, ter SSD com menos de 300GB não serve pra porra nenhuma.
+ Slot M.2 encontrado nas placas-mães de 2018 pra frente. Ele conecta igual uma memória ram na placa mãe, não precisa de cabos nem parafusos, o slot M.2 fica próximo ao PCI-E.
+ Eu deveria ter esperado pra comprar um notebook novo no ano passado, só para arrumar um caralhudinho desses. \r\n \r\n Se você quer performance, a melhor configuração é um SSD dedicado para o sistema e programas que exigem mais da unidade de disco, para o restante, um HD híbrido já dá conta do recado, principalmente para lidar com arquivos, filmes, joguinhos, etc. \r\n \r\n Essa combinação é porque um SSD de 1TB é caro pra caralho! 
+ >caindo no meme do SSD por um boot 4 segundos mais rápido. \r\n \r\n Enjoe pagar caro por um troço que ficará obsoleto em 8 meses. SSD só vai compensar quando os de 1 TB pra cima baratearem.
+ >>27145627 \r\n Pare de falar bosta, merdafag. SSD salva qualquer máquina antiga e melhora o desempenho de maquinas atuais.
+ >>27145627 \r\n t. Pobre que nunca teve um SSD na vida
+ Vou tentar responder um pouco decentemente o OP. Esses novos SSDs, com essa tecnologia nvme2, conseguem velocidades absurdamente superiores aos SSDs comuns, que já são superiores aos HDs, além de ocupar pouco espaço por ser diretamente conectado na placa-mãe. Em compensação, são bem mais caros, obviamente, e só as placas mais novas estão vindo com slot pra esse SSD.
+ >>27145627 \r\n >achando que SSD serve apenas para aumentar velocidade do boot 
+ >Se isso é um SSD, porque vocês semprem recomendam aquele ssd quadradinho que liga na entrada sata, tipo um hd? \r\n Não é toda mobo que tem entrada m2, ué.
+ >>27145627 \r\n >esse nível de inclusão 
+ >Se isso é um SSD, porque vocês semprem recomendam aquele ssd quadradinho que liga na entrada sata, tipo um hd? \r\n \r\n Por causa do preço.

@@ -1,0 +1,13 @@
+ Mais algum anão que trabalha com telecom aqui? Administrador de redes reportando dentro, estou acordado esperando dar 3:30 da manhã para poder fazer manutenção lógica numa rede com 30Gbps de tráfego. \r\n Perguntem o que quiserem. \r\n não garanto respostas 
+ Cospe ou engole?
+ >>26808565 \r\n Enfio no meu cu e peido.
+ É a A.Telecom ali na Berrini?
+ Tem algum jeito de roubar pegar emprestado internet de graça? Ajude um anão pobrefag.
+ >>26808573 \r\n Somente duplos podem te responder.
+ Boa noite Henrique.
+ >>26808577 \r\n Tem sim. \r\n Compra uma antena de rádio 5.8(ex: Ubiquiti Airgrid ou Mikrotik SXT) instala na sua casa, escaneie as access points disponíveis e as que estiverem liberadas para conectar sem senha, conecte. Geralmente provedores pequenos fazem bastante cagada, deixam sub-redes na mesma interface que usam pppoe, após se conectar é só rodar alguma tool para discovery de ip, encontrar um e colocar estaticamente, você vai ter Internet de graça.
+ >>26808601 \r\n Os macacos do chan não sabem nem o que é CSS e você acha que saberão sobre protocolos de rede e sinônimos de coisas simples, seria mais fácil você sair desse teu pedestal e falar igual macaco igual a eles. Se você criou um parênquima paliçádico para ficar de pedantismo inútil, é melhor voltar pra sua vida medíocre e solitária, MACACO DE MERDA.
+ >>26808620 \r\n M-mas eu tentei me expressar da forma mais simples possível, anon-kun. \r\n Seu filho da puta do caralho.
+ Você já usou ou usa a infraestrutura da sua telecom para hospedar um OTServer ?
+ >>26808601 \r\n Não tem figura, entendi foi nada.
+ >>26808656 \r\n Não, mas já usei para hospedar um servidor de Terraria \r\n E também já usei a manipulação com endereços de ips e vpns para evadir ban 

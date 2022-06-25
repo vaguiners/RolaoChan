@@ -1,0 +1,7 @@
+ Tenho uma webcam dessas com leds brancos e eu queria transformá-la em uma webcam com visão noturna. Eu preciso retirar o marmelo de IR e fazer o que mais para conseguir usar leds de infravermelho no lugar dos LEDs brancos? Preciso trocar algum resistor?
+ Sim.
+ Não.
+ 50%.
+ Compre um carro.
+ Enfie a câmera no cu.
+ Chequem fora. Vou começar transplantando a lente pra não ter que tirar o marmelo da webcam.

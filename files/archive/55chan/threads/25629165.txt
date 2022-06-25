@@ -1,0 +1,7 @@
+ Preciso estimar os parâmetros de uma população, então usarei estatísticas. Certo, qual o tamanho da amostra? \r\n >não sei, 30 ou 40. Acho que 50 está bom \r\n \r\n Certo, vou pegar a média dessa minha amostra. Será que está boa o suficiente? \r\n >acho que sim, o teorema do limite central 'garante' que a distribuição das médias será 'parecido' com uma distribuição normal \r\n \r\n OK, então eu posso calcular o quão perto minha média está da média populacional? \r\n >na verdade, você pode calcular o intervalo de confiança (95%, por exemplo) e é 'bem provável' que o seu parâmetro estará dentro disso \r\n \r\n Legal, mas eu vi aqui que eu preciso do desvio padrão. O que eu faço? \r\n >ah, não tem problema, apenas pegue o desvio da sua amostra e está OK. Só não esqueça de dividir por N - 1 para não ficar enviesado, 'hehe' \r\n \r\n Certo, então agora eu tenho 95% de chances de ter um 'intervalo correto' usando várias coisas aproximadas? \r\n >sim, isso é estatística, campeão \r\n \r\n ESTATÍSTICA É PURO LULZ. 
+ Qual o problema, OP?
+ EStimativas, fazem merdas muitas vezes. \r\n Sé ver a ultima eleição.. e as urnas fraudadas, kek.
+ >>25629188 \r\n Apenas um alerta de passagem.
+ Esse brainletismo.
+ Acaba funcionando no final.
+ Toda a Ciência é assim, OP. São impressões que temos de fenômenos que nunca compreenderemos e que precisam de explicações aproximadas para que possamos dormir à noite.

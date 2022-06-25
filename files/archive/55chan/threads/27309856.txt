@@ -1,0 +1,22 @@
+ Algum anão, por favor, me passe o JS para ordenar as posts da thread e o JS para mostrar a dose diária em um modal. \r\n \r\n Fornique não, eu usei o ccleaner e acidentalmente a porra toda.
+ Bump da esperança.
+ Eu nunca usei pois não confio , mas existe a existe a extensão 'Dollchan'.
+ Bump.
+ Bump.
+ Por que usou o CCleaner? Hue.
+ >esse filho da puta bumpando a thread ainda na primeira página \r\n \r\n Eu até tenho o link, mas espero que você se fornique.
+ >>27310029 \r\n >link \r\n Eu não acho que você tenha. \r\n \r\n >>27310026 \r\n Pra liberar espaço do meu mestrecorrida.
+ Acho que ainda tem em uma thread do /mod/, não?
+ >>27310056 \r\n >2019 \r\n >liberar espaço com Ccleaner \r\n Você tem um HD de 80GB, filho da puta?
+ >>27310111 \r\n Qual thread, anão? \r\n \r\n Eu tinha pego no bê.
+ >>27310150 \r\n Meu SSD é de 120gb, amigo. Faz muito tempo que o comprei.
+ >>27310154 \r\n Dei uma passa lá e não lembro qual foi. Foi mal, anão.
+ >>27310165 \r\n Tudo bem, Deus te abençoe.
+ \r\n \r\n var sort_quotes = false; \r\n function cmp_q(a, b) {return b.querySelectorAll('.indvquote').length - a.querySelectorAll('.indvquote').length}; \r\n function cmp_n(a, b) {return a.querySelector('.post_no') > b.querySelector('.post_no')} \r\n \r\n function toggle_sort() { \r\n nodes = document.querySelectorAll('div.post.reply'); \r\n nodes = Array.prototype.slice.call(nodes, 0); \r\n if (sort_quotes) \r\n sorted_nodes = nodes.concat().sort(cmp_n); \r\n else \r\n sorted_nodes = nodes.concat().sort(cmp_q); \r\n sort_quotes = !sort_quotes; \r\n sorted_nodes.unshift(document.querySelector('a.post_anchor')); \r\n sorted_nodes.unshift(document.querySelector('.post.op')); \r\n sorted_nodes.unshift(document.querySelector('div.files')); \r\n frag = document.createDocumentFragment(); \r\n sorted_nodes.forEach((n) => { \r\n frag.appendChild(n); \r\n frag.appendChild(document.createElement('br')); \r\n }) \r\n document.querySelector('div[id^='thread']').innerHTML = null; \r\n document.querySelector('div[id^='thread']').appendChild(frag); \r\n } \r\n \r\n el = document.createElement('span'); \r\n el.innerHTML = '<span class='expandLink'><span id='expand-all-images' style='text-align:left'>[<a class='unimportant' onclick='toggle_sort()' href='#'>Mudar ordenação</a>]</span></span>' \r\n document.querySelector('div.moreOptions').insertBefore(el, document.querySelector('span.watchContainer'));
+ >>27310195 \r\n Clicou, copiou, fodou.
+ >>27310195 \r\n Clicou no obama, lascou a banana.
+ >>27310195 \r\n Pode adicionar ao Boneca, ou estou falando besteira?
+ >>27310195 \r\n Baseadíssimo anão, obrigado. Já estava perdendo a esperança. \r\n \r\n Falta o js para abrir a dose diária em modal agora.
+ >>27310314 \r\n Trump.
+ https://pastebin.com/3wYvDE8P 
+ >>27309895 \r\n >Firefox \r\n Pro lixo vai.

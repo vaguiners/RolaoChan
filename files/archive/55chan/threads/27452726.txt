@@ -1,0 +1,12 @@
+ Tem um cofrinho com um determinado peso. Você sabe o peso do cofrinho vazio e o peso do cofrinho agora, com as moedas. \r\n \r\n Como você faz para estimar a quantidade total de dinheiro dentro do cofre?
+ Você sabe o valor da moedas? Pode ser tudo de 1 real como pode ser de 25 centavos.
+ É so comer cu de curioso.
+ Quebrando e contando.
+ 5 centavos. \r\n >4,11 gramas \r\n 10 centavos. \r\n >4,88 gramas \r\n 25 centavos. \r\n >7,6 gramas \r\n 50 centavos. \r\n >9,3 gramas \r\n 1 real. \r\n >7,84 gramas \r\n Média de 6,746 gramas. \r\n Após saber o peso, e com essa informação, fica fácil estimar o valor que esta dentro do cofrinho.
+ >>27452742 \r\n Sim. Moeda de 5 centavos, de 10, 25, 50, 75 e 1 real.
+ >>27452762 \r\n Prossiga.
+ >>27452767 \r\n O valor estimado não vai ser certeiro, pois você é restrito a algumas informações, como o perfil de quem esta poupando.
+ >>27452781 \r\n Até agora você não me deu um método para estimar o valor dentro do cofre.
+ >>27452799 \r\n Isso já esta desvendado, o interessante é o caminho para a informação que esta em falta.
+ >>27452816 \r\n Dê seu melhor chute. Nós vamos comparar o seu método com o de todos os outros 99 candidatos, e o que chegar mais perto do valor dentro desse porquinho ganha a vaga na Shekelberg SA.
+ Interessante. \r\n >subtraia o peso do cofre do peso do cofre com as moedas \r\n >esse é o peso das moedas \r\n >bote no papel ou compute todas as combinações possíveis de moedas, com cada peso, que possa chegar nesse valor \r\n Daí em frente eu não sei.

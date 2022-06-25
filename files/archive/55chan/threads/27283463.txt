@@ -1,0 +1,15 @@
+ ANÕES ENTENDIDOS DE MATEMÁTICA E COMPUTAÇÃO, ME AJUDEM. \r\n Bem, eu quero um software que, para uma dada curva (desenhada), ou um conjunto de pontos, o programa corte em seções de forma que para cada seção, ele dê uma função que melhor descreve a curva, ou dê uma função que cruze com todos pontos. Eu sei que há algo assim, mas não sei o que é ou como encontrá-lo. \r\n \r\n A ideia é que vá da primeira para a segunda pica. Me ajudem, anões. Conhecem algum que eu possa baixar?
+ Bump. Bump. Bump. Bump. Bump. Bump. Bump. Bump. Bump.
+ Não sei, espero ter ajudado. :3 
+ >>27283481 \r\n Essa é nova.
+ Excel.
+ >>27283502 \r\n Como faço isso no excel, anão?
+ Interpolação. Procure qualquer script em python que faça isso.
+ Depende, OP. Você sabe qual o tipo de função que você está tentando interpolar? \r\n \r\n Eu usava esse site na faculdade, mas você tem que ter algum conhecimento dos pontos. \r\n \r\n https://mycurvefit.com/ 
+ >>27283505 \r\n Faça o gráfico e coloque para adicionar linha de tendência.
+ ENCONTREI ALGO MUITO BOM, ANÕES. FORNIQUE SIM! FORNIQUE SIM! \r\n Aqui está a fórmula que faz o trabalho de achar o polinômio dados os pontos, achei neste site: \r\n https://www.dcode.fr/lagrange-interpolating-polynomial \r\n Inclusive, ele faz o trabalho pra você. \r\n \r\n USEM ESTE PARÊNQUIMA PALIÇÁDICO PARA MATEMATICARIAS! \r\n FORNIQUE SIM, ESTOU FELIZ, VOU AJUDAR QUALQUER ANÃO QUE APARECER NA MINHA FRENTE. HOJE NINGUÉM ME PARA! \r\n \r\n >>27283509 \r\n Fornique sim, era o nome que eu precisava, INTERPOLAÇÃO. Te devo meu cu. \r\n \r\n >>27283516 \r\n Polinomial. Achei até a fodendo fórmula de Lagrande pra isso. Obrigado pelo site. Veja o que eu achei. \r\n \r\n >>27283519 \r\n Não tenho ideia como fazer isso, hue, mas acho que não vou precisar. Obrigado, anão. Te amo.
+ >>27283560 \r\n >lagrange 
+ >>27283560 \r\n Also, esqueci de falar: sintam-se livres para usar este parênquima paliçádico.
+ >>27283574 \r\n Não esqueci. Hue, batetei.
+ >>27283560 \r\n >Polinomial. Achei até a fodendo fórmula de Lagrande pra isso. \r\n \r\n Então, se você sabe também o grau dele, é melhor tirar esse grau de liberdade da interpolação. Qualquer dúvida, pergunte.
+ >>27283636 \r\n Obrigado, anão. Aprecio muito quem doa seu tempo, algo precioso, para ajudar os outros. Enfim, eu não preciso de um polinômio com um grau específico. Eu só preciso descrever bem o desenho. Quero pegar essa curva e fazer um sólido de revolução.

@@ -1,0 +1,4 @@
+ Preciso instalar o Windows 10 no computador pra aprender a lidar melhor com esse sistema, pois tá vindo muito notebook pra arrumar que está rodando isso. Mas essas telas de coleta de dados já me assustaram antes mesmo de eu instalar essa porra. \r\n \r\n Qual era mesmo o nome daquele programa que desabilita toda a telemetria do W10? Usar LTSB não é uma opção agora, pois só vou usar isso pra aprender, meu sistema de uso diário continuará a ser Linux Mint.
+ https://github.com/10se1ucgo/DisableWinTracking/releases/ 
+ >>26866594 \r\n Obrigado.
+ Quanto tempo até o Pereira bater na porta depois de eu ver Colomba Pascal usando Windows 10?

@@ -1,0 +1,6 @@
+ >dynamic vsoc voltage em +0.000v \r\n >gfx voltage em 1.15v \r\n >cpu está monitorando uma voltagem menor e a placa mãe está lendo uma voltagem próxima da que está na bios \r\n >Gigabytes são conhecidas por entregar uma voltagem maior que a que está na bios \r\n O que está errado aqui? \r\n >inb4 hurr está errado em tentar fazer overclock 
+ Bumpo essa thread pedindo chart de overclock.
+ Macacão.
+ >>27373858 \r\n ??? \r\n \r\n >>27373853 \r\n Não existe chart de overclock.
+ >>27373853 
+ Fornique sim, meu Gammaxx 400 chegou.

@@ -1,0 +1,17 @@
+ O que os anões acham de programação? \r\n O que estão aprendendo atualmente?
+ Estou estudando HTML,CSS e JavaScript.
+ >>27209356 \r\n Qual o seu endgame?
+ Acho legal. Estou aprendendo italiano.
+ Logica de programação, estudei e parei
+ Faço T.I., mas prefiro a parte de infraestrutura.
+ React ou angular ou vue?
+ >>27209670 \r\n Vue é o mais legal, React tem mais vagas no mundo, Angular tem muitas vagas aqui no Brasil mas é ruim .
+ >>27209683 \r\n Por que angular é ruim? \r\n Explique para mim.
+ >>27209691 \r\n Desenvolvimento mais travado, mais lento e mais pesado.
+ >>27209698 \r\n Só de ser typescript já vence os outros em todos os quesitos na minha opinião. \r\n Só vejo vantagens.
+ >>27209703 \r\n Você perguntou e eu respondi. \r\n Se você acha que Typescript faz valer usar um troço travado daquele, não posso fazer nada, mas todo o resto do mundo discorda.
+ >>27209713 \r\n Qual você recomendaria para aprender hoje em dia?
+ >>27209346 \r\n Clojure e Rust. \r\n \r\n >>27209703 \r\n Dá para usar TS em Vue e React também.
+ >>27209377 \r\n Faço infraestrutura, mas prefiro a parte de TI.
+ >>27209362 \r\n \r\n Alguma coisa a ver com administração de servidores.
+ >>27209730 \r\n Acho que JS (Incluindo HTML e CSS), Java/PHP e Git de início. Consegue-se um vaga de Junior ou mesmo estágio facilmente só sabendo o básico/intermediário disso. Also Python também pode ser uma boa pedida.

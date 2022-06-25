@@ -1,0 +1,6 @@
+ Não sei como alguém consegue programar nessa bosta, figurativamente Java travestido, material escasso na internet, Android Studio lento como a fornicação, tive que comprar um FODENDO SSD pra conseguir rodar essa bosta de forma decente. Espero passar na matéria de Android da faculdade e nunca mais ver esse LIXO na minha vida. Acho que vou aprender React Native. \r\n \r\n Jetbrains, você me decepcionou.
+ Caralho, imagina essa falta de brio. \r\n Triste.
+ É melhor já ir abrindo essa bunda desde cedo, a vida ainda vai te fornicar muito, OP.
+ >>27269837 \r\n Você só pode estar brincando, fiquei figurativamente 1h pra tentar implementar um RecyclerView decente no meu projeto, é tanta viadagem na linguagem que nem dá para descrever. \r\n \r\n Até agora não consegui implementar o ItemTouchHelper, desisti completamente, criei um fodendo botão que exclui um item da lista. Sem contar no request pra uma API, tive muitos erros, acho que estou mal acostumado, trabalho com Python.
+ Flutter. Agradeça no futuro.
+ Você está reclamando da linguagem, framework do Android ou IDE? Kotlin é uma ótima linguagem e não tem nada a ver com o design cagado do Android (que aliás vem melhorando consideravelmente).

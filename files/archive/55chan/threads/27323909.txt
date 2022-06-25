@@ -1,0 +1,15 @@
+ Como você se sente sabendo que capacitores cerâmicos são superiores aos eletrolíticos em todos os quesitos?
+ Chequem fora este filho da puta aqui.
+ Mas eu sempre soube disso. O único quesito que o cerâmico perde em relação ao eletrolítico é no quesito fogos de artifício.
+ >>27323933 \r\n O de tântalo é superior a ambos.
+ Anãozinho, poderia me ajudar? Estou com um rádio ondas curtas antigo aqui Semp LP75 e queria fazer duas bobinas de ondas curtas para ele, já que a original é uma merda. \r\n Pode ser enrolada no ferrite ou aquelas pequenas com núcleo de ferrite, só não sei a relação de espiras.
+ >>27323953 \r\n Eletrônica analógica e radiofrequência são duas coisas de maluco. O que você pesquisou até agora?
+ >>27323969 \r\n Até agora troquei a bobina de AM, coloquei uma de um rádio antigo, funcionou bem. preciso saber a relação de espiras, na de AM são mais de 120 por 20.
+ >>27323940 \r\n E o styroflex? Sempre vejo essa porcaria sendo usada em circuitos críticos com osciladores e pré de áudio. Ninguém me explica qual a diferença dele para o cerâmico.
+
+ Não poderia me importar menos.
+ >>27323990 \r\n Por acaso é uma coisa parecida com isso? Meu pai tinha um monte dessas porcarias espalhadas, ainda deve ter um monte aqui em casa porque ele é acumulador compulsivo. O que você sabe a respeito? Eu não tenho a menor ideia de como um rádio de ondas curtas funciona. \r\n \r\n >>27324013 \r\n Outra coisa que tinha um monte espalhada aqui em casa e foi tudo para o lixo. Nem existe mais hoje em dia. É uma coisa que pode ser usada no lugar do capacitor cerâmico às vezes, é diferente do eletrolítico porque ele não explode (o dielétrico é só um plástico). Ele não aguentaria a solda por refusão por causa disso, por isso entrou em extinção. Também devo ter por aqui.
+ >>27324013 \r\n Also, no tempo em que isso era usado era um capacitor com baixa variação em função da frequência e da temperatura em comparação com o resto.
+ >>27324075 \r\n Isso pra mim é ouro! \r\n Essa bobina é a antena de AM. Como a frequência é baixa, o comprimento de onda é maior, por isso precisa de mais parênquima paliçádico. Esse ferrite potencializa o campo do parênquima paliçádico. A merda toda é casar a bobina com o circuito do rádio.
+ >>27324129 \r\n Eu te daria até o parênquima paliçádico de cobre pra você enrolar as suas bobinas, porque também tenho isso.
+ >>27324129 \r\n Acho que eu entendi mais ou menos como funciona um rádio AM. A antena é um parênquima paliçádico de cobre enrolado em um núcleo de ferrite, e as duas pontas dela são ligadas nas duas pontas de um capacitor variável, formando um circuito LC. Mudando a capacitância, muda a frequência de ressonância. \r\n \r\n Você tem o esquema do seu rádio, anãozinho?

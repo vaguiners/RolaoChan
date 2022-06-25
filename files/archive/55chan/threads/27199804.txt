@@ -1,0 +1,9 @@
+ Bom dia, anões. Temos manjadores de Linuxarias no recinto? \r\n \r\n Estou aprendendo a operar o Linux e recentemente consegui ingressar as máquinas Ubuntu 18.04 do meu trabalho ao nosso domínio AD, basicamente seguindo este tutorial com algumas adaptações que se fizeram necessárias: \r\n https://elbinario.net/2019/02/13/integrando-ubuntu-desktop-18-04-en-dominio-active-directory/ \r\n \r\n A minha dúvida é a seguinte. Nós temos dois servidores DNS, o primário e o secundário. No passo no qual se declara o IP do servidor DNS (pica relatada) ele declara apenas um e eu gostaria de declarar o segundo. Bastaria eu digitar o IP e nome do meu DNS secundário, igual fiz para o primeiro, ou eu preciso fazer mais alguma outra coisa? \r\n \r\n Grato pela atenção.
+ Bump.
+ Bump.
+ Bump da esperança.
+ RTFM
+ >>27199915 \r\n Ajudou bastante. Obrigado.
+ >>27199915 \r\n Li e não achei… e agora?
+ >>27200098 \r\n Acione o suporte.
+ >>27200179 \r\n O suporte sou eu.

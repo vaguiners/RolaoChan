@@ -1,0 +1,4 @@
+ Será tem um algorítimo que faz algumas threads começarem em entra minusculas?
+ Louco.
+ var reply = reply.ToLowerCase(); 
+ >>26732596 \r\n Sobrinho, tá na hora de sair do compiuter , né? Amanhã você não tem aula?

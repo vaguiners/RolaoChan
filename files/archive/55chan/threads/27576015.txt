@@ -1,0 +1,3 @@
+ Existe joystick barato que use XInput?
+ Depende o que você considera barato. \r\n Para os padrões daqui, deve ser 30 reais.
+ >>27576042 \r\n Esse que comprei é 36 mas é DInput. Algo não muito acima disso.

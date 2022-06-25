@@ -1,0 +1,14 @@
+ Anões, boa noite. Estou com uma belezinha dessa da pica porém só tenho um Micro SD de 4 gigas, isso torna impossível de instalar o kernel e desfrutar dos joguinhos de Nintendo DS? Existe alguma maneira de burlar essa limitação? Ajudem um anão a jogar Dawn of Sorrow!
+ Impossível por quê? Tenho um R4 com um cartão pequeno e consigo transferir alguns jogos tranquilamente. A maioria das ROMs pesam 128MB ou menos. Só Ni no Kuni, Pokemon White 2 e Black 2 são excecões, com 512MB cada.
+ Meu problema é que os kernels que estou baixando não são reconhecido ou ficam para sempre na tela de carregamento. Já procurei no jewtube, no Google e em todo canto da Baía Pirata. Tentei várias versões, suspeito que o problema seja de fato o tamanho do cartão de memória. Há um meio de 'ocultar' esse espaço para permitir que o cartão seja lido pelo DS?
+ >>26703105 \r\n Vi em alguns tutoriais que o ideal é ter um cartão de apenas 2GB, Anão. Como relatei aqui >>26703107 , ou a kernel simplesmente não roda ou fica sempre carregando. Vou tentar baixar uma versão do site oficial agora.
+ Qual versão do kernel você usa? \r\n Que droga, estava todo feliz por ter achado o maldito DS e não consigo desfrutar do maldito. Ele tinha um cartão de memória já configurado mas me roubaram, fornique não.
+ Cartão falso?
+ >>26703137 \r\n >achado 
+ >>26703145 \r\n No meio das minhas coisas, anão! Ganhei de aniversário de um amigo há muitos anos, ficou parado por um bom tempo e hoje encontrei o carregador, daí estou tentando usá-lo. \r\n \r\n >>26703141 \r\n Pra ser honesto não sei, ele é exatamente como o da pica e pelo que vi não tem nenhum dos sites oficiais parecido com ele. O que isso implicaria, anão?
+ >>26703150 \r\n >nos \r\n \r\n Fix'd. Estou com sono e frustrado.
+ >>26703150 \r\n >ganhei de aniversário de um amigo há muitos anos \r\n Deve ser legal ter amiguinhos. ;_; 
+ >>26703150 \r\n >Ganhei de aniversário \r\n Porra, eu nunca ganhei nem um sigarro dos meus amigos?
+ >>26703172 \r\n Pra falar a verdade nem temos contato hoje em dia. Ele casou, eu também, cada um seguiu seu rumo e nem ao menos moramos na mesma cidade. \r\n \r\n >>26703141 \r\n Existe algum método pra cartão falso, anão? Eu não sei se o meu é mas estou disposto a tentar, estou vidrado para jogar Castlevania. Esqueci de adicionar que meu DS é a versão Lite.
+ Anões, era um DS usado, meu amigo não queria tê-lo pois na época estava começando a estudar para o TCC. Isso foi lá pra casa de 2010-11.
+ Estou confuso pra caralho, alguns sites estão falando que tenho que ter um firmware também. Que merda ser incluso.

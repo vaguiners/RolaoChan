@@ -1,0 +1,15 @@
+ Boa tarde, anões. \r\n Ultimamente ando aprendendo o caralhudo da pica e estou achando interessantíssimo, além de muito mais flexível e possivelmente útil que C, linguagem da qual 'venho'. \r\n Quais frameworks do Java estão mais em alta no mercado? Quero mexer com back-end, databases e essas coisas. Não gosto de >dezainer, ficar fazendo coisinha bonitinha com fade, efeitinhos bonitinhos, não gosto de front-end e não tenho nem a criatividade pra fazer algo bonito como os manjadores fazem. \r\n \r\n Os anões poderiam me dar um mapa da mina?
+ Sobe.
+ Bump.
+ Rapaz, não sei, mas é só você jogar 'Back end 2019' no youtube que você encontra tudo o que você quer saber.
+ Node.js. \r\n \r\n Recomendo o livro Node,js In Action da Manning. \r\n \r\n Depois vá para o Express.js In Action da mesma. \r\n \r\n Depois você estuda as possibilidades do que pode fazer para ir além, seja IoT, DeepLearning, Machine Learning, Bigdata…
+ >>27159476 \r\n Perdão pelo Leddit Spacing. \r\n \r\n E aliás, >>>/comp/34051 
+ >>27159476 \r\n Eu consigo mexer com Deep Learning e IA com java? Interessante. \r\n Obrigado, anão.
+ >>27159505 \r\n >confundindo java com javascript \r\n >atirando pra todo lado \r\n Mais um pra reclamar que TI não dá dinheiro.
+ >javascript \r\n >pergunta sobre framework de java 
+ >>27159513 \r\n Eu sei que java e javascript são diferentes, desculpe, me expressei errado.
+ >>27159522 \r\n Sua vida é um erro, anão.
+ Desculpem, sou newfag nas javascriptarias, eu aprendi outro dia que javascript na verdade é outro nome pro ES.
+ >>27159524 \r\n >OP se expressa errado \r\n >anão programadorzinho pedante vem corrigir, não sabendo nem interpretar o texto e assumir o que o anão estava querendo \r\n É, você não tem futuro como programador. É um batata até pra interpretar texto.
+ >>27159505 \r\n Tenserflow.js. \r\n \r\n Mas ainda deverá aprender os conceitos e teorias, senão você será um macaco que só sabe copiar e mudar o nome de variável.
+ >>27159558 \r\n Muito interessante, anão. Eu pensava que TensorFlow era algo só de Python. \r\n Obrigado por me iluminar, você é legal. E desculpe por errar os nomes antes.

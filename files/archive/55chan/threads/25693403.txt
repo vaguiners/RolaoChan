@@ -1,0 +1,5 @@
+ É possivel alterar o player de webm do navegador? O botão play/pause bem no meio de video me incomoda muito e atrapalha a experiencia de visualização de multimedia.
+ Sim, usa o opera ou Chrome?
+ >>25693409 \r\n Chrome ou Firefox. \r\n Tambem seria interessante a opção de (des)acelerar os videos.
+ >>25693415 \r\n >>25693415 \r\n Eu esqueci o link, mas é algo como \r\n Chrome:components \r\n Ou chrome:Complements \r\n \r\n Se descobrir me avise, quero mudar o do opera.
+ Achei. No Chrome: \r\n >Go to 'chrome://flags/'. \r\n >Disable 'New Media Controls'. \r\n >Restart. 

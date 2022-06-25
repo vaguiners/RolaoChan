@@ -1,0 +1,55 @@
+ Alguém aqui que programa em JavaScript poderia me ajudar nesse exercício? Estou tentando entender o porquê de não funcionar do jeito esperado nesse primeiro print, no segundo print eu consegui resolver, mas ainda fiquei com essa dúvida do primeiro print. O problema é pra fazer um 'triângulo com loop' fazendo sete chamadas usando o console.log().
+ Na linha 5 você printou a resposta, que é #, e depois incrementou outro # à resposta, pra não fazer nada com essa resposta incrementada. Na próxima iteração do loop ele não utilizou a resposta criada na iteração anterior, e sim a váriavel 'resposta' global.
+ Sei lá, porra. É JavaScript, nada faz sentido nessa merda.
+ >>27312881 \r\n Sim, mas como eu poderia mudar a variável global dentro do loop?
+ >>27312881 \r\n Você precisa 'fazer algo' com a variável em JS para seu valor ser salvo? O que a fornicação.
+ >>27312881 \r\n \r\n Perdi, javascript é uma bosta.
+ >>27312901 \r\n Não sei exatamente, não sei quase nada deJavaScript, também comecei a programar agora. O que eu faria em Python seria criar uma lista vazia, e em cada iteração adicionar um '#' e depois printar os elementos da lista. Fora da interação a lista estaria lá, alterada. \r\n \r\n >>27312902 \r\n >>27312912 \r\n Foi um problema de escopo. A variável resposta dentro do for loop não é exatamente a mesma variável resposta declarada antes. A variável dentro do for loop só existe enquanto a iteração está acontecendo.
+ Cadê os devs de JS?
+ Você está pensando em pagar para continuar estudando por essa plataforma? Não lembro o nome, mas lembro que depois de alguma lições é preciso pagar. No site freecodecamp.org você pode ir até um nível decente, e é tudo de graça.
+ >>27312982 \r\n >repl.it \r\n \r\n É tipo uma IDE online, kek.
+ Tem que colocar as coisas entre as chaves quando for utilizar mais de uma linha em um laço de repetição. \r\n \r\n https://jsfiddle.net/37fLpy5z/ 
+ >>27313011 \r\n Posso confiar nesse link?
+ >>27313000 \r\n Ah, sim, confundi com o Code Academy.
+ >>27313011 \r\n Secundo.
+ >>27313016 \r\n Porra, amigão, se não confia é só pesquisar o nome do site e ver se é seguro.
+ >>27313016 \r\n Pode sim Dr.
+ >>27313055 \r\n >>27313011 \r\n >Tem que colocar as coisas entre as chaves quando for utilizar mais de uma linha em um laço de repetição \r\n \r\n Continuou com o mesmo problema.
+ >>27312933 \r\n Sim, eu entendi o que você quis dizer. Mas de qualquer jeito, deveria funcionar, uma vez que a variável deveria existir no escopo até o final do loop.
+ >>27313085 \r\n Minto, acabei de testar novamente e realmente deu certo, obrigado.
+ >>27313011 \r\n É exatamente isso. Programação em Python me transformou em um completo acéfalo, agora fico esquecendo que em outras linguagens você precisa usar chaves. \r\n \r\n Escutem esse anão e fechem o parênquima paliçádico.
+ >>27313011 \r\n \r\n >clico no botão run \r\n >feijoada 
+ >>27313085 \r\n Então o problema é onde você está rodando o código, onde postei o mesmo código está rodando perfeitamente. Está usando qual navegador? é alguma plataforma tipo a CodeCamp?
+ 1) É uma prática ruim não colocar 'var' ou 'let' na frente de declaração de variáveis. \r\n 2) Por que você primeiro declarou contador igual a 0, logo depois no loop igual a 1? Não precisa declarar igual a 0 antes, só apaga isso. \r\n 3) Copiei seu código para ver se tinha algum mistério que não percebi, mas aqui funcionou o primeiro exemplo. Você não atualizou seu console?
+ >>27313136 \r\n O seu funcionou sem ter que colocar chaves no loop?
+ >>27313109 \r\n >>27313085 \r\n \r\n Que bom que funcionou. Dá uma olhada na CodeCamp depois, comecei aprendendo por lá antes de começar a trabalhar com essas tralhas, acho que vai poder te ajudar em alguns conceitos.
+ >>27313166 \r\n Estou lendo esse livro aqui e é muito bom, tem em pt-br no github também.
+ >>27313160 \r\n Eu escrevi assim o código: \r\n \r\n \r\n var resposta = '#'; \r\n \r\n for (var contador = 0; contador <= 7; contador++) { \r\n console.log(resposta); \r\n resposta += '#'; \r\n } \r\n 
+ >>27313182 \r\n Não sou o quotado. Eu li a 2ª edição há um tempão. Não sabia que tinha a terceira. Vou baixar. \r\n É bom mesmo, mas poderia ser melhor.
+ >>27313123 \r\n \r\n Habilita o console do navegador né Dr.
+ >>27313198 \r\n Eu estou lendo a segunda edição também. Also, eu estou pensando em fazer alguns freelancer futuramente, será que quando eu terminar de ler e fazer todos os exercícios desse livro, eu irei ficar em um nível aceitável para fazer uns freelancers? Eu também penso em abrir um próprio site pra mim.
+ >>27313245 \r\n Não acredito que só esse livro te ensinará tudo que você precisa saber. Ele fala alguma coisa sobre HTML/CSS? Não que dê muito trabalho aprender, até porque no final você só vai utilizar Bootstrap, eu acho. Parece que existem um milhão de frameworks e precisamos saber todos. Não sou o quotado e sou iniciante também.
+ >>27313287 \r\n >não que dê muito trabalho aprender, até porque no final você só vai utilizar Bootstrap \r\n Nunca mais repita essa frase de macaco. 'Só usar Bootstrap' é uma frase de sinal vermelho de amadorismo, preguiça e má vontade.
+ >>27313198 \r\n Mas eu sei o básico de html/css, anão.
+ >>27313309 \r\n >já está feito \r\n >provavelmente fizeram melhor do que eu poderia fazer \r\n Por que não usar? É só retocar depois.
+ >>27313309 \r\n Secundo. A última vez que usei Bootstrap foi há uns 3 anos.
+ >>27313322 \r\n >já está feito \r\n Sim, está feito e prontinho para você fazer vários sites com a mesma cara, carregando uma library pesada para usar 12 colunas. \r\n >provavelmente fizeram melhor do que eu poderia fazer \r\n Esse pensamento vai te manter numa posição de macaco de código e nada além disso. Aprenda CSS.
+ Eu sou muito brainlet e estou usando um bloco de notas e testando pelo F12 (console do navegador), algum anão poderia recomendar uma alternativa mais prática?
+ >>27313357 \r\n Obrigado pelo apoio. Um dia farei Bootstrap parecer nada.
+ >>27313401 \r\n Não tem problema nenhum de usar o DevTools (como você disse, o F12). É uma ótima ferramenta. \r\n Para editar código, o Visual Studio Code está em alta, e por bons motivos. Muitas atualizações e sempre ouvindo o usuário. A Microsoft acertou nesse. \r\n Outros preferem o Sublime (que eu uso de vez em quanto), o Atom (que acho meio pesado), entre outros. Mas uso quase sempre o VSCode mesmo.
+ >>27313416 \r\n >em quando \r\n Fixado.
+ >>27313401 \r\n Gosto bastante do Brackets.
+ É fácil arrumar freelancer com JS? Estou pensando em tentar pelo Workana.
+ >>27313446 \r\n Se fosse fácil, todo mundo conseguiria. \r\n Eu faço, mas não é tão fácil. Workana é uma boa.
+ >>27313446 \r\n Se criar conta em dezenas sites de freelancing e fazer várias propostas acho difícil ningute contratar.
+ var resposta = '   ▲\n  ▲ ▲\n ▲   ▲\n▲ ▲ ▲ ▲'; \r\n console.log(resposta) \r\n \r\n BISNAGA! 
+ >>27313459 \r\n O problema é que parar ter visualização tem que pagar o premium ou sei lá o quê. Haja dinheiro. Não sou o quotado.
+ >>27313469 \r\n Hue.
+ >>27313489 \r\n >executando um código criado por um anão \r\n Xiiiiiii…
+ >>27313448 \r\n >Eu faço, mas não é tão fácil \r\n \r\n Poderia passar o caminho das pedras?
+ >>27313495 \r\n Você é burro?
+ >>27313502 \r\n Secundo.
+ >>27313469 \r\n P-poderia me ensinar como faz para escrever com essa formatação de código?
+ Like a pro: \r\n \r\n \r\n for (i = 0, res = '#'; i <= 7; ++i) { \r\n console.log(res) \r\n res += '#' \r\n } \r\n 
+ >>27314204 \r\n Melhorei ainda mais: \r\n \r\n \r\n for (i = 0, res = '#'; i <= 7; ++i, res += '#') console.log(res) \r\n \r\n \r\n Ta maluco, eu sou um deus na programação.
+ >>27314258 \r\n Parabéns!

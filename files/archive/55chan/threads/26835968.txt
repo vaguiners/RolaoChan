@@ -1,0 +1,5 @@
+ Qual é a maneira mais simples de configurar uma rede local de modo que eu possa acessar os arquivos de um computador a partir do outro? Os dois estão conectados ao mesmo roteador e eu claramente deveria ser capaz de acessar um a partir do outro, mas essa merda simplesmente funciona só de vez em quando. Qual é a teoria básica por trás disso?
+ Incluso.
+ >>>/comp/ 
+ Windows server
+ TANEN \r\n BAUM 

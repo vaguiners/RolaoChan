@@ -1,0 +1,7 @@
+200 get! \r\n
+ 200 get \r\n
+ 200 get? \r\n
+ 188 get? \r\n
+ 189 get? \r\n
+ 189 get \r\n
+ ok , i lost :/ \r\n

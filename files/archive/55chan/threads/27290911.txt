@@ -1,0 +1,10 @@
+ Parênquima paliçádico para Testes de Edição de Texto
+ *a*
+ teste 
+ AAAMACACOOOO 
+ nem 
+ 'a'
+ sage 
+ teste 
+ === \r\n — \r\n *** \r\n ### \r\n ''' \r\n ))) \r\n ((( \r\n <<<
+ >>27291067 \r\n Perdi.

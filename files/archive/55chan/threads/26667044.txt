@@ -1,0 +1,11 @@
+ Mordi a pescaria e estou instalando Arch Leenoks pela primeira vez. Quantos minutos até o sistema quebrar e eu ter que formatar tudo de novo? \r\n Desejem-me sorte!
+ Cadê os irmãos rasquiners para me apoiar e trocar figurinhas?
+ A AUR é muito boa, anão. \r\n AUR sozinha quase carrega o sistema nas costas, por isso que o Manjaro é tão grande, por exemplo.
+ >nem terminou de instalar \r\n >já está attwhorando \r\n Está no caminho certo, anão.
+ >>26667384 \r\n Por que ela é melhor que as outras?
+ >>26667384 \r\n \r\n >AUR sozinha quase carrega o sistema nas costas \r\n \r\n Antigamente isso me causava uma extrema frustração. Ao menos melhoram o método de instalação ou ainda é tudo baseado no download das sources e scripts de compilação?
+ >instalando esse OS de nerdão \r\n \r\n Tudo isso só pra tirar telatiro com distrozinha aparecendo?
+ Não usando o Alpine Linux.
+ Instalei mas não consigo conectar na internet cabeada.
+ >systemd-241.7-2 \r\n >zstd-1.3.8-1 \r\n \r\n Enjoe seu bootnet, incluso.
+ >>26667854 \r\n Pô, grandão, dá uma olhada na wiki.

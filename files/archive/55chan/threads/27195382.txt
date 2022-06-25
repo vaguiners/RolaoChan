@@ -1,0 +1,22 @@
+ GCCfag, eu te invoco! \r\n Se você não for um macaco, você sabe do que o programa se trata. Supondo que eu atribua 3 à variável n e 1 à variável l, a resposta vem: \r\n 3, 1.00000, -nan \r\n Por quê isso acontece e como posso resolvê-lo?
+ Já tentou reiniciar?
+ 50%. 
+ Tire o computador da tomada, espere 20 segundos, e ligue novamente. \r\n Deve funcionar.
+ Anon, você precisa entender que programação é uma coisa sequencial. Você está calculando seus resultados antes mesmo de pedir uma entrada. Basicamente está calculando lixo não inicializado de memória de forma arbitrária.
+ Macaco.
+ >>27195413 \r\n Oh, certo. Vou definir as variáveis dependentes depois do scanf e reporto.
+ >esse tanto de double sendo que dava pra declarar tudo isso em uma linha \r\n >esse código sem indentação \r\n Puta que pariu, tá bom que C não precisa, mas não seja precto.
+ >nano 
+ >Bem-vindo \r\n \r\n Que educado, OP.
+ >>27195382 (OP) (You) \r\n O quê que eu vou fazer com essa merda? Faça um programa mais útil.
+ >>27195500 \r\n Nunca te prometi utilidade nenhuma, macaco.
+ >pesquise o algorítimo de desenho de linhas de bresenham \r\n >divida o polígono arbitrário em triângulos \r\n >desenhe o polígono em um buffer invisível \r\n >vá contando os pixels \r\n >o resultado é a área do seu polígono com 99.99% de exatidão 
+ >nano 
+ >Se você não for um macaco, você sabe do que o programa se trata. \r\n Você chama os outros de macaco e nem ao menos consegue enxergar um erro tão óbvio como esse >>27195413 , mas precisa criar um parênquima paliçádico aqui só pra isso. É por isso que eu agradeço todos os dias a Deus por ter abandonado essa área de merda e não ter que lidar com prectos como você.
+ Progfags, me respondam o seguinte: o que aconteceria se eu escrevesse uma função e usasse um #define para redirecionar escritas na stdout para a minha função?
+ >>27195627 \r\n Saber ler é bem diferente de saber programar, anão.
+ >>27195631 \r\n Não aconteceria nada anormal, no máximo o tempo de compilação iria aumentar um pouco, dependendo da sua IDE.
+ >>27195635 \r\n Mas a questão é: eu poderia interceptar o que é escrito na stdout dessa forma?
+ Você esta iniciando as variáveis de maneira errada. Experimente iniciá-las com '0' e depois de feita a leitura de 'n' e 'l' fazer as atribuições. antes do último print.
+ >diz que se não for um macaco a pessoa vai saber o que é \r\n >definindo d como qualquer coisa dividida pode um número que ele só vai ler no futuro \r\n \r\n Brainlet.
+ >>27195413 \r\n >Anon, você precisa entender que programação é uma coisa sequencial \r\n Eu aposto que tem alguma linguagem de programação da moda onde você pode fazer uma definição como: \r\n \r\n a = b + c \r\n \r\n E depois modificar 'b' e 'c' e depois a variável a ser modificada magicamente.

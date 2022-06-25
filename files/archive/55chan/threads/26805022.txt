@@ -1,0 +1,2 @@
+ Como é gerado a sugestão do nome do computador na instalação do Windows? É uma sugestão baseada na chave de instalação?
+ Não sei, pardal.

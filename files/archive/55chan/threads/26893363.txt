@@ -1,0 +1,7 @@
+ >android studio sugere atualizar o gradle dentro do meu projeto, vai ser melhor pra você, pode confiar \r\n >clico no 'ok' \r\n >projeto não compila mais \r\n Seriosamente, caras.
+ Mundo cão.
+ Nem sei o que é gradle e não conheço Android Studio. Mas se você tem o código fonte e tem usado Git, qual é o problema?
+ >>26893387 \r\n Eu não tenho código fonte nem uso GIT. No meu tempo era tudo no disquete ou disco ZIP.
+ >>26893390 \r\n >esse incluso querendo se passar por programador \r\n Tente mais duro da próxima vez. Lhe falta ódio.
+ >>26893399 \r\n Hoje eu sou incluso, mas em 2003 não era, hue. A última vez que tentei programar alguma coisa foi em Delphi e em 2009. Preciso descobrir como usar essa merda para não ser mandado embora deste emprego de 5 mil gibeiras.
+ Android Studio é merda.

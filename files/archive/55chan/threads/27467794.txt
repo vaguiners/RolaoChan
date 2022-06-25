@@ -1,0 +1,35 @@
+ Anões que sabem lógica, requesto-lhes ajuda. A expressão a seguir: \r\n i <= ( m_c + 1 ) and not (i + 1 > m_c) \r\n Pode ser reduzida? Como fazer?
+ \r\n ᶦ <⁼ ⁽ ᵐ_ᶜ ⁺ ¹ ⁾ ᵃⁿᵈ ⁿᵒᵗ ⁽ᶦ ⁺ ¹ > ᵐ_ᶜ⁾ \r\n \r\n Agora pague com CP.
+ É um cachorro na pica?
+ >510 hexabyte \r\n Pegando a fornicação fora.
+ Eu não ajudo cachorros da internet. \r\n SOME DAQUI, PULGUENTO.
+ >>27467815 
+ >cachorro \r\n >usando óculos \r\n >usando notebook 
+ >>27467821 \r\n É um notebook.
+ Vai tomar no cu, olha esse cachorro, bicho!
+ >>27467847 \r\n Olhei.
+ Esse parênquima paliçádico agora pertence aos felinos. \r\n Postem felinos! 
+ >você nunca será um cachorro navegando em um web-fórum no mar virtual \r\n Sente mau-au, homem.
+ >>27467866 
+ >>27467821 \r\n >cachorro na pica \r\n Não. Cachorro na pica é esse aqui.
+ >>27467866 
+ Faça a tabela-verdade, OP.
+ Vira-latas são patéticos.
+ >>27467866 
+ >>27467866 \r\n Chequem.
+ i <= m-c - 1 
+ >>27467815 \r\n Cadê o CP, OP sem costumes?
+ >>27467924 \r\n i pode ser igual a m_c. Essa não é uma solução válida.
+ i - 1 <= m_c AND NOT i + 1 > m_c \r\n i - 1 <= m_c AND i + 1 <= m_c \r\n Se é maior que i - 1 e maior que i + 1 , basta dizer que é maior que i + 1 , pois sendo maior que i + 1 já está implícito que é maior que i - 1 . \r\n i + 1 <= m_c \r\n Fim.
+ >>27467956 \r\n >i pode ser igual a m_c \r\n Isso é o que o teu livro diz ou é o que supostamente a solução do quotado implica?
+ >>27467875 \r\n Rapaz, que D'us me perdoe: isso parece ser gostoso.
+ >>27467976 \r\n É o que meu material diz. i pode variar de 1 até m_c.
+ >>27467883 \r\n >>27467872 \r\n >>27467866 \r\n >>27467905 \r\n >>27467898 \r\n Mesmoviado.
+ >>27467958 \r\n Se i = 1 e m_c = 1 essa expressão deveria dar verdadeiro como relatei em >>27467980 .
+ >>27467990 \r\n Caralho, como você é burro, neg­ro.
+ >>27467999 \r\n Só trabalho com argumentos, amigo.
+ >>27467990 \r\n Acho que você está perdendo tempo demais nessa questão. Vai fazer as outras e depois volte nessa com a cabeça fresca. Also, o livro pode estar errado, isso acontece também.
+ >>27468004 \r\n Satisfeito?
+ >>27468011 \r\n PUTA QUE PARIU COMO EU SOU BURRO. \r\n A equação esquivalente é i <= m_c. o 'not i + 1 < m_c' está negando justamente o caso os i = m_c. \r\n Desde já agradeço a todos os cachorros envolvidos.
+ >>27468034 \r\n >caso i = m_c + 1. \r\n Fix'd.
+ >>27467958 \r\n Não tem que fazer o resultado da expressão para todas as relações entre i e m_c? \r\n \r\n Algo como: \r\n \r\n i == m_c => resultado x \r\n i > m_c => resultado y \r\n i < m_c => resultado z

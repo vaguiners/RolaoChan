@@ -1,0 +1,2 @@
+ Preciso de ajuda dos anões. \r\n Possuo uma lista de itens no bloco de notas separada apenas por espaços. Preciso colocar tudo isso no Excel, cada item em uma cécachaceiro e linha diferente. Como faço? Ficar dando Enter em item por item não é uma opção. Ajudem um incluso
+ >copia pro Word \r\n >substituir espaço por novo parágrafo \r\n >copia pro Excel 

@@ -1,0 +1,26 @@
+ Questione qualquer coisa para um anão que já invadiu o Banco Federal da Jamaica.
+ >burlando o melhor marmelo 
+ Você pode me dar joguinhos na steam?
+ Foi difícil?
+ Roubou algo?
+ >não desviando o dinheiro para o governo brasileiro \r\n Nem pra ajudar seu país você presta, OP.
+ Você sabia que já fizeram isso com um banco de um país mais fodido ainda e só perceberam quase uma década depois? Conseguiram roubar 1 bilhão de dólares tirando poucos centavos de cada conta.
+ >>27587914 \r\n Com certeza esse dinheiro desviado seria investido com melhorias no país.
+ >>27587916 \r\n E conseguiram pegar os ladrões?
+ >>27587906 \r\n Não. \r\n >>27587909 \r\n Não sou paixão, faço apenas pelo lulz. \r\n >>27587903 \r\n Os teutões federais iriam comer meu cu. Aapesar de eu ter usado TOR, porém o TOR é pescaria.
+ A primeira letra do seu nome por acaso não é A, é?
+ >essas hashes no campo de password \r\n \r\n Tomou na jabiraca! \r\n Kek.
+ >>27587927 \r\n Porra, pardinho, então pelo menos informasse o banco de que eles estão com problemas na segurança e falasse a solução por alguns trocados.
+ >>27587926 \r\n Não. Os hackers estavam navegando no modo incógnito.
+ Eles aceitam depósito em maconha?
+ >>27587916 \r\n Não sabia, /r/ informações. \r\n >>27587951 \r\n Eu postei aqui no /b/ em 2013, saiu até uma reportagem que 'hackers anônimos invadem banco da jamaica' e eles corrigiram.
+ Conte mais sobre o processo, anão, sempre tive curiosidades sobre essas assuntos mesmo sendo brainlet e não fazendo a mínima ideia de como invadir algo.
+ Delegado da Federal aqui, vem trabalhar pra mim.
+ Usou SQL Injection? sqlmap? \r\n Mais algum ataque? \r\n Como descobriu a vulnerabilidade? \r\n Conseguiu acesso aos dados de clientes ou apenas de funcionários? \r\n Faturou algum dinheiro com a invasão? \r\n O banco não utiliza aqueles sistemas de 2-step authentication com token físico? \r\n Já acessou a conta da A.L.I.C.IA e seguiu as instruições? 
+ >>27588002 \r\n Vai trabalhar, Tavares.
+ >>27588009 \r\n Inicialmente foi um XSS simples com javascript, eu estava aprendendo.Depois eu descobri a injeção sql e utilizei o sqlmap com um tamper do modsecurity. \r\n Hoje estou treinando para ver se consigo tirar uma certificação da offsec. \r\n \r\n >Mais algum ataque? \r\n Mais alguns, como o site da Maria do Rosário e outro da UFRS, que eu dei acesso a pagina de Admin no /b/, e os anões fornicaram tudo postando café pilão. \r\n \r\n Pica relatada. \r\n \r\n >Conseguiu acesso aos dados de clientes ou apenas de funcionários? \r\n Sim. \r\n >Faturou algum dinheiro com a invasão? \r\n Não, anão. \r\n >O banco não utiliza aqueles sistemas de 2-step authentication com token físico? \r\n Meua migo, é a fodendo Jamaica. Você acha que teutões realmente se importam com segurança? \r\n \r\n Até mesmo nos EUA não existe chips de autênticação em cartão de crédito, o Brasileiro é uma raça tão filha da puta que tiveram que criar mecanismos de segurança para conter Fraudadores Brasileiros.
+ OP, como posso começar a trilhar esse promissor caminho? Teria algum material para compartilhar ou aulas específicas para ser tão baseado quanto você no assunto?
+ Eu só gostaria de interromper por um momento. O que você está se referindo como Linux, é na verdade, GNU / Linux, ou como eu comecei a chamá-lo, GNU e Linux. O Linux não é um sistema operacional em si, mas sim outro componente livre de um sistema GNU em pleno funcionamento, tornado útil pelos corelibs do GNU, utilitários de shell e componentes vitais do sistema, compreendendo um SO completo, conforme definido pelo POSIX. \r\n \r\n Muitos usuários de computador executam uma versão modificada do sistema GNU todos os dias, sem perceber. Através de uma peculiar reviravolta de eventos, a versão do GNU que é amplamente usada atualmente é freqüentemente chamada de 'Linux', e muitos de seus usuários não estão cientes de que é basicamente o sistema GNU, desenvolvido pelo Projeto GNU. \r\n \r\n Existe realmente um Linux, e essas pessoas estão usando, mas é apenas uma parte do sistema que eles usam. Linux é o kernel: o programa no sistema que aloca os recursos da máquina para os outros programas que você executa. O kernel é uma parte essencial de um sistema operacional, mas inútil por si mesmo; Ele só pode funcionar no contexto de um sistema operacional completo. O Linux é normalmente usado em combinação com o sistema operacional GNU: todo o sistema é basicamente GNU com Linux, ou GNU / Linux. Todas as chamadas distribuições 'Linux' são na verdade distribuições do GNU / Linux.
+ >>27588095 \r\n >implicando \r\n Sou no máximo um Skiddie com algum kung fu em Javascript e python. \r\n \r\n Also \r\n hackthebox.eu \r\n \r\n Also \r\n Se inscreva no canal do ippsec no youtube.
+ >>27588060 \r\n Você consegue gerar lulz invadindo cancros?
+ >>27588152 \r\n EternalBlue. \r\n \r\n Eu passei o rodo em todas as maquinas do meu ex trabalho. Estou esperando a hora certa para sacizar a vadia do RH.

@@ -1,0 +1,8 @@
+Coloco um monstro em modo de ataque e uma armadilha. \r\n Sua vez. \r\n
+ fail \r\n
+ fail pq quando um monstro é colocado em modo de ataque, a imagem fica para cima, e vc deve pronunciar seu nome. \r\n ex: Eu invoco O DRAGÃO BRANCO DE OLHOS AZUIS em modo de ataque! \r\n
+ >>7935 fail, dragão branco de olhos azuis requer dois tributos, portanto não pode ser jogado logo de inicio. \r\n
+ >>7937 \r\n A não ser que use uma carta magica que deixe vc o invocar ao custo de 2000 pontos de vida \r\n \r\n O que pode ser possivel, pois o Joe está jogando uma carta magica no momento \r\n
+ pseudo vai em todos os campos \r\n
+ >>7945 \r\n
+ >>7949 \r\n ZOMG NICE WORDPLAY \r\n I BE POASTIN WITTY IMAEG LOL ^_^ \r\n

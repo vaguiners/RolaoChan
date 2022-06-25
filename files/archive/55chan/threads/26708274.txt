@@ -1,0 +1,10 @@
+ Qual é o melhor jeito de eu pegar todos os drivers do meu computador e deixar para instalar depois de formatar? Tem algum programa que faz isso?
+ >google \r\n >driver back up \r\n >??? \r\n >profit 
+ >>26708278 \r\n Cara, eu tenho na minha cabeça que aqui eu smepre vou encontrar ótimas dicas de computador, que vão me passar os melhores jeitos de resolver as coisas. Muitas vezes eu pergunto coisas óbvias, mas é porque confio em vocês na hora de fazer coisas para o computador. Só não caio no vagabundo do Obama.
+ https://sdi-tool.org 
+ Deixe somente os drivers de rede num pen drive. Depois de formatar, instale-o e em seguida atualize todos os drivers com o Driver Booster.
+ >>26708380 \r\n Estive dando uma olhada em tudo e pelo peso, essa é a melhor opção. Quero deixar também o driver da Nvidia baixado, porque sem ele e o Afterburner, a ventoinha da minha placa de vídeo não gira e ela esquenta demais. Será que o SDI do anão não é melhor? Eu já usei o Driver Booster, mas é complicado crackear, ele crackeia por um tempinho e depois detecta que eu não tenho a versão paga. O do anão é de graça.
+ Driver Booster, baixa e instala todos os drivers que seu computador precisa. \r\n Para isso claramente você já precisa ter instalado o driver de internet. \r\n \r\n De nada.
+ Amigos, já usei o Driver Booster antes e ele ajuda mesmo. Mas dei uma olhada rápida no SDI e ele é do caralho. Está mostrando aqui um driver do monitor que o Driver Booster não pegou. Esse negócio faz um bom trabalho, vou formatar com ele.
+ >>26708464 \r\n Não vá ser burro de tentar baixar os drivers sem driver da internet já instalado antes. Eu já fiz essa burrada duas vezes e tive que baixar pelo celular.
+ >>26708504 \r\n Tmabém já fiz essa burrada, hoje estou atento. Obrigado pela lembrança.

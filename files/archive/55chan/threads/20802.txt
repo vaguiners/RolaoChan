@@ -1,0 +1,7 @@
+Criei um tópico que foi compreendido como 'POSTAGEM DE CP' e recebi ban D: Resetar o modem não me salvou, o que salvaria? \r\n \r\n PIC NOT SO UNRELATED. \r\n
+ mudar o ip. \r\n
+ algum meio de fazê-lo sem debilitar a conexão? usomodem, virtua e tal... \r\n
+ Caso não tenha ip dinâmico, use proxy. \r\n
+ Pessoas com IP dinâmico torna o ban impossível, não? \r\n
+ >>22206 \r\n \r\n se o ban for pelo mac não, mas o ban eh por ip, entao enjoy your ipconfig/renew \r\n
+ sauce plox \r\n

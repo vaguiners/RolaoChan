@@ -1,0 +1,83 @@
+ Anões linuxfag, eu os invoco. Eu tirei a interface gráfica do meu ubuntu e agora estou sem conseguir logar porque eu não lembro o login eu lembro a senha mas não lembro o login, kek . Existe alguma forma de eu descobrir o meu login? \r\n \r\n O comando que eu usei foi: \r\n >systemctl set-default multi-user.target \r\n Usei esse comando para tirar a interface gráfica, pois eu queria trocar o Gnome pelo LXDE.
+ >inb4: anões rindo do nome do meu computador 
+ Se não tinha nada importante, reinstale. \r\n \r\n Por que você não deixou root?
+ >>27284647 \r\n Tinha coisa importante sim. \r\n \r\n >por que você não deixou root? \r\n Não me recordo, mas eu acho que deixei como root sim.
+ >>27284664 \r\n \r\n Se deixou o usuário principal como root, acesse então. \r\n \r\n $ cat /etc/passwd
+ root
+ >>27284678 \r\n E aonde eu coloco esse comando? \r\n \r\n Eu já havia pensado nisso, mas não tem onde colocar esse comando, assim que eu ligo o computador pede login e senha. Até quando eu inicio pelo o modo recovery no GRUB pelo o login e a senha (que é o da pica relatada).
+ >>27284700 \r\n >pede o login e a senha \r\n Fixado.
+ OP, salva o que tem em um HD externo, pendrive, usando o disco ou pendrive que instalou e reinstala de volta.
+ >>27284706 \r\n \r\n Tente Control+1,2,3,4,.q,r,t,y…. algum vai abrir o terminal em modo não administrador. \r\n \r\n Quando conseguir, reinstalle o grub. \r\n \r\n sda1 é o HD que você colocou o SO. \r\n \r\n sudo mount -t ext4 /dev/sda1 /mnt \r\n sudo grub-install –root-directory=/mnt /dev/sda \r\n \r\n Se não aparecer o usuário novamente, já era.
+ >>27284725 \r\n \r\n >reinstale \r\n \r\n fix.
+ >usando linux 
+ >>27284725 \r\n >tente Control+1,2,3,4,.q,r,t,y…. algum vai abrir o terminal em modo não administrador \r\n Eu já tentei CTRL + ALT + (1,2,3,4,5,6) não deu em nada, ficou tudo na mesma. Mas não tentei o (q,r,t,y) vou testar e volto aqui para dizer o resultado. \r\n \r\n >>27284722 \r\n Eu já pensei nisso, farei isso em último caso, se realmente eu não conseguir descobrir o nome do meu login de jeito nenhum. Pois eu já fiz muitas customizações nesse SO e não queria perder tudo e começar tudo do zero. Also, não tenho HD externo.
+ Não sei. Espero ter ajudado.
+ >>27284757 \r\n >CTRL + ALT + (F1, F2, F3, F4, F5, F6) \r\n Fixado.
+ Instale gentoo.
+ >>27284725 \r\n >tente Control+1,2,3,4,.q,r,t,y…. algum vai abrir o terminal em modo não administrador \r\n Você estava pescando? Aqui não aconteceu nada.
+ Como pode um ser humano ser tão burro?
+ >>27284988 \r\n Então me ajude já que você é tão inteligente, senhor duplos. Só quero descobrir o nome do meu login.
+ >essa escrita de jardim de infância 
+ >>27285004 \r\n Você conseguiu esquecer a parte mais fácil do processo todo? Você cobra quanto para arar 2 alqueires de terra, seu quadrúpede?
+ Tem como, OP, só não me lembro como.
+ Tente lembrar com o máximo de detalhes possíveis o dia em que você instalou o Ubuntu. Isso pode refrescar a sua memória.
+ >>27285015 \r\n Não entendi a implicância, minha letra sempre foi assim, anão acho ela feia. \r\n \r\n >>27285023 \r\n t. macaco que usa Windows. \r\n \r\n >>27285030 \r\n Me ajuda ai cakosherda. \r\n \r\n >>27285036 \r\n Faz muito tempo e isso não vai ajudar em nada, eu sempre logava pela interface gráfica apenas com a senha, então para mim era irrelevante saber o login. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ OP, faça o seguinte: \r\n Baixe o Live-CD do Ubuntu. \r\n Bote em algum pendrive. \r\n Dê boot no Live-CD. \r\n Lá no Live-CD, acesse a /home que está no seu HD. \r\n Na sua /home terá o nome do seu login. \r\n Ex: \r\n \r\n /home/logindoanão
+ >>27285072 \r\n >não acho ela feia \r\n Fixado.
+ >>27285072 \r\n >t. macaco que usa Windows. \r\n Não, eu uso Linux desde sempre, mas, puta merda, como que alguém se esquece da porra do login? Seu login era grande? Era complicado? Tinha números e letras juntos?
+ >>27285081 \r\n Não disse que é feia, apenas parece de uma criança de 6 anos.
+ >>27285030 \r\n Ah, tu pode fazer um 'cd /home/' e depois 'ls', listando todos os arquivos presentes na /home/. \r\n Um deles, na verdade o único, vai ser a pasta tendo o login do seu usuário como filename.
+ >>27285077 
+ >>27285088 \r\n Aposto que era algo mirabolante.
+ >>27285098 \r\n Esse animebicha tem razão, OP.
+ >>27285106 \r\n É animeamigo! \r\n Eu acabei de ajudar o OP.
+ >>27285104 \r\n É só ver os fios sobre mesatopos. Os anões, principalmente os do Linux, colocam cada nome imbecil que faz até a cabeça do meu pau crinjar .
+ >>27285114 \r\n >Eu acabei de ajudar o OP. \r\n Você não deixa de ser viado por causa disso.
+ >>27285126 
+ >>27285088 \r\n >>27285104 \r\n >>27285122 \r\n Login: xXx_Jun1nh0_D@rKS0ul$_xXx \r\n Senha: 1234
+ >>27285114 \r\n Sou nada!
+ >>27285141 \r\n Perdi.
+ >>27285145 \r\n Acho que você acidentalmente alguma coisa, boiolão.
+ >>27285077 de novo. \r\n Pelo que percebo o OP está com dificuldade em saber o local de digitar os comandos, por isso sugeri ir ao Live-CD. \r\n Porém, OP, caso queira digitar os comandos sugeridos, dê o boot segurando shift e aparecerá o GRUB. Vá em Recovery mode e depois selecione a opção root. \r\n \r\n Com isso você poderá usar esse comando: \r\n cut -d: -f1 /etc/passwd \r\n \r\n E é isso.
+ >>27285126 \r\n Exato, é só um viado muito prestativo.
+ >>27285156 \r\n A sua mãe que acidentalmente te pariu.
+ >>27285161 \r\n Um viado bem dado em ajudar o próximo.
+ >>27285162 \r\n Olha o respeito, beliscador de azulejos. Morde-fronha.
+ >>27285170 
+ Sou o OP, desculpa a demora para responder, anões, eu não suguei caralhos, é que eu fui banido (pica relatada). Esse bot de vocativo é uma porra, não tinha nenhum erro no meu texto. 
+ >>27285655 \r\n DEU CERTO. \r\n \r\n Eu utilizei o metodo do >>27285077 mas obrigado a todos os anões que ajudaram. :3 . \r\n \r\n >>27285141 \r\n KEK, praticamente isso. Olha qual era o meu login.
+ >>27285663 \r\n ALSO, RECOMENDEM INTERFACES GRÁFICAS PARA EU INSTALAR AQUI. 
+ >>27285663 \r\n >pc lixo igual a minha vida \r\n >lammer de merda \r\n Perdi e senti por você OP.
+ Caralho, como você conseguiu esquecer seu login?
+ >>27285663 \r\n >>27285733 
+ Instale o Linux Mint. \r\n Ubuntu é uma bosta.
+ >>27285882 \r\n Pretendo instalar o Arch futuramente, por enquanto vou ficar no Ubuntu mesmo.
+ >>27285806 \r\n Esquecer o login é muito mais fácil que esquecer a senha. Eu não usava o login para quase nada, diferente da senha que eu usava praticamente toda hora.
+ >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 \r\n >>27285672 
+ >>27285672 \r\n Cinnamon.
+ >>27286064 \r\n Farei, vou confiar em você, será essa mesmo que eu vou instalar. \r\n \r\n Porém eu sou incluso nas linuxarias ainda. Fale os comandos passo a passo que eu tenho que colocar no terminal para instalar essa joça e remover o gnome de uma vez por todas.
+ >>27286105 \r\n Nem faço ideia, quando eu instalo o sistema já vem com ele, mas deve ter no google. \r\n Cinnamon é amor, Cinnamon é vida. \r\n Vou até tomar um chá de canela agora.
+ >>27285903 \r\n Se você conseguiu ter dor de cabeça tentando fazer sua DE voltar, imagine quando terá que compilar e instalar uma na mão. \r\n \r\n Passe bem longe do Arch.
+ >>27286129 \r\n KEK, ok. Vou procurar no Jewgle e tentar me virar aqui. \r\n \r\n Also, o que tem de mais nesse Cinnamon que você gosta tanto?
+ >>27286105 \r\n sudo apt install cinnamon
+ >>27286219 \r\n Also, não remova o gnome. Você perderá várias bibliotecas que fornicarão de vez com seu sistema. \r\n \r\n Instale o Cinnamon, faça o que você tiver que fazer e depois migre pra uma instalação do Mint.
+ >Eu tirei a interface gráfica do meu ubuntu \r\n Puta que pariu, por que diabos você faria isso? Apenas instale uma distro minimal do zero se você quer se fazer de hackerman. \r\n \r\n >>27285077 \r\n Fico surpreso que tenha demorado tanto para alguém sugerir isso.
+ >>27286210 \r\n Cinnamon é um tema lindo e masculino.
+ >>27286202 \r\n Foi justamente por isso que eu comecei pelo Ubuntu, para aprender e me acostumar com o ambiente Linux. Mas pretendo sim instalar o Arch ainda esse ano, compilar tudo na mão e fazer um SO próprio á meu gosto. \r\n \r\n Migrei do Windows para o Linux esse ano por causa dos anões e não me arrependo .
+ >>27286228 \r\n >faça o que você tiver que fazer e depois migre pra uma instalação do Mint \r\n Depois pretendo ir para o Arch, mas eu ainda vou passar um bom tempo com o Ubuntu para me acostumar um pouco mais com o Linux. Sou usuário do janelas há 15 anos. \r\n \r\n >>27286232 \r\n >fico surpreso que tenha demorado tanto para alguém sugerir isso \r\n Fico surpreso com a minha burrice de não ter pensado nisso antes de criar o parênquima paliçádico
+ >usa linux \r\n >precisa de interface \r\n Puro autistas. Se precisam de interface, deveriam ficar no janelas.
+ >>27286319 \r\n >parênquima paliçádico. \r\n Fixado. \r\n \r\n Also >>27286228 e >>27286232 \r\n >also, não remova o gnome. Você perderá várias bibliotecas que fornicarão de vez com seu sistema. Instale o Cinnamon \r\n >puta que pariu, por que diabos você faria isso \r\n Usar duas interfaces gráficas ao mesmo tempo não iria fazer o meu SO ficar mais pesado não?
+ >>27286319 \r\n Não recomendo você ir direto para o Arch. Não é nenhum bicho de sete cabeças, mas é melhor você aprender a configurar um sistema partindo do zero em uma distribuição um pouco mais fácil antes. Recomendo o Debian netinstall para aprender. O Void também não é difícil de instalar.
+ >>27286347 \r\n E como eu iria usar o browser sem interface gráfica?
+ >>27286356 \r\n Exatamente. Linux é pescaria, placebo de autistas.
+ >>27286355 \r\n >mas é melhor você aprender a configurar um sistema partindo do zero em uma distribuição um pouco mais fácil antes \r\n Mas não é justamente o que eu estou fazendo agora com o Ubuntu?
+ >>27286348 \r\n >usar duas interfaces gráficas ao mesmo tempo não iria fazer o meu SO ficar mais pesado não? \r\n No sentido de deixar seu computador mais lento? Não, porque você só vai usar uma. A outra continuaria lá ocupando espaço no HD, mas ela não seria carregada pelo seu sistema a não ser que você usasse ela. \r\n A minha recomendação é que você instale a interface que desejar e só depois delete a outra, mantendo as bibliotecas GTK que você vai precisar para grande parte dos seus aplicativos. \r\n \r\n >>27285672 \r\n Qual é a configuração do seu sistema? \r\n \r\n >>27286366 \r\n Xô, macaco pescador.
+ >>27286372 \r\n >>27286355 \r\n >configurar do zero \r\n >figurativamente colocar o pen-drive, clicar next, next, next e usar 
+ >linux \r\n >usa monitor \r\n ishygddt
+ >>27286390 \r\n Por isso eu recomendei o Void ou Debian Netinstall. É um meio termo entre algo como o Ubuntu, em que você só clica Next e sai com um sistema pronto, e o Arch, em que até o processo de instalação faz um usuário novato quebrar a cabeça.
+ >>27286265 \r\n Enjoe chorar quando depois de todo esse trabalho ver tudo ir pro saco com um update do pacman fornicar com o ser Xorg.conf e mandar tudo pro ares. \r\n \r\n Se você ainda é iniciante saiba que é normal ficar com fogo no cu pra pular de distro em distro. Por um lado é bom, pois você aprende a se virar com muita coisa que vai te dar dor de cabeça, por outro, chegará uma hora que você vai cansar e apenas querer algo que funcione. Todo usuário de Linux passa por isso. \r\n \r\n Se quer uma dica, siga a seguinte ordem: \r\n \r\n >Iniciante: Mint \r\n É praticamente um Windows. A maioria dos programas que você precisará estará lá de primeira. Você vai começar a entender como funcionam os pacotes, os programas e terá uma noção básica de como atualizar tudo, seja pela interface gráfica, seja pelo terminal com o APT. \r\n \r\n >Intermediário 1: Debian \r\n Como é o avô do Mint, você não se assustará tanto de primeira pois o modo que as coisas operam são similares, porém você vai estranhar o fato de que o mp4 que você abria de primeira não está abrindo mais. Com ele, você aprenderá mais o que são dependências, programas non-free, manipulação de repositórios, adição de PPAs, configuração de drivers de video e coisas assim \r\n \r\n >Intermediário 2: Opensuse Tumbleweed ou Fedora \r\n Com o tempo você entenderá o porque do Debian ter a fama de robustez que tem. Os programas dele são atualizados quase que nunca e você sentirá a necessidade de pegar algo mais, digamos, fresco, além de querer se arriscar mais. Tanto o Opensuse quando o Fedora trabalham com pacotes atualizados e updates quase que diários. Entre esses updates estão versões novas de Kernel que podem fornicar com seu sistema completamente se você não souber o que estiver fazendo. Além disso, esqueça apt. Você vai aprender a lidar com outros gerenciadores de pacotes, como o Zypper e o Dnf. \r\n \r\n >Avançado: Arch \r\n Se você sobreviveu ao intermediário 2 e quiser começar a abrir mão de sua humanidade, é hora de tentar o Arch. Você terá que montar o sistema do zero, compilando tudo, escolhendo cada pacote e rezando pra não dar merda. Depois continuará rezando para que os updates não quebrem a porra toda \r\n \r\n >Turbo autista: Gentoo, Sabayon, Void e cia \r\n Não posso falar nada desses, ainda não cheguei nesse nível. \r\n \r\n >>27286372 \r\n >Mas não é justamente o que eu estou fazendo agora com o Ubuntu? \r\n Veja pela seguinte analogia. Você quer pilotar uma moto de 500cc da Moto GP, mas ainda está andando de Caloi Ceci.
+ >>27286384 \r\n >qual é a configuração do seu sistema? \r\n Intel(R) Celeron(R) CPU 847 @ 1.10GHz (2 CPUs), ~1.1GHz \r\n 6144MB RAM \r\n HD de 500GB \r\n Placa de vídeo onboard Intel(R) HD Graphics Family com 1696MB de Memória Gráfica Disponível sendo apenas 64MB dedicada.
+ >>27286466 \r\n >essa config \r\n Esqueça qualquer coisa que venha com KDE ou Gnome. Tente Cinnamon ou XFCE.
+ >>27286466 \r\n O que esse anão disse: >>27286484 \r\n Também gosto bastante do LXQt, que é ainda mais leve que esses dois. \r\n No futuro, você pode tentar usar somente um Window Manager em vez de um DE completo, mas não recomendo enquanto você for novato.
+ >>27286451 \r\n Obrigado pelas dicas, anon. Mas vou pular as duas primeiras partes e vou para o 'Intermediário 2' já que estou com o Ubuntu que é derivado do Debian. Se não fosse você iria direto para o Arch. Daqui há um ou dois meses vou fazer o que esse anão >>27286355 recomendou então. \r\n \r\n >>27286513 \r\n Farei isso, Obrigado. \r\n \r\n >>27286239 \r\n desculpe anão, vou de LXQt mesmo. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>27286384 \r\n >instale a interface que desejar e só depois delete a outra, mantendo as bibliotecas GTK \r\n Como eu faço isso? ;_; .

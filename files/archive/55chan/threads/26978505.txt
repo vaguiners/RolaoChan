@@ -1,0 +1,5 @@
+ Anões, ajudem-me. O HD do meu PC danificou. Agora estou tentando colocar outro de 1Tb. Acontece que eu não estou conseguindo entrar na bios, pois pede senha. A placa é apmcp61-d3 da PCWARE. \r\n \r\n Como resolvo isso, anões? Posso colocar esse HD em outro pc e, por lá, fazer a instalação do sistema operacional e depois colocar de volta nesse?
+ Bump.
+ Nenhum anão entendido do assunto? Isso aqui já foi melhor.
+ >>26978567 \r\n >aqui já foi melhor \r\n >não sabe a senha da própria bios 
+ Quem está pedindo senha é a BIOS, não o HD. \r\n \r\n https://www.computerhope.com/issues/ch000235.htm \r\n \r\n Aprenda a usar o google, macaco.

@@ -1,0 +1,52 @@
+ Adicionar um cooler em cima do drive de DVD puxando ar vai ajudar a esfriar os VRMs, ou é mais provável que ele conflite com o ar que vem do cooler amarrado?
+ Bump
+ >dvd \r\n Só pode ser brincadeira.
+ >>27457885 \r\n >ain, tem ki sê blurhuei, mesmo não servindo pra nada 
+ >>27457901 \r\n >bluhrey \r\n Ninguém usa mais, só pendrive agora.
+ >>27457931 \r\n Eu uso, tenho uma gaveta inteira de filmes e programas que passei pra dvd.
+ Não seria melhor arrumar um gabinete de gente branca, do que essa gambiarra do caralho?
+ Acenda uma churrasqueira, coloque algo que faça fumaça (como açúcar) e direcione a fumaça para o seu PC.
+ Morderei. Esse cooler amarrado não serve pra porra nenhuma e do jeito que está montado, só está jogando mais ar quente pra cima da placa mãe e CPU. \r\n \r\n Se quiser fazer algo decente, instale esse fan na grade que está bem em frente aos HDs, puxando o ar pra dentro. O fan do fundo do gabinete fará o serviço de puxar o ar pra fora. \r\n \r\n De resto, se estiver esquentando muito, só tirar o cooler, limpar sonserininho e instalar novamente passando nova pasta térmica. Aproveite e desmonte também os outros componentes, limpe tudo com um pgostoso pra tirar o excesso de poeira e, se precisar, passe um pano que não solte fiapos com um pouco de álcool para limpar bem o interior do gabinete. Álcool isopropílico é veadagem, qualquer álcool serve, desde que você deixe secar bem.
+ >>27457973 \r\n O problema não é o gabinete e sim a falta de dissipadores nos VRMs.
+ Eu tirei o drive de dvd do meu.
+ >>27457985 \r\n >pgostoso \r\n \r\n Wut?
+ JÁ FIZ UNS 15 ASSIM, AMIGO, NENHUM DEU PROBLEMA, PODE CONFIAR!
+ >>27457985 \r\n O cooler amarrado faz uma diferença de 20C em idle. Eu testei. Só que não é suficiente e está chegando nos 96C em joguinhos.
+ >>27457994 
+ >>27457994 \r\n Realmente colocaram um marmelo pra gostoso?
+ Você de novo? \r\n Agora entendi o motivo de quase pegar fogo nessa bosta e ainda teimar com overclock. KEK.
+ Que negrice é essa, lesado?
+ >>27458002 \r\n Caralho, que bosta de marmelo.
+ >>27458008 \r\n Bushido konato gostoso.
+ >>27458002 \r\n Mas píncel tem acento, ninguém mandou ser burro.
+ >>27458004 \r\n Sim, gostoso. \r\n \r\n >>27458006 \r\n >Hurr \r\n Um case bonitinho resfria melhor?
+ >>27458001 \r\n 96C KEK! Seu problema não é cooler. Se for OC, você merece tudo isso por fazer OC nesse setup de paixão.
+ >>27458013 \r\n >pgostoso \r\n >acento \r\n \r\n E eu que sou burro.
+ >>27457985 \r\n >gostoso \r\n >pgostoso \r\n \r\n Com certeza é o pior marmelo de toda a história do 55!
+ >>27458017 \r\n Um case de 150 reais já tem fluxo de ar melhor que essa bosta aí, ninguém manda ser macaco e querer economizar em algo importante e ainda querer fazer merda.
+ >>27458020 \r\n Vamos ver quem vai rir depois que eu adicionar outro cooler e o vrm ficar fresquinho tendo economizado 100+ reais na placa mãe.
+ >>27458001 \r\n A ideia do anão é 10/10. Esse cooler não está soprando para a frente? Se estiver soprando para trás, você pode colocar 3 fans na parte da frente do gabinete e aumentar consideravelmente o influxo de ar. Se estiver soprando para frente, então ele pode estar jogando o ar do CPU direto para os VRM.
+ >>27457994 \r\n >>27458002 \r\n >>27458025 \r\n >>27457985 \r\n \r\n >pgostoso \r\n \r\n Puta que o pariu.
+ >>27458021 \r\n É, você é burro.
+ >>27458037 \r\n Não sei o que você está chamando de frente, ele está jogando pro fundo do gabinete, junto com o cooler do CPU. A fonte e o coolerzinho debaixo dela fazem exaustão. Estou pensando em comprar outro de 120mm, furar o gabinete e trocar o cooler pequeno por um maior.
+ >>27458025 \r\n >pgostoso \r\n \r\n PERDI DURO! 
+ >>27457885 \r\n O computador do OP não deve ser tão novo, anão. \r\n \r\n Me faz lembrar da época em que eu fazia alguns bicos formatando computadores dos vizinhos, eu tinha um porta CD com várias versões do Windows, sempre preparado para encarar alguma carroça ou outra.
+ >>27458061 \r\n Pior que é, ele tem um ryzen 2400g, já tem 2 semanas que ele está enchendo o saco com problemas de temperatura nisso.
+ >>27458061 \r\n Tá escrito AM4 na placa mãe, incluso do caralho.
+ Quero indicações onde comprar um pgostoso para passar na minha waifu de 30cm.
+ >>27458072 \r\n Eu não abri a imagem, mas confesso que o OP foi esperto em colocar tudo dentro de um gabinete antigo. \r\n \r\n Ele fez o famoso PC Espanta Teutões .
+ >>27458070 \r\n E porque o filho da puta não está usando o cooler que veio com o processador, que é bem melhor que essa tralha da Deep Cool que ele está usando?
+ >>27458070 \r\n Acho que você entende agora porque apenas placas mãe mais potentes tem dissipador nos VRM. Mesmo que você adaptasse um heastink caralhudo neles, o resto da placa iria fritar junto. VRMs aguentam 90ºC sem fazer força, mas quando um overclock mais pesado acontece, como esse que você deve estar fazendo, então a placa-mãe é a primeira a pifar. \r\n \r\n Em resumo: compre uma placa-mãe melhor. Uma X470, com dissipadores nos VRMs e na porra toda, com proteção e tudo o mais. Vai te custar 1000,00 no mínimo. E mesmo assim ela vai ser a primeira a queimar por causa de OC.
+ >>27458085 \r\n Porque ele é retardado e achou que resolveria o problema, sendo que o problema era nos VRMs sem heatsink. \r\n Sim, ele pagou caro em uma B450 para usar com overclock e a mobo não tem o mínimo para isso.
+ >>27457994 \r\n Gostoso.
+ >>27458081 \r\n Veja esse gordo fazendo milagre com um gabinete micro ATX ruim pra caralho.
+ >>27458085 \r\n >por que \r\n Fixando antes do ban.
+ >>27458108 \r\n Esse bushido é 10/10. Puta que pariu.
+ >>27458085 \r\n >>27458097 \r\n Caralho, aqui só tem imbecil.
+ >>27458085 \r\n O cooler original desse processador nem heat pipe tem.
+ Pegue a fan do fundo e coloque em cima do vrm, ela deve caber melhor. \r\n \r\n Confira caso tem voltagem desregulada auto-setada na bios.
+ >>27458002 \r\n É pin­­cel, animal.
+ >>27458185 \r\n Antes, ele estava preso bem em cima do vrm. Não fazia diferença nenhuma. Está esquentando por causa de voltagem em overclock, mesmo.
+ >>27458206 \r\n Disserte sobre seu setup(mobo/cpu e voltagens).
+ Você é aquele macaco que estava tentando fazer OC no Ryzen semanas passadas e reclamava de temperatura? \r\n KEK.
+ >>27458108 \r\n A voz dele é 10/10. Prefiro mil vezes ele do que o Eminem dos compiuter.

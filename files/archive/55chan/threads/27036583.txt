@@ -1,0 +1,9 @@
+ Como saber quais sites são acessados pelas pessoas através do WI-FI? Tenho buscado nos sites de pesquisa mas tá impossível de encontrar uma informação relevante. Pago com aquilo que pedirem. Imagem aleatória para chamar a atenção.
+ Estou bêbado de sono, mas acredito que se você conseguir associar o IP atribuido para o dispositivo, e o fluxo de dados contidos nesse fluxo, mata a charada. \r\n \r\n Ou a não ser que consiga fazer um MITM e capturar os pacotes. Ou seja, desista. Vá tomar teu remédio.
+ Existem firewalls e parental control softwares que fazem isso.
+ >>27036603 \r\n Acho que não se aplica ao caso dele. Aparentemente ele quer ficar bisbilhotando o que as pessoas acessam, mas não tem acesso ao dispositivo das pessoas.
+ Esqueça! Você teria que conseguir alguma brecha no SO da pessoa. É realmente bem complicado isso. \r\n Fiz a brincadeira, me achei bonitinho nesse bonequinho. :3
+ Quebra de anonimato: Figurativamente eu.
+ Vai no paint mesmo e fornique-se.
+
+ >>27036613 \r\n >>27036646 \r\n SAMEFAG! 

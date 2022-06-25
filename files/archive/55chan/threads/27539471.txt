@@ -1,0 +1,8 @@
+ Caso eu deixe minha rede wifi sem senha pro quejim minas poder usar, quais dados eu posso interceptar? Estou precisando de senhas do spotigado e gadoflix.
+ Senha dos spotgado e gadoglix.
+ Tanto o app quanto os sites do Spotgado e gadoflix usam HTTPS por padrão. Sendo assim, as senhas desse serviços vão encriptadas para o servidor.
+ >>27539671 \r\n >o que é cookie stealing \r\n Incluso que fala merda sem saber deveria ser banido.
+ Já vem logado.
+ >>27539676 \r\n >chama o anão de incluso \r\n >não é capaz de baixar filmes ou um apk do spotify \r\n O único incluso aqui é você, burrão.
+ >>27539686 \r\n OP deve ser aqueles 'script kiddie' envenenados.
+ >>27539676 \r\n >senha \r\n >cookie stealing \r\n Duas coisas totalmente distintas, crioulo. E o OP deixou bem claro que ele precisa do primeiro. Uma vez que o cookie expira ou o usuário original decide invalidar a sessão, o que vai fazer com o cookie roubado? Socá-lo no cu?

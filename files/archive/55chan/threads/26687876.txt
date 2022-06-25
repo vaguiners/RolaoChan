@@ -1,0 +1,9 @@
+ Qual software estatísticos usam, vossas senhorias? \r\n \r\n No momento estou instalando o JASP, qual a opinião dos anões a respeito?
+ Você não precisa de nada além de Python.
+ R
+ >>26687970 \r\n Achei o R mais complexo. \r\n \r\n Esse JASP é bem intuitivo, gostei.
+ >>26687953 \r\n >implicando que não possa ser qualquer linguagem que tenha uma biblioteca matemática decente. 
+ >>26688389 \r\n \r\n R é bem simples, você não precisa programar, usa as funções que já vem nas bibliotecas dependendo daquilo com que você vai trabalhar. O site do R também tem um manual ensinando você a sintaxe das funções e como plotar gráficos.
+ >>26688399 \r\n \r\n Tudo menos Python.
+ >>26688420 \r\n \r\n Correção: site do RStudio.
+ >>26688437 \r\n Já usou o JASP? Achei bem mais intuitivo do que usar linhas de comando. \r\n \r\n Queria saber qual deles lida melhor com grandes volumes de dados, grandes mesmo.

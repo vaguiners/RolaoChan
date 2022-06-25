@@ -1,0 +1,6 @@
+ Recomende animes fofinhos a um anão fazendo freela neste sábado.
+ Eu entendo do básico do Excel, fórmulas, gráficos e organizar a tabelinha. \r\n Excel VBA é difícil? \r\n Por onde devo começar?
+ Você está sendo pago para printar Hello Wolrd ? Está ganhando quanto? Como posso encontrar trabalhos assim?
+ Estou aprendendo C#, e como preciso criar um site para um projeto pessoal meu, pensei em utilizar o ASP.Net. \r\n O que tem a me dizer sobre ele? Recomenda?
+ >>27562158 \r\n .net core é melhor que asp net tradicional.
+ >>27562158 \r\n >O que tem a me dizer sobre ele? \r\n Não presta, aprenda assembly. \r\n >Recomenda? \r\n Recomendo assembly.

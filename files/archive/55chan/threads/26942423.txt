@@ -1,0 +1,33 @@
+ >ublock sumiu do giroflex \r\n >vou reinstalar e: A transferência falhou. Verifique sua conexão. \r\n >mpq a internet cheia de propaganda a partir de agora \r\n >SeuTubo cheio de propaganda na minha playlist de musica \r\n \r\n Vou começar a bater em depósito de porra.
+ Puta que pariu! Sou o único? \r\n Não aguento mais a propaganda da SafraPlay! \r\n Opera tem adblock?
+ Propaganda é a alma do negócio.
+ Instale o Brave.
+ Os judeus comeram a raposa.
+ Todas as minhas extensões foram desativadas sem mais nem menos. Até mesmo a que usava o script pra assistir o synchtube com os anões.
+ >>26942565 \r\n Mas essa aí é maliciosa mesmo.
+ Pensei que era só aqui. Puta que pariu, eu não aguento mais.
+ QUERO MINHAS EXTENSÕES DE VOLTA! 
+ >>26942584 \r\n Hackeado.
+ Kasperskyfag aqui. \r\n Apenas tenho dó de vocês.
+ >>26942584 \r\n Aconteceu exatamente o mesmo comigo. O que está havendo? Deixaram o estagiário entrar no servidor da Mozilla? \r\n >esse filename \r\n Kek \r\n \r\n >>26942579 \r\n >eu não aguento mais. \r\n Já aconteceu antes contigo?
+ Eu achando que era só comigo. Malditos judeus e suas canalhices. 
+ Aqui está tudo ok. Você geleia, OP?
+
+ >>26942615 \r\n Não aguento mais procurar solução pra essa merda, anãozinho.
+ What's happening? \r\n \r\n It seems to be an issue with some time sensitivity. The people that were hit earlier had their clocks set in the future, but the rest of us that had their clock set correctly were hit just now, in masse. \r\n How it happened? \r\n \r\n The issue seems to be with the signing method that Mozilla uses for addons. Some addons seems to have their expiration date set later, those addons would not be disabled. Most aren't. \r\n \r\n Confirmed. The new title for the bug is: \r\n \r\n All extensions disabled due to expiration of intermediate signing cert \r\n \r\n What can I do to fix it? \r\n \r\n Watch this bug for more details \r\n \r\n https://bugzilla.mozilla.org/show_bug.cgi?id=1548973 \r\n What will not fix it \r\n \r\n Downgrading. \r\n \r\n Reinstalling. \r\n \r\n What's Mozilla doing to fix it? \r\n \r\n The product manager of Firefox reported that they are looking into this with urgency. Basically, it seems that this issue is very serious and they will dedicate as many resources as necessary to solve this quickly and effectively. From bug report is also reported that CloudOps is also on the issue.
+ >>26942622 \r\n Não por muito tempo.
+ Porra. \r\n Pensei que era só aqui, até instalei o Chromium.
+ >>26942628 \r\n Obrigado pelo esclarecimento, Sr. Godzilla.
+ >>26942629 \r\n uBlock Originslets são puro lulz.
+ >>26942628 \r\n Sem legenda, mané? Ihhh,
+ >>26942650 \r\n Te fornique, fodido.
+ >>26942628 \r\n >and they will dedicate as many resources as necessary to solve this quickly and effectively. \r\n Stew-of-beans-n-pork!
+ >>26942679 \r\n Grosso. \r\n ;_; 
+ Aqui ainda está funcionando numa boa, brother.
+ >>26942697 \r\n Vou resumir para você. É um bug conhecido relacionado com as datas dos computadores e as datas de expiração com os certificados das extensões. Macacos de código da Mozilla estão focados para resolver este problema ASAP.
+ Se você usa Debian ou Ubuntu, OP, basta instalar este pacote: xul-ext-ublock-origin. \r\n \r\n Casa ainda tenha dúvidas, consulte a documentação: https://github.com/gorhill/uBlock#firefox--firefox-for-android 
+ >>26942731 \r\n Pode confiar, sou pardo .
+ >>26942724 \r\n Graças a Deus!
+ >>26942735 \r\n Deve ser.
+ >about:debugging \r\n >enable add-on debugging \r\n >load temporary addon \r\n >AppData\Roaming\Mozilla\Firefox\Profiles\??????.default\extensions \r\n >execute um por um \r\n \r\n Me agradeçam com lolis.
+ >>26942609 \r\n \r\n Ele é mais leve que o Avira? Sempre usei o avira, mas tá muito lento no meu notebook da xuxa.

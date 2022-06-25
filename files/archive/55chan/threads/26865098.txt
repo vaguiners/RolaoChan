@@ -1,0 +1,64 @@
+ Anões, eu já não aguento mais. O /comp/ é muito parado e quase ninguém tentou ajudar. Apelei pra vocês, bê. \r\n >sou viciado em jogos online \r\n >jogo CS:GO \r\n >computador estava OK, mas com um desempenho duvidoso no jogo \r\n >decido formatar \r\n >formatação limpa com key original \r\n >Windows 10 Pro \r\n >baixo os Drivers pelo site da MoBo \r\n >desempenho gráfico no computador e nos jogos pior do que antes \r\n >image tearing todoonde \r\n >micro stutterings quando descarrego o pente de uma arma \r\n >barulhos altos geram stutterings de meio segundo \r\n >já tentei de tudo \r\n >nada resolve \r\n \r\n Me ajudem, anões. Também trabalho com design gráfico, além dos jogos. \r\n Specs da CPU: \r\n >GPU 1050ti \r\n >i5 7600K Kaby Lake \r\n >RAM de 8 \r\n >MoBo Gigabyte H110M-H 
+ Dá uma limpada nessa bosta, limpa os contatos de memória ram e PCI.
+ >>26865103 \r\n Limpei antes de formatar. Tá zerado. Não pode ser isso infelizmente.
+ O que é stuttering?
+ https://www.gentoo.org/ 
+ >>26865118 \r\n \r\n Engasgo.
+ Sua placa mãe deve estar morrendo.
+ >>26865124 \r\n M-m-mas como ela pode estar morrendo se só começou a apresentar problemas depois da formatação? ;_;
+ >>26865144 \r\n Você não formatou porque já tava bosta? \r\n Formata de novo, se persistir instale o windows 7 do piratebaía, e se não teste as peças.
+ >>26865121 \r\n Estou pensando seriosamente em baixar o Ubuntu e testar. Pode ser o Gentoo também. O que você me recomenda, anão? Entendo pouco de Linux.
+ >>26865164 \r\n Estava ruim, mas dava para usar. Agora está insuportável. Simplesmente não dá para jogar e/ou trabalhar. O áudio está uma bosta e a imagem está duvidosa.
+ Que rank, anão? Passa sua Steam.
+ >>26865193 \r\n Sou supremo, mas não vou te passar nada. E o anonimato, como faz?
+ >esse verde texto todo \r\n >nao fala quanto ta o fps do jogo \r\n >nao fala se ta usando tudo no minimo e um exec bom \r\n Eu quero mais é que você se fornique, incluso. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>26865196 \r\n Estou no águia, me ajuda aí, companheiro.
+ >>26865210 \r\n Incluso é sua mãe. Pego 300 de fps, sem drops, mas o jogo não está 'smooth'. Já uso uma boa CFG. O mat_queue_mode está em 2. \r\n \r\n Segue setlaunch options: \r\n -nojoy -high -novid -tickrate 128 -lv -nod3d9ex +mat_queue_mode 2 \r\n \r\n Será que você não pode me ajudar e ser um bom menino?
+ >>26865098 \r\n >i5 7600K \r\n >1050Ti \r\n Meua migo. Dá pra sentir o gargalo daqui.
+ >>26865211 \r\n N-nã-não posso.
+ >>26865225 \r\n Ué, por que? Me explica. Quando comprei essa máquina, ela voava. Não tem nem 3 anos de uso direito.
+ >>26865098 \r\n >Windows 10 Pro \r\n Tá aí o teu problema, incluso do caralho.
+ >>26865230 \r\n Não tô dizendo que a máquina não é boa, mas que o CPU é um puta Overkill pra essa GPU é. Fora os 8GB de RAM. \r\n Devia ter economizado mais no CPU e pego uma GPU descente e mais RAM. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>26865144 \r\n >-nod3d9ex \r\n Parece que mudaram isso em relação ao jogo tornando mecanismo padrão, e o comando para desabilitar mudou.
+ >>26865238 \r\n >decente. \r\n Fix'd, negrei.
+ >>26865240 \r\n Agora o correto é usar -d3d9ex, sem o 'no'. \r\n OP aqui. \r\n \r\n >>26865238 \r\n Me recomende upgrades. Vai que a GPU finalmente morreu.
+ >>26865231 \r\n Estou pensando em migrar para Linux, mas não quero ter dor de cabeça com a instalação de executáveis para Adobe Creative. \r\n >Photoshop \r\n >Illustrator \r\n >Premiere 
+ >>26865210 \r\n >usa greentext como desculpa pra não acentuar 
+ >>26865217 \r\n Pra que serve o -high, -nojoy, -lv e o +mat_queue_mode 2? E qual a diferença do -nod3d9ex pro -d3d9ex? Não entendo porra nenhuma. Só uso o -novid, -d3d9ex e -freq 75.
+ >>26865249 \r\n O correto é não usar nada. Depois da atualização de ontem, a Valve deixou o d3d9ex habilitado por padrão.
+ >>26865238 \r\n >devia ter economizado mais no CPU e pego uma GPU descente e mais RAM \r\n \r\n A cara dos inclusos. Ele quer um PC para jogar CS GO, que é um puta cpu bound, e não precisa de mais de 4gb para jogar decentemente essa bosta e nem uma placa de vídeo melhor. \r\n \r\n OP, seu viadinho criação, abra o MSI afterburner e que mostre o gráfico dos frames, uso cpu, uso de gpu. Só com isso você consegue saber que merda está acontecendo. Sua mobo é uma bosta para esse processador e o VRM pode não está aguentando, mas para ver isso precisa verificar se o clock da cpu diminui enquanto joga.
+ >>26865264 \r\n >-high coloca o jogo em alta prioridade para o sistema \r\n >-nojoy desabilita joysticks e seus componentes \r\n >-lv ativa o modo low violence, deixando o jogo com menos efeitos desnecessários \r\n >queue_mode é um comando que caracteriza a renderização do jogo através do número de núcleos da sua cpu 
+ >>26865292 \r\n Estou baixando o MSI. Por favor, anaõ. Fique por aí. Logo envio as ibagens.
+ >>26865264 \r\n >qual a diferença do -nod3d9ex pro -d3d9ex? \r\n O -d3d9ex é um comando que muda a optimização da interface e deixam o alt + tab mais rapido. Já o -nod3d9ex é para desativar o -d3d9ex. Alguns usam o -nod3d9ex por relatarem perda de desempenho quando deixam o -d3d9ex ativado. \r\n Ele ajuda mais em resoluções mais baixas, pois quanto menor a resolução maior o tempo pra dar alt + tab. Em resoluções mais altas como 1080p, o alt + tab é rapido sem precisar do -d3d9ex
+ >>26865329 \r\n >e deixa \r\n Corrigido.
+ >>26865256 \r\n Caralho, paixão bota um 7 nessa merda, imbecil.
+ >>26865292 \r\n Qual o próximo passo? Não entendi absolutamente nada. Aguardando anão sancto.
+ >baixo os Drivers pelo site da MoBo \r\n \r\n Puta que pariu que caralho, por qual porra de motivo vocês crioulos imundos cheirando a conhaque, baixam essas merdas em sites de merda? Qual deficiência vocês tem além da cor da escuridão, que não permite entrar na merda do site do fabricante da peça, baixar esse cu e instalar? Vai tomar no meio do seu rabo escuro OP, tokosher que um chinês de rola de 9cm circuncidada, esteja usando seu PC para minerar bitcoins nesse momento, enquanto bate uma punheta e come sanduíche de barata, seu filho de uma vagabunda de estrada.
+ >>26865368 \r\n Foi exatamente isso que eu fiz, retardado.
+ >>26865296 \r\n >>26865329 \r\n Obrigado, anões.
+ >>26865372 \r\n Eu sei, só queria xingar um pouco, olha ai se não baixou as versões de 32bit que as vezes caga tudo mesmo.
+ >>26865368 \r\n É mais fácil baixar pelo gerenciador de dispositivos do próprio Windows.
+ >>26865380 \r\n É mais fácil pelo Baixaqui.
+ >>26865377 \r\n Pior que foi 62bits. Estou achando que trata-se de hardware. \r\n O anão do MSI sumiu, era minha última esperança.
+ Instale o Gen Tool.
+ >>26865384 \r\n Não, não é.
+ >>26865396 \r\n >64 bits \r\n \r\n FIXADO.
+ >>26865366 \r\n Está com o Rivaturner instalado? É um programa que instala junto com o MSI, da uma verificada. \r\n >Qual o próximo passo? \r\n Vá nas configurações do MSI e clica em 'monitoramento'. Depois, selecione CPU, GPU, RAM, temperatura etc, e clique em 'Exibir informação na tela'. Agora só abrir o jogo, ver como está a performance e relatar aqui no parênquima paliçádico.
+ >>26865403 \r\n >dá \r\n Fix'd.
+ >>26865366 \r\n Vai em settings, ativa o on screen display e marca o que quer que apareça na tela. Depois abre o jogo e espera dar a primeira travada. Tire print da tela em seguida para ver no gráfico o que aconteceu. \r\n \r\n Porra, anão, seja rápido. \r\n Salvo engano o CSGO tem um comando que mostra todas essas informações, mas não faço ideia de qual seja o comando. 
+ Eu rodo CS:GO melhor no Linux do que no Windows. \r\n >>26865166 \r\n Ubuntu é uma armadilha. \r\n Pegue Linux Mint.
+ >>26865410 \r\n Segue anexo, anão. \r\n \r\n Não apareceram na tela as informações como eu gostaria, portanto printei as alterações no momento em que jogava.
+ >>26865468 \r\n >Ubuntu é uma armadilha. Pegue Linux mint. 
+ >>26865514 \r\n OP aqui. \r\n Esses pequenos picos na taxa de quadros são justamente de quando sento o spray. Aquelas duas quedas maiores foram quando andei em ambientes abertos, e a maior de todas foi um stuttering aleatório que não detectei padrão.
+ >>26865514 \r\n O jogo está rodando a quantos frames sem as travas? Pelo gráfico está batendo mais que 200 e sua CPU está estrangulada. \r\n \r\n No gráfico do jogo, coloque para mostrar o clock de CPU e verifique se ele cai ou fica constante.
+ >>26865577 \r\n Negrei, tem na pica o gráfico do clock da CPU. Aparentemente é o jogo mesmo, nem precisa ver mais nada. Uma medida alternativa é setar um frame limite múltiplo da taxa de atualização do seu monitor.
+ >>26865539 \r\n Unity é o maior inimigo do Linux. Muitas pessoas baixam o Ubuntu e ao darem de cara com aquela merda toda fodida e lenta pensam que aquilo representa o Linux.
+ >>26865577 \r\n Em um DeathMatch lotado, pego de 270 caindo para 150~200, repentinamente e às vezes. Em uma partida competitiva, pego 400 de fps, também caindo para 150~200 repentinamente. \r\n \r\n Farei isso, anão. Estou apanhando para o programa. Ele só está mostrando os dados de (GPU¹ e Temp da GPU) quando abro o jogo. E sim, já selecionei todas as opções. Vou reiniciar e testar novamente. \r\n \r\n Obrigado de novo, você é koshervilhoso, se me ajudar a consertar deposito BC's.
+ >>26865588 \r\n O que seria isso? fps_max 60, por exemplo? Se for, quando eu coloco fps_max no 60, o jogo fica todo torcido. E se eu ligo a Vsync para arrumar, tenho imput lag no mouse. Kek.
+ >>26865618 \r\n Sim, seria por comando no console do jogo. Nas configurações deixe o vsync desligado e FPS ilimitado. \r\n \r\n Se o monitor é de 60Hz tente setar 180 ou 240, seria uma taxa menor que a taxa máxima que ele pega atualmente e sempre múltipla da taxa de atualização do monitor. Isso é para sua CPU não precisar sempre ficar no talo.
+ Procure na barra pesquisa do W10 por Gerenciador de Dispositivos(ou no painel de controle), abra e clique nas gavetas de adaptadores de vídeo e na processadores, tire uma print e poste aqui.
+ >>26865703 \r\n Tive que sair, anão, me desculpe.
+ >>26866514 \r\n Que merda, aparentemente esta tudo normal. Se fosse algum problema no chipset ou solda bga da GPU ficaria um triangulo amarelo com um ponto de exclamação ao lado esquerdo do nome da placa. Placa mãe provavelmente não é tem muita gente com esse mesmo kit na internet. Verifique se é a bios da sua 1050ti infelizmente não posso ajudar (pra quem falou merda do seu kit, tenho um i54460 com uma 750ti e rodo 100+ fps tranquilo)
+ >>26865296 \r\n >essas gambiarras de linha de comando pra rodar um jogo com mais de 5 anos \r\n \r\n Voltei para /1997/?
+ >>26867146 \r\n CS é serious business, anão, ninguém joga esse jogo para se divertir. Eu cheguei em Águia II e tinha um AVC em cada partida.
+ >>26867169 \r\n Pior que você tem razão. Por isso que eu nunca fui fã de competitivo.

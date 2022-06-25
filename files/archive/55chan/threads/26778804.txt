@@ -1,0 +1,2 @@
+ |a+b| + |a-b| = c \r\n \r\n Plotei o gráfico e sei que a solução é quando a=c/2 ou b=c/2 (com a e b entre -c e c), mas como demonstro isso analiticamente?
+ >>26778924 \r\n Bump.

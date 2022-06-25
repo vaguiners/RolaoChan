@@ -1,0 +1,21 @@
+ Estou na duvida cruel entre voltar para o windows 7 ou migrar pela primeira vez para Linux. \r\n \r\n O que os anões recomendam levando em conta que uso os seguintes programas: Word, Excel, Powerpoint, ArchMap, Qgiss, MatLab, R Studio e Google Earth? \r\n \r\n WINDOWS 10 É UMA PORCARIA E ESTOU USANDO NÃO TEM UM MÊS ESSA DESGRAÇA E JÁ TENHO ACUMULO DE TRABALHO PORQUE PASSO MAIS TEMPO TENTANDO RODAR AS MERDAS DE PROGRAMAS NELE QUE DE FATO TRABALHANDO. 
+ >PORQUE PASSO MAIS TEMPO TENTANDO RODAR AS MERDAS DE PROGRAMAS NELE QUE DE FATO TRABALHANDO. \r\n Pode me dar um exemplo? Eu estou usando Windows 10 e não tenho problema nenhum com ele.
+ >>26833271 \r\n Arcgis e R Studio foi simplesmente insuportável de se instalar. Era tanto erro associado a falta de arquivos na biblioteca dessa geringonça. \r\n Tive que recorrer ao Windows Update que junto com a 'correção' veio com mil embutidos do judeu deixando o computador que contem um SSD lento.
+ Windows 10 aqui suavemente faz um tempo. Todo incluso é birrento.
+ >>26833398 \r\n Pra usar o paint não tem problema mesmo.
+ Instala o Gentoo.
+ >>26833398 \r\n Secundo.
+ Ubuntu com maquina virtual para o Microsoft office.
+ Não caia na pescaria do Linux, coloque o Janelas 7 Ultimate e viva na excelência.
+ >>26833323 \r\n Sua cópia é original? O sistema operacional precisa estar sempre atualizado para funcionar corretamente. Não há motivo algum para retardar atualizações. Esse negócio de que as atualizações esgragam o computador é coisa de incluso so passado. \r\n Windows 10 é o melhor SO que já existiu.
+ >>26833650 \r\n >negócio de que as atualizações esgragam o computador é coisa de incluso \r\n >computador vem com x programa \r\n >instal 10x e espere o mesmo desempenho \r\n Caralho, só não é mais burro por está postando no melhor horário que já não é tão melhor horário assim devido a eu estar dando resposta nesse post de merda.
+ >>26833670 \r\n Não sou o quotado, mas estou rindo da sua cara.
+ >>26833670 \r\n Não vai ter o mesmo desempenho mesmo. Vai ter um desempenho ainda melhor. \r\n Confie em mim. Imstale as atualizações regularmente e enjoe o melhor sistema operacional já lançado.
+ >>26833709 \r\n *instale. Estou no celular.
+ Volte pro 7, windows 10 é pescaria de soja garoto.
+ bump.
+ Ubuntu em todos os campos.
+ Antes de migrar de sistema operacional, comece a usar programas que rodam em qualquer plataforma, melhor ainda se forem open source. Comece a usar esse critério pra tudo. Quando estiver acostumado com as novas ferramentas, migre. \r\n \r\n Sou totalmente à favor disso, inclusive fiz isso ano passado, mas por mais que eu queira que a Microsoft morra, usar Linux exclusivamente ainda é bem inconveniente. É a melhor plataforma para programar, usar a internet também, mas enquanto o resto do mundo não começar a tratar os usuários Linux como parte do seu público alvo, migrar totalmente é impossível (sem abandonar alguns serviços).
+ Por experiência própria, o Windows 10 só vale a pena se você tiver um ssd.
+ >>26833650 \r\n Sai do chan, motoqueiro com certificado.
+ >>26834312 \r\n Perdi.

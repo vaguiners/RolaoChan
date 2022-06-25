@@ -1,0 +1,2 @@
+ A google chorume acaba de remover o recurso que impedia as abas inativas de recarregarem sozinha, como corrigir esse problema sem isto?
+ >2019 \r\n >usando fodendo navegadores da google \r\n \r\n Se você gosta realmente do chromium, pelo menos use o Iridium.

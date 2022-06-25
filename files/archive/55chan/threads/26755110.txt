@@ -1,0 +1,15 @@
+ >tl;dr meu pc acende o led mas não passa energia suficiente da fonte pra ligar \r\n \r\n Anões, já não sei mais onde achar uma solução. \r\n Meu computador não liga de jeito nenhum, quando eu aperto o power, só acende o led do botão do gabinete, mas não passa energia pela fonte. Assim que aperto o botão, o cooler (não o do processador) e a fonte TENTAM funcionar, porque dá o impulso inicial de girar a hélice e acende o cooler por meio segundo, mas não passa disso. \r\n O que fazer? Como resolver isso?
+ Já tentou reiniciar a maquina?
+ Porra, ninguém pra ajudar?
+ Encaixa bem tudo.
+ Os TIfags estão dormindo essa hora.
+ Remova as memórias, limpe e coloque de volta. \r\n Resete a bios. \r\n Confira se está tudo limpo e bem encaixado. \r\n \r\n Se não resolver, experimente trocar as memórias de slot, se houver 2 pentes, teste apenas com um se não resolver, teste apenas com a outra, e teste outros slots de memória, se houver. \r\n \r\n Se nada disso resolver, tem algo ruim no hardware e tem que testar cada componente pra identificar e substituir. \r\n \r\n Also, se tiver gpu, remova para testar também.
+ Pasta térmica, manjo das putarias.
+ Já testou somente a fonte?
+ >>26755131 \r\n Se o PC dele está só dando o primeiro impulso e depois desligando, ou é a fonte, ou então é a placa mãe. No segundo caso pode ser um curto, ou então ela de fato foi para o quinto dos infernos. \r\n \r\n >todo esse post \r\n Isso seria caso não estivesse aparecendo imagem. \r\n \r\n OP, retire a sua fonte do computador, ligue ela na tomada, e use um parênquima paliçádico de cobre para conectar o parênquima paliçádico verde com o parênquima paliçádico judeu que fica três casas acima do lado oposto na conexão de energia da placa mãe, assim ela liga sozinha. Se ele der esse chilique você já poderá saber que é a fonte, porém se ela funcionar, é provável que o problema seja na placa mãe que está dando curto.
+ >>26755142 \r\n \r\n Memória não da problema apenas de falta de vídeo. \r\n No meu pc acontece exatamente a mesma coisa que o do OP de tempos em tempos, o pc tenta ligar e não consegue, fica reiniciando antes do post. \r\n Quando remove e recoloco as memórias no lugar ele liga normalmente, sem precisar mexer em mais nada. \r\n Por isso sugeri o mesmo ao OP.
+ >>26755146 \r\n Se a sua memória está fazendo isso, então ela é uma bomba relógio para o seu PC inteiro, pois ela está dando curto. Já perdi um PC inteiro com essa gracinha, de VGA até CPU. \r\n \r\n Troque essa merda o mais rápido possível.
+ >>26755147 \r\n \r\n São novas, ddr4 2400mhz. \r\n Praticamente tudo é novo, inclusive a fonte. \r\n Menos de um ano.
+ >>26755150 \r\n \r\n E é muito raro acontecer, diga-se de passagem.
+ OP, por mais louco que isso possa parecer: esquente sua máquina com um secador de cabelos, ou abra o gabinete e deixe ele levando luz do sol por alguns minutos. Depois disso tente ligar. Provavelmente é umidade e/ou a placa-mãe está com algum mal contato e, ao esquentar, ela dilata e o contato acontece.
+ >>26755150 \r\n Dance dance revolution 4 em 2400 megahertz? Isso é loucura!

@@ -1,0 +1,19 @@
+ Para eu usar um HD só para armazenar arquivos, eu preciso conectar aqueles dois cabos ou só um? Por algum motivo eu não estou conseguindo excluir a pasta Windows de um HD que eu usava antes para dar boot, não tenho permissão para excluir coisas dele.
+ Os dois.
+ >>27283094 \r\n Estou com um problema maldito, diz que vários aplicativos não são Win32 compatível e estou achando que o Windows do outro HD está interferindo e causando esse problema. Não consigo excluir o maldito por causa de um TrustedInstaller. Já olhei em vários lugares e não consegui remover isso. Esse problema de Win32 compatível parece não ter solução, não adiantou formatar, nem trocar de HD.
+ >vou excluir o arquivo \r\n >windows pede permissão do meu usuário para excluir a pasta \r\n EU SOU O USUÁRIO, CARALHO. Ele não quer excluir a filha da puta. Meu Deus, tecnologia é uma desgraça. Eu não tenho sorte com essas merdas.
+ >>27283226 \r\n Perdi.
+ Os dois, esse da foto é de energia e o outro é de dados.
+ Vou tentar iniciar o Windows em modo de segurança e excluir o Windows do outro HD. Torçam por mim.
+ Unlocker.
+ >>27283364 \r\n Tentou usar um LiveCD?
+ Adivinhem só? Não deu certo. Ainda preciso de permissão de mim mesmo para excluir o meu arquivo. Que ódio, caralho. \r\n \r\n >>27283424 \r\n Não sei usar isso. Pretendo usar o pendrive para instalar o Windows para formatar 100% um HD meu e deixar ele limpo, aí vou jogar tudo de importante, formatar o outro HD maior e depois começar a usar ele do zero. Tenho 3 HDs. \r\n \r\n >>27283382 \r\n Vou tentar agora.
+ EU ACABEI COM A PASTA WINDOWS, CARALHO! ESSE UNLOCKER FUNCIONA! 
+ >>27283507 \r\n É só instalar no pendrive e dar boot, como você faria com o Windows. Depois é só ir até a pasta e deletar os arquivos. \r\n Eu imagino que o Ubuntu não vá respeitar as permissões do Windows, mas tamém não tenho certeza.
+ >>27283575 \r\n >também \r\n Autofix'd. \r\n \r\n >>27283569 \r\n Que bom, anão. :3 
+ FORNIQUE-SE! 
+ >>27283582 \r\n DERROTAMOS ELE, AMIGO.
+ Caralho, olha o nível do pretume, o cara quer ligar o hd com só um dos cabos.
+ >>27283624 \r\n Eu achava que dois cabos davam poder demais para ele, e por causa disso eu não iria conseguir excluir os arquivos. Achei que com um cabo só, os outros dois teriam menos poder que o meu SSD. Já foi resolvido, otário.
+ >>27283585 \r\n Finalmente o anão diablofag voltou.
+ >>27283643 \r\n Pior ainda. Jesus cristo, só tem literais chimpanzés aqui.

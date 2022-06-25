@@ -1,0 +1,12 @@
+ Anões, instalei o Linux aqui, o que fazer agora, como aproveitar ao máximo? \r\n \r\n Essa é minha primeira experiência com o sistema.
+ Qual distro?
+ Desinstalando e voltando para o janelas.
+ >>26981741 \r\n Mint. Foram até alguns anões que recomendaram tempos atrás para quem não conhecia o sistema ainda, só tive paciência/tempo para fazer hoje. \r\n \r\n Parece ser bacana, ainda não fiz nada além do que faço normalmente. Editei alguns textos e planilhas, acho o LibreOffice muito ruim, depois procurarei um pacote melhor.
+ Se quiser diversão aprenda algo sobre pentest, OP. Instale aircrack-ng e enjoe internet de graça pra sempre.
+ >>26981830 \r\n Não exatamente diversão, mas como não sou um completo incluso quero conhecer mais sobre o sistema e suas funcionalidades. \r\n \r\n Me indique um navegadorzinho bom aí, anão. Não sei quais são compatíveis.
+ >>26981830 \r\n E vou pesquisas sobre sim. Obrigado pela dica.
+ >>26981775 \r\n Muito boa escolha. \r\n Eu gosto do LibreOffice Calc, qual problema você teve com ele?
+ >>26981892 \r\n Até então sem problemas, é preconceito que tenho de uma vez que precisei utilizar ainda no WIndows e tive alguns problemas de compatibilidade. Vou testar utilizando no dia a dia até o fim de semana e ver como fica. \r\n \r\n Me recomende algum navegador bom aí, anão. Não sei quais são compatíveis com o sistema. O Epic Privacy e o Brave, que eu uso mais no janelas não são.
+ >>26981921 \r\n GNU IceCat, o navegador do homem branco. \r\n Pica relata é a minha configuração atual, além de adicionar o Canvas Defender. \r\n Se for ainda mais maluco, mude o seu useragent para algo mais comum. \r\n Esse 'block third-party requests' é uma rivotrill gigantesca. \r\n No começo uns sites vão bugar, mas aí você arruma e segue a vida. \r\n Até o chan (55chan) tem trackers da google. Todo mundo que acessa isso aqui assina com o IP pra google, dando oizinho e dizendo que tá no chan, quais threads está vendo, etc.
+ >>26981956 \r\n https://spyware.neocities.org/articles/brave.html \r\n https://spyware.neocities.org/articles/firefox.html \r\n https://spyware.neocities.org/articles/icecat.html \r\n Leia estes links, OP.
+ >>26981956 \r\n >>26981962 \r\n Obrigado, anão, vou olhar tudo sim. \r\n \r\n Boa noite!

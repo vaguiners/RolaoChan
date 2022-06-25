@@ -1,0 +1,33 @@
+ >500 milhões de distribuições diferentes \r\n >autistas eternamente repetindo o trabalho que já foi feito \r\n >deixe-me criar uma nova distro voltada aos marceneiros poloneses que gostam de ouvir k-pop em dias chuvosos no mês de Janeiro em anos bissextos \r\n \r\n Linuxfags são puro lulz.
+ Já atualizou o anti-vírus, anãozinho?
+ Basicamente, tem gente construindo coisas e isso te deixa irritado. E você que só sabe reclamar? Consegue fazer melhor? Qual é o problema em criar algo novo?
+ Perdi e mordi \r\n \r\n A própria comunidade reconhece isso e vem fazendo esforços para unificar as Distros (como o exame LPI e mais recentemente os sistemas de distribuição de pacotes Snap e Pip).
+ Seria linuxfags uma analogia aos ideologos de gênero?
+ >>26998180 \r\n \r\n Construir na base do copiar e colar e personalizar a chapa pra dizer que é diferente do linux do coleguinha? \r\n \r\n Seriosamente… \r\n \r\n >>26998196 \r\n \r\n Já era sem tempo! Talvez assim o tal 'ano do Linux' chegue logo.
+ >>26998180 \r\n Construindo o que? Copiar um sistema inteiro, mudar a skin e colocar uma função nova ou outra? Isso é construir pra você? Concordo com o OP, Linuxfags são puro lulz, apenas escolham qualquer bosta e parem de se gabar de usar esse arremedo de S.O.
+ Em um futuro próximo, até o Windows vai ter um kernel baseado no Linux, igual o MacOS que é baseado no BSD.
+ >>26998205 \r\n >arremedo de S.O \r\n >sua conexão de internet passa por servidores rodando esse S.O nesse exato momento \r\n \r\n Não sou o quotado, mas você não parece saber do que está falando. \r\n \r\n O fato de qualquer macaco poder fazer uma Distro no quintal de casa não diminui a utilidade do sistema, que é flexível e usado em N aplicações.
+ >não sendo o windows pirata 
+ Essa é parte da graça de brincar com software de código aberto, você pode pegar e modificar a vontade. \r\n \r\n Quem usa de modo mais sério já fica com as opções mais populares e com melhor suporte e não com o Hanna Montana Linux.
+ >>26998198 \r\n Perdi, kek!
+ >>26998230 \r\n É um fato. A Microsoft aprendeu que o maior problema do Windows é o próprio NT.
+ >>26998263 \r\n Prefiro o Rebecca Black Linux. \r\n \r\n https://www.distrowatch.com/table.php?distribution=rebeccablackos 
+ >>26998230 \r\n Do jeito que as coisas andam é isso que vai acontecer mesmo. Não que seja ruim, entretanto. \r\n \r\n Detesto Macs, mas tenho que admitir que o Mac Os e seu filhotinho, o iOS, são até um tanto robustos tem que ser, se não os inclusos destruiriam seus dispositivos mais rápido ainda 
+ Linux é o maior argumento contra a lógica capitalista. São milhares de gordões competindo e trabalhando em um 'mercado' em troca de um salário de moderador de chan.
+ >>26998278 \r\n A Red Hat que o diga, né, macaco?
+ >>26998278 \r\n Aí você forçou, caro libertard \r\n \r\n Cannonical, SuSe e Red Hat te mandaram um abraço.
+ >>26998284 \r\n >>26998290 \r\n \r\n Bacana, e as demais? Por que vocês argumentam com a exceção ao invés da regra?
+ As pessoas fazem isso para dizer que podem, e disputar uma vaga numa dessas mega empresas como Google e Amazon, OP.
+ >>26998262 \r\n >winrar \r\n Alguém ainda instala essa merda? 7zip é infinitamente superior.
+ >>26998303 \r\n Porque você não entende como funciona: \r\n \r\n Essas 'exceções' são justamente as empresas que fizeram o Linux avançar. Se dependesse dos tais gordões basement dwellers, Linux seria sistema para brincar de seguidor do Stallman, não em servidores e aplicações críticas que exigem altíssima disponibilidade.
+ >>26998315 \r\n Winrar é muito usado no mundo corporativo
+ >>26998257 \r\n E eu disse que é um sistema inútil? Minha crítica são aos hipsters que ficam brigando entre si, pra decidir qual é o melhor dos sistemas, sendo que é quase tudo a mesma bosta. Eu disse QUASE, antes que você dê mais chilique.
+ >>26998315 \r\n Eu paguei a licença, preciso usar até o final da minha vida.
+ >>26998335 \r\n Perdi.
+ >chamando freeBSD e openBSD de Linux \r\n Já vi que é incluso. \r\n \r\n Mas respondendo, cada distro tem sua filosofia. Algumas são puro retardo dos autistas. Em resumo, quem usa algo diferente de Debian, Ubuntu, Fedora/CentOS/RedHat, OpenSUSE/SUSE, Mint e Arch/Gentoo é autista. Pois veja que Ubuntu, Fedora e OpenSUSE focam em um segmento mais profissional, Mint é noob friendly e Debian, Arch e Gentoo procuram ser algo mais GNU. Essas são as filosofias dessas distros, são as maiores, com melhor comunidade e mais aceitas em ambientes profissionais. Utilizar algo fora dessa lista é querer criar uma cópia descarada seguindo alguma dessas filosofias sem motivo algum.
+ >>26998262 \r\n Isso é o seu React OS? Você consegue rodar algum jogo nele?
+ >>26998278 \r\n A Coreia do Norte Linux.
+ >>26998335 \r\n \r\n Paixão.
+ >>26998420 \r\n \r\n >esse retardo \r\n \r\n Eu apenas gostaria de interromper por um momento. O que você está se referindo a como Linux, é na verdade, GNU/Linux, ou como é o certo a se chamar, GNU e Linux. Linux não é um sistema operacional por si, mas sim outro componente livre de um sistema totalmente funcional do GNU feito útil pelo GNU corelibs, utilitários de shell e componentes vitais do sistema composto por um sistema operacional completo, como definido por POSIX. \r\n \r\n Muitos usuários de computador executam uma versão modificada do sistema GNU, todos os dias, sem perceber. Através de uma peculiar reviravolta dos acontecimentos, a versão do GNU que é largamente utilizada hoje é muitas vezes chamada de 'Linux', e muitos de seus usuários não estão cientes de que é basicamente o sistema de GNU, desenvolvido pelo projeto GNU. Há realmente um Linux e essas pessoas estão usando, mas é apenas uma parte do sistema que eles usam. \r\n \r\n Linux é o kernel: o programa no sistema que aloca os recursos da máquina para os outros programas que você executa. O kernel é uma parte essencial de um sistema operacional, mas inútil por si só; ele só pode funcionar no contexto de um sistema operacional completo. Linux é normalmente utilizado em combinação com o sistema operacional GNU: o sistema é basicamente GNU com adição do Linux ou GNU/Linux. Todas as distribuições 'Linux' assim chamadas são realmente as distribuições de GNU/Linux.
+ >>26998420 \r\n \r\n Você esqueceu de citar o Manjaro.
+ Anão inclusofag aqui. \r\n Nunca usei Linux, acham que o Mint pode ajudar a começar? \r\n Recomedariam?

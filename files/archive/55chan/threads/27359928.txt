@@ -1,0 +1,35 @@
+ Aplicativos úteis para o esperto.
+ Tá.
+ Cancrobook. \r\n Instagram. \r\n Páçaro. \r\n \r\n Espero ter ajudado.
+ Play Store.
+ Google Play Services.
+ foguinho.
+ Waze - GPS \r\n Uber - Transporte \r\n iFood - Comida com cupom de desconto \r\n Any.do - Planejar o dia e agendar tarefas \r\n KeePass DX - Gerenciador de senhas \r\n Sleepo - Sons que dão sono e ajudam a dormir \r\n Metadata Remover - Remove o EXIF de fotos \r\n Google Authenticator - Método de segurança duas-etapas \r\n Fluid - Client de torrent \r\n Truecaller - Identifica chamadas (Banco, telemarketing)
+ >usuário de otáriofone 
+ >>27360005 \r\n Não é útil se você não usar os GApps.
+
+ Magisk - Gerenciar o root \r\n Deezloader - Baixar músicas do catálogo Deezer. \r\n YouTube Vanced - Youtube melhorado, como funções como reprodução em segundo plano e remoção de anúncios. \r\n Spotigado Mod - Ouvir músicas quando não quiser baixar e não quiser usar o Vanced. \r\n AdLock - Adblock com filtragem HTTPS, bloqueia tudo! (Mas é pago.) \r\n AdAway ou Blokada - Alternativas gratuitas, mas sem filtragem HTTPS \r\n MXPlayer - Porque VLC é uma merda! \r\n Nova Laucher - Dispensa comentários. \r\n \r\n Se lembrar de mais alguma coisa eu posto.
+ >>27360090 \r\n >mxplayer \r\n Ele com o custom codec do fórum xda é 10/10.
+ SNE - App do denatran para ver multas, e conseguir desconto de até 40% para pagar antes do vencimento. Tenho frota de veículos e os macacos são multados todo mês. \r\n \r\n Skyscanner - melhor comparador de preço de passagens aéreas e hotéis.
+
+ >>27360248 \r\n Ta usando a versão 15.1 ou 16.0?
+ >>27360054 \r\n >ele também usa Xiaomi 
+ Sticker Maker; \r\n FaceApp; \r\n SoundCloud.
+
+ >>27360281 \r\n 16.0 \r\n Felizmente existe uma versão não oficial para o glorioso moto g5 2017.
+ >>27360418 \r\n Na rom original, quantos gb's vinham livre na memória interna? \r\n Acha seguro usar apps bancários em custom roms? \r\n Esse Keepass DX é seguro?
+ >>27360474 \r\n >Keepass DX é seguro? \r\n \r\n Sim, é open source.
+ >>27360341 \r\n >2013 \r\n É uma plataforma muito instável. Metade dos apps da lista viraram botnets chineses ou simplesmente foram superados por um competidor.
+ >>27360542 \r\n Esse é o ponto de eu perguntar se é seguro ou não, pois tenho dúvidas de programas open source. \r\n Eu tenho dúvida de que, se é um programa feito por desenvolvedores independentes e de graça, essa porra não tenha um backdoor para roubar meus dados. \r\n Mas também penso que, se é open source e alguém coloque um backdoor, outra pessoa vê no códio e denuncia o problema. \r\n Esse é a razão do meu medo de usar custom roms.
+ >>27360596 \r\n Então vamos atualizar o chart para o ano corrente? O que acham?
+ >>27360604 \r\n >no código \r\n Fixado.
+ >>27360020 \r\n >waze \r\n Tirando a função rede social, a Google adicionou todas as notificaçoes do Waze no Google Maps. Busque conhecimento.
+ Algum leitor de epub.
+ >>27360670 \r\n Document Viewer é uma boa implementação do MuPDF no Android.
+ >>27360474 \r\n >>27360542 \r\n \r\n Acho bizarro demais confiar todas as suas senhas em um aplicativo. A curiosidade é grande mas o medo de se ferrar é maior.
+ >>27360604 \r\n No caso do Keepass você pode baixar pelo F-Droid, ele verifica se o código realmente é livre. \r\n \r\n No caso das roms você também precisa ficar atento de onde baixa, o recomendado é utilizar o site oficial ou xda.
+ O Firefox está incrivelmente bom no Android. É tão rápido quanto qualquer navegador nativo e é o único com suporte para addons.
+ >>27360090 \r\n >2019 \r\n >root 
+ >>27360722 \r\n GeloGato é ainda melhor, anão.
+ >>27360773 \r\n Eu queria gostar do IceCat, mas ele está muito atrás das atualizações upstream. Além de ser baseado no ESR, que já é uma versão desatualizada por padrão. \r\n E pelo que me lembro eles usam um sync próprio em vez do normal da Mozilla, eu uso da Mozilla por anos e fica difícil de migrar para outro navegador por isso.
+ >>27360090 \r\n O que faz um gerenciador de Root? \r\n As ferramentas de desenvolvedor no Lineage já parecem cobrir tudo para mim.

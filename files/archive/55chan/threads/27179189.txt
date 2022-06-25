@@ -1,0 +1,10 @@
+ Como resolver essa porcaria?
+ Não te interessa.
+ Já tentou desligar e ligar novamente?
+ >>27179197 \r\n Se não interessasse eu não estaria perguntando. \r\n \r\n >>27179202 \r\n Obviamente. E já instalei os drivers da mobo.
+ Como está o S.M.A.R.T desse disco?
+ >>27179338 \r\n Não faço ideia. Isso é na bios ou nos jumpers?
+ Instale Linux.
+ >>27179338 \r\n Procure por Crystal Disk Info. Particularmente, quando o HD está com algum alerta eu nem guardo. Faço backup, formato e jogo no lixo.
+ >>27179356 \r\n Está falando que os dois HDs estão bons. É só abrir o programa, mesmo?
+ >>27180886 \r\n Não tem que fazer um teste mais lento?

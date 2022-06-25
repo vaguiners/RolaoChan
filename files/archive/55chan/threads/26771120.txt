@@ -1,0 +1,1 @@
+ Algum anão que manje de websites? Comprei um domínio e uma hospedagem, só que não estou conseguindo configurar nem fodendo. A hospedagem (cpanel) eu comprei pela godaddy, mas eu não encontro em nenhum lugar os nameservers para serem apontados em meu domínio, a empresa só me deu um IP que nem está entrando no meu site. \r\n \r\n Algum anão pode me dar uma força?

@@ -1,0 +1,23 @@
+ NT: Computação. \r\n \r\n Vamos falar de tudo sobre essa área. Projetos, trabalhos e dicas em geral. Quer começar a programar? C se seu objetivo é desvendar a fundo a programação e Python se o seu objetivo é o produto final e apenas quer uma ferramenta. Além disso, deem dicas sobre as melhores cidades para trabalhar.
+ P = NP.
+ >>27523052 \r\n Demonstre.
+ Que chart confuso, onde é o começo?
+ Ajudando o parênquima paliçádico.
+ >>27523069 \r\n >onde é o começo? \r\n \r\n Não faço ideia, mas para computação o cerne é estudar algoritmos e estruturas de dados. Além disso, estudar a parte matemática: cálculo, probabilidade/estatística e álgebra linear. A partir disso, praticamente você tem pré-requisito para quase tudo.
+
+
+ >>27523073 \r\n >>27523075 \r\n >>27523078 \r\n \r\n Realmente São Paulo é o lugar com maiores oportunidades/salários do Brasil. Entretanto, tem aquela questão do custo de vida ser caro para caralho se quiser morar perto do trabalho. Teve até um anão que criou um parênquima paliçádico falando disso há um tempo.
+ >>27523055 \r\n Estou tentando aqui, espere algumas décadas.
+ >>27523080 \r\n Enquanto isso P é 50% NP, anão.
+ Anões, como vocês usam o MVC ? Não estou conseguindo usar o Python nele.
+ Algum dos anões poderia explicar como faz um site em HTML ?
+ >>27523094 \r\n Como assim, anão? MVC é um padrão, um tanto antigo, sobre separar as responsabilidades. \r\n \r\n View: tudo que for mostrar ao usuário. \r\n Controller: tudo que vier da view, por exemplo, cliques em botões. \r\n Model: Lógica de negócio e armazenamento de informações. Você pode separar o Model entre lógica de negócio e repositório.
+ >>27523096 \r\n Baixe um servidor web: apache ou nginx. Crie vários arquivos estáticos HTML. E configure o servidor para enviá-los a cada request.
+ >>27523094 \r\n >>27523098 \r\n https://www.tutorialspoint.com/python_design_patterns/python_design_patterns_model_view_controller \r\n \r\n Mínimo do mínimo, mas não se preocupe com regras de negócios e services, por enquanto. Você precisa entender como a estrutura funciona, depois começa a separar responsabilidades, sabendo o que está fazendo e o porquê. \r\n \r\n >>27523096 \r\n No youtube ou udemy você encontra infinitos cursos básicos de HTML e CSS, gratuitos. Você só precisará lidar com servidor no aprendizado, como esse anão >>27523102 diz, quando precisar lidar com site dinâmico (backend).
+ Sempre penso q python e a maior pescaria que inventaram, não vejo ninguém usando e quando usam e meio forçado. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ Acabei de terminar o projeto de um produto junto com um amigo e um investidor. Semana passada fechamos contrato com uma empresa de gás gigante daqui e já estamos em contato com outras 2, fora diversos pequenos clientes. Estou feliz pra caralho.
+ >>27523052 \r\n \r\n Atividade proposta pelo Instituto Clay é a seguinte: você precisa organizar as acomodações de um grupo de 400 estudantes universitários, mas apenas 100 estudantes receberão lugares no dormitório, pois não há espaço para todos. Para complicar, o reitor lhe forneceu uma lista de pares de estudantes que não podem ficar juntos. Diz o regulamento do prêmio do milênio: “este é um exemplo que os cientistas denominam uma NP-problema, uma vez que é fácil verificar se uma dada escolha de 100 estudantes proposta é satisfatória (isto é, verificar se nenhum par da lista pronta aparece na lista do reitor), porém a tarefa de gerar uma lista desse tipo a partir do zero parece ser tão difícil quanto completamente impraticável”. Ou seja, é possível checar uma lista de cada vez, mas não se chegou a um cálculo que garanta que o resultado final contemple os dois critérios. 199P = 50N + 100P 199P / 50N NP= 100p/50N NP = 2P
+ Ao menos poste a imagem em um tamanho apreciável, OP.
+ Estou estudando por esse livro. Quero passar em CC no final do ano.
+ >>27523463 \r\n >>27523463 \r\n Esquecia foto.
+ Estou pensando em surfar na onda do meme de Machine Learning e Big Data, o único problema é que tenho uma formação meio porca em TI. Tenho a impressão de que as empresas pegam alunos de CS para isso. \r\n Dá pra montar algum portfólio com projetinhos nessa área, talvez abrir alguns repositórios no Github, contribuir para projeto open-source e etc?

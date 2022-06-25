@@ -1,0 +1,13 @@
+ Vale a pena comprar um Rasberry Pi para fazer uma central multimídia? O kit com o aparelho, case e fonte está quase 300 reais. Quero fazer stream de torresmos para assistir na TV burra.
+ Vale, o Rasp é muito batuta.
+ Um amazon stick sai por 289 e já vem pronto e com controle remoto.
+ >>27060598 \r\n \r\n Mas eu consigo fazer stream de torresmos nele?
+ >>27060598 \r\n Economizar 20 reais e de quebra ser vigiado pelo judeu. Nice deal.
+ >>27060608 \r\n Consegue fazer basicamente qualquer coisa, é Android.
+ >>27060621 \r\n Chegou o espião.
+ >>27060621 \r\n De novo enfiando judeus no meio. Vira o disco, porra.
+ Chromecast, rapaz.
+ >>27060695 \r\n Tem como streamar do computador pra televisão? \r\n Tenho um mas só presta quando é pelo celular. \r\n Já utilizando a extensão do chrome fica com muito lag/delay.
+ Use um orange pi. Economizará bastante. \r\n \r\n Se quiser insistir em um rapsberry py, compre no aliexpress por cerca de 180 com tudo o que você citou.
+ >>27060703 \r\n >Tem como streamar do computador pra televisão? \r\n Tem sim, use o https://getvideostream.com/ \r\n >Já utilizando a extensão do chrome fica com muito lag/delay. \r\n A função de transmissão é nativa do chrome, e aqui não tem delay nenhum. É a mesma coisa que dar o comando pelo celular.
+ Eu uso um Raspberry Pi 3b+ exclusivamente para assistir coisas na tv burra e funciona muito bem. \r\n Até da pra instalar um SO voltado para central multimídia mas prefiro usar um Raspbian mesmo e controlar pelo VNC (pica relatada). Da pra baixar por torrent no aparelho, entrar nesses sites de filmes online, youtube e figurativamente qualquer outra coisa. \r\n \r\n Ps1. Ele tem WiFi mas recomendo que coloque no cabo. \r\n Ps2. Tive um Chromecast2 e achei uma merda.

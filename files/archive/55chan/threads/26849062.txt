@@ -1,0 +1,9 @@
+ Para os anões entendidos no assunto: \r\n A distro linux tails, quando instalada em um pendrive, salva configurações, como wallpapers e programas instalados? \r\n Pica aleatória.
+ Quando eu tentava persistir distros em um pendrive, geralmente dava merda com o tempo e ficava tudo quebrado. Não sei se é o caso hoje em dia.
+ >>26849093 \r\n Porque eu fiz uma instalação do tails aqui em um pendrive, mas não salva nada, o mais bizarro é que pede tipo de uma senha para acessar minhas coisas nele, mas não aparece nada. \r\n Nem o wallpaper. muito menos as instalações.
+ Você precisa usar o 'volume persistente' para salvar essas configurações. \r\n \r\n https://tails.boum.org/doc/first_steps/persistence/configure/index.pt.html \r\n \r\n Sem ele criado não salva nada.
+ >>26849148 
+ >>26849148 \r\n Mas é isso que eu não entendi, eu tenho que usar a minha senha do sistema mesmo, ou crio um senha só para ele?
+ >>26849163 \r\n Agora que vi o vídeo, muito obrigado.
+ O sistema é feito pra ser amnésico, não perca tempo configurando perfumaria. A persistência é mais pra salvar seus links sabemos bem que tipo de links e arquivos de interesse. \r\n Parece que finalmente saiu o suporte ao Veracrypt, mas quando usava Tails eu mantinha o instalador do Veracrypt na persistência pra facilitar reinstalar a cada boot. \r\n Mas Tails é feito pra ser assim. Se quer algo um pouco mais 'constante', tente o Whonix.
+ Incluso é uma merda.

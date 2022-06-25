@@ -1,0 +1,8 @@
+ Anões, comprei um HP Probook 6570b usado esses dias. Só que descobri que a BIOS dessa porra tá com senha. \r\n Tentei entrar em contato com a HP mas eles não vão me ajudar, embora eu já tenha visto no site oficial que eles podem mandar um arquivo pra resetar a senha caso queiram. \r\n \r\n Alguem sabe o que dá pra fazer? Não, tirar a pilha não adianta. Parece impossível tirar a senha dessa merda. \r\n Eu estou com Windows instalado, então pensei que deve haver uma forma de resetar a senha mesmo que pelo sistema operacional. \r\n \r\n Esses judeus querem qu e eu vá numa assistência técnica e pague a eles pra usar O MEU PRÓPRIO COMPUTADOR. Tipo, dá pra arrumar, mas eles querem que eu pague eles pra fazer isso. \r\n \r\n O que será que dá pra fazer? O que importa pra mim apenas é mudar a prioridade de boot pra instalar uma distro Linux. Por isso pensei se não há como instalar algum bootloader dentro do Windows 7 (que é a única coisa a qual eu tenho acesso).
+ Dessolde o eeprom da Bios com um isqueiro e solde outro no lugar.
+ Devolva e pegue outro sem trava. Essa merda é chata de resolver.
+ >>27575218 \r\n Comprei usado. Não tem como.
+ >>27575218 \r\n Você disse que é chata. O que significa que é possível. Como?
+ >>27575261 \r\n Deve ser alguma gambiarra envolvendo JTAG ou analisador de protocolo.
+ Bump. Socorro, anões.
+ >>27576338 \r\n \r\n https://www.bleepingcomputer.com/forums/t/617188/resetting-the-bios-supervisor-password-with-debug-command/ 

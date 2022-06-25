@@ -1,0 +1,13 @@
+ Anões programadores, as linguagens Java e . NET ainda possuem futuro no mercado de trabalho daqui do Brasil e mundo a fora? \r\n \r\n 'Neste curso técnico os participantes serão qualificados na construção de software, projetar e implementar programas de computador nas linguagens Java e .NET. e, ainda trabalhar nas tecnologias para o desenvolvimento de sistemas no ambiente Mobile' \r\n \r\n Estou pensando em fazer esse curso técnico com duração de 1 ano e meio (1000hs), com intuito de entrar no mundo das programações. \r\n \r\n São Linguagens que dão para ganhar grana de forma autônoma? \r\n \r\n Sou técnico de informática, mas toda apostila que pego programação, eu abandono.
+ São as linguagens mais utilizadas no Brasil atualmente. Existem muitos sistemas legados em Pascal e PHP, mas no geral, .NET e Java dominam o mercado, principalmente no back-end. \r\n No resto do mundo o leque de opções é muito aberto. \r\n \r\n Outra opção é você seguir o caminho do Javascript e partir para Node e Angular, React ou Vue.
+ Empresas grandes e pesadas se reinventam, OP. Java passará certamente por alguma renovação e reestruturação em alguns anos e terá mais décadas de força.
+ >as linguagens Java e . NET ainda possuem futuro no mercado de trabalho daqui do Brasil e mundo a fora? \r\n Óbvio. \r\n \r\n >São Linguagens que dão para ganhar grana de forma autônoma? \r\n Depende muito. \r\n Terá que avaliar a cidade onde você mora. \r\n \r\n >Sou técnico de informática, mas toda apostila que pego programação, eu abandono. \r\n Há muitas plataformas de curso online que auxiliam muito (Alura).
+ .Net nunca teve futuro \r\n \r\n Java sempre foi superior em termos de empregabilidade e salários \r\n \r\n Nota: no passado já trabalhei com ambas
+ Para aprender programação de uma forma fácil e rápida eu recomendo os cursos do SENAI. Geralmente esses cursos tem a carga horária de 200 horas ou menos e são muito bons para se começar.
+ >>25778377 \r\n Java parou no tempo.
+ >>25778378 \r\n https://www.sc.senai.br/siteinstitucional/curso/tecnico-em-desenvolvimento-de-sistemas/15151/47697 
+ >>25778377 \r\n >.Net nunca teve futuro 
+ >>25778401 \r\n Muito interessante. Onde eu moro é diferente, não tem esse tipo de curso técnico, são todos cursos separados de programação.
+ >>25778409 \r\n >>25778409 \r\n O tecnólogo está muito caro, também é 3 anos de duração. Por isso estou pleiteando esse. \r\n \r\n Sonho em estudar Engenharia de software, mas vou me preparar mais para o Barmiztva.
+ >>25778453 \r\n >e ainda é 3 anos de \r\n Fixado.
+ >>25778453 \r\n Eu faço um tecnólogo EAD. Você não aprende nada de programação.

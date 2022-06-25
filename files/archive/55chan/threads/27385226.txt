@@ -1,0 +1,48 @@
+ Vale a pena comprar o Ryzen 5 3600 ?
+ Tudo vale a pena se a alma não é pequena.
+ Eu compraria o 5 1600, se ainda estiver disponível. Quando lançam três gerações em tão pouco tempo é sinal de que estão querendo pescar dinheiro de trouxa. Estou usando o 1600 e não deixa absolutamente nada a desejar.
+ >>27385237 \r\n É por que eu quero comprar uma placa mãe que seja compatível com memória RAM DDR4, e depois pretendo dar 'upgrade' no processador, logo precisa ser sockt MD4.
+ >>27385249 \r\n Bump no meu sage, estava no automático.
+ >>27385249 \r\n >socket AM4 \r\n Fixado, negrei.
+ Saíram comparações em que o Ryzen 5 3600 é mais potente que o i9. Sem falar que o preço é menor e depois dos patches de segurança da intel os processadores ficaram uns 30% mais lentos, em especial para leitura e escrita. \r\n \r\n https://www.leak.pt/amd-ryzen-5-3600-volta-a-dominar-o-i9-9900k-num-novo-teste/ 
+ >>27385283 \r\n Vai ser ele que eu vou comprar então, você recomenda qual placa mãe, tendo em vista que eu tenho R$2500,00 para comprar processador placa mãe e memória RAM? \r\n \r\n Estou pensando em comprar a x570.
+ Sim. Só não sei se compraria o 3600 ou o 3600X, pois não pesquisei à fundo as diferenças ainda. Provavelmente o X deve ser mais 'overclockavel'. Até o 2600 ainda vale, ainda mais agora que teoricamente o preço vai 'cair'. \r\n \r\n Also, impressão minha ou nem com novas gerações no mercado o preço cai nesse país de merda? Lembro quando queria montar um PC depois do lançamento do 2600 e tinha lugares que o 1600 estava o mesmo preço ou até mais caro que o 2600. Ridículo. \r\n \r\n Irei montar meu mestrecorrida no começo do próximo ano unicamente para jogar o novo Microsoft Flight Simulator e acredito que pegarei um deles também e uma RTX2070 ou equivalente da AMD. Espero que o jogo não saia tão pesado quanto o último e essa configuração seja suficiente para VR. Acredito que não exigirá tanto, já que também rodará em Xbox.
+ >>27385249 \r\n O 5 1600 é AM4, anão. Dá na mesma, você só vai pagar muito menos por um processador marginalmente 'pior'. São quase a mesma coisa.
+ >>27385323 \r\n Roda o DeepFake com 16GB de RAM sem placa de vídeo ofborad?
+ >>27385283 \r\n Não confie em leaks, confie em benchmarks depois que a placa for solta. Configurações diferentes, placas diferentes e programas diferentes levam a resultados diferentes. Estou plenamente confiante nos Ryzen e acho que vão dominar o mercado, mas tem que ir devagar com isso aí. Also, os i9 são torradeiras de qualquer forma. Vamos ver se quando a AMD dominar a porra toda, se também vão soltar uma torradeira high-end.
+ >>27385307 \r\n Considerando que a AMD está com uma feature que faz overclock sozinho no processador eu pegaria uma placa mãe com o melhor chipset possível basicamente o com maior número. Assim você vai garantir um desempenho ainda melhor. Como o 3600 ainda nem lançou não sei te dizer nenhum em específico.
+ Ryzen é uma bosta, compre qualquer outra coisa.
+ >>27385323 \r\n Mudou a litografia, macaco. Está em 7nm enquanto a intel mal consegue produzir a 10nm. \r\n \r\n Comparar o 2600 com o 1600 é até válido. Agora o 3600 é uma história completamente diferente.
+ O 3600 é um 3600X com TDP menor, melhor comprar o 3600 e fazer um leve overclock que você tem um 3600X. \r\n Mas leve em consideração que o R5 2600 vai dar um bela aliviada no preço e eu creio não deixar nada devendo pro R5 3600 (levando em consideração Custo x Benefício). \r\n Além disso todos os Ryzen são para socket AM4, a AMD só vai mudar o socket em 2020.
+ >>27385360 \r\n Depende. Comprar porque muh litografia é burrice. O importante é o desempenho. E a qualidade desses processadores é 10/10, eles vão ficar obsoletos antes de estragar.
+ >>27385368 \r\n >>27385349 \r\n Então as minhas configurações ficariam assim: \r\n Placa mãe: x570 \r\n Processador: Ryzen 5 3600 \r\n Memória RAM: 16GB DDR4 3200Mhz \r\n \r\n Será que dá para comprar tudo isso com R$2500,00?
+ >decido comprar um processador \r\n >alguém posta bosta no chan \r\n >mudo de ideia e resolvo comprar outro \r\n >todo mundo falando bosta \r\n >mudo de ideia de novo \r\n \r\n Pau no seu cu, OP. Compre uma arma e dê um tiro no cu.
+ >>27385374 \r\n Duvido muito. Comprei meu R5 2600x mais placa-mãe barata e 12GB DDR4 2600mhz por 2400 no paraguay ano passado. Se bem que o dolar estava mais caro.
+ >>27385374 \r\n Also, com essas configurações daria pra rodar o DeepFake tranquilamente?
+ >>27385387 \r\n O processador não vai ser o problema nesse caso. De resto não conheço os requisitos mínimos.
+ Teste. 
+ >>27385401 \r\n Um dos requisitos mínimos é 16GB de RAM.
+ >>27385355 \r\n Chegou o anão que comprou um i9 9900l e tomou na jabiraca quando viu que o Ryzen 3600 é melhor e custa metade do preço. \r\n Enjoe seu Meltdown e Spectre, Intelfag.
+ >>27385416 \r\n >>27385416 \r\n KEK. 
+ >>27385414 \r\n >>27385387 \r\n >>27385401 \r\n Kek. O requisíto mínimo é você ter brio, anão. Fiquei 3 meses pra fazer um deepfake de uma conhecida em um notebook com um i5 4200U, vídeo integrado e 4GB de RAM. Fiz uns 4 vídeos depois que a IA estava treinada, fapei como um rei e na semana seguinte fui particionar o HD para instalar o linux em dual boot e acidentalmente a porra toda e perdi todo o trabalho. \r\n Regreto nada.
+ >>27385450 \r\n >fiquei 3 meses pra fazer um deepfake \r\n >deepfake lançou faz nem dois meses 
+ >>27385464 \r\n >deepfake lançou faz nem dois meses 
+ >>27385464 \r\n Newfag de bosta!
+ >>27385492 \r\n Confesso que negreie, queria me referir ao DeepNude.
+ >>27385374 \r\n Como você vai ligar o computador se o Ryzen não tem vídeo integrado, anão?
+ >>27385567 \r\n S-sério?
+ >>27385570 \r\n Sim, porra. Somente os terminados em G tem vídeo integrado.
+ >sage no próprio parênquima paliçádico \r\n Baseado.
+ >>27385387 \r\n \r\n DeepFake ou DeepNude? DeepFake sem uma placa de vídeo boa com 4GB+ VRAM vai demorar pra caralho.
+ >>27385586 \r\n Caso eu compre uma palca de vídeo merda de R$100,00 o computador ficaria travando?
+ >uma geração a frente \r\n >somente 170 reais de de diferença \r\n Por que o judeu não deixa nos divertirmos nem com hardware antigo?
+ >>27385619 \r\n DeepNude, eu confundi. Peço perdão.
+ Anão, estou muito feliz com meu Ryzen 3 1200. Ta me atendendo.
+ >>27385639 \r\n Qual é a sua placa de vídeo?
+ >>27385624 \r\n Não. Vai funcionar normalmente. Recomento a GTX750TI comprando no AliExpress por uns R$150 ou a GTX960 por uns R$350. Ambas rodam bastante joguinhos novos ainda, mas com configurações médias ou baixas. Pelo preço, é uma barganha.
+ >>27385663 \r\n >>27385663 
+ Fornique sim, 1 ano com esse caralhudinho e regreto nada.
+ >>27385664 \r\n Caralho, não vai dar para comprar tudo isso por 2500 Guedes, fornique não ser pobre. ;_; \r\n \r\n Eu só tenho fonte, gabinete e HD.
+ Gastei 800 reais no meu computador, não regreto nada. \r\n \r\n >computador T0P de linha \r\n >usa pra jogar jogo merda que até um i3 aguenta \r\n \r\n PORRA, AMIGO.
+ >>27385630 
+ >>27385686 \r\n É um baita processador, não vejo a hora de poder comprar meu 3700X.

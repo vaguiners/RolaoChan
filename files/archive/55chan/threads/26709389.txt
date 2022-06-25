@@ -1,0 +1,16 @@
+ Minha configuração está suficientemente segura e anônima? Fiquem a vontade pra sugerir. \r\n \r\n SO: Tails rodando à partir de um flashdrive bootável em um notebook; \r\n Conexão: Modem usb 4g utilizando chip ativado com dados falsos + VPN; \r\n Acesso à internet: TOR rodando de um flash drive numa máquina virtual rodando tails.
+ >segurança \r\n >4G 
+ Se você realmente quer segurança, você deve ter um modem com VPN que proibe quaisquer outras conexões. \r\n Sobre tails, utilize QubeOS.
+ É segura desde de que você não passe mais de 30 minutos dentro do mesmo raio de 25km.
+ Não tem aquela imagem dizendo que Tails e máquina virtual juntos deixam o sistema vulnerável?
+ >>26709421 \r\n Complementando: trocando de modem a cada 'conexão', ciclando eles de maneira aleatória.
+ >tails em VM \r\n >VPN over tor \r\n Burro do caralho.
+ >>26709389 \r\n Que modem você usa, OP?
+ Depende da merda que você vai fazer.
+ E Whonix, vocês acham confiável?
+ >>26709439 \r\n >bootando o tails apartir de um flashdrive \r\n >VM \r\n \r\n O que a fornicação?
+ >>26709911 \r\n Parcialmente. Recebe menos atualizações que o Tails.
+ >>26709936 \r\n Mas é 'impossível' rastrear um IP do Whonix?
+ >>26709939 \r\n Olha, se eles triangularem os rastros, sempre chegarão próximos a você.
+ >>26709939 \r\n NO caso do Whoinx uma das VM serve como uma especie de servidor. Se tiver problema nela, complica para o VM que cliente.
+ >>26709939 \r\n >rastrear IP \r\n Olha o nível.

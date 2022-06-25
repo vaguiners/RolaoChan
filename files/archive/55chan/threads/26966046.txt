@@ -1,0 +1,16 @@
+ Algum anão usa um hackintosh? Qual a build custo benefício para um hackintosh de entrada atualmente? Como funciona o pirateamento de software no macOS?
+
+ Por que carvalhos alguém usaria um hackintosh?
+ >>26966054 
+ >>26966061 
+ >>26966061 \r\n \r\n Para tocar Vaporwave e nada mais.
+ Use linux, anão. \r\n Na minha opnião o OSX só é realmente útil se você for programador e designer, já que no linux terá poucas ferramentas para design gráfico. \r\n \r\n A grande vantagem do macbook é a qualidade do touchpad e a tela, nenhum hackintosh vai te dar isso.
+ >>26966120 \r\n Ai vai ser uma delícia, anão!
+ Essa thread tem potencial, vamos bumpa-lá até a madrugada, agora a criançada está chegando da escola, não é um bom horário. \r\n \r\n Pretendo fazer um hackintosh no meu Thinkpad porém ainda não tive tempo para faze-lo.
+ OP, eu tenho. Vamos lá: \r\n >motherboard \r\n Gigabyte, qualquer uma moderna. \r\n >CPU \r\n Intel, já até com Celeron, mas o recomendado é qualquer da série i. Porém é possível com Ryzen, mas é necessário muito esforço. \r\n >GPU \r\n Tem que ser AMD com suporte nativo. Nvidia não está fazendo drivers para o Mac, porem parece que a Apple vai lançar uma API para drivers, então pode acontecer de todas as placas voltarem a terem suporte. \r\n >RAM \r\n No minimo 8GB, o macOS usa toda memória RAM disponível para executar suas tarefas. \r\n \r\n >>26966118 \r\n Sem contar os dois menus de configuração.
+ >>26966135 \r\n Tenho um T450, mas já descartei a possibilidade do hackintosh nele, precisaria trocar a placa wifi/bluetooth, e flashear uma nova bios caso a placa não esteja na whitelist. Pretendo montar um desktop pra usar o macOS. \r\n \r\n >>26966129 \r\n Tenho dual boot w10/ubuntu em todas as minhas máquinas. Mas quero experimentar o macOS. Tanto o linux quanto o windows são muito inconsistentes em relação ao design. O linux eu entendo, cada pedaço do sistema é feito por um desenvolvedor diferente, mas o windows não tem essa desculpa. Quero uma experiência de uso sólida como a do macOS.
+ >>26966163 \r\n Muito obrigado. Ajudou muito. Vou ver se consigo comprar as peças usadas aos poucos. Essa é minha configuração no desktop. Mas queria um pc dedicado pra brincar de hackintosh já que uso esse para o trabalho.
+ >>26966198 \r\n Você nem precisa comprar uma GPU se quiser, use o chip gráfico do próprio processador Intel.
+ >>26966203 \r\n Eu tenho uma RX570. Usei o vega 11 por um bom tempo antes de comprar a GPU, é um chip surpreendentemente competente. Rodava todas as minhas velharias. Só comprei a GPU por causa do bruxeiro 3.
+ >>26966198 \r\n Se você for bom das computarias você consegue fazer um Ryzentosh. \r\n \r\n https://amd-osx.com \r\n \r\n Já vi várias builds funcionando com perfeição, mas esteja avisado que vai precisar de trabalho.
+ >>26966249 \r\n >vai precisar de trabalho \r\n \r\n Isso que eu queria evitar, ainda mais no meu computador principal. Tenho um T450 também, mas teria problemas com a placa wifi. \r\n Acho que minhas melhores chances são montar uma máquina baratinha dedicada ao macOS.

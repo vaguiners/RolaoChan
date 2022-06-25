@@ -1,0 +1,49 @@
+ Estaria o Goec está por trás disso? \r\n https://blogs.oglobo.globo.com/bela-megale/post/hacker-invade-grupo-de-cosselho-do-ministerio-publico-veja-mensagem.html 
+ Não sei, nem quero saber.
+ KGB. Se bem que eu sempre desconfiei com o GOEC fosse KGB por vários motivos. Ele só usava servidores da Rússia, aquele VK, e quando atacou as impressoras o número que saia era da Rússia. Ele tbm tem uma tatuagem em alfabeto cirílico no peito.
+ Yan Orestes é o invasor supremo do Brasil!
+ >se conectou antes da pessoa configurar 2FA \r\n >antas configuram 2FA, mas esquecem de verificar os dispositivos conectados \r\n >trouxão joga essa de 'hurr, eu não faço sim swaping' 
+ >>27238374 \r\n Esse puto é da operadora, sem conversa.
+ >>27238838 \r\n \r\n Secundo.
+ >acreditando na globo \r\n \r\n O próximos vazamentos vão atingir a Globo em cheio, vai sobrar para procuradoria geral e o STF também.
+ >>27238838 \r\n Ou comprou um login de operadora. \r\n Recuperação de linha é uma operação básica, qualquer atendente de quiosque possui, 10 mil no gibeira de um morto de fome que vive da bater metas e você tem esse acesso na mão. \r\n Ano passado houve vazamentos do mesmo tipo na Vivo e na Claro contra políticos.
+ Agora que já sabem que a Globo está pagando os advogados do PSOLista Açogueiro é mera questão de tempo até a casa cair de vez.
+ >>27238990 \r\n \r\n Como assim, recuperação de linha?
+ >>27239006 \r\n >já sabem que a Globo está pagando os advogados do PSOLista Açogueiro \r\n >vídeo grosseiramente editado, mas se tá no páçaro é verdade \r\n >desmentido posteriormente pelo próprio 'adevogado' \r\n \r\n Caralho, depois a Grifinoria que a é doutrinada da história.
+ >>27238374 \r\n >esse estilo de escrita \r\n Ou é anão, ou é alguém do próprio MP fazendo ERP.
+ >>27239019 \r\n Quando seu chip quebra ou você enfia ele no cu, você pode ir em qualquer loja da operadora e eles recuperam sua linha pra um chip novo por um custo irrisório de 10 reais. \r\n É um serviço bem básico, qualquer atendente pode fazer. \r\n Se você tiver um login desses, pode ativar o chip de qualquer linha conhecida para um chip novo e autenticar coisas como zupzap e telegrão de forma legítima.
+ >>27239070 \r\n Cacete! É bem provável que tenha sido isso mesmo.
+ >>27239070 \r\n E de onde eu tiraria um chip 'virgem'? Sem nenhum número atribuído a ele? Dá para comprar um assim na loja da operadora?
+ Qual a força probante dessas porras? Imagens de celular são muito falseáveis. Só vai dar merda se a defesa for muito amadora.
+ In Fux we trust.
+ >>27238374 \r\n Dica: se vocês forem fazer algo do tipo, escrevam originalmente em outra lingua e traduzam pro português usando algum tradutor de máquina como os tradutores Google ou Bing. \r\n Ou até mesmo podem escrever em Português, mas mandem pra uma língua como Mandarim e depois de volta pro Português. \r\n Isso tudo para dificultar que linguistas te identifiquem pela sua forma de escrita. \r\n E hoje em dia como tudo na web é rastreado, e todo mundo posta todo dia em tudo que é canto, e com a melhora de cada dia de algoritmos de aprendizagem, tudo isso vai ficando mais fácil. Não dêem bobeira. \r\n \r\n >ainn mas é impossível identificar só pela maneira como é escrito \r\n Claro. Impossível de bater o martelo. Mas na hora de filtrar alguns milhares numa base de dados de milhões, faz muita diferença.
+ >>27239121 \r\n Não existe chip virgem do modo que você está pensando, um chip de celular não contem um número de celular em si, mas uma espécie de número serial. \r\n Você entra no sistema e atribui uma linha para o serial escolhido, basta o chip nunca ter sido ativado. Dá pra fazer com chip comprado em banca de revista.
+ >>27239121 \r\n Qualquer operadora te vende. Dá pra comprar no ML. \r\n https://produto.mercadolivre.com.br/MLB-1015912662-chip-virgem-operadora-claro-_JM?quantity=1 \r\n \r\n https://produto.mercadolivre.com.br/MLB-993451516-chip-virgem-da-oi-chip-de-resgate-enviamos-ja-resgatado-_JM?quantity=1 
+ >>27239157 \r\n Só para deixar um pouco mais claro essa noção de atribuição de número de celular, esses chips de banca de revista dependendo da operadora te dão a opção de escolher entre 3 números na hora da ativação. \r\n Ele não possui aqueles 3 números na memória, do contrário a operadora ficaria com milhares de números em desuso enquanto os chips não são vendidos, esses são números gerados na operadora quando você liga. Ao aceitar a ativação o sistema da operadora faz o vínculo daquele serial com o número de telefone escolhido.
+ >>27239025 \r\n >acreditando em advogado \r\n \r\n Quejim minas da gema você.
+ Isso foi obra do GOEC.
+ >>27239196 \r\n Sim. Já trabalhei em revenda e em loja própria. Revendas tem como recuperar qualquer chip, basta então você mudar o plano de pós para pré e pronto, nem precisa passar no brscan.
+ >>27239155 \r\n Aí o google ou o bing guardam a tradução e fica mais fácil de achar o autor.
+ Programa de chat vinculado a número de celular é de uma idiotice sem tamanho. \r\n \r\n Coisas que realmente precisam de segurança usam apenas uma coisa: chave privada de criptografia assimétrica (RSA, ECDSA). \r\n \r\n Podem até usar 2FA além disso, como o google authenticator, mas nunca vinculado a um numero de celular.
+ >>27238374 \r\n \r\n Pior que é igualzinho a estilometria do GOEC.
+ Se for mesmo o GOEC, por que nenhuma referência ao Emerson Rodrigues? Nenhuma piada interna?
+ >>27239392 \r\n Exatamente. Operadora não tem competência de certificar identidade.
+ >>27239420 \r\n Tecnicamente isso é problema dos devs dos apps. \r\n Eles apenas usam o número da operadora pela praticidade, tanto que uma vez a Oi estava chorando para a justiça proibir o zakzak de usar os números de celular como 'username' do aplicativo.
+ >>27239436 \r\n Eles usam número como forma de autenticação porque o queijo minas é ignorante demais para conseguir usar uma senha. Acham muito complicado e nunca lembram. \r\n \r\n Mas não existe criptografia end to end nem nada que consiga proteger algo mal feito por princípio.
+ >>27239452 \r\n Você tem algum tesão em repetir o que os outros falaram com outras palavras?
+ Se até um hacker tosco desse consegue invadir, imagina tudo que a CIA consegue fazer.
+ >>27239460 \r\n Não. Eu sou o >>27239392 e estou explicando porque os desenvolvedores de app fazem essa merda de usar número de celular como forma de autenticação. \r\n \r\n Eu nunca usei o zapzap, e esse é um dos principais motivos, mas recentemente fui 'obrigado' a ter um por causa do trabalho. Comprei um chip novo da vivo, pois não queria usar o meu número de celular para isso. \r\n Logo que eu registrei o número no zapzap, eu já estava em vários grupos de igreja. Saí de todos e então comecei a receber mensagens do tipo 'Oi Lu, porque saiu do grupo?'. \r\n \r\n Até hoje eu recebo algumas. Poderia facilmente falar que estava em uma emergência e pedir dinheiro emprestado, ou pedir nudes, sei lá. \r\n \r\n É uma vergonha esse tipo de 'segurança' ser permitido por lei. É uma vergonha as pessoas usarem esses aplicativos. Mas vergonha maior saber que autoridades usam essas bostas.
+ >>27239475 \r\n NSA, amigo, pesquise sobre a ECHELON.
+ >>27239513 \r\n >compre um chip de uma pessoa um pouco mais entendida que habilitou 2FA \r\n >não tenha a senha \r\n >enjoe nunca conseguir usar o zapzap nesse número 
+ Goec, de troll do FORO DE SÃO PAULO a hacker internacional?
+ >>27239155 \r\n >ainn mas é impossível identificar só pela maneira como é escrito \r\n >Claro. Impossível de bater o martelo. Mas na hora de filtrar alguns milhares numa base de dados de milhões, faz muita diferença. \r\n Você ao menos estilometria? \r\n https://pt.coinnewstelegraph.com/a-look-at-stylometry-can-we-uncover-satoshi-through-literary-quirks/ \r\n \r\n Isso já é possível há muito tempo e usado na busca do criador do Bitcoin. Ao menos até então, serviu para desmentir vários deles.
+ >hacker aqui 
+ >>27239568 \r\n \r\n Oi, aqui é o hacker, alguém quer teclar?
+ >marcelo, essas mensagens são suas? Checa seu celular ai \r\n >hacker aqui \r\n >outrossim, vale ressaltar \r\n \r\n Meua migo…
+ >hacker aqui, vou mandar uma foto da minha rola pra vocês. 
+ >>27239611 \r\n >vou provar que não sou como a mídia diz, espera só um minuto pra eu ajeitar o ângulo aqui 
+ >>27239568 \r\n Isso para mim foi o que me mais fez suspeitar se era realmente um hacker ou um macaco que trabalha na vivo, hue. \r\n Pelas evidências, o vazamento daquelas mensagens do Moro foram feitas por uma pessoa diferente desse hacker aí, tudo aponta que foi vazamento interno ou alguém com poder pagou algum trabalhador da vivo pra fazer isso.
+ >>27239611 \r\n Porra, nessas horas que eu queria ter brio e bolar para ser réquer, eu mandaria fotos do meu pinto nesse grupo sem pestanejar.
+ >>27239633 \r\n \r\n Essa macaco aí é o GOEC. Eu garanto.
+ Alguma postagem no dogola? \r\n Não acesso via tor aquela merda, mas gostaria de saber se estão comentando.
+ >>27239513 \r\n Mais vergonhoso foi eles não terem apagado as mensagens dos grupos. É uma sucessão de erros que faz tudo parecer surreal.

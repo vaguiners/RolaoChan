@@ -1,0 +1,18 @@
+ Por que essa merda? O windows não reconhece as partições do segundo HD, de 1tb, mas ele aparece no gerenciador de dispositivos, e o HD está bom de acordo com o CrystalDiskInfo.
+ Caralho, macaco, essa porra não é o google. Vai tomar nesse teu cu de incluso da porra, filho da puta.
+ >>27185438 \r\n Vai você que gosta e está recomendando, boiola.
+ >>27185452 \r\n Vai você que tá mais acostumado.
+ >>27185464 \r\n Se eu estivesse acostumado você não estaria mandando eu ir como xingamento.
+ Também estou com um problema parecido. Mas foi porque eu forniquei a porra toda com o diskpart então não sei se posso 'ajudar'.
+ >>27185506 \r\n Eu acho que cheguei a usar esse diskpart tentando instalar o Win7.
+ Com essa screenshot de merda, não dá pra ajudar. Tire uma da tela inteira do gerenciamento de disco.
+ >>27185627 \r\n Não tem nada demais.
+ Vã no gerenciador de dispositivos e atualize o driver desse HD.
+ >>27185996 
+ >>27186036 \r\n Uma tentativa mais drástica, mas pode ser que funcione. Reinicie, entre no setup e veja se esse HD aparece lá. Se aparecer, já teremos a certeza que é coisa do Windows.
+ >>27186051 \r\n Aparece.
+ >>27186055 \r\n Ok. Abra o terminal do Windows, digite DISKPART, depois list disk. \r\n \r\n Tire print do que aparecer.
+ Sou quem te recomendou o Crystal Disk Info. Queria te ajudar no troubleshoot, mas estou morrendo de sono. Fui menos preguiçoso hoje e pesquisei mais ou menos o problema. Dê uma lida nisso aqui e veja se ajuda em algo. Boa noite, anão, e boa sorte. \r\n https://www.partitionwizard.com/partitionmagic/dynamic-disk-invalid.html 
+ Você reinstalou o Windows recentemente? \r\n Isso tá me cheirando a tipo de partição diferente. \r\n Qual você usou na criação do boot, MBR ou GPT?
+ >>27186089 \r\n \r\n >>27186114 \r\n Sim. Não sei. É um pc novo e eu tentei instalar o Win7 antes desse, mas ele é meio incompatível com essa mobo nova. Eu cheguei a mexer no HD porque ele não queria se instalar, mas foi só nesse de 500gb em que o windows está agora; não mexi no de 1tb, até porque meus dados estão lá. \r\n Não me lembro de escolher isso aí, foi automático. \r\n \r\n >>27186090 \r\n Vou ler amanhã, já estou pra dormir também.
+ >>27186136 \r\n Digite 'select disk 1' e em seguida 'format /q'.

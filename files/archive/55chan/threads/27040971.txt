@@ -1,0 +1,2 @@
+ Carro ou bicicleta? Qual vale mais a pena?
+ >bicicleta \r\n >não andando de mociclo 

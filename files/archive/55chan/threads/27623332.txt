@@ -1,0 +1,9 @@
+ Anão, qual o seu modelo do osciloscópio Rigol? Aquele de quatro canais.
+ Nenhum.
+ E-eh? Me explique o que é isso, eu também quero ter um.
+ >>27623332 \r\n \r\n Para que serve esta ferramenta, OP?
+ Epa, como você sabe que eu tenho um osciloscópio Rigol, aquele de quatro canais?
+ >>27623379 \r\n Não sou o OP, mas serve pra saber quando algum componente de algum circuito elétrico está com defeito. Você liga o aparelho no circuito em série ou em paralelo e mede a corrente elétrica e a forma dela com ele.
+ >>27623412 \r\n Você mostrou no outro dia. Agora me diga qual o modelo. Eu infelizmente esqueci. \r\n \r\n >>27623379 \r\n Analisar sinais elétricos. Usado para projetos e manutenção de equipamentos.
+ Não sou o anão, mas lembro da thread. Acho que era o DS1054Z.
+ >>27623424 \r\n Com um pouco de lábia dá pra arrancar dinheiro de vadias medindo a corrente delas e dizendo que está instável, cobrando uma bagatela para fazer um pequeno tratamento espiritual baseado em signos? Se sim, agora que eu >>27623345 quero um mesmo.

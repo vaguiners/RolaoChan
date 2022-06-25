@@ -1,0 +1,19 @@
+ PUTA QUE PARIU, EU REALMENTE CONSEGUI ESCREVER UM PROGRAMA QUE FAZ ALGUMA COISA! FINALMENTE SAÍ DOS PROBLEMAS HUUR USE CONDICIONAIS PARA SABER SE ALUNO PASSOU DE ANO . CARALHO, MEUSA MIGOS, EU ESTOU COMEÇANDO A APRENDER A PROGRAMAR! ESTOU ME SENTINDO UM FODENDO MAGO D A COMPUTARIA! \r\n \r\n ESSE CARALHUDO BAIXA VÍDEOS DO YOUTUBE! É UM PROGRAMA DE VERDADE QUE FUNCIONA! \r\n \r\n \r\n \r\n import pytube as py \r\n import tkinter as tk \r\n \r\n root = tk.Tk() \r\n \r\n altura = 200 \r\n largura = 300 \r\n \r\n def teste(entrada_link): \r\n print('Testando entrada', entrada_link) \r\n \r\n def baixarm(entrada_link): \r\n ytvideo = py.YouTube(str(entrada_link)) \r\n down = ytvideo.streams.first() \r\n down.download() \r\n print('Vídeo baixado com sucesso.') \r\n \r\n canvas = tk.Canvas(root, height=altura, width=largura) \r\n canvas.pack() \r\n \r\n frame = tk.Frame(root, bg='#80c1ff') \r\n frame.place(relwidth=1, relheight=0.7) \r\n \r\n link = tk.StringVar() \r\n \r\n entrada_link = tk.Entry(frame, textvariable=link) \r\n entrada_link.pack(side='left') \r\n \r\n botao = tk.Button(frame, text='Baixar vídeo', command=lambda: baixarm(entrada_link.get())) \r\n botao.pack() \r\n \r\n \r\n root.mainloop() \r\n \r\n 
+ Ative o Botnet, pobretão.
+ >>26716187 \r\n Isso deixa de incomodar depois de um tempo.
+
+ >>26716205 \r\n Me ajuda aí, companheiro. Estou ok com esse código, não é um dos piores.
+ >fazendo algo que já tem pronto em todos os cantos da internet \r\n \r\n Por que você não fez algo útil?
+ faz um xiter pra mim 😂👌
+ >>26716266 \r\n Porque quero aprender a fazer alguma coisa e pareceu um projeto adequado. Além disso, planejo melhorar o programa aos poucos para transformá-lo em algo de respeito. Uma funcionalidade que quero incluir é passar com arquivo txt com vários links e deixar baixando.
+ Perdi. Você ainda irá sofrer muito.
+ >>26716266 \r\n Não é figurativamente só fazer x == y?
+ >>26716302 \r\n Por quê?
+ >>26716314 \r\n \r\n O correto é Y==X.
+ >>26716314 \r\n Com dois sinais de igual você estaria comparando, não declarando a variável.
+ >>26716299 \r\n Certo, ainda é uma perca de tempo pois já existem ferramentas do tipo. De uma forma ou de outra, boa sorte perdendo tempo.
+ >>26716338 
+ >>26716345 \r\n Que ferramentas? Tudo tem um milhão de propagandas ou é muito pesado para minha carroça.
+ >>26716345 \r\n >perca de tempo \r\n \r\n Deus do céu.
+ >>26716359 \r\n Nem adianta reportar, a moderação não sabe a diferença entre perca e perda.
+ Baixa em qual qualidade?

@@ -1,0 +1,4 @@
+ >instalo o VirtualBox \r\n >instalo o Ubuntu \r\n >não consigo usá-lo devido a um erro de 'aceleração de hardware VT-x/AMD-V não disponível no sistema' \r\n \r\n Me ajudem, por favor. Estou desde as 18:00 tentando arrumar essa merda.
+ Basta trocar de processador.
+ >cornux \r\n \r\n Sempre perco com quem usa essa bosta.
+ >>27392298 \r\n Não consigo fazer isso por agora, anon. \r\n \r\n >>27392329 \r\n Hur dur, é só dar hide, ruindowsfag.

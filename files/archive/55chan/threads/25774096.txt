@@ -1,0 +1,11 @@
+ Boa noite, anões. Poderiam me indicar uma interface de áudio para tocar guitarra no PC? atualmente uso essa placa de som chamada guitar link juntamente com o simulador de amplificador Guitar rig, porém a qualidade é bem mediana. Com uma interface de áudio terei uma melhora na qualidade? E eu posso tocar no PC com guitar rig e um pedal externo? de WAH por exemplo?
+ Como assim tocar guitarra no PC? Você vai usar o teclado como se fosse um piano de guitarra e fazer peum peum pam?
+ >>25774120 \r\n Hurdur.
+ Scarlett solo.
+ >>25774156 \r\n Postei e estou abandonando o fi0, vou ver um filme.
+ >>25774159 \r\n Compre a 'U-PHORIA UM2' da Behringer. Comprei há três meses no Mercado Livre por uns 300 mangos e não me arrependo, custo-benefício incrível. Dá pra fazer muita coisa profissional nessa coisinha. Ela é USB e tem Entrada pra microfone com cabo XLR (caso precise gravar voz num microfone condensador), entradas pra headphone e outro pro P10 da guitarra, no caso. E tem uma puta qualidade de áudio comparada com essas plaquinhas como essa que você postou.
+ O guitar link é bem mediano mesmo, só de eu ter trocado ele pelo cabo do rocksmith deu uma diferença boa.
+ >>25774335 \r\n Esqueci de citar que tenho uma pedaleira da BOSS e funcionou perfeitamente, som limpo demais.
+ >>25774335 \r\n Você usa simulador de amplificador no PC? como o guitar rig? nessa interface de som que você postou dá pra tocar a guitarra e escutar uma backtrack pelo áudio do computador sem o som ficar picotando?
+ Anões que manjam das guitarrarias, me ajudem. O que seria melhor? Microfona um aplificador, logicamente um microfone de qualidade, ou usar alguma dessas interfaces?
+ >>25774386 \r\n Não tenho o Guitar Rig, uso o FL Studio 12 que baixei crackeado já há algum tempo, eu recomendo também. \r\n \r\n Sobre o som picotar, você fala de underruns com o áudio? Essa da Behringer não picota de jeito algum, a qualidade é realmente muito boa. Eu faço direto esse lance dos backtracks aqui.

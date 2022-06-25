@@ -1,0 +1,23 @@
+ Como aprender Python, ao menos o básico para uma lista de faculdade, rapidamente? \r\n \r\n Sei o básico do básico. \r\n \r\n >'hurr chama o godilson' \r\n \r\n Macacos.
+ >python \r\n >pede ajuda para aprender \r\n >PYTHON \r\n >chama os anões de macacos \r\n Kek, se fornique sozinho.
+ >>26742316 \r\n Só chamei de macaco quem vem com esse papo de godilson. Não seja analfabeto.
+ Chama o Godilson. 
+ Caraca, coloquei esse spacing enorme, mas editando não estava assim.
+ >>26742319 \r\n >não sabe python \r\n >chama o anão de analfabeto \r\n Perdi mais do que deveria.
+ Chama o Gô da Python. \r\n Ele é o Emerson das obras virtuais.
+ Kek.
+ Hurr, chama o Godilson.
+ Chama o Godilson!
+ >leddit spacing \r\n Se vira, negroide.
+ É fácil, pegue a sintaxe e procure por exercícios.
+ >>26742322 \r\n >>26742529 \r\n Leia. \r\n \r\n >>26742530 \r\n Onde acho isso?
+ Chama o Godilson.
+ >centenas de livros, disponíveis gratuitamente* na internet \r\n >cursos de graça espalhados na internet \r\n >vem perguntar no chan \r\n Acho que não há salvação para ti, OP.
+ >>26742740 \r\n >Onde acho isso? \r\n NA \r\n INTERNET, \r\n FILHO DA PUTA. 
+ Chama o Godilson.
+ Faça um curso na Allure.
+ Fala com Yan, ele é mestre nas pyntonarias.
+ >xinga de macaco \r\n >espera qualquer ajuda \r\n \r\n Se fornique aí.
+ >>26742792 \r\n >>26742319 \r\n Fuck…
+ CHAMA O GODILSON, PREGUIÇOSO FILHO DA PUTA. 
+ Coincidentemente, também estou tendo que estudar Python (nada de faculdade, um cliente específico esta precisando). \r\n \r\n Meu objetivo é fazer uma api rest com Django, então estou seguindo esse tutorial aqui: https://www.django-rest-framework.org/tutorial/quickstart/ \r\n \r\n E pra instalar no ruindows, segui esse tutorial aqui ( O python 3 já não precisa instalar o pip, fora isso o resto é igual): http://pythonclub.com.br/instalacao-python-django-windows.html - também dá pra usar o docker, mas vou deixar pra mexer com docker depois. \r\n \r\n Não sei muita coisa, OP. Só que a linguagem é meio estranha, não usa chaves e a identação já é a definição de um escopo pra uma função/classe etc. Mas pelo menos a instalação do Django foi suave e já testei uns métodos GET e POST. \r\n \r\n Boa sorte pra nós.

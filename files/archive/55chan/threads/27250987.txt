@@ -1,0 +1,15 @@
+ Vou dumpar uns charts aleatórios aqui. \r\n \r\n Quem quiser dumpar os seus, fiquem à vontade. \r\n \r\n Esse último é bom para… Deixa para lá. 
+
+ Estes charts são velhos, então não sei se ainda funcionam.
+
+ >Esse último é bom para…Deixa para lá. 
+
+ >>27251001 \r\n \r\n Anões, de coração, essa é a essência de DDoS? Sempre tive curiosidade, economiafag aqui, não entendo quase nada de TI…
+
+
+ >>27251175 \r\n Também gostaria de saber.
+
+
+
+ >>27251252 \r\n >>27251175 \r\n Em teoria sim, existe Dos e o DDos (que seria a negação de serviço distribuída). A negação de serviço é bem mais eficaz quando o servidor aloca recursos, faz o handshake e você o ignora. Portanto, fazendo isso em loop vai exceder o sua capacidade. \r\n \r\n Entretanto, é bem capaz que o PING será filtrado, ele nem mesmo vai querer abrir um canal de comunicação com você. Nesse caso, para que você realmente afete-o, você precisa de uma quantidade bem mais absurda de requests.
+

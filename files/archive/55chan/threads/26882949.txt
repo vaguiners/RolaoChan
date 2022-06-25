@@ -1,0 +1,5 @@
+ Anões, alguém poderia me ajudar na resolução dessa questão? Pago sendo um bom anão.
+ 10/10, saudades de estudar matemática. Isso é o que, exatamente? Estruturas algébricas, anão?
+ Existem longos intervalos na reta, considerando números inteiros quando comparados à R. 1,2,3… R possui 1,001, 1,002… 1,003.. ad infinitum. Então não é denso. \r\n Os números racionais são densos porque possuem mais pontos do que a reta R dos reais e os contêm.
+ O item A é imediato pois tomando como exemplo o número PI (3,14….) ele está entre 3 e 4 que pertencem a Z mas PI pertence aos irracionais portanto existe pelo menos um conjunto que não satisfas a regra.
+ >>26882998 \r\n >satisfás \r\n Fix'd.

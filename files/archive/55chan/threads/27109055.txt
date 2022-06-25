@@ -1,0 +1,16 @@
+ Anões, algum de vocês utilizam o PCSX2? Quero jogar Gran Turismo 4 porém tenho problemas de performance mesmo com um PC bom.
+ Defina PC bom.
+ >certifique-se de baixar patches específicos para o seu jogo \r\n >use sempre a última versão do emulador \r\n >baixe isos modificada \r\n >??? \r\n >lucro 
+ Só usar speed hacks e abaixar algumas opções gráficas. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>27109072 \r\n http://lmgtfy.com/?q=pcsx2+gran+turismo+4+issues+patch+mod+iso+fix+lag \r\n Aqui, OP.
+ >>27109060 \r\n i7 7700k \r\n GTX 1080 \r\n 8GB 2400Mhz
+ Eu rodava esse jogo em um notebook em 2011.
+ >>27109101 \r\n Op é incluso e não sabe configurar.
+ >>27109115 \r\n Sou o quotado, e achei um belo guia para o OP. \r\n >gran turismo 4 \r\n >Minor stutters and jumps, random freezes at Circuit Selection on Non-BC Consoles, 4.82 Firmware - Rebug or Ferrox, seems not to manifest any freezes, only older firmware manifests this issue, 4.81 or lower, BC Consoles plays flawlessly. On the US and EU version of the game, when going to the Licenses challenges the game freezes, in order to stop the freeze you will need the CONFIG that its in the github zarh files. \r\n >Setting video output to Progressive (480p) seems to fix stuttering issue 
+ Filho da puta, fui testar aqui e meu PC travou.
+ Tem vários vídeos ensinado a configurar, OP. Um pc okay já vai rodar o jogo em 1280x720. Also, esse jogo é um terror, ele não rodava no meu playstation 2.
+ Esse emulador é uma grande bosta, tenta achar as configurações de alguém com um PC parecido com o seu, talvez ajude, mas são poucos jogos que ficam 100%.
+ Até hoje não consegui rodar Crash TS nessa merda.
+ Por que é tão difícil esses emuladores conseguirem rodar os jogos sem problemas? Os computadores são muito melhores que os consoles, os jogos são feitos nos computadores e mesmo assim é quase impossível emular os jogos e jogar na excelência sem nenhum problema.
+ >>27109538 \r\n Porque eles tem preguiça e não recebem estimulo pra trabalhar, e não é tão trivial assim emular um console com uma arquitetura complexa como a do PS2. Igual um anão havia dito aqui uma vez: O PCSX2 vai ser o novo Epsxe ou seja, vão abandonar esse emulador.
+ >>27109599 \r\n >porque os programadores desses emuladores tem preguiça e não recebem estímulo para trabalharem neles. \r\n \r\n Fixado.

@@ -1,0 +1,20 @@
+ Qual a melhor pasta térmica, para se usar em um notebook gammer que super aquece? \r\n >você deve postar com uma imagem \r\n >você deve postar com uma imagem \r\n >você deve postar com uma imagem 
+ Eliminar o que está comendo 100% de CPU o tempo todo. \r\n \r\n Refrigeração de notebook, mesmo com pasta nova, é uma bosta. E pode usar qualquer uma.
+ >>25699523 \r\n >Refrigeração de notebook, mesmo com pasta nova, é uma bosta. E pode usar qualquer uma. \r\n Fornique não, amigo. O problema é o custo pra manutenção. \r\n Agora barateou, antes era R$ 300,00. \r\n https://avell.com.br/cooler-para-avell-g1511-g1711-b155 
+ >>25699523 \r\n Ele desligou com o league of legends agora. \r\n Mas já tenho um cooler novo também, dei uma limpada. Só queria uma pasta térmica boa, antes de tentar improvisar gambiarra pra refrigerar mais. \r\n Como uso Windows 10, tudo come CPU o tempo todo, mas vou ver o que posso fazer.
+ >>25699533 \r\n Windows 7.
+ >>25699529 \r\n Deixe de ser burro, o código da peça está na foto e ela custa 9 trumps no ebay, e provavelmente pode ser encontrada por um preço ainda menor se você manjar das lojas chinesas. \r\n O pessoal da avell nem pra ser judeu serve.
+ Tenho um notebook antigo e a melhor coisa que eu comprei foi um exaustor de plástico, retirar o ar quente é muito importante para a refrigeração, acha até por R$30 no amigo livre.
+ >>25699619 \r\n https://produto.mercadolivre.com.br/MLB-790309157-cooler-exaustor-retirar-ar-quente-do-notebook-dx-1000m-_JM \r\n Faz um barulhinho no máximo.
+ >notebook gamer \r\n Sai daqui, incluso.
+ >>25699533 \r\n Instale ruindows 7, compre uma arctic silver e gambiarre uma ventoinha na saída para puxar/empurrar o ar quente mais eficientemente. \r\n Notebook gamer é complicado, anão. Termodinâmica é algo que não existe magia.
+ >>25699622 \r\n >notebook gamer = incluso \r\n Viajei para a Espanha no auge do bitcoin e comprei a pica relatada. Na época era mais barato comprar o notebook inteiro lá fora do que a placa de vídeo sozinha por aqui, e a diferença de performance é menos de 5% para a versão de desktop. Não sou o quotado.
+ >>25699647 \r\n Claro que comprou, incluso.
+ >>25699657 \r\n Não te devo prova nenhuma mas aí está, amiguinho. Desde quando a nvidia parou com a viadagem de GPUm é muito mais negócio comprar notebook do que desktop. É só não comprar de marcas ruins que não conseguem dissipar o calor, mas esta regra também vale para peças de desktops.
+ >>25699669 \r\n Essa nojeira cheira de pelo de gato. \r\n \r\n Poste as tetas, vagabunda. \r\n \r\n GATO É UM LIXO.
+ >>25699678 \r\n Mas esta é gata. E eu tenho oito e uma empregada que vem duas vezes por semana só para cuidar deles. \r\n E de você, quem é que cuida?
+ >>25699693 \r\n >oito gatos \r\n \r\n Parou de tomar o tarja preta?
+ >>25699702 \r\n Ainda tomo o pra dormir, e você?
+ Vou dar um jeito de puxar o ar de trás. \r\n >>25699576 \r\n Sim, foi o que eu fiz. Porém até chegar estragou a porra toda, e tiveram que consertar a placa. \r\n >>25699619 \r\n >>25699620 \r\n Fornique sim, infelizmente o meu a saída de ar é do lado, o que faz inutilizar isso.
+ Pasta base, mais fermento que pó.
+ Caso você não queira rodar tudo no máximo, use o software GeForce Experiente da NVIDIA. Ele irá otimizar tudo automaticamente para você. Recomendo ainda ativar o modo Whisper Mode para uma maior queda de temperatura e sem comprometimento de jogabilidade.

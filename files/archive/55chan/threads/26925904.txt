@@ -1,0 +1,1 @@
+ Algum anão que saiba de polinômios por aqui? \r\n Peguei uma lista para fazer mas não consigo passar do seguinte exercício: \r\n \r\n Determine um polinômio que tenha como raízes -3,2 e 5. \r\n \r\n Eu não faço ideia de como fazer o caminho inverso.

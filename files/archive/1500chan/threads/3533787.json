@@ -1,0 +1,21 @@
+[
+  "Como calcular isso?",
+  "Regra de três.",
+  null,
+  "Bump.",
+  "Estudei isso em eletrônica mas não lembro mais.",
+  "Kek, está pronto para ser o próximo motorista do Uber?",
+  ">>3533887\r\nEstou.",
+  "Resposta é 3.",
+  "Esse fio no meio deixa os resistores de 1 e 2 ohms em curto, \"anulando-os\". Aí você calcula os resistores de 5 ohms em paralelo e soma com o de 0.5 ohms. **Eu acho, estudei isso no ensino médio há 5 anos.**",
+  "Ta aí.",
+  ">>3534228\r\nValeu.",
+  "({[(1+2)//0]+5}\\\\5)+0,5 = \r\n({[(3)//0]+5}\\\\5)+0,5 = \r\n({[0]+5}\\\\5)+0,5 = \r\n({5}\\\\5)+0,5 = \r\n(2,5)+0,5 = \r\n3,0\r\n",
+  ">>3534228\r\nPor que cancelou o resistores de 1 e 2 e não os dois de 5.",
+  ">>3534288\nOs elétrons não precisaram passar por esses dois resistores pra chegar no polo positivo.",
+  "Que porra de sinal é esse? É uma ligação de fios mesmo?\r\n\r\nO caminho de menor resistência é o de 5 ohms, a resposta deve ser somatória dele com o 0,5. Só estou usando senso comum, porque não vejo isso faz uns treze anos.",
+  ">>3534228\r\n>esses resistores em paralelo diminuindo a resistência\r\nNão me lembrava de nada disso. Kek.",
+  ">>3534288\r\nComo tem aquele fio sem resistência toda a corrente passa pelo fio descartando os resistores de 1 e 2 ohm, não cancelei os dois de 5 ohm porque a corrente passa neles já que a fonte de tensão está na direita.\r\n\r\n>>3534316\r\nQual sinal?\r\nSe for o X eu coloquei uma letra qualquer para mostrar que os dois X's estão no mesmo potencial.\r\n",
+  "Assim fica mais fácil, OP?",
+  ">>3534378\r\n\r\nMas esse circuito que você desenhou não é o mesmo que o do OP. Esse daí é tem diferença de potencial entre o resistor de 1 e 2 ohms, no do OP não tem."
+]

@@ -1,0 +1,3 @@
+ Nunca vi ninguém programando assim. E vocês?
+ Não entendi muito bem essa metodologia, anão.
+ >>27547913 \r\n Imagine que vai implementar um nova função. Para isso, você define as entradas e saída dela. Após isso, você escreve primeiro o teste e só depois vai implementar o corpo da função de fato. É esquisito, pois o pensamento comum é sempre testar depois de implementar qualquer coisa.

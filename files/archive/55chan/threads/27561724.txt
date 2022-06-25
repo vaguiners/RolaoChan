@@ -1,0 +1,33 @@
+ É o seguinte, sou um Desenvolvedor Front-end que está aprendendo Back-end e para procurar um emprego estou desenvolvendo meu portfólio. \r\n \r\n Um dos meus projetos é um Image Board com intuito apenas de aprender a manipular posts/arquivos. \r\n \r\n Caso queiram me ajudar a testar/darem a opinião de vocês vou colocar o endereço dele aqui. Lembrando que esse é apenas um projeto para o meu portfólio, não pretendo fazer 'um novo chan'. \r\n \r\n http://159.203.176.152/pictix/#/ 
+ Hoje não, Pereira.
+ Clicou, honeypot entrou.
+ >precisa de cadastro \r\n Troca o favicon pelo menos. 
+ Vá dar a sua bunda suja, programador de front-end.
+ Arruma a validação dessa merda, não deixe os inputs apontando erro antes mesmo de selecionar o campo. \r\n Certeza que sabe front-end?
+
+ >front end 
+ >>27561759 \r\n Quando não tiver problema melhor pra resolver eu troco. \r\n \r\n >>27561771 \r\n Pode pelo menos em qual página e qual navegador está usando?
+ >é desenvolvedor front-end \r\n >essa merda 
+ Confesso que fiquei meia hora procurando o chan, estude mais, OP.
+
+ Pelo visto temos diversos especialistas aqui…
+ >>27561813 \r\n >>27561801 \r\n \r\n Vocês sabem a diferença de UI/UX para Front-end? \r\n \r\n Fiz essa merda em dois dias, tem muito pra melhorar ainda.
+ Finalmente primeiro semestre de desenvolvimento web!
+ Caso desperte o interesse real em algum anão, pretendo disponibilizar todo o código fonte quanto da API (Laravel) quanto do front (Angular) na board /comp/. \r\n \r\n Para os especialistas recomendo o seguinte: façam um melhor e vamos trocar experiências.
+ >>27561877 \r\n Anão, você é inocente? você está no bê, é claro que vão macaquear. Seria mais fácil ter postado no /comp/ e esperar dias pela resposta.
+ >>27561882 \r\n Eu queria uns macacos pra testar, só vou postar no /comp/ após implementar as boards e trabalhar um pouco na experiência do usuário.
+ >>27561890 \r\n Entendo, boa sorte na sua jornada.
+ >>27561877 \r\n Eles estão protegidos pelo anonimato, nem devem saber programar. \r\n Poste no /comp/ quando possível. Sou iniciante e isso vai me ajudar.
+ >>27561902 \r\n >>27561902 \r\n >>27561902 \r\n >>27561902 
+ >>27561902 \r\n >>27561902 \r\n \r\n Eu também sou iniciante e seria de grande ajuda. Por favor, OP. Sem vírus, por favor. 
+ Kek.
+ >esse op bundadoída \r\n Está uma merda, OP. Se pelo menos fosse em JS vanilla eu até daria um crédito, mas encher o cu de framework e fazer essa merda de calouro. Nada contra frameworks, mas mesmo com essas facilidades ainda mostrar um negócio porco desse. Isso porque você se declarou 'desenvolvedor frontend'. Não quero nem imaginar como está este backend, então. \r\n >ain só estou há dois dias fazendo \r\n Então esperasse mais para vir aqui mostrar porque isso que você mandou é coisa de calouro que teve o primeiro contato com webdev. Seja mais humilde e aceite as críticas.
+ >>27562266 \r\n >Framework JavaScript \r\n >Se pelo menos fosse JavaScript \r\n \r\n Pra ficar mais JavaScript só se o back fosse node…
+ >>27562305 \r\n JS puro, retardado, sem framework. Além de calouro, é burro.
+ >>27562321 \r\n Mas porque caralhos eu faria isso? \r\n \r\n Reinventar a roda? Vocês só avaliam o layout, se eu fosse Designer pelo menos. \r\n \r\n Eu tenho a rotas/data binding/segurança… \r\n \r\n Todo o código é JavaScript puro, mesmo sendo framework.
+ Faz em assembly Op.
+ >precisa de cadastro \r\n Você está de brincadeira com a minha cara, seu merdinha?
+ >>27562169 \r\n >>27561912 \r\n >>27561902 \r\n \r\n Podem ficar tranquilos, vou criar o parênquima paliçádico.
+ >>27562538 \r\n Não tem nenhuma validação de email nem nada, você pode se cadastrar com email falso.
+
+ >>27562574 \r\n Kek

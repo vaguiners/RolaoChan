@@ -1,0 +1,21 @@
+ Existem infinitos infinitos, mas será que existem infinitos infinitos entre dois infinitos? Isto é, da mesma forma que existem infinitos números entre 0 e 1.
+ Leia sobre teoria dos números.
+ >existem infinitos números entre 0 e 1. \r\n Mas os números entre 0 e 1 são finitos, começam quando saem do 0 e acabam quando chegam em 1. \r\n Você não saber quantos existem não quer dizer que sejam infinitos.
+ Acredito que existam sim infinitos entre dois infinitos, mas não saberia bolar uma teoria.
+ >>27310583 \r\n Teoria dos números são proposições cujo o domínio de discurso são os números naturais, anão. Acho que você acidentalmente aí.
+ >>27310588 \r\n Não estou dizendo que um x que x>0 e 1>x, x é infinito. Estou dizendo que a quantia de números x que satisfazem 0>x>1 é infinito. É o contínuo , na verdade (já provado). Contínuo é um número transfinito (infinito).
+ >>27310593 \r\n Diga o que você tem por intuição, vamos tentar bolar algo aqui mesmo. :3
+ >>27310603 \r\n >Estou dizendo que a quantia de números x que satisfazem 0>x>1 é infinito \r\n Mas não é.
+ O infinito encontra sentido em si mesmo. Não precisa se dividir para fazer sentido. Infinito é apenas infinito, animefag de merda .
+ >>27310596 \r\n \r\n Só quero fazer o opzinho brincar mais com a matemática.
+ >>27310616 \r\n É sim. É maior que os naturais, que é a menor cardinalidade possível, e são infinitos naturais. Quer que eu demonstre?
+ >>27310611 \r\n Se existe infinito, infinito do infinito mesmo todos eles sendo infinitos, por que não existiriam infinitos entre dois infinitos? Pois os mesmos já são infinitos.
+ >>27310618 \r\n Tá.
+ >>27310626 \r\n Não, não preciso que você se humilhe demonstrando sua estupidez.
+ >>27310631 \r\n Porque a tarefa é: o que eu tenho que tirar de um infinito para que ele continue maior que o outro, mas diminua de fato?
+ >>27310636 \r\n Pescando essa hora? Relaxa aí, mano.
+ >>27310646 \r\n Não estou pescando, meu caro, estou apenas atestando que você leu meia dúzia de artigos na wikipedia, interpretou metade errado e ainda não compreendeu o conceito de infinito, enumeráveis e incontáveis.
+ >>27310655 \r\n Ou seja, projetando. Ou pra pescar, ou apenas está tendo um dia ruim. \r\n \r\n >infinito \r\n Dedekind. \r\n >enumeráveis \r\n Possuem bijeção com um subconjunto natural. \r\n >incontável \r\n Não há sobrejeção dos naturais, como na diagonalização de Cantor.
+ >>27310640 \r\n Se ele é infinito então não teria como tirar, e sim acrescentar mais infinitos.
+ >>27310679 \r\n O que estou pensando é o seguinte, caro anão: \r\n R é contínuo. Se eu tirar os irracionais, ficam só os racionais. Os racionais são enumeráveis, mas R não era. Então eu mudei a cardinalidade ao tirar os irracionais. O que eu precisaria tirar para que não fosse mais R, mas não tivesse a mesma cardinalidade de N?
+ O infinito é imensurável.

@@ -1,0 +1,43 @@
+ Qual é realmente o diferencial do SSD além de copiar arquivos e abrir o sistema mais rápido? \r\n Vale a pena trocar um HD por ele?
+ Esse é o diferencial, animal. Por que você acha que pessoas trocam um HD com teras de armazenamento por um pedaço de bosta com um armazenamento minúsculo?
+ Pescaria da boa.
+ >>27071086 \r\n Aliás, o ideal é utilizar em paralelo com um HD, SDD é apenas para o sistema e o HD para armazenamento. Então se você quer mais velocidade, compre essa bosta e fornique-se.
+ Tudo funciona mais rápido. O Windows abre e opera mais rápido, os programas abrem e operam mais rápido, tudo fica mais rápido. Simples. É provavelmente o upgrade mais valioso em um computador que usa disco rígido. A diferença é imensa.
+ Qual é realmente o diferencial da placa de vídeo além de rodar os jogos com um desempenho superior? \r\n Vale a pena trocar um vídeo onboard por ela?
+ Até consoles desfrutam.
+ >>27071134 \r\n Não vale a pena trocar um vídeo onboard por ela.
+ Vale mais a pena trocar o HD por SSD ou colocar mais 4 GB de RAM? Tenho 4 GB DDR3 1600 Mhz.
+ >>27071142 \r\n Faça os dois, seu pobre fudido.
+ >>27071142 \r\n >comprando RAM \r\n >2k19 
+ >>27071142 \r\n Escolha sua arma.
+ >>27071147 \r\n Justamente por eu ser um pobre fodido não posso fazer os dois, burro fodido.
+ >>27071153 \r\n Guarde para não faltar arroz e feijão.
+ >>27071152 \r\n Meu computador simplesmente congela abruptamente. Deve ter algo de errado com o HD, irei comprar um SSD. A fodendo taxa de transfêrencia é 5 MB/s ou menos.
+ >>27071157 \r\n Ele está desgostoso por ser o HD do computador de um POBRE.
+ >>27071162 \r\n Maluco, me desrespeita novamente pra ver o que acontece.
+ Placebo.
+ >>27071169 \r\n POBRE DE BOSTA! 
+ >>27071180 \r\n Morra de fofura. 
+ >>27071188 \r\n Duplos duplos. Heil Bonbi.
+ >>27071083 \r\n Nunca compre Toshiba ou Sansung essas merdas quebram.
+ >>27071213 \r\n >Sansung \r\n Falsificado é ruim mesmo.
+ >>27071118 \r\n \r\n Pode fechar esse caralho.
+ >>27071234 \r\n O que isso quer dizer? O HD passou 26180 horas ligado, e foi ligado 6143 vezes.
+ >>27071218 \r\n Então por que será que meu sistema congelou quando meu HD cheio de bad blocks com o Windows instalado fudeu toda a partição? Ou uma vez que um segundo HD deu pau e também congelou tudo e não deixava iniciar o sistema até eu retirar ele. Hein? \r\n \r\n É a mesma coisa que eu falar que você não está com dengue porque febre é problema de quem está gripado.
+ Bump.
+ >>27071393 \r\n Ok para um HD de 160GB, mas a velocidade de leitura e gravação não dizem muito sobre a saúde do HD. Teste com o CrystalDiskInfo.
+ >>27071393 \r\n Seu HD é um guerreiro, poderia ter uma vida ainda maior se você não ficasse ligando e desligando ele tantas vezes. \r\n \r\n Also, esse meu de 1TB eu comprei usado há um ano mas com praticamente nenhum uso pois ficava desligado em um servidor. Mas depois da primeira desfragmentação ele acusou setores realocados e no momento estou levando sem nenhum outro para backup. \r\n \r\n Aos anões que entendem melhor, será que corro risco dele parar ou ainda pode durar mais? O Windows está no SSD e eu desativei a desfragmentação ele, uso só para backup e salvar algumas coisas de vez em quando. \r\n \r\n Pela experiencia de vocês o que me dizem?
+ >>27071475 \r\n E o que você diz do meu, anão. Kek.
+ >>27071475 \r\n HD Toshiba é complicado, estavam vendendo HD OEM usado em servidores porém eles adulteravam essas informações para parecerem novos.
+ Instalei um neste fonal de semana, OP. Inclusive vom aqui no /b/ perguntar se realmente compensava, e posso garantir que só me arrependo de não instalado antes. Como ja disseram, tudo funciona melhor, de forma mais fluída. Peguei pouco mais de 300 reais por um da Kingston, de 480 gigas. Vá no Mercado Livre.
+ >>27071778 \r\n >vim \r\n Fixado. \r\n Also, uma coisa: tenho um HD toshiba que funciona faz 12 anos, de forma absolutamente intensa, e até hoje esta firme e forte. Já gravei e apaguei muitos terabytes dele.
+ >>27071827 \r\n >um HD \r\n O que é survival bias?
+ >>27071708 \r\n Em meus 20+ anos de experiência com armazenamento, verifiquei que sempre que meus HDs começam a realocar, o disco imediatamente começa a ficar lento e morre completamente entre 1 a 7 dias. A melhor forma de salvar os arquivos quando você é um cabaço que não faz backup é: assim que o primeiro setor realocado aparecer, desligue o HD imediatamente para congelar a progressão do câncer. Depois que você fez isso, o controle de danos entrou em ação. Só ligue o HD novamente quando estiver com o plano de backup 100% planejado e pronto para executá-lo. \r\n \r\n Eu uso Hard Disk Sentinel para monitorar os parâmetros S.M.A.R.T. O software me envia alertas via e-mail sempre que um parâmetro crítico, como setores realocados, mudam de valor. Também tenho sempre um backup completo de imagem da minha C:\ (SSD) e minha D:\ (HDD) em um HDD offline. Mas o recomendado é ter, adicionalmente, um serviço pago de backup completo na nuvem, além de backup em HDD local. \r\n \r\n Há quem diga que se você não tem 3 cópias dos seus dados, eles não existem.
+ >>27071134 \r\n Não compre cachorro MSI. Tive uma que o fan durou 2 anos e parou. A minha atual EVGA GTX760 funciona faz 5 anos 24/7 e zero fornicações dadas. Ainda faz um overclock de 15%.
+ Aproveitando o parênquima, sou incluso e preciso de ajuda. \r\n Meu notebook do nada começa a girar muito rápido o HD de vez em quando, isso ocorre de noite, acho que 1 vez a cada 2 dias. Uso Windows 10 LTSB pirata. \r\n Outra coisa é que se deixo apagar a tela, ele parece que liga e desliga. Não sei se isso é comportamento normal pra deixar o computador em stand-by.
+ >>27071963 \r\n Also, vocês abrem o notebook e limpam por dentro regularmente? É errado fazer isso?
+ Avaliem a minha sucata. Já está no bico do corvo ou aguenta mais um pouco?
+ >>27071437 \r\n >Teste com o CrystalDiskInfo. \r\n Aqui está. O que isso quer dizer?
+ Bump.
+ >>27071882 \r\n Acho que se algo no SMART já está em ponto crítico(ícone vermelho) o Windows avisa.
+ Bump.

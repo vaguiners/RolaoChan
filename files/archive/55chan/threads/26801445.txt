@@ -1,0 +1,36 @@
+ Você já teve alguma vez seus dados vazados na internet, anão? Não sabe? Então venha descobrir. \r\n \r\n >entre no site https://haveibeenpwned.com \r\n >coloque seu email \r\n >descubra quantas vezes seus dados já foram vazados na internet e em quais locais \r\n \r\n Posso me sentir seguro agora.
+ Não vou te passar meus dados. \r\n \r\n Brincadeira, o site é real. Já até fui atrás de alguns dos leaks e tinha minha senha antiga lá. 
+
+ >monte de serviços que eu nem uso mais \r\n Devo temer pela minha jabiraca?
+ >resolvo perder peso \r\n >instalo o MyFitnessPal \r\n >abandono logo depois \r\n >ainda assim tenho os meus dados vazados \r\n Puta merda.
+ >>26801495 \r\n Se usa as mesmas senhas, sim.
+ >>26801516 \r\n Normal. Outra coisa que vaza muito e não consta aí são fóruns aleatórios abandonados da internet.
+ >>26801523 \r\n Não uso. Uso senhas como 'SenhaDoGmail', 'SenhaDoHotmail', 'JudeusSafados1488', nenhuma delas aparece na lista de senhas descobertas.
+ Eu usou 3 níveis de senhas. \r\n >Nivel Hard, uma senha para cada serviço (cancro, email, universidade) \r\n >Nivel Medium, mesma senhas de SSH e logins (não me julguem) \r\n >Nivel Soft, esse é para os serviços que eu não fornicação uma fornicação. Fóruns, e outras merdas que uso meu email. \r\n \r\n Ainda tenho um padrão para contas throw away. Eu simplesmente cria o username@123, geralmente uso serviço de email da cock.li (recomendo para os anões).
+ Also, tentem acertar senhas que já foram vazadas e postem aqui o resultado: https://haveibeenpwned.com/Passwords \r\n \r\n >burnjews: 4 vezes \r\n >fuckchildren: 4 vezes \r\n >fuckkids: 16 vezes \r\n >kidfucker: 5 vezes \r\n >hitlerdidnothingwrong: 7 vezes \r\n >ifuckdogs: 38 vezes \r\n >ifuckmydog: 3 vezes 
+ >>26801598 \r\n >imgay \r\n >This password has been seen 3.300 times before 
+ Sempre atualizo e checo no site, mas dei um vacilo, tomei um pwn3d em janeiro desse ano, que desgraça do caralho. Já mudei a senha, ainda bem que não me foderam, valeu, OP.
+ >>26801598 \r\n Engraçado, minha senha de serviços irrelevantes já foi vazada 3 vezes (antiga senha do tibia que decorei e nunca mais vou esquecer). \r\n Agora o meu famoso niggers@123, que utilizo em serviços que não confio, nunca foi vazado.
+ >>26801534 \r\n Você dificilmente vai achar senhas em aberto nesses leaks, normalmente tem algum tipo de criptografia simples.
+ >>26801598 \r\n >1234567890: 2.224.432 vezes \r\n >123: 1.023.001 vezes \r\n >qwerty: 3.810.555 vezes \r\n >qwerty123: 592.110 vezes \r\n >0987654321: 232.005 vezes \r\n >0987654321qwerty: 450 vezes \r\n >allahuakbar: 9.947 vezes \r\n >666: 195.230 vezes \r\n >admin: 44.432 vezes \r\n >admin123: 48.406 vezes 
+ >>26801598 \r\n >flamerda: 18 vezes \r\n >bostafogo: 11 vezes \r\n >chupacu: 6 vezes \r\n >senhaforte: 196 vezes \r\n >senhasegura: 140 vezes \r\n >55chan: 7 vezes \r\n >mijao: 28 vezes 
+ >Good news — no pwnage found! 
+ >>26801625 \r\n \r\n Hue, também uso a senha do tibia, fui estuprado 23 vezes com ela. Mas para serviços importantes, uso variáveis dela, aí é sossegado.
+ >>26801618 \r\n >ihaveaids: 158 \r\n >hivpositive: 41 \r\n >niggerkiller: 69 \r\n >killallniggers: 8 \r\n \r\n >>26801636 \r\n Uma das minhas senhas era qwerty e eu achava segura (tinha 11 anos de idade) porque não era uma palavra e as letras pareciam aleatórias, kek.
+ >>26801592 \r\n Uso um sistema bem parecido. \r\n \r\n >>26801642 \r\n Seu e-mail é novo? Ou você não acessa muito conteúdo em inglês?
+ >>26801655 \r\n I-isso aí está vivo?
+ >>26801641 \r\n >55chan: 7 vezes \r\n Que senha de bosta \r\n \r\n \r\n Also, alguns autistas de merda me obrigam a escolher senhas fortes (8+ char, com caractere especial, letra maiúscula e com número). Sempre meto o Niggers@123 que funciona. Fica a dica…
+ Chequem.
+ >Mortal Online \r\n Me pegaram, bê.
+ >>26801655 \r\n Tenho o e-mail desde 2010-2011. Eu uso bastante para contas em joguinhos. Não sei como estou ileso.
+ Esses macacos de código nem se dão ao trabalho de usar um hash decente? \r\n Porra, eles não sabem que usar MD5 dá merda?
+ >MyHeritage \r\n >Patreon \r\n >XPG \r\n Caralho, que merda, nunca mais cadastro meu email em merda nenhuma.
+ >>26801680 \r\n Então… \r\n Eles usam um MD5, mas este site faz um MD5 da senha a ser testada e verifica com o banco de dados. \r\n Quando você pesquisa sua senha, acaba por dar ela para eles… \r\n \r\n Os programadores deveriam usar um salt em conjunto com o MD5.
+ >>26801690 \r\n Me refiro aos vazamentos. Não é possível que eles guardem as senhas em plain text no banco de dados, então deve ser MD5, para os hackers conseguirem quebrar.
+ >shitpisscum: 5 vezes \r\n Kek.
+ Porra, pior que deletaram esse paste de baixo, e é um número bem pequeno de e-mails. Tranquei o cu aqui, espero que não seja algo recente.
+ >>26801708 \r\n Foi exatamente isso que eu disse. \r\n Este site tem uma coleção gigantesca de hashes MD5, então quando alguém pergunta para ele se a senha 'boymagia' esta no banco de dados deles, eles fazem um md5 dela e verificam se a hash '8ffd1994921fcf3b0a4d8514aff42556' já existe no banco de dados deles. \r\n Se já existir, eles dão um update com sua senha lá para futuro usos…
+ >>26801680 \r\n Eu uso só a função PASSWOR() no MySQL.
+ >>26801735 \r\n Vou contar uma historia para vocês. \r\n A muito tempo atrás, quando estrelou o filme 'The Social Network', eu fiquei cismado em fazer alguma coisa semelhante na minha faculdade. \r\n Usando técnicas de 'google dork' eu achei um monte de dumps de sql do site da minha antiga universidade (na época ninguém dava bola para essas merdas, nego até usava GET para passar senha). Para minha surpresa, os doentes mentais do desenvolvimento 'criptografaram' as senhas usando BASE64… \r\n Como eu era um bosta, resolvi fazer graça e fuçar nas imagens dos meus colegas (eu baixava a imagem do perfil, abria no gimp, aumentava a cabeça e diminuía os olhos, nariz e boa, e então fazia o upload novamente), de alguma forma um professor (que eu considerava muito) ficou sabendo disso e eu fui para no reitor. \r\n Só escapei de ser expulso e tomar processinho porque falei que tinha visto a senha dos meus amigos na URL do navegador (como falei, eles usavam GET para autenticação). \r\n \r\n No meu outro HD eu devo ter um dump com informações de uns 3000~5000 alunos. \r\n \r\n \r\n Outra coisa, na época o site da universidade tinha uma nuvem de tags (isso sai fora de moda a meia década, use o google). Fiz um script com curl que ficava buscando PastelDeFlango no search do site e a porcaria da tag acabou ficando gigante no site.
+ Dois emails antigos meus que eu nem lembro mais a senha teve 1 e 4 data breaches, sem pasta. O resto não teve nenhum. Eu meio que queria que tivessem vazado, para mim recuperar essas porras. Meu email principal teve 5 data breaches, sem pasta. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ Todos os meus emails foram vazados. Eu não tenho nada de valor mesmo, fornique-se.

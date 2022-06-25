@@ -1,0 +1,6 @@
+ Caras, posto que pretendo usá-lo com dois monitores e com uma GTX 1060 de 6gb, qual processador me faria melhor uso; o i5 8400 ou o Ryzen 5 2600? \r\n \r\n Ademais, 8 gb de memória basta? Com essa configuração consigo rodar joguinhos bons, correto?
+ Ryzen.
+ Para grande parte dos jogos, Intel é mais otimizado. De resto, AMD. \r\n 8gb eu acho o mínimo possível pra qualquer coisa. O ideal seria 16.
+ >>26628683 \r\n \r\n Interessante, li o oposto em algum lugar. Diziam que para jogos o AMD era melhor, sendo mais lento no resto. Terminarei comprando o que estiver mais barato, aparentemente, os dois parecem muito iguais.
+ >>26628720 \r\n AMD é característico por ter um número superior de threads em comparação ao Intel, mas boa parte dos jogos não é otimizado pra usar, então não faz muita diferença no final das contas. \r\n Mas com qualquer um dos dois você vai se satisfazer.
+ Depende do que você vai jogar anon,No padrão atual 8GB de RAM é o minimo. Ryzen ou Intel mais uma vez depende de QUEM FEZ o(s) jogo(s) que você pretende jogar. Essas configurações estão ótimas para jogar nessa 1060 de 6gb no 1920x1080p.

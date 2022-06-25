@@ -1,0 +1,63 @@
+ >anunciam internet com mais de 100MB, barata que adsl/vdsl \r\n >na hora do anúncio, fazem questão de falar que wifi está incluído \r\n >te entregam um modem de péssima qualidade \r\n >nenhum aparelho consegue receber mais de 50% da velocidade contratada \r\n >s-só garantimos velocidade por cabo, você pode estar encostado no roteador, não queremos saber \r\n >na prática, seus dispositivos vão receber apenas 50% da velocidade, já que fora o PC, nenhum outro dispositivo é conectado ao cabo hoje em dia \r\n >podem tranquilamente vender mais banda que possuem, já que o cliente raramente vai usar 100% do contratado \r\n Essa pilantragem das empresas brasileiras me surpreende. Tudo foi meticulosamente planejado.
+ >anunciam internet com mais de 100MB, mais barata que adsl/vdsl 
+ >ele acha que a esmagadora maioria dos usuários precisam de mais de 50mb de internet \r\n \r\n O público só usa internet pra ver vídeos e imagens, macaco.
+ Isso é senso comum, só macaco não entende que wifi é uma porcaria perto do cabo de rede. Eu não fico de jeito nenhum sem cabo, sempre cabeio tudo aqui em casa. Pra mim e pros meus velhos. \r\n \r\n Mais engraçado é o meu pai achando esquisito a fibra óptica não indo da rua até o computador.
+ >>27259927 \r\n Fix'd.
+ >>27259929 \r\n Olá, judeu da telecomunicação.
+ >Internet de 100Mbit/s \r\n >roteador 802.11g de 15 anos atrás que suporta até 54Mbit/s 
+ >>27259940 \r\n MACACO! 
+ >>27259942 \r\n Mas é a empresa que fornece o equipamento.
+ >>27259929 \r\n Vídeos cujo bitrate se aproxima de 5 MB/s para 1080p que requer uma velocidade mínima de 40Mbit/s, né seu narigudo safado?
+ >>27259929 \r\n E daí? Se contrataram mais de 100Mbit/s, nada mais justo que receberem essa velocidade, não a metade disso. Pare de ser putinha de ISP.
+ >>27259968 \r\n >>27259970 \r\n Vocês são muito inclusos.
+ Pare de usar Wi-Fi.
+ >>27259981 \r\n >0 argumentos. \r\n Nem como sabão você serve direito.
+ Tú tá falando da internet de 120mb da NET OP?
+ >>27259985 \r\n Juro que se pudesse eu desligaria antes de dormir, mas não adianta nada, estou rodeado de redes vizinhas.
+ >>27259931 \r\n Uma pena que é muito trabalhoso cabear tudo e deixar minimamente aceitável, esteticamente falando.
+ Um modem decente custa caro. Para diminuir os custos, eles acabam comprando esses modems merdas. Se quiser um decente, vai ter que tirar do próprio gibeira.
+ >>27259990 \r\n De todas as prestadoras que oferecem internet de alta velocidade com 'wifi incluso'. Os modens são uma bosta.
+ >>27259997 \r\n E tem como? No meu tempo como Net, quando vieram trocar o modem, tiveram que ligar pra lá e fazer a liberação do MAC address dele.
+ >>27259997 \r\n Pode fazer isto no caso de DSL? Muitos mexem nas configurações do modem para burlar limites de franquia ou velocidade. Imagino que as ISPs teriam interesse em impedir você de fazer isto.
+ >>27259991 \r\n Falo mais pela qualidade de sinal mesmo, Wi-Fi é lixo que só deveria ser usado em espertofones e naitebruques.
+ >esse preço \r\n Puta que pariu.
+ >>27260018 \r\n >>27260021 \r\n A NET usa DOCSIS, nesse caso tem que liberar o MAC do modem na central. \r\n \r\n DSL é pura festa e basta você configurar o aparelho que funciona. Also, use o aparelho da operadora para segurar a linha e use o wireless de um roteador bom. Esses 2 em 1 sempre são merda.
+ >>27260006 \r\n Nunca tive problemas com o que veio da Oi aqui. Por incrível que pareça.
+ >>27260107 \r\n Qual velocidade contratada? Qual velocidade que você consegue no wifi?
+ >>27259931 \r\n >não usando um powerline \r\n Burro.
+ Tenho dois modens Huawei Hg8245 que a Copel nunca veio busca. Gostaria de vender ou transformá-los em alguma coisa interessante.
+ >more perto de comunidade dominada por milícia \r\n >contrate 10MB por 30 gibeiras \r\n >receba 100MB \r\n \r\n É bom.
+ >>27260205 \r\n >morar perto de favela com milícia \r\n >bom \r\n Acredito.
+ >>27260205 \r\n >tenha que pagar taxas de segurança \r\n >tenha que pagar taxas para estacionar na rua \r\n >fecham ruas a bel prazer \r\n >tem que ser controlado por macacos que vivem de extorsão \r\n Prefiro ter ADSL de 2Mb que sustentar esses vadios.
+ >>27260227 \r\n Onde moro eles só cobram taxa depois de certo ponto do bairro, se morar mais pra dentro da comunidade.
+ >>27260205 \r\n Essa internet de milícia é daquelas que vem um cabo UTP da rua e coloca na porta WAN do roteador? Eu uso uma e é uma bela bosta pois qualquer chuva a internet cai, mas entregam a velocidade certa. Outro problema é que eles usam link dedicado de internet com IP Fixo, se um anão macaqueia e leva ban permanente no chan outro anão que for cliente dessa empresa se fornique. Pica relatada é o meu plano, pago 40 reais por 8 Mbps.
+ >>27260273 \r\n >ping de 49 \r\n Kek. Mas essas redes ilegais devem ser boas para baixar CP. Nem precisa de VPN. Deveria ter um pedoleiro loucohomem que alugasse uma casa em favela controlada por milícia e instalasse um servidor de pedolaria ali. Todo mundo sabe que só tem moleque covarde na PF e que eles nunca subiriam um morro.
+ >>27260285 \r\n Eu trabalhava em uma e moro em Pernambuco. Teve um caso de um provedor que a polícia federal bateu na casa dele por CP e na verdade foi um cliente dele que compartilhou a senha do wifi com o vizinho. O dono desse 'provedor' se fornicou duplamente, por manter um negócio sem pagar as taxas relativas ao CNPJ, a atividade do CNPJ ser diferente da cadastrada e o CP.
+ >>27260006 \r\n Pois essa promoção da NET de 120 mega por 100 gibeira é uma verdadeira bosta mesmo, não chega em 50 megas no wi-fi.
+ >>27260311 \r\n Em 2010/2011 tinha muitos provedores via rádio que utilizavam link residencial. Imagino a merda que deve ter dado em caso de crimes virtuais.
+ >>27260321 \r\n E ainda vem com limite de banda.
+ >>27260321 \r\n >>27260329 \r\n Fora o upload bostoso.
+ >>27260273 \r\n Chama PACPON essa porra aí, e até provedor legal usa. Em todo lugar é uma completa bosta. É uma tecnologia bosta. Também chamada carinhosamente de PACBOMBA.
+ É só privatizar OP!
+ >>27261625 \r\n Anatel carteliza o mercado, incentivando as operadoras a fornicar o consumidor desta maneira.
+ >>27261625 \r\n Melhor era o tempo em que havia filas de espera e uma linha telefônica custava o preço de um carro, não é, fetinho?
+ >>27261625 \r\n Also, já é privado. Se fosse público como nos tempos da Telebrás, teríamos sorte se tivesse planos de 512Kbit/s, e olha lá. O ping nem seria bom o suficiente para jogar um MOBA de merda.
+ >>27261651 \r\n This. No tempo do BOOM da internet banda larga, com provedores oferecendo internet ADSL todoonde, a Anatel disse que a operadora tinha que entregar 10% da velocidade contratada. Anatel sempre prestou um desserviço.
+ Anões, tenho a NET de 120mb com aquele cabo coaxial. Porém, sempre que faço download de um jogo da steam, o wifi pifa do nada e para de funcionar. \r\n \r\n Existe um roteador que eu possa comprar que use cabo coaxial ou é melhor eu fazer um bridge com um outro roteador decente pra ele fazer o wifi da casa?
+ >>27261800 \r\n Coaxial é aquele cabo judeu, que parece de TV a cabo?
+ >>27261574 \r\n >um roteador fornicou a rede inteira \r\n Kek.
+ >>27261832 \r\n \r\n Sim, a internet da NET é a 'fibra' (na rua). Porém, da rua pra casa é nesse cabo aqui,
+ >>27261850 \r\n \r\n >. \r\n Fix'd.
+ >>27261850 \r\n >a fibra é até o poste, senhor \r\n Caralho, como odeio isso.
+ >>27261871 \r\n \r\n Era isso ou VIVO ADSL 15 mb (finada GVT). \r\n \r\n A VIVO FIBRA e COPEL não passam aqui ainda, infelizmente.
+ >>27261800 \r\n Se não está funcionando, mande a net trocar o modem. Se não te atenderem, registre reclamação no consumidor.gov.br. Also, um roteador comum também pode resolver seu problema.
+ >>27261931 \r\n \r\n Já pensei nisso, o modem funciona normalmente em aplicações normal (pais usando zapzap, youtube, redes sociais). Porém, ao botar o torrent ou vapor aos 13 mb/s já fornica tudo e já falam 'AOWWW DESGRAÇA, CAIU A INTERNET?'. É fornicação, anões.
+ >>27261953 \r\n >>27261931 \r\n \r\n Visto que ocorre isso, com certeza vão dar desculpa que não podem trocar o modem por causa disso e blá blá blá.
+ >>27262039 \r\n Como assim?
+ >>27261871 \r\n É até pior que isso. A fibra é só até o Node, como da pica relatada. Dele até sua casa, este lixo mais o cabo te dá latência de graça.
+ >>27262096 \r\n Also, tem empresa grande(não esses provedores bunda suja), que levam fibra até dentro de casa?
+ >>27262039 \r\n Caralho, como vocês são bunda mole. É o papai que paga?
+ >>27262113 \r\n Sim. \r\n \r\n OI FIBRA (50, 100, 200mb) \r\n VIVO FIBRA (Acima de 50mb) \r\n NET (Acima de 240mb) \r\n Copel (Todos os planos) \r\n TIM Live (100, 150, 300mb, 1Gbps) \r\n \r\n Em todos esses casos a fibra entra até dentro da sua casa na ONU.
+ >>27260321 \r\n A culpa não é da NET de você ser um animal. Contratei o serviço nessa promoção e estou só sorrisos com meus gloriosos 120 Mbps.
+ >>27262202 \r\n Chegou o Shill.
+ >>27262123 \r\n \r\n Você sugere que eu faça o que então?

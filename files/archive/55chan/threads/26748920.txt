@@ -1,0 +1,16 @@
+ Anões, sou estudante de programação e estou montando meu portifólio. Não sei bem como funcionam essas coisas, mas penso em colocar as linguagens programação que utilizo, e um projeto de cada. Uma das linguagens que programo é em C, qual tipo de projeto seria recomendado eu fazer pra colocar em um portifólio?
+ Não sou da área, mas já ouvi um podcast sobre. \r\n É uma boa você contribuir em projetos do github. Ouvi falar que conta bastante.
+ >>26748920 \r\n O seu portfólio acaba sendo o seu github anão. Você comprova suas habilidades através dos projetos que você colocou lá, mas você pode descrever seus conhecimentos da seguinte forma: \r\n \r\n Languages: \r\n Databases: \r\n Web Frameworks: \r\n Content Management Systems: \r\n \r\n Acredito que esse esqueleto já te ajude a ter uma direção, mas o importante mesmo é ter projetos bem feitos e bem pensados no github.
+ >>26748953 \r\n Essa é questão, o que seria um projeto bem feito e pensado em C, tipo. Não consigo pensar em nada bom o suficiente nessa linguagem pra ser colocado, posso colocar algumas formas de estruturação de dados, e mecânismos de ordenação e busca. Mas isso é o suficiente? Ou deveria ser algo mais trabalhoso que isso?
+ >>26748958 \r\n Faça uma IA que corrige erros de sintaxe.
+ >>26748962 \r\n Tenho essa ideia a anos, OP. Mas nunca tive como iniciar um projeto tão inovador.
+ >>26748964 \r\n >há \r\n Fixado.
+ >>26748958 \r\n Acho que você deveria considerar aprender outra linguagem anão. Acredito que Python vá te abrir um leque maior de possibilidades de projetos. Não precisa reinventar a roda, faça algo que alguém já fez, porém tente acrescentar alguma funcionalidade. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>26748958 \r\n Isso aí é algoritmo básico, todo mundo sabe. Não precisa fazer algo inovador, mas não faça algo tão básico, eu, por exemplo, fiz um jogo de Tetris sem usar nenhuma lib fora as padrões do C não baixei nenhuma , é um bom desafio.
+ >>26749014 \r\n Você fez em C ou C++? Consigo enxergar isso no C++, mas não no C.
+ Bump.
+ bumpa!
+ Fui contratado hoje por uma multinacional que trabalha com webdev, anão. A dica que eu dou é, seja sucinto, tente concentrar tudo em uma página só. Bote sua formação, linguagens, competências e experiências profissionais. BOTE EXATAMENTE NESTA ORDEM. Assim, o tópico de competências ficará no meio da página, que é a área mais visualizada quando uma pessoa de RH vê uma folha. Nesse tópico, entupa de tudo que você sabe É importante atestar a veracidade das competências que você tem, botando, por exemplo, entre parênteses projetos em que você utilizou: \r\n \r\n 'Experiência com programação em C (diversos projetos de sistemas embarcados desenvolvidos para o curso de graduação).' \r\n \r\n Como alguns anões já falaram, você precisa de um Github. Se não tiver, cria um e jogo todos os projetos que você tiver, figurativamente, em repositórios lá dentro. Organiza por nome sonserininho e bota um README.txt aceitável. \r\n \r\n Boa sorte.
+ Procure ajuda no /g/, anão. Tem muito macaco aqui?
+ >>26749473 \r\n >aqui. \r\n Fix'd.
+ >>26749473 \r\n Como se lá não tivesse.

@@ -1,0 +1,7 @@
+ Algum anão manja de eletrônica? Liguei um alto falante do carro de 30w direto no celular usando uma entrada P2 mas o som ficou baixo, pensei em comprar essa placa amplificadora mas não sei se ela suporta o alto falante. Alguma chance disso dar certo? \r\n \r\n https://pt.aliexpress.com/item/Placa-Amplificadora-DC-1-8-12-TDA2822M-TDA2822-V-M-dulo-de-2-0-Canais-Est/32845485542.html 
+ Faltou uma virgula, ali. Perdoem.
+ >>27002968 \r\n Agora coloquei vírgula de mais e faltou acento, merda.
+ https://www.androidcentral.com/does-my-phone-have-dac-explaining-dacs-and-amps-smartphones-today 
+ >>27003026 \r\n Não entendi.
+ Procure uma com TDA2030 ou TDA2003. Esse daí vai clipar antes de ficar verdadeiramente alto. É um bom projeto, OP.
+ >>27003657 \r\n Ok então, valeu.

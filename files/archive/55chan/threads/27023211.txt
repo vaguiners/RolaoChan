@@ -1,0 +1,16 @@
+ Muito bem, computeiros do meu bê. Como uso isso daqui para fazer um robô de trading?
+ Olhe o manual/documentação. Qual é a dificuldade? Não sabe Python?
+ >>27023230 \r\n A dificuldade é que eu não entendo como essa coisa funciona. Também não sei python.
+ >>27023240 \r\n >A dificuldade é que eu não entendo como essa coisa funciona. Também não sei python. \r\n \r\n >aprenda matemática e estatística de nível de graduação \r\n >aprenda python \r\n >leia o manual do TensorFlow \r\n >???? \r\n >lucro! 
+ Use a abiblioteca keras.
+ Estou há dois dias tentando instalar isso na minha maquina windows e não consigo. \r\n \r\n pip install tensorflow nunca funciona, já segui a documentação do site, e essa merda não vai. \r\n Parece que só funciona com uma versão específica do Python.
+ >>27023273 \r\n Volte duas casas, amigão. \r\n Comece a estudar o básico de python, estatística, machine learning. Depois vá para o TF.
+ >>27023278 \r\n Não sou OP. \r\n Also, programo em Python e estou criando uma aplicação para treinar com captchas e depois quebrar automaticamente. \r\n O problema é que o TF não instala nessa carroça.
+ >quer aplicar IA em mercado financeiro \r\n >não sabe o básico de programação \r\n É mais fácil você pagar para usar algum bot pronto, animal.
+ >>27023288 \r\n >O problema é que o TF não instala nessa carroça. \r\n Então você não entende merda nenhuma de sistemas operacionais ou redes de computadores. \r\n Não sou o quotado.
+ >>27023278 \r\n Complementando, minha aplicação usa Keras, TF e CV2. \r\n \r\n \r\n numpy \r\n imutils \r\n sklearn \r\n tensorflow \r\n keras \r\n \r\n \r\n >>27023297 \r\n Deve ser, anão. \r\n Estou com problema de versionamento (eu acho).
+ >matemáticos, engenheiros e físicos dedicam suas vidas para fazer pequenos progressos com IA \r\n >acha que é só baixar uma biblioteca, digitar três linhas de código e, vualá, ficará milionário com seu bot de trade (coisa que já existe, inclusive de graça) \r\n \r\n Pica relatada do OP.
+ >>27023296 \r\n O que é 'básico' pra você? \r\n Ser macaco de código não te permite usar o TensorFlow pra projeto algum.
+ >>27023273 \r\n Instale o Gentoo. \r\n Estou pescando, mas todas essas coisas de python funcionam melhor nas distribuições de linux.
+ >>27023304 \r\n Que tipo de conceitos abstratos eu preciso ter uma vaga noção pra conseguir aplicar isso?
+ >>27023363 \r\n Consegue postar no chan sem tomar a dose diária. \r\n Estou falando sério.

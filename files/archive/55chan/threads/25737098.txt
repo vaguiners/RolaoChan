@@ -1,0 +1,1 @@
+ Exatasfags, vos convoco. \r\n Tenho um objeto que possui uma parte móvel preso a uma mola, sua posição original possui 5,7cm. Após inserir um bloco entre os dois apoios verticais, a mola é forçada e há um deslocamento de 1,3cm. Tem alguma maneira de calcular a força que o objeto causa no corpo, visto que a força resultante no eixo das abcissas é 0?

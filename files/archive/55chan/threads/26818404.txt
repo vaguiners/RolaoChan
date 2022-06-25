@@ -1,0 +1,3 @@
+ ALGUÉM ME AJUDA? \r\n \r\n > as.numeric(teste) \r\n Error: (list) object cannot be coerced to type 'double'
+ O primeiro resultado do Google soluciona a questão, paixão. \r\n Quem não consegue usar o Google para coisas básicas deveria se matar.
+ >>26818438 

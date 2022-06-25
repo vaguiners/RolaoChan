@@ -1,0 +1,3 @@
+238363 get \r\n
+ Chega né, o falha em pessoa \r\n
+ Ok, ok \r\n

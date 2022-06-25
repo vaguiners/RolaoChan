@@ -1,0 +1,61 @@
+ Estava autistando com alguns dados aqui do chan para classificá-los usando uma CNN. Com praticamente nenhum esforço, usando o gensim e o tensorflow, deu para conseguir uma acurácia de 70% para 5 boards. Enfim, estarei dumpando alguns resultados de classificação aqui do /b/. Sei que existem anões interessados no tema, talvez possam compartilhar mais conhecimentos.
+ >>26671069 \r\n \r\n 'Se você não for um loiro de olhos claros com mais de 1.80 m de altura, ninguém (praticamente ninguém) vai querer seu sêmen no mercado de fertilização in vitro.'
+ >>26667044 \r\n \r\n 'Mordi a pescaria e estou instalando Arch Leenoks pela primeira vez. Quantos minutos até o sistema quebrar e eu ter que formatar tudo de novo? \r\n Desejem-me sorte!'
+ >>26671145 \r\n \r\n 'Faça o download da tabela e tire uma média simples do valor líquido recebido..'
+ >>26669700 \r\n \r\n 'NT: Estamos em uma timeline onde nunca houve o golpe republicano. \r\n \r\n Podemos especular como seria?'
+ Entendi nada, mas achei interessante.
+ >>26672156 \r\n >/$/ \r\n Perdi.
+ >>26668434 \r\n \r\n 'Olhem que figura interessante. Uma verdadeira anão. Obrigado ao anão que indicou esse documentário uns dias atrás.'
+ >>26672180 \r\n Treinei uma rede neural usando os posts das boards específicas. E estou mostrando alguns resultados de classificação usando fios do /b/.
+ >>26672190 \r\n Ah sim, agora sim. Faz sentido, muito sentido. Continue.
+ >>26653535 \r\n \r\n 'Anão do brigadeiro, você está aí? \r\n \r\n Os subempregos na minha cidade estão com pagamento fixo de 1,200, qualquer lugar e a mesma coisa, o cartel dos escravos. \r\n \r\n Como estão as vendas de brigadeiro nas federais?'
+ >>26668302 \r\n \r\n 'Lembram quando ele era apenas um ator de nicho desconhecido e forçado somente nos chans? \r\n \r\n Mekosherm tanto que agora ele é uma das maiores estrelas de Hollywood hoje em dia.'
+ >>26662925 \r\n \r\n 'Parênquima paliçádico de pornografia do B. \r\n Com a exceção de travesti, nada de degeneração.'
+ >>26662325 \r\n \r\n 'Um piquenique externo, preparado na última quinta-feira pelo Colégio Evangélico Alberto Torres, em Lajeado, no Vale do Taquari, para alunos do 8º ano, virou alvo de investigação do Ministério Público. Relatos de testemunhas apontaram que o grupo de crianças, com idades entre 12 e 13 anos, ingeriu bebida alcoólica, ecstasy (psicotrópico sintético) e Viagra (remédio para impotência sexual), o que demandou atendimento médico. Um suposto abuso sexual também pode ter ocorrido, de acordo com vídeos e áudios que circularam em redes sociais da região.'
+ >>26670550 \r\n \r\n 'Anões bazingueiros/bushidos/NEET's/Cinemafags, convoco-os para discursar sobre os atuais filmes disponíveis em resolução 4K blu-ray. Quais são aqueles que ficaram com gráficos tão fornicação quanto possível? Ex: Cangaceiros - Confronto Incessante.'
+ >>26670254 \r\n \r\n 'É esse o pessoal que usa o 55chan agora? Sou um novabicha que começou a lurkar esse chan a partir de 2018 após ser banido do leddit por não agir que nem quejim minas progressista e a impressão que tenho é que esse lugar vai ficando pior à medida que os anos se passam.'
+ >>26668735 \r\n \r\n 'Esse seria o melhor mouse na faixa dos 200 reais, anões? Já usei um antigo da Razer e gostei bastante, desliza igual faca na manteiga, mas falam muito bem desse também. Queria saber se é melhor pegar ele ou o Deathadder do mesmo preço. Estou meio receoso por relatarem bastante sobre defeitos no scroll desse 403, mesmo sendo nos primeiros lotes.'
+ >>26669740 \r\n \r\n 'Anões, recentemente fui procurado por um consultar desta empresa para me falar sobre a consultoria deles. \r\n O que eles me ofereceram foi um direcionamento de meus investimentos para diversos fundos (parceiros deles) de forma 'gratuita'. Ou seja, os custos serão inclusos na taxa de administração dos fundos. \r\n Vocês acham que vale a pena ou eles só vão me colocar em fundos de baixo rendimento? \r\n Alguém já fez negócio com esta empresa?'
+ >>26666836 \r\n \r\n 'Se você nem ao menos esboçou uma cara de tristeza ao assistir esses filmes… sinto muito lhe dizer, mas você levou esse recinto sério demais e o restinho de humanidade que restava em você já se esvairou por completo.'
+ >>26672141 \r\n OP, consegue criar uma rede neural, que aprenda com os fios e consiga postar igual à um anão? \r\n Ps:Cadê o código?
+ >>26672261 \r\n Teria que estudar mais para chegar em um nível aceitável. Pensando rapidamente, o jeito mais simples e não tão robusto, seria implementar uma cadeia de Markov. \r\n \r\n >Ps:Cadê o código? \r\n Essa é uma versão inicial. Ainda pretendo mexer no código. Quando concluir, devo postar em um parênquima paliçádico no /comp/.
+ >>26672261 \r\n Nem é necessário rede neural pra isso. Basta criar um programa que spamme o chan com a mesma merda todo dia é sempre vai ter um pedaço de merda pra dar reply. \r\n \r\n Veja o seguinte exemplo; \r\n \r\n * vídeo aleatório do YouTube* O que os anões pensam sobre isso?
+ >>26672261 \r\n Não sou o OP, mas já fiz um projeto com esse conceito. Foi bem engraçado ter emulado o /pol/ do 4chong, já que as sentenças geradas nem faziam sentido, kek.
+ >>26666498 \r\n \r\n 'Acabei de instalar o Android torta no meu s8 e está muito gostosinho de usar. \r\n Vamos ver como está o consumo de bateria daqui pra frente.'
+ >>26662658 \r\n \r\n 'Anões, sou graduando do curso de sistemas de informação. Fui fazer um currículo pra tentar conseguir um estágio e percebi que eu não tenho curso de nada. Desde então comecei a fazer os cursos da Udemy de assuntos que eu gosto. Mas depois de fazer alguns eu percebi que o contratante que pegar meu currículo e ler aqueles cursos vai cagar completamente pra eles por serem extremamente rasos. Pesquisando mais eu descobri a respeito de certificações, e eu não sabia a diferença. Comecei a ler sobre certificações da Microsoft e resolvi começar a estudar pra mais básica de todas. O que os anões recomendam de cursos e coisas para agregar ao currículo? Talvez isso ajude outros anões que tem esse problema.'
+ >>26669340 \r\n \r\n 'Vocês já tiveram um problema de comprar um fone de marca diferente do celular e ele não funcionar direito? A voz na música não sai direito. Tem algum jeito de arrumar isso? Encontrei um fone novo jogado aqui em casa, mas ele tem esse problema. Meu celular é motorola e o fone é samsung.'
+ >>26662410 \r\n \r\n 'Onde está o material dessa vadia incestuosa? Pago com amorzinho.'
+ >>26672182 \r\n >/pr0n/ 
+ >>26672256 \r\n \r\n 'NT: Filmes em que o personagem principal é um legítimo feijão humano.'
+ >>26671913 \r\n \r\n 'Anon, qual é o seu salário e sua idade? \r\n \r\n Tenho 24 anos e ganho quase R$ 10 mil.'
+ >>26672292 \r\n \r\n 'Existe sensação mais gostosa do que arrancar os pelos do cu com a mão?'
+ >>26672512 \r\n \r\n 'Os teutões possuem uma dívida histórica para com os cavalos. \r\n Se não fossem os cavalos, brancos andariam em teutões.'
+ Não entendi nada. Esse código háckner pega os fios do /b/ e, de acordo com as palavras que existem nesses fios e em fios das outras 5 boards que você listou, verifica com qual board esses fios 'se identificam'?
+ >>26672577 \r\n Caralho, caguei o post com esse [code].
+ >>26672577 \r\n Sim. Exatamente isso. As outras boards serviram apenas para treinar a rede neural. Agora pegando os fios aqui do /b/, ela classifica-os baseando se nas palavras de cada frase.
+ >>26672603 \r\n Obrigado, você fez eu me sentir inteligente. \r\n \r\n Mas, afinal, pra que serve essa rede neural? Não manjo das computarias.
+ >>26672650 \r\n A maior utilização é para classificar as coisas baseado em algumas características. Por exemplo, aqui eu usei as palavras (características) para classificar um parênquima paliçádico em sua board específica. Outras pessoas utilizam imagens para classificá-las em qual objeto é retratado, por exemplo. \r\n \r\n O segredo é alimentá-la com uma grande quantidade de exemplos para que ela aprenda. E depois você pode usá-la em situações futuras.
+ >>26672692 \r\n \r\n '>não consegue abrir essa imagem \r\n Seu incluso de merda.'
+ >>26672978 \r\n \r\n 'Anões, falem formas de investimento para um anão que já possui uma grana na casa dos milhares. \r\n \r\n >máquina de estampar \r\n >impressora 3D \r\n >overlock Máquina de fazer blusas. \r\n >hotel Não tenho dinheiro pra isso. \r\n \r\n Qual dessas opções provavelmente iria retornar um lucro maior? Claro, eu sei que a demanda depende de cada local, mas geralmente existe um padrão. Caso você tenha alguma ideia em mente para empreender, comente nesse tópico e espere algum anão comentar sobre isso!'
+ >>26673031 \r\n \r\n 'Temos anões que já passaram pela experiência de ver os seus progenitores transando ou fazendo qualquer tipo de putaria? Se sim, compartilhem suas experiências. \r\n \r\n Quando eu tinha uns 8 ou 9 anos lembro de assistir algumas vezes. Meu quarto ficava de frente ao deles e dormíamos de porta aberta. Algumas vezes eles nem se importavam com a possibilidade de eu poder acordar e presenciar o ato.'
+ >>26673142 \r\n \r\n 'Apareceu um ponto branco bem pequeno no meu notebook. Como isso pode ter acontecido? Isso vai piorar? Como evitar que piore?'
+ Ele considera a semântica?
+ >>26673289 \r\n \r\n 'Você acha que o mapa do Brasil tem uma 'forma' bonita? Quais são alguns países esteticamente agradáveis?'
+ >>26673297 \r\n Em teoria sim. O método de transformar as palavras em 'números' considera o contexto. E a classificação também considera a posição de cada palavra. \r\n \r\n As picas mostram sinônimos considerando o contexto do chan.
+ OP, tente esta frase: \r\n \r\n 'Computadores cyborgs transando com muita putaria no pais revolucionário que é bastante rico e investe em games e carros de luxo após estudar muito para concursos'
+ >>26673330 
+ >>26673341 \r\n Interessante que ele viu características de todo mundo, porém, o /pron/ 'falou mais alto'.
+ Simpirilim.
+ >>26673303 \r\n \r\n '>educação sexual é obrigatório na Alemanha \r\n >desde o primário crianças já tem aulas sobre o tema \r\n >quem impede que o filho assista a essas aulas pode ser preso \r\n >quem educa os filhos em casa perde a guarda \r\n País de cornoos. '
+ >>26673409 \r\n \r\n 'Não ter tido amor na adolescência é a pior coisa que pode acontecer a um homem. \r\n \r\n O vazio que fica é sufocante demais.'
+ Que merda inútil. Vai tomar no cu, OP.
+ >>26673423 
+ >>26673440 \r\n Aposto que é calouro pra ter essa idéia bosta de fazer isso.
+ >>26672182 \r\n >/tv/ \r\n Faz sentido. Esse lixo só tem vadia.
+ >>26673461 \r\n Errou. Pode fazer qualquer pergunta da área de computação.
+ >>26673461 \r\n Que coisa chata, meu rapaz. É bastante interessante o autismo do anão. Mude o contexto e ele já pode analisar resenhas de filmes, conteúdo de emails, etc. Vai encher o saco de outro.
+ >>26673480 \r\n \r\n 'Desde a primeira vez que assisti Game of Thrones, eu fiquei apaixonado pela Daenerys Targeryan. Até mesmo cheguei a conclusão de que ela é figurativamente a pessoa mais bonita do mundo, apesar de não existir de verdade. \r\n A Emília Clarke, porém, quando está caracterizada, é bem sem graça. Se eu fosse ela, só andaria vestida de Daenerys.'
+ >>26673513 \r\n Sim, e ele resolve ficar attwhorando no chan. Minha crítica é essa. Por que ele não está fazendo algo de útil com isso?
+ >>26673572 \r\n OP aqui, anão. Eu estou bumpando com resultados porque espero algum anão da área para contribuir com melhorias ou algo do tipo. Já vi discussões dessa área por aqui. Além disso, estou bastante entediado como sempre. Aquela coisa recorrente dos usuários do chan.
+ >>26673496 \r\n Explique o que ocorre na memória RAM e nos registradores de uma CPU para implementar a ligação dinâmica em linguagens com suporte a orientação a objetos como Rust e C++.
+ >>26673496 \r\n >com suporte a orientação a objetos (e.g. Rust e C++). \r\n Fixed. \r\n Acho que assim fica menos ambíguo.

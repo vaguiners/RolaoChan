@@ -1,0 +1,26 @@
+ Anões, estou a preparar um trabalho utilizando arduino e seu kit básico, pois sou pobre, e preciso fazer algo envolvendo química, alguém me da uma sugestão. \r\n \r\n Infelizmente fazer um vibrador não deu certo.
+ Meu irmão fez uma estufa que mantinha a umidade certa para as sementes de determinadas plantas, regulando para cima e para baixo quando necessário. Ele vendeu isso para uma empresa de sementes.
+ Você precisa saber muita coisa para programar num desses OP?
+ Faça um espectrômetro com esses sensores de cor. Não sei qual é o nível do seu projeto mas já serve como prova de conceito.
+ >>26973169 \r\n Tem que ser formado em química.
+ >>26973169 \r\n >num desses, OP? 
+ >>26973137 \r\n Bom, como sou um fodendo procrastinador deixei o trabalho para agora, ele é para ser demonstrado quinta. \r\n \r\n Não precisa ser tão trabalhado, é para uma empresa de bosta, nem quero entrar tanto assim mas é melhor que ser um neet.
+ Bump por interesse.
+ >calculadora pra massa molar \r\n >medidor de condutibilidade \r\n >medidor de PH \r\n >controlador de estufa \r\n >controlador de resfriamento \r\n >controlador de fluxo \r\n >detector de gás \r\n >detector de CO \r\n >detector de hidrogênio 
+ >>26973195 \r\n Eu não possuo nem diploma de ensino médio direito, e ainda assim sei utilizar esta bosta, qualquer macaco com tempo livre e meio digito de QI consegue aprender a programar isso.
+ >>26973199 \r\n Sankyu!
+ >>26973331 \r\n Mas eu sou um fodendo macaco, anão.
+ >>26973339 \r\n >não possuo nem diploma de ensino médio direito \r\n Criança de bosta.
+ >>26973359 \r\n Vai fazer o que com isso, macaco?
+ >>26973384 \r\n Brincar de programar. \r\n Essas plaquinhas são baratas, estava pensando em comprar a NodeMcu ou até uma framboesa.
+ >>26973377 \r\n >não possuo nem diploma de ensino médio DIREITO \r\n \r\n Macaco, eu passei mas passei dando o cu para o professor de história.
+ >>26973365 \r\n Então enfia no cu e roda.
+ >>26973393 \r\n Framboesas são boas para caralho, se usadas de modo certo, elas são melhores em caralhinhos com telas e analógicos ou 'espertizando' sua casa.
+ >>26973339 \r\n De fato. Nada inteligente mesmo.
+ >>26973454 \r\n >Hurr durr fiz uma postagem idiota, e agora que perceberam vou fingir que é humor. 
+ >>26973443 \r\n E quanto aos Node?
+ >>26973489 \r\n Burro.
+ >>26973489 \r\n >essa bunda ardida \r\n Kek.
+ >>26973643 \r\n >>26973646 \r\n Samefag, você por aqui?
+ >>26973550 \r\n Não sei muito sobre o NodeMcu, se eu não me engano a programação dele é semelhante ao arduino, se eu estiver errado me corrija ai.
+ >>26973678 \r\n NodeMcu é em lua.

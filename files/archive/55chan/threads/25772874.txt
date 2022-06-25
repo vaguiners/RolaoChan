@@ -1,0 +1,5 @@
+ Minha internet é dessas pequenas distribuidoras de bairro e reparei que meu IP fica sempre estático. Como resolver isso? Já troquei a opção no roteador e não adiantou. Desculpem a inclusão, não manjo das redes. 
+ Acho que você contratou desse jeito, OP.
+ >>25772877 \r\n \r\n Mas não tem como deixar ele dinâmico?
+ Proxy, vai tomar no cu. Burro do caralho.
+ Você precisa entrar nas propriedades da conexão local, depois nas propriedades do Protocolo TCP/IP e mudar a opção para Obter um endereço IP automaticamente . \r\n \r\n Espero ter ajudado.

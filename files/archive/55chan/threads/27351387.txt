@@ -1,0 +1,8 @@
+ Existe como recuperar os cookies? \r\n \r\n Meu navegador estava conectado a uma conta que não tenho mais como entrar.
+ Conta de que, OP?
+ Perdeu café?
+ Cookie é bom, nada…
+ >>27351434 \r\n >>27351392 \r\n >>27351398 \r\n Caralho, me ajudem, porra.
+ Você não especificou se fechou a aba ou limpou o navegador, ou a sessão expirou. Assumindo que tenha sido a primeira opção, é possível que você ainda encontre os cookies no bulk data dos arquivos de cache do navegador. Os metadados das páginas que você acessa continuam armazenados mesmo após limpar o histórico. Na versão Linux do Google Chrome, esses arquivos estão disponíveis em ~/.config/google-chrome/Default. Dependendo de quando você fez a sessão e da urgência, ainda pode tentar fazer um dump na memória.
+ >f12 \r\n >application \r\n >cookies \r\n LUCRO 
+ Se você precisa tanto assim dos cookies é por que as credenciais não são suas. Roubou a conta Steam de alguém, judeu ladrão?

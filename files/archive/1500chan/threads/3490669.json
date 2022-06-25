@@ -1,0 +1,10 @@
+[
+  "Fiz um script pra extrair para um arquivo todos os links do youtube postados em determinado fio. Agora preciso descobrir como inserir direto numa nova playlist do jewtube. Talvez nem precise salvar num arquivo. **Não escrevo uma linha de código sequer desde 2016, então relevem.**\r\n\r\nvar htmlString = document.getElementsByTagName('html')[0].innerHTML;\r\nvar parser = new DOMParser();\r\nvar links = [];\r\nvar htmlDoc = parser.parseFromString(htmlString, 'text/html');\r\n\r\nfor (i=0;i<htmlDoc.getElementsByClassName('video-container').length;i++){\r\n\tif(htmlDoc.getElementsByClassName('video-container')[i].getAttribute(\"data-video\")){\r\n\t\tlinks.push(\"https:\\/\\/youtube.com\\/watch?v=\"+htmlDoc.getElementsByClassName('video-container')[i].getAttribute(\"data-video\"));\r\n\t\t\r\n\t};\r\n};\r\n// Function to download data to a file\r\nfunction download(data, filename, type) {\r\n    var file = new Blob([data], {type: type});\r\n    if (window.navigator.msSaveOrOpenBlob) // IE10+\r\n        window.navigator.msSaveOrOpenBlob(file, filename);\r\n    else { // Others\r\n        var a = document.createElement(\"a\"),\r\n                url = URL.createObjectURL(file);\r\n        a.href = url;\r\n        a.download = filename;\r\n        document.body.appendChild(a);\r\n        a.click();\r\n        setTimeout(function() {\r\n            document.body.removeChild(a);\r\n            window.URL.revokeObjectURL(url);  \r\n        }, 0); \r\n    }\r\n}\r\ndownload(links.join(\"\\n\"), 'myExtract.txt', 'text/plain');\r\n",
+  "Você é o famoso hacker Xtract?",
+  ">>3490682\r\nSou mundialmente conhecido como **seu cu é o trilho, o trem é meu pau.**",
+  "Uuuuuuuuuuuui!",
+  "Sai do chan, CKW.",
+  ">>3490691\r\nMeu cu é blindado, cai de boca no meu bilau. ",
+  "Faça fora do navegador, op.\r\nTroque a extensão da url do tópico para .json e divirta-se. Dá para mandar direto para o yt-dlp, por exemplo.",
+  ">>3490725\r\nBoa parte do meu uso acontece quando deixo o fio aberto e ele morre. Mas agradeço a sugestão, tinha esquecido de pensar em termos de JASON. Dá pra fazer certas brincadeiras..."
+]

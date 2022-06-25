@@ -1,0 +1,19 @@
+ Meu T430 chegou. Como garantir que ele está em perfeitas condições e que o vendedor não colocou nada para me espionar? É meu primeiro notebook, então eu não sei nada sobre. Qualquer dica será ótimo.
+ >ligue o caralho do computador \r\n >coloque uma fita isolante na webcam \r\n >formate o dito cujo 
+ A espionagem vem de fábrica.
+ >>26658689 \r\n Não dá pra formatar agora, ainda mais que estou na semana de testes, pois comprei no mercado livre. Lembro que existe alguns programas pra testar o funcionamento, mas não lembro o nome.
+ >Não dá pra formatar agora, ainda mais que estou na semana de testes \r\n Isso leva de meia hora e uma hora e meia nos piores dos casos.
+ >>26658771 \r\n Se eu formatar e ele dar problema, o vencedor não vai aceitar.
+ Qual a temperatura normal de um notebook?
+ >>26658644 \r\n Use o Malware Bytes para procurar por algum vírus e remova todos programas que estão instalados no computador e faça limpa nos arquivos que sobraram.
+ Abra e verifique todo o hardware. \r\n >>26658695 \r\n This. Veja se é compatível com coreboot.
+ >>26658788 \r\n 50ºC ou menos.
+ >>26658791 \r\n Até no pacote office e essas merdas?
+ >>26658821 \r\n Olha, se você está com preguiça de fazer instalação do zero, é melhor nem se preocupar com isso. Ele pode ter meio de acesso ao seu computador muito mais avançado do que um programa infectado.
+ >compra note usado \r\n >fica preocupado com espionagem ao invés de saber se realmente o note esta bom \r\n \r\n Porra, OP, você precisa colocar esse note para fazer teste de memória, processador, verificar a temperatura e por fim a bateria. Deixe fazendo stress nesse caralhudinho por algumas horas para verificar tudo isso. Se estiver tudo certo, formate. \r\n \r\n \r\n Também comprei um t430, era inclusive para os Correios terem entregue hoje, que era o último dia estimado pelo ML. Boa sorte, OP. 
+ >>26658689 \r\n Fodendo isso. Aliás, não tire nunca a fita da webcam, se nem o fodendo Bill Gates e o judeu do Cancrobook deixam a camera descoberta é porque tem coisa muito séria aí. Faça o mesmo com o seu celular.
+ Instale Gentoo.
+ Comprei um T450 hoje no MercadoLivre. Espero que esse caralhudinho chegue no prazo. \r\n Seu primeiro thinkpad, OP?
+ >>26658760 \r\n Use um live usb de linux então. \r\n \r\n >>26658783 \r\n Até porque a culpa ia ser sua.
+ >>26658644 \r\n Sou recluso. Por quê os thinkpads são tão cobiçados aqui? \r\n Seriam estes adversários a altura da maça mordida superfaturada?
+ >>26660497 \r\n São notes que aguentam porrada. Primeira vez que comprei Latitude, usaram o a expressão 'em termos de qualidade de construção, é a mesma qualidade do Thinkpad original' para me fazer entender o quão era bom. E não foi pescaria. \r\n Os autistas de plantão inclusive vivem reclamando com a Lenovo por ter 'sujado' o nome do Thinkpad e induzindo a confusão por terem várias linhas; Mantenham o T como o 'verdadeiro Thinkpad' e renomeiem as outras linhas mais frágeis para Ideapad, LenovoPad, ou qualquer coisa menos Thinkpad, que já foi sinônimo e parâmetro de qualidade.

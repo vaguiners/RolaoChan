@@ -1,0 +1,3 @@
+ O que acontece seu eu ligar uma fonte mais fraca que não suporte a VGA? \r\n \r\n Estou com uma fonte de 350w genérica até entregarem a nova, porém não tenho certeza se ela entrega essa potência toda, meu PC rodaria de boa com uma dessas apesar da recomendação para ter uma folga de segurança ser uma de 400w.
+ Churrasco de silício.
+ Vai esquentar pra caralho e, com sorte, vai desligar sozinha. Se não, vai queimar a porra toda.

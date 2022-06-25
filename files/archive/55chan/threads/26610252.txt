@@ -1,0 +1,8 @@
+ Como justificar que a aproximação numa integral simples não afeta o resultado final? \r\n Tomemos por exemplo a área de um círculo como a soma de anéis de espessura infinitesimal: por que eu posso aproximar a área de cada anel como sendo 2πr * dr e ainda assim chegar ao resultado correto? Essa área me parece mais a área lateral de um cilindro de altura dr, enquanto a do anel deveria ser, penso eu, π(r+dr)² - πr². Como eu justifico que essa diferença é desprezível? \r\n Demonstrações mais rigorosas de Análise são bem-vindas, mas qualquer argumento mais conceitual me serve. \r\n Faz tempo que estudei isso e me peguei com essa dúvida vendo uma demonstração do campo elétrico de um plano.
+ 2.pi.r é a área de um retângulo, não de um cilindro. \r\n \r\n Estique o perímetro do círculo em uma linha reta e agora adicione uma altura de dr. Aí está o seu diferencial de área.
+ >>26610293 \r\n >2 pi r dr 
+ >>26610293 \r\n Sim, a área lateral de um cilindro é um retângulo. Você não respondeu minha pergunta. Eu já sei qual é o integrando correto, só quero saber por que ele é válido.
+ Não sei, mas fiquem com isso aqui.
+ Bump.
+ Bump.
+ Última tentativa e paro de encher o saco. \r\n Bump.

@@ -1,0 +1,5 @@
+ >ctrl + s \r\n >salve um parênquima paliçádico que você quer ver mais tarde \r\n >descubra que não pode ver os quotes só passando o mouse por cima \r\n C-como resolver esse problema, parte do prazer em ler um parênquima paliçádico está na praticidade de ver os quotes.
+ CTRL+F, anão.
+ É só pular de uma ponte que o problema acaba.
+ Salva ela no internet archive, o sistema de arquivamento deles preserva o javascript original da página. \r\n \r\n Exemplo: https://web.archive.org/web/20190331162958/https://55chan.org/b/res/26697422.html \r\n \r\n Essa thread foi muito boa 
+ >>27583992 \r\n Aliás, tanto ele preserva o mesmo javascript e css que até acabou arquivando a máscara na hora de salvar essa thread (tem que tirar ela).

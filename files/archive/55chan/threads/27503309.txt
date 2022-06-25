@@ -1,0 +1,4 @@
+ Boa tarde, sou o anão leigo de ontem que apagou a partição do Ubuntu para deixar apenas o Linux Mint, porém, deu um grande problema, na hora de iniciar o sistema aparece 'grub rescue'. Então, vendo um video no jewtube, apliquei os seguintes comandos: \r\n ls \r\n ls (hd0,msdos1) \r\n set boot=(hd0,msdos1) \r\n set prefix=(hd0,msdos1)/boot/grub \r\n insmod normal \r\n normal \r\n \r\n Então, ele inicia o Linux Mint, porém, toda vez que ligo o computador tenho que aplicar esses comandos. Como resolver isso?
+ Não faço ideia de quem seja você.
+ Pare de se identificar, novoamigo.
+ Pesquise sobre como reinstalar o GRUB, anão. E se ainda assim você esteja com problemas, instale o grub-customizer e o os-prober, veja se uma lista de opções de boot aparecem no grub-customizer e crie ou modifique as opções que você desejar.

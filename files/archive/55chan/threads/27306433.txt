@@ -1,0 +1,6 @@
+ Alguém que entenda de programação poderia me dizer o nome do efeito das fotos de um antes e depois? \r\n \r\n Coloquei vários termos na internet e infelizmente aparece apenas imagens de antes e depois e no máximo tutorial para fazer esse efeito em videos. \r\n \r\n \r\n https://www.theverge.com/tldr/2016/8/29/12662478/marina-amaral-black-and-white-photo-colorization 
+ xv
+ Bump!
+ Anão, eu sinceramente não sei se existe um termo técnico exato para isso, mas se você buscar no google 'image comparison slider' vai encontrar implementações do que precisa.
+ Tipo isso, macaco? \r\n https://www.w3schools.com/howto/howto_js_image_comparison.asp \r\n https://paulbrowne.xyz/image-comparison-slider 
+ >>27306463 \r\n >image comparison slider \r\n Obrigado, tenha uma ótima noite. \r\n \r\n >>27306480 \r\n Mais respeito, você não está falando com a sua família, seu merdinha.

@@ -1,0 +1,21 @@
+ Boa tarde, confrades. \r\n \r\n É o seguinte: Consegui o usuário e senha do site de chinelos do meu pai. Quero pegar alguns cartões pra comprar alguns joguinhos e deliverar aqui no /b/. \r\n O problema é o seguinte: quando eu abro o pedido só mostra o primeiro e os 4 últimos números, alguém sabe burlar essa porra? \r\n \r\n Pago postando cartões aqui. 
+ Criança, retardado e lixo.
+ >>27497425 \r\n Quando eu estiver milionário não venha me pedir pra pagar seus boletos, pobrefag.
+ Não tem como, e eu não te ajudaria a roubar mesmo se tivesse.
+ >>27497445 \r\n Roubar do meu pai é uma obrigação MORAL. O filho da puta nunca pagou pensão.
+ Criança. Se mate.
+ >>27497456 \r\n O site não tem acesso aos dados do cartão, macaco incluso.
+ >>27497468 \r\n Sou mais velho que você, pobretão.
+ >>27497456 \r\n Espere aí, o seu pai é dono de um comércio? Esses cartões são de clientes do seu pai? Você quer atingir o seu pai tentando roubar os clientes dele?
+ >>27497472 \r\n >fazendo birra porque papai não banca seus joguinhos 
+ >>27497490 \r\n Meu pai tem uma loja online que vende chinelos, a loja possui 25 mil pedidos, sendo 17mil por boleto. O banco devolve o dinheiro pro cliente.
+ BUMP.
+ Impossível. Seu pai tem afiliação com a Cielo/Redecard e o cliente coloca os dados diretamente no ambiente deles por meio de checkout transparente. Se aprovado, retorna esses dados com os 6 primeiros e 4 últimos do cartão e número de transação. Só lojas virtuais grandes ainda armazenam os dados de cartões.
+ >>27499585 \r\n Exatamente, não vai dar certo pois nem o seu pai armazena os dados do cartão. Ele apenas tem uma porta de acesso ao ambiente da operadora. \r\n \r\n A não ser que você altere a maquina ou o ambiente de compras e faça um 'chupa cabra' e armazene de alguma forma esses dados.
+ >não sabendo que o site nunca tem acesso aos dados do cartão \r\n >só a notificação de autenticação de pagamento da operadora \r\n Você com certeza absoluta é criança.
+ >>27499690 \r\n >não sabendo que o site nunca tem acesso aos dados do cartão \r\n E quem é que manda esses dados para a operadora, retardado? O cliente digita os dados no site e este os manda para a operadora.
+ >>27499769 \r\n >no site \r\n Não. https://blog.lojaintegrada.com.br/o-que-e-checkout-transparente/ 
+ >>27499804 \r\n O OP disse que o site usava esse método? Mais uma vez tirando coisa do cu.
+ >>27499885 \r\n Ou é checkout transparente, ou o cliente é direcionado diretamente para o site da adquirente e digita os dados lá. Em todo caso, nada é realizado ou fica registrado no site. Enfie seu pedantismo no cu, moleque ignorante.
+ >>27499804 \r\n >diz que não \r\n >posta um exemplo mostrando exatamente o que o anão falou \r\n Esse esquema de é todo feito no site. Duas linhas de código, dá para extrair os dados antes de enviar para a operadora.
+ >>27499922 \r\n Quais seriam as linhas e o método?

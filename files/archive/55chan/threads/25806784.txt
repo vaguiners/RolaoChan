@@ -1,0 +1,112 @@
+ NT: Computação. \r\n \r\n Postem o que estão estudando. Trabalhos, projetos pessoais e dúvidas. Enfim, a discussão de sempre.
+ Todo domingo é isso. \r\n A nerdaiada vem discutir seus programinhas de merda.
+ Volte para o /comp/, sua board de contenção, fracassado.
+ Angular ou React? \r\n Quero ter a possibilidade de fazer tanto sistemas web quanto aplicativos, perdi a caralha de uma vaga de emprego por não ter experiência com mobile.
+ >>25806787 \r\n >>25806795 \r\n Mesmabicha.
+ >>25806795 \r\n >>25806787 \r\n > img 
+ Comecei a estudar React Native essa semana, vou desenvolver um app qualquer para aprender.
+ >>25806787 \r\n Melhor do que o parênquima paliçádico de bicha dos animefags. \r\n \r\n >>25806795 \r\n Aposto que você também é.
+ >>25806787 \r\n >>25806795 \r\n \r\n Que feio, samefag.
+ >>25806808 \r\n Ambos podem desenvolver para mobile.
+ Estudei linux para tirar a certificação LPIC-1 e agora estou estudando Design Patterns. \r\n \r\n Logo mais estudarei C++ e pretendo focar na linguagem.
+ >>25806833 \r\n Jura? Tem como ser mais óbvio?
+ >>25806834 \r\n Esqueci de dizer o trabalho. \r\n Trabalho numa empresa de automação industrial e estou num projeto de arduino + raspberry.
+ >>25806834 \r\n Dá muito trabalho tirar essa certificação? Quanto gastou no processo?
+ >>25806844 \r\n Para um burro como você é melhor simplificar.
+ >>25806811 \r\n >>25806829 \r\n Não.
+ Vale a pena estudar Python, anões? Java está perdendo o espaço no ramo?
+ Formato CPUs por 30 reais.
+ >>25806848 \r\n Não dá trabalho, é só estudar. \r\n \r\n Estudei pelo livro da pica, mas acho que tem uma versão mais recente. \r\n https://www.amazon.com/LPIC-1-Linux-Professional-Institute-Certification-ebook/dp/B00WWQQ3GA/ref=sr_1_6?ie=UTF8&qid=1543780596&sr=8-6&keywords=linux+lpic+101-400 \r\n \r\n Sim, é caro, 200 dólares cada prova, são 2 provas, mais o livro que eu comprei. \r\n \r\n Tudo deve ter custado 2k reais.
+ Na minha juventude eu fui webdesigner. Fazia sites apenas com html e css, enquanto o php começava a ficar popular. Existe mercado para sites ainda ou o cancrobook e o wzap mataram esse nicho? Às vezes penso em largar meu ramo e voltar para os sites, sei que precisaria estudar javascript, mas queria saber se é viável.
+ >>25806874 
+ >>25806879 \r\n Existe, mas a demanda diminuiu consideravelmente. Entretanto o mercado dos sistemas de cadastro ainda está em alta.
+ Preciso urgentemente de um emprego, mas não sei qual linguagem e tecnologia vai me proporcionar isto. \r\n \r\n Tenho bases em HTML, Bootstrap, Java e JavaScript, mas nunca desenvolvi um projeto completo. \r\n \r\n Sugeriram-me PHP porque tem muita vaga e dá retorno rápido, apesar de tudo, mas não estou bem certo disso. \r\n \r\n Estou realmente desesperado, pois preciso urgentemente entrar na área.
+ >>25806879 \r\n A única coisa que mudou é que ninguém mais desenvolve sistemas de locadoras.
+ Alguém aqui já trabalhou com salesforce? \r\n \r\n Ao que parece eu irei entrar na área.
+ >>25806894 \r\n >Java \r\n Spring, fazer APIs com essa porra ficou popular ultimamente \r\n >JavaScript \r\n Angular, React, Vue, etc. \r\n Escolha um e bola pra frente.
+ Não sou da área. Como funciona esse lance de certificados? É uma prova que você faz sobre determinada linguagem? Dá para fazer só isso ao invés de fazer graduação de SI ou CC?
+ >>25806914 \r\n É a prova que você conseguiu proficiência em determinada linguagem ou tecnologia. Se isso substitui um diploma vai muito da cultura da empresa, mas no geral uma certificação te coloca muito à frente dos outros candidatos nas vagas.
+ >>25806914 \r\n >É uma prova que você faz sobre determinada linguagem? \r\n Sim, mas não necessariamente só sobre linguagens, pode ser certificado sobre conhecimentos de procedimentos, tecnologias ou metodologias. \r\n Dá para entrar no mercado só com certificações, só empresas que vivem na idade da pedra levam o curso superior completo.
+ >>25806937 \r\n >>25806940 \r\n Obrigado pelas respostas. Outra dúvida. São provas presenciais? São feitas no computador? Dá para fazer isso morando fora do eixo Rio-SP?
+ Como eu faço pra participar de um projeto? Nem que seja só pra acompanhar, tem como? Eu aprendi um pouco de Python, queria mergulhar nesse mundo (o mundo real é uma merda), mas não sou bom o suficiente para fazer um projeto só meu, pelo menos por enquanto.
+ >>25806948 \r\n Depende. Acredito que a maioria seja através de videoconferência com uma pessoa te observando o tempo todo. Outros exames, os da Microsoft por exemplo, podem ser feitos em locais credenciados por eles.
+ >>25806949 \r\n Github. Procure algum projeto, clone, mude algo que te interessa e faça um pull request.
+ >>25806948 \r\n >São provas presenciais? São feitas no computador? \r\n Depende, anão. \r\n Algumas exigem que você faça a prova em um centro certificador, aí você precisa procurar se tem algum na sua cidade. \r\n \r\n >>25806949 \r\n Participe de um hackathon e eventos do tipo.
+ Anões, eu e uns amigos compramos um curso de C++ e C# voltado para a Unity. \r\n Queremos começar uma startup, criar um joguinho de plataforma e etc e tal. \r\n \r\n Alguma dica? Dá futuro? Posso cair de cabeça nesse mercado?
+ >>25806913 \r\n Agadeço a dica, mas a pergunta é: em quanto tempo vou conseguir estar apto a entrar no mercado com estas tecnologias? A curva de aprendizado é muito alta?
+ Estou dando meus primeiros passos com MEAN, aparentemente esse é o futuro™… agora.
+ >>25807006 \r\n >em quanto tempo vou conseguir estar apto a entrar no mercado com estas tecnologias? \r\n Acho que isso é muito relativo da sua região, anão. \r\n Eu com pouco de java que aprendi na faculdade entrei no mercado na primeira vaga que surgiu na minha frente já pagando 4 mil. \r\n Por outro lado fui rejeitado duramente essa semana por uma empresa que eu sonho em trabalhar. \r\n \r\n >A curva de aprendizado é muito alta? \r\n Se você tiver uma base boa é muito tranquilo. \r\n Eu tive um cliente que estava precisando de um sistema em Spring e com postgres, na época eu não tinha experiência com nenhum dos 2. \r\n Baixei um curso piratão do Algaworks que ensinava spring, estudei um pouco e meti a cara. \r\n O sistema está lá até hoje, só não fiz mais módulos por não ter me agradado do modo como me pagaram, poderia ter levado um calote feio.
+ >>25806995 \r\n Meio difícil dar alguma dica. Tem muito jogo merda fazendo sucesso e muito jogo bom que nunca alcançou nada. Sugiro focar em mobile, ser criativo e não fazer nada que exceda as capacidades da sua equipe, como um MMO com um mundo gigante sem ter uma equipe grande.
+ Estou no primeiro semestre do curso de Análise e Desenvolvimento, o que me recomendam?
+ >>25807044 \r\n Aprenda por fora, o que a faculdade ensina nunca é suficiente.
+ >>25806995 \r\n FAÇA JOGOS SIMPLES! \r\n Não me invente de fazer o GTA Brasileiro. \r\n Sim, da futuro, veja a historia da Tapps Games, não é um mercado muito bom no Brasil. \r\n Recomendaria jogo para android e IOS.
+ >>25807017 \r\n Fui pesquisar aqui e vi que o Mongo DB 4.0 adicionou transações. A falta disso era um incômodo na época que usei.
+ >>25807096 \r\n >>25807043 \r\n A ideia que eu e meus amigos temos é de criar um joguinho de plataforma na mesma pegada de Grand Chase, talvez algo um pouquinho mais pixelado ou coisa do tipo, que nem aqueles joguinhos indies.
+ Preciso estudar particle swarm optimization para o meu TCC e não sei nem por onde começar.
+ >>25807157 \r\n Pode começar pelo google.
+ >>25807157 \r\n Escolheu o tema, se vira.
+ Tenho que fazer uma resenha sobre um processador aleatório, comentando sobre arquitetura e organização. \r\n \r\n Recomendem processadores caralhudos.
+ >>25807209 \r\n Pentium II.
+ Esse próximo ano estarei mais 'tranquilo' e com tempo, estou pensando em por prática uma ideia que tenho a algum tempo: 'ataque dos clones', criar um clone do Uber, um clone do Gadoflix ou algo relacionado a Blockchain. \r\n \r\n No momento estou refatorando alguns sistemas próprios para o mesmo padrão de arquitetura de larga escala e alta performance utilizado por Google, Cancrobook, Uber entre outros.
+ Alguém aqui já fez algum Nanodegree na Udacity? /r/ relatos. \r\n Estão com desconto até hoje e ano que vem não vão mais oferecer suporte e parcerias para o Brasil.
+ >>25807096 \r\n As pessoas compram jogos para celular? Não entendo como esse mercado se sustenta.
+ >>25807342 \r\n Anúncios, muitos anúncios.
+ >>25807374 \r\n E dinheiro dentro do jogo, claro.
+ >>25807097 \r\n Seriousamente? Nunca estudei Mongo exatamente por isso, bom saber.
+ >>25807299 \r\n Secundo, também gostaria de saber.
+ >>25807096 \r\n Caralho… E dá pra fazer alguma coisa com o Blender? Pergunto porque Linux e rodar o Unity aqui é um saco. Queria aproveitar que já estou no Python também… 
+ >>25807209 \r\n Se você quer fazer algo simples, pegue um processador com arquitetura RISC ou um processador antigo como o 8086. \r\n Dá até pra colocar o datapath numa folha A4.
+ >>25807157 \r\n O que você otimizará, anão?
+ >>25806850 \r\n Por isso que eu visito essa merda.
+ >>25806850 \r\n Rude.
+ >>25807452 \r\n Não, Blender foi feito especificamente para modelagem, tentar fazer jogos nele é pedir para algo parecido com Miner Ultra Adventures.
+ Algum anão pode me indicar um bom conteúdo para iniciantes em Unity? Os que eu acho no youtube são pura enrolação, fora que ensinam coisas diferentes do que eu procuro.
+ >forçar travecarias e pornografia \r\n >ok \r\n >forçar muié \r\n >ok \r\n >forçar gore e outras coisas doentias \r\n >ok \r\n >forçar fios de música a semana toda \r\n >ok \r\n >uma thread por semana de computarias \r\n >a macacada fica bravinha 
+ >>25807724 \r\n Udemy, primeiro procure conhecer a ferramenta Unity como um todo,vai evitar inventar resoluções.
+ >>25807779 \r\n Obrigado, anão.
+ >>25807754 \r\n Mas eu fui o único a 'reclamar'. \r\n E estava só querendo pescar, bobão.
+ >>25806894 \r\n Estou na mesma situação, anão. Curso faculdade, desenvolvo em Java, sou até que bom no Front-End, e nada de vaga nem de estágio até agora.
+ >>25807810 \r\n Pescou bem. Hue.
+ Estou num projeto pra desenvolver um app híbrido que faz a catalogação dos gastos e ganhos de um cartão. \r\n \r\n Minha equipe basicamente tá responsável por fazer o front-end. Começarei as telas amanhã, depois irei criar a API. Estamos usando Ionic, nunca tinha usado antes mas achei caralhudo demais. É incrível como tudo trabalha em harmonia nessa porra. Se eu soubesse que Ionic era tão bom assim eu teria começado antes.
+ >>25807868 \r\n Como conseguiu emprego na área, anão? Ionic não é meio lento no Android?
+ Desenvolvedor Web que trabalha como Front-end aqui. \r\n Ficarei um pouco de tempo aqui. \r\n Perguntem o que quiserem.
+ Anões, qual placa mãe vocês recomendam para um i5 8500? Sou o retardado que cogitou em gastar 2k numa Z370M + I5 8600K.
+ >>25807877 \r\n A empresa é de um professor meu. Ele viu que meu desempenho era acima da média dos alunos e me chamou pra trampar com ele. Olha que moro no merdeste, aqui as empresas pagam bem pelo fato de que a maioria do pessoal de TI ser macaco de código. Quando aparece algum programador decente ele ganha bem. O fornicação é que 90% do pessoal que reclama de emprego e salário são macacos e pajeets. Se você for no mínimo decente e conhecer as pessoas certas já estará praticamente empregado. \r\n \r\n Não estou notando nenhum tipo de lentidão no momento, como o sistema vai ser em web então desempenho não vai ser problema. Also, estamos testando num Gran Prime da Samsung e está liso. Já desenvolvi com Kotlin e posso te falar com segurança que Ionic, por ser web, roda muito melhor no Android. Kotlin usa máquina virtual, o que compromete pra caralho o desempenho.
+ >>25807906 \r\n >essa pica irônica \r\n Anão, acha que React pode vingar? É uma plataforma foderosa e muito flexível, aprendi pouca coisa mas já vi um potencial caralhudo. \r\n \r\n Com quais tecnologias você trabalha?
+ >>25807930 \r\n Não sou o quotado, mas, já vi diversas vagas na minha região pedindo React como requisito para Front-End, e sem contar que tem o React Native que você pode fazer aplicativos com uma qualidade muito grande e praticamente com a mesma sintaxe do React clássico.
+ >>25807914 \r\n Não sou o quotado, mas não consegui acompanhar sua explicação. O kotlin é como se fosse um substituto para o Java, certo? Roda na mesma máquina virtual. Não faz muito sentido seu argumento de Ionic por ser web ser mais rápido do que as alternativas nativas.
+ >>25808007 \r\n mais rápido de desenvolver** (não sou o quotado)
+ >>25808007 \r\n na verdade, lendo melhor agora, ele falou é bullshit
+ Estou lendo o livro da pica, acabei parando no exercício 13.
+ >>25807906 \r\n Vá tomar no cu, você e todos os 'front-end developers'. Todos viadinhos. \r\n Eu louco, carregar 25 scripts de 12 domínios diferentes para ler uma matéria em um site de notícias. Não tem mais como usar a internet com NoScript ativado. Vocês são todos macacos, não sabem programar, ficam usando 300 bibliotecas diferentes para uma simples página. 10mb a porra da página, eu louco. \r\n A web 2.0 tinha tudo para ser ótima e vocês cagaram com ela. Vá tomar no cu.
+ >>25807930 \r\n >acha que React pode vingar? \r\n Já vingou. A demanda está em alta em toda parte, um pouco mais lá fora do que aqui. \r\n Se for fazer um curso de React, eu indico do Andrew Mead. Cursos do Udemy possuem um ótimo custo-benefício. Há outros de React lá muito bons também, mas indico do Andrew porque ele sempre vai um pouco além em seus cursos. \r\n \r\n com quais tecnologias você trabalha? \r\n Bem, antes disso, vou contextualizar. Eu escolhi ser focado em performance, ou seja, quanto menos código, melhor. Uso JavaScript somente se realmente necessário (acabo sempre usando). \r\n Em segundo, sou focado em compatibilidade. Eu sempre desenvolvo pensando se vai funcionar no máximo de browsers possíveis diferentes. Eu parto do Internet Explorer 11 para cima. E é por isso também que não uso Fetch, CSS Grid, space-evenly (do Flexbox) e várias outras propriedades que não funcionam bem em navegadores antigos. Mas isso é escolha minha. \r\n Depois, não menos importante, eu presto muita atenção no UX, animações CSS, manutenibilidade. \r\n \r\n Assim, tendo em vista meu foco principal em performance, eu não uso frameworks. Na verdade, grande parte do meu trabalho no começo foi desfazer Bootstrap, jQuery, React, Bulma, Axios, entre outros e escrever tudo em CSS e JavaScript puro. Também não uso pre-processadores. \r\n \r\n Na empresa, usam Wordpress e Magento. Eu não reclamei. Isso é escolha do pessoal do Back-end. Eu 'impus' minha vontade de programar usando CSS e JavaScript puro. Então, todos os sites possuem apenas um arquivo CSS e um arquivo JavaScript. \r\n \r\n Adivinha só? Os sites são extremamente customizados (únicos) e RÁPIDOS. Eles voam. \r\n \r\n Não deixe de aprender React, Bootstrap ou que for que seja, principalmente se está buscando conseguir emprego. Eu também aprendi e já usei muito, porém hoje tenho a chance koshervilhosa de programar dominando as linguagens nativamente. \r\n \r\n Nem sempre preciso, mas vou deixar algumas coisas que uso no trabalho: \r\n \r\n https://autoprefixer.github.io/ (para colocar prefixadores e garantir que algumas propriedades de CSS rodem em navegadores antigos). \r\n http://csslint.net/ (checa certos problemas no CSS. Não seja tão rígido). \r\n https://csstriggers.com/ (raramente uso para checar performance de transform). \r\n https://babeljs.io/repl (converte JavaScript moderno para o ES5 que funciona na maioria dos navegadores antigos).
+ >>25808048 \r\n Eu vou te ignorar, porque você não merece atenção. Sem Front-end, a internet seria extremamente sem graça. Nem todo mundo no Front é macaco.
+ >>25808059 \r\n Vou confiar na sua palavra.
+ >>25808072 \r\n >vou te ignorar \r\n >quota o filho da puta e ainda dá uma resposta 
+ >>25808059 \r\n >não uso frameworks \r\n Para deixar mais claro, eu também não uso bibliotecas famosas e fui criando minha própria biblioteca que costumo refatorar quando posso. \r\n \r\n >>25808096 \r\n Só constatei o óbvio ligeiramente.
+ >>25808048 \r\n Verdade. Os sites estão cada vez mais pesados, fico puto com isso também.
+ >>25808096 \r\n Ele sabe que estou certo. A página fica uma porqueira, sendo que em javascript puro o tamanho dela cairia em 60% ou até mais porque não seria preciso carregar uma biblioteca inteira para usar só quatro funções. \r\n A maior parte desses caras nem sabe javascript puro, dão uma checada só na sintaxe e já pulam para as frameworks. Fico puto, há uns anos eu conseguia navegar tranquilamente com Noscript ligado, agora não dá porque nem sabem da tag <noscript>
+ >>25808188 \r\n Eu só uso CSS e JavaScript puro, símio.
+ >>25808201 \r\n Parabéns, filho da puta, agora fala para seus comparsas do área fazerem isso também.
+ >>25808213 \r\n >comparsas \r\n Está me estranhando, filho da puta? \r\n Quem só sabe usar bibliotecas e frameworks, na verdade, ou não sabe realmente CSS e JavaScript ou é um chupador de rola de 'novidades moderninhas'. \r\n \r\n >'pessoal, há 15 minutos saiu o new-foo0221.js, é a nova onda' \r\n >'há 15 minutos? Por favor, eu já estou usando o master-coder-tlx9090.js que saiu há 2 minutos e 48 segundos. Melhor se atualizar' 
+ >>25807017 \r\n Já passou a onda, anãozinho. Pegou o trem do hype muito tarde.
+ >>25808047 \r\n Achei a solução para quem quiser está aqui. \r\n [code] \r\n \r\n #include <stdio.h> \r\n #define IN 1 \r\n #define OUT 0 \r\n #define NUM_ELEMENTS(x) (sizeof(x) / sizeof((x)[0])) \r\n \r\n int main (){ \r\n int c,state,words,NumElements; \r\n unsigned int numletters, sizew; \r\n unsigned int sizeWord[6] = {0,0,0,0,0,0}; \r\n state = OUT; \r\n words = 0; \r\n numletters = 0; \r\n sizew = 0; \r\n NumElements = NUM_ELEMENTS(sizeWord); \r\n \r\n while((c = getchar()) != EOF){ \r\n \r\n if(c == ' ' || c == '\n' || c == '\t' || c == '\b'){ \r\n state = OUT; \r\n }else if(state == OUT){ \r\n \r\n for(int i=65;i<=122;++i){ \r\n if(i==90){ \r\n i=97; \r\n } \r\n if(c==i){ \r\n \r\n state = IN; \r\n putchar(c); \r\n ++numletters; \r\n }else{ \r\n \r\n state = OUT; \r\n } \r\n \r\n } \r\n \r\n } \r\n \r\n sizew += numletters; \r\n if(numletters == 0){ \r\n if(sizew == 0 && state == IN){ \r\n putchar('\n'); \r\n ++words; \r\n }else if(sizew == 1){ \r\n ++sizeWord[0]; \r\n }else if(sizew == 2){ \r\n ++sizeWord[1]; \r\n }else if(sizew == 3){ \r\n ++sizeWord[2]; \r\n }else if(sizew == 4){ \r\n ++sizeWord[3]; \r\n }else if(sizew == 5){ \r\n ++sizeWord[4]; \r\n }else if(sizew >= 6){ \r\n ++sizeWord[5]; \r\n } \r\n if(state == OUT && sizew != 0){ \r\n putchar('\n'); \r\n ++words; \r\n } \r\n sizew = 0; \r\n } \r\n numletters = 0; \r\n } \r\n \r\n \r\n printf('1 = %u\n',sizeWord[0]); \r\n printf('2 = %u\n',sizeWord[1]); \r\n printf('3 = %u\n',sizeWord[2]); \r\n printf('4 = %u\n',sizeWord[3]); \r\n printf('5 = %u\n',sizeWord[4]); \r\n printf('6> = %u\n',sizeWord[5]); \r\n \r\n for(int x = 0;x < NumElements;++x){ \r\n switch(x){ \r\n case 0: \r\n printf('\n1 |'); \r\n for(unsigned int z = 0;z < sizeWord[x];++z){ \r\n printf('x'); \r\n } \r\n break; \r\n case 1: \r\n printf('\n2 |'); \r\n for(unsigned int z = 0;z < sizeWord[x];++z){ \r\n printf('x'); \r\n } \r\n break; \r\n case 2: \r\n printf('\n3 |'); \r\n for(unsigned int z = 0;z < sizeWord[x];++z){ \r\n printf('x'); \r\n } \r\n break; \r\n case 3: \r\n printf('\n4 |'); \r\n for(unsigned int z = 0;z < sizeWord[x];++z){ \r\n printf('x'); \r\n } \r\n break; \r\n case 4: \r\n printf('\n5 |'); \r\n for(unsigned int z = 0;z < sizeWord[x];++z){ \r\n printf('x'); \r\n } \r\n break; \r\n case 5: \r\n printf('\n6> |'); \r\n for(unsigned int z = 0;z < sizeWord[x];++z){ \r\n printf('x'); \r\n } \r\n break; \r\n } \r\n } \r\n printf('\nThe text have a total of %d words\n',words); \r\n return 0; \r\n } \r\n [/conde]
+ Bump.
+
+ >>25808297 \r\n Use as tags de código, filho da puta. Dói os olhos ler sem indentação.
+ >>25808611 \r\n \r\n Fui inventar de virar DevOps, o que ocorreu foi que virei um sysadmin gourmet, só tomei no cu, ganhei plantões e alertas de madrugada, tenho que me virar com um monte de ferramenta, e parei de programar, que era o que eu realmente gostava de fazer. \r\n \r\n Não caiam nesta pescaria, anões.
+ >>25808660 \r\n Se fornicou, hue.
+ >>25808072 \r\n >sem front-end, a internet seria extremamente sem graça \r\n \r\n Bicha. Essa é a coisa mais gay que eu já vi no chan.
+ >>25808675 \r\n E qual é a mentira, criança de bosta?
+ >>25808660 \r\n >DevOps \r\n Nome gourmet pra filho d'uma égua. \r\n E o pior que tem gente mordendo duro isso.
+ >>25808660 \r\n Ganha quanto?
+ >>25808660 \r\n Que merda…
+ >>25808675 \r\n Sem front-end, a internet seria um saco. \r\n O chan seria um saco. Seria muito bem uma tela branca com texto judeu. Não teria referências de quote, nem porcentagem de upload de arquivo, verdetexto, sem diferentes temas, sem cronômetro de replies, sem customização de resposta rápida, etc, etc, etc.
+ >>25808716 \r\n Tudo dispensável. Alguns mais que outros.
+ >>25808704 \r\n \r\n 5 mil.
+ >>25808722 \r\n \r\n Finalmente anão que usa Lynx.
+ >>25808722 \r\n >dispensável \r\n >anões reclamam por meses quando uma das propriedades param de funcionar (vide quotes) 
+ >>25806848 \r\n >>25806834 \r\n >>25806874 \r\n >mpq tirei essa certificação paga pela empresa onde estagiava há 3 anos \r\n >mpq não estudei porra nenhuma e passei apenas decorando as questões de 'simulados' na internet que eram idênticas à prova na época 
+ Algum anão neste recinto já tirou alguma certificação Java? Se sim, qual foi a certificação, qual material usou para estudar? O inglês das provas é muito difícil?
+ Bump.
+ >>25808716 \r\n Caralho, você é um baita de um newfag.

@@ -1,0 +1,6 @@
+ Anões entendedores de bitcoin, tenho uma wallet que eu usava 2 anos atrás do Nicehash miner, como faço para verificar quanto eu tenho? Pesquisei no jewgle e disse que não tenho nada, o que não é verdade porque eu mineirei uns 5 dólares na época.
+ https://www.blockchain.com/pt/ \r\n Coloque o endereço da sua carteira na barra de pesquisa. Vai ver o saldo e todas as transações. \r\n Se tiver alguma coisa e você quiser gastar, recomendo usar a carteira Electrum.
+ >eu mineirei uns 5 dólares na época \r\n Você tem certeza que chegou a sacar ou deixou na wallet da mineradora?
+ >>27373601 \r\n Nunca saquei, ficou na mineiradora (NiceHashMiner2) que aqui diz ter sido descontinuada e virado NiceHash Miner Legacy.
+ >>27373597 \r\n \r\n Total Recebido 0 BTC \r\n Balanço final 0 BTC \r\n \r\n É, acho que sumiram com meu dinheiro de mentirinha. Brincadeira. \r\n \r\n Obrigado por postar isso, eu tinha esquecido até como criar uma wallet.
+ Último bump.

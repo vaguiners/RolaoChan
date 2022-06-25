@@ -1,0 +1,39 @@
+ Alguém me ajuda, pro favor, estou desde as 15hrs da tarde tentando desinstalar esse programa sem sucesso. \r\n Sim, provavelmente é alguma cagada que eu fiz. \r\n Já tentei diversos comandos sem nenhum sucesso, o mesmo programa foi instalado pelo comando gedeb mas não desinstala nem pelo caralho. \r\n SOCORRO 
+ >não usando windows \r\n VOCÊ MERECE TUDO ISSO.
+ >linux \r\n Ninguém mandou usar essa merda.
+ Você está rodando o programa macaco.
+ Você tentou reiniciar o computador?
+ ULTIMATE CONDUCTOR TYRANNO!
+ >>26902795 \r\n , macaco.
+ Qual a razão de você querer desinstalar o R?
+ >linux \r\n Perdi.
+ >>26902793 \r\n >>26902790 \r\n Amigo, eu estou cansado, me da um desconto. \r\n \r\n >>26902795 \r\n Sim, pra mostrar qual é o programa. \r\n Você precisa isolar o programa com virgula do macaco. \r\n \r\n >>26902796 \r\n Sim.
+ >>26902806 \r\n Essa ultima versão está entrando em conflito com o Rstudio.
+ Mais um pescado com sucesso. Kek.
+ >>26902809 \r\n Pode chamar o programa de macaco porque ele não quer descer do galho, que é o seu computador.
+ Já tentou dar um apt-get uninstall R?
+ >>26902837 \r\n >>26902831 \r\n Nem pra sentir rage eu tenho disposição. \r\n Vou ficar aguardando alguém me ajudar.
+ >>26902847 \r\n Já.
+ bump.
+
+ Ninguém?
+ Muito fácil, OP. \r\n \r\n >sudo rm -rf / 
+ >>26902954 \r\n Por favor, amigo, essa hora?
+ Grave a ISO do Windows 7 Ultimate x64 em um pendrive, remova o linux do seu HD e instale o Windows 10.
+
+ >>26903007 \r\n >>26903006 
+ Morra, usuário de Linux.
+ .
+ bump.
+ >R \r\n Você é retardado? Pare de usar pseudo-linguagem e vá logo para Python, Julia, ou até para Fortran, que é melhor que essa bosta. R é o PHP da ciência de dados. \r\n \r\n Se não for, enjoe seus undefined behaviours.
+ Instala o Windows.
+ >>26904670 \r\n >>26904670 \r\n Então me ajude a desinstalar essa bosta aqui, irmão.
+ >>26904670 \r\n Só passando pra dizer que você deve ser um gordo seboso que nunca precisou usar um programa de estatística, R de longe é a melhor linguagem para isso.
+ CARALHO EU TO FICANDO LOUCO COM ESSA MERDA PUTA QUE ME PARIU ERA SÓ PRA DESINSTALAR A MERDA DE UM PROGRAMA. WINDOWSFAG SEU FILHO DA PUTA, PARE DE RIR DA MINHA CARA.
+ >>26904717 \r\n >melhor \r\n Não. R consome memória de forma estranha e trava nas horas mais inusitadas. Foi figurativamente feito para passar raiva. \r\n Lembre-se de que PHP também surgiu dessa premissa de 'ser usada por não-programadores'. Veja no que deu. \r\n \r\n >>26904706 \r\n Qual a sua distribuição?
+ >>26904860 \r\n Buguntu 18.
+ >>26904876 \r\n Você instalou pelo gerenciador de pacotes?
+ >>26904876 \r\n sudo apt purge r-base
+ Existe algum real motivo para você usar Linux, anão? \r\n Se não, jogue a toalha e volte para o Windows. \r\n Ficar se estressando assim faz mal.
+ >>26904884 \r\n Não, baixei a ultima versão do site em tar.gz. Desinstalei a anterior, instalei a nova, abri o Rstudio, deu pau, tentei desinstalar essa nova versão, não sai nem pelo caralho.
+ BASEADO.

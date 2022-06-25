@@ -1,0 +1,4 @@
+ >água absorve calor quando evapora \r\n Sabendo disso, a placa de metal na pica relatada poderia ficar mais fria que a temperatura ambiente?
+ Só se a água está mais fria que a temperatura ambiente.
+ >>27621964 \r\n Esqueci que estou em um chã brasileiro.
+ >>27621975 \r\n Sim, está num chan brasileiro, que bom que percebeu. Só há transferência de calor entre a placa e a água se tiver um delta de temperatura entre os dois.

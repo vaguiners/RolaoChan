@@ -1,0 +1,18 @@
+ Por que usar lógica fuzzy e não regressão ou técnicas de otmização global?
+ Por que você não para de mamar caralhos gigantescos?
+ Por que o melhor Tartaruga Ninja era o Leonardo?
+ Filósofos são brainlets. Na prática a lógica clássica pode ser usada para criar um sistema de linguagem formal para cada uma das lógicas loucas que se vê.
+ Lógica fuzzy é basicamente errar rápido o suficiente? Ou isso é algorítimo genético? \r\n Regressão não me parece (dentro do meu limitado conhecimento) atingir o mesmo fim de fuzzy. \r\n E otimização global não precisa de maior conhecimento do problema (aka, não sendo tão generalista). \r\n Caso o OP manje, recomende um video do seutube que considere o mais próximo do excelente que explique fuzzy em menos de 30 minutos.
+ >>27059620 \r\n Vá ler os axiomas, retardado.
+ >>27059646 \r\n Não. Obrigado. \r\n Poste algum video resumido só para eu (e os outros anões interessados) ter uma introdução ou vai tomar no cu .
+ >>27059666 \r\n Vou tomar no cu. Passar bem.
+ Não existe uma abordagem 100% eficiente para todos os problemas.
+ >>27059677 \r\n Corno.
+ >>27059676 \r\n \r\n Respeita o deabo, seu borra linguiça fajuto.
+ Respondo com outra pergunta: qual método de otimização global funciona para qualquer caso ?
+ Deep learning é coisa de biruta. Essa porra não entra na minha cabeça nem fodendo.
+ Algoritmo genético. Tanto que é usado pelos bots da bolsa de valores justamente por conseguir errar rápido e encontrar a solução ótima. \r\n \r\n Lógica fuzzy não erra, mas não generaliza. Pelo pouco que entendi, é necessário programar os níveis das entradas, então é como se fosse um monte de ifs determinando a saída. Não entendo a real razão para os profissionais de controle terem preferência por está técncia e não por técnicas modernas de regressão, ainda mais utilizando bagging de árvores de decisão.
+ Puta que pariu, só tem criança a essa hora? Só retardado se xingando um monte. \r\n \r\n OP, acho que depende do caso, mas ambos são usados, tanto lógica fuzzy quanto técnicas globais. De qualquer forma eu era de exatas e troquei pra humanas, então não lembro direito sobre esses assuntos.
+ >>27059720 \r\n Ninguém falou de Deep Learning aqui, anãozinho. Pode ficar tranquilo. \r\n \r\n >>27059707 \r\n A ideia não é a generalização. \r\n \r\n >>27059735 \r\n Fiquei curioso. Tenho um amigo que também mudou de exatas para humanas. Mudou de que curso para qual curso de humanas?
+ >>27059735 \r\n \r\n >só tem criança a essa hora \r\n \r\n Acho que você ainda não percebeu que a criançada dominou essa merda, estão por todos os lados e em todos os horários possíveis.
+ >>27059724 \r\n Faltou o quote no >>27059620 ,

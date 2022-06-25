@@ -1,0 +1,1 @@
+ Acho que deveríamos abrir uma exceção e deixar as depósitos postarem só por um dia, só para experimentar. (Não.) 

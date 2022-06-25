@@ -1,0 +1,10 @@
+ Portadores de nanismo e outras deficiências, como baixar vídeos do flowplayer? Comprei algumas aulas em vídeo mas o judeu dono do sítio estipulou um limite de três visualizações por aula, isso nem sequer faz sentido visto que existe um período de sessenta dias de disponibilidade. Ajudem-me a poupar o pouco dinheiro que me resta.
+ Já tentou inspecionar elemento? \r\n \r\n Dá um ctrl+F e procura por extensões de vídeo.
+ A versão é Flowplayer AB 2018. Tentei usar inspecionar elemento e não obtive êxito, acredito que alguma Hackerman tenha sido contratado para blindar o serviço.
+ >>27199354 \r\n Sim, anão. Consegui identificar alguns sinalizadores do js nas linhas, mas meus conhecimentos nas programarias são praticamente nulos. \r\n \r\n https://www.iapcursosonline.com/cursos/ver/pc-rn-curso-base-teorico-agente-e-escrivao-r-690-00-em-ate-12x \r\n \r\n Acredito que seja pelo fato do vídeo abrir sobreposto a página e não em nova aba.
+ >>27199354 \r\n Na maioria dos players eu consigo encontrar o zelda da source do vídeo e baixá-lo diretamente pelo navegador, mas esse flowplayer parece ter sido escrito pelo próprio judeu.
+ Essa merda de container blob é pura judaria, como eu odeio essa merda.
+ >>27199373 \r\n Exatamente, anão. Esse termo que aparece no zelda dos vídeos, acredito que fui ludibriado pelo mercador feliz. \r\n \r\n Só me resta ter que interagir socialmente com alguma dondoca do SAC e reivindicar de alguma forma a livre visualização das aulas. Eu tenho problemas de déficit de atenção, preciso assistir as aulas várias vezes porque acabo perdendo o foco.
+ DownThemAll e Complete Youtube Saver.
+ >>27199408 \r\n >DownThemAll \r\n \r\n Esse negócio parou de ser compatível com o raposa na versão 50.
+ A vontade de morrer supera a de tentar resolver essa merda.

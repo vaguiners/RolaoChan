@@ -1,0 +1,19 @@
+ Vai demorar quanto tempo para que caralhudinhos como esse se tornem os novos PC Gamers? \r\n \r\n O futuro me enche de esperança.
+ Nunca. 
+ >>27413499 \r\n Por que não?
+ >>27413506 \r\n Existem limites para se encolher as coisas.
+ >>27413521 \r\n Qual seria esse limite? Estaríamos perto desse limite?
+ >>27413544 \r\n Perdão, mas está me achando com cara de Nostradamus? Sei lá, rapaz. Só digo que essas porras tem limites que um PC ou console sempre estarão na frente. \r\n \r\n Outro dia mesmo saiu briga aqui exatamente pelo mesmo assunto.
+ Eles inventam jogos novos para consumir mais recursos de propósito. Jogos nunca precisaram de ray tracing para serem bons, divertidos e marcantes, mas agora é importante porque mu realidade.
+ >>27413561 \r\n Me desculpe, pensei que você tinha informações técnicas ou algo minimamente substancial para acrescentar ao assunto.
+ >>27413636 \r\n Empatamos então. Não precisa ficar com raiva.
+ >>27413673 \r\n Não estou com raiva, só um pouco decepcionado. Pensei que você fosse um anão sabido.
+ Nunca. \r\n Mesmo quando dispositivos como esse possam rodar jogos em uma boa qualidade, ainda vai existir computadores convencionais bem melhores. \r\n PC Gaymers nunca tiveram como principal foco miniaturizar.
+ >>27413707 \r\n Quanto mais eu aprendo, mais eu sei que não sei porra nenhuma.
+ Mas ele já não é majoritariamente usado com esse propósito? \r\n \r\n Agora, se você está falando em torná-lo o hardware mais top de linha para jogos, bem é uma dúvida um tanto idiota. A ideia do Pi é ser um computador acessível, de baixo consumo e processamento, exatamente o contrário do que você quer.
+ >>27413763 \r\n >bem, é uma dúvida \r\n \r\n Fix'd.
+ Já é possível rodar jogos da geração atual em SOC. Só que o preço não ajuda e o desempenho também não é bom. \r\n \r\n Mas entre um SOC e um console não existe muita diferença, a não ser que o hardware do console é otimizado para tal tarefa. \r\n \r\n Não existe nenhuma vantagem em uma empresa desenvolver SOC focando em games tendo em vista que um desktop apresenta melhor custo benefício, um notebook apresenta conforto e um console é otimizado e mais barato.
+ >>27413763 \r\n Ele é usado para emulação apenas.
+ Outro exemplo mais barato e mais novo no vídeo. Estou querendo comprar essa placa, 99 dólares, vai servir como uma luva nos meus projetos de processamento de imagens. \r\n \r\n Tem uns modelos mais antigos do Jetson que são incrivelmente potentes mais chegam a custar 1200 dólares. Inviável para projetos de automação e IoT.
+ Esse aqui tem o mesmo preço do RPI 3B+, mas consegue rodar windows 10, logo dá para jogar alguns joguinhos como mostra no vídeo. Achei a qualidade boa, mas isso é o máximo que você vai conseguir. A mesma coisa que um notebook barato consegue rodar.
+ >>27415016 \r\n >esse mini computador \r\n Meua migo…

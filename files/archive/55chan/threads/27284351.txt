@@ -1,0 +1,5 @@
+ Anões Macgyver, ajudem-me. \r\n \r\n Tenho um portão elétrico com o motor como o da pica relatada. Esse negócio de comprar pilhas para o controle me incomoda, existe algum modo de eu usar o infra-vermelho do meu espertofone para abrir e fechar o meu portão?
+ Compre pilhas recarregáveis.
+ Sim. \r\n \r\n Espero ter ajudado.
+ Acontece que portões eletrônicos costumam funcionar por rádio frequência e não por infravermelho. Digamos que, hipoteticamente, o seu portão seja uma exceção e funcione por IR. O alcance do IR de um smartphone é curtíssimo. sendo necessário contato físico direto com o outro dispositivo para funcionar, no caso, o motor do portão. \r\n \r\n Geralmente esses controles utilizam baterias e não pilhas. Elas a vida útil dessas baterias de controle são relativamente altas, visto que não são frequentemente acionados.
+ >>27284390 \r\n \r\n Obrigado por me rivotrilar anão, não sabia que os portões funcionavam por ondas de rádio. O Grande Projeto morre antes mesmo de ser iniciado.

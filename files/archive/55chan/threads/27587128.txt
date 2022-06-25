@@ -1,0 +1,18 @@
+ REC 01.
+ Esse anime é bom? Parece ser bem comfy.
+ >>27587153 \r\n É um romance leve, com algumas coincidências forçadas, mas não é nada infantil, e é bem gostoso de assistir e bem curtinho. \r\n \r\n Na verdade, eu só estou testando encode de vídeo. Não é normal ver vídeo desse tamanho, com áudio, no limite de 15MiB do chan, né? \r\n E a qualidade é ruim, mas não é um lixo total.
+ >>27587162 \r\n Ficou bom, tem pouco artefato para o tamanho do arquivo. Que método você usou?
+ Aprendam.
+ >>27587168 \r\n \r\n Eu cortei a abertura e o encerramento fora e encodei com vídeo AV1 (2pass, 140K) com OPUS (96K), usando o ffmpeg. \r\n \r\n ffmpeg -i <input> -sn -an -c:v libaom-av1 -b:v 140K -cpu-used 5 -lag-in-frames 16 -tiles 2x4 -row-mt 1 -strict experimental -pass 1 -f matroska NUL \r\n ffmpeg -i <input> -sn -c:v libaom-av1 -b:v 140K -cpu-used 5 -lag-in-frames 16 -tiles 2x4 -row-mt 1 -strict experimental -pass 2 -c:a libopus -b:a 96k <output> \r\n \r\n Aqui a abertura.
+ >>27587153 \r\n É muito comfy, e são só 10 episódios de 12min. Recomendo sim, anão.
+ Animação interessante, eu gostei muito do uso das cores, você não vê muito isso em animações modernas japonesas. \r\n \r\n É tudo a mesma coisa, tudo hoje em dia tem aquela aparecia de anime que você já espera, e até 2006 ou 2007 você tinha aquele ruído e cores mais fortes que pelo menos hoje são nostálgicos, mas hoje para mim tudo é a mesma coisa.
+ Encerramento. \r\n \r\n Querem que eu faça o segundo episódio? Demora pra caralho encodar em AV1…
+ >>27587175 \r\n Puta merda, essas sintaxes do ffmpeg é o que me fodem, tenho que aprender como essas coisas funcionam, também quero encodar meus desenhos pra poder postar no chan. Also, obrigado.
+ >esse incêndio \r\n \r\n Foi inspirado no incêndio recente, daquele estúdio?
+ >>27587182 \r\n Se não for muito incomodo… Se você fizer e postar aqui, eu assisto. 
+ >>27587184 \r\n HUE. Você não viu a linha do marmelo pra fazer os cortes (tirar OP e ED)… \r\n \r\n '[0:v]trim=start=90.023:end=710.006,setpts=PTS-STARTPTS[av];\ \r\n [0:a]atrim=start=90.023:end=710.006,asetpts=PTS-STARTPTS[aa];\ \r\n [0:v]trim=start=800.000,setpts=PTS-STARTPTS[bv];\ \r\n [0:a]atrim=start=800.000,asetpts=PTS-STARTPTS[ba];\ \r\n [av][aa][bv][ba]concat=a=1[outv][outa]' \r\n \r\n >>27587186 \r\n Foi isso que me fez lembrar e reassistir, esses dias. O anime é muito mais antigo.
+ >>27587186 \r\n Na verdade, o incêndio daquele estúdio é que foi inspirado nesse anime.
+ Acabei de assistir o episódio que o OP postou. Gostei bastante, fazia tempo que eu não assistia um anime com um romance tão direto e cheio de frescuras.
+ >>27587204 \r\n >romance tão direto e SEM frescuras \r\n Porra, é melhor eu ir dormir, não consigo parar de macaquear na escrita.
+ Eu lia esse gibi, mas nunca terminaram de traduzir. Me recuso a assistir o desenho. Fornique-se.
+ Episódio 2.

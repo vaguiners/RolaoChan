@@ -1,0 +1,13 @@
+ Eu desenvolvi um modelo de IA para predição do mercado AvB nas corridas de Galgos. Esses são meus resultados dos dados de Treino. Devo começar a fazer apostas?
+ >>26805698 \r\n >apostar \r\n Fix
+ >Devo começar a fazer apostas? \r\n 50%.
+ Na verdade, estou pensando em vender esses resultados para pretos apostadores.
+ Galgos são baseados. \r\n Ó, as ideias malucas do op.
+ >>26805763 \r\n Prove.
+ Qual o modelo estatístico e quais as features que você utiliza para classificá-los?
+ >>26805801 \r\n Utilizo o modelo Random Forests e Gradient Boosting. \r\n As Features, ==NEM SE VOCÊ ME MANDAR UMA FOTO DA ROLA EU TE DIGO== \r\n KEK 
+ Me ajuda, anão. Perdi 500 reais com aposta em gadobol. Me mostre o caminho das pedras.
+ >>26805813 \r\n No futebol existe um viés muito grande, evite apostar lá. As melhores odds são em esportes pouco conhecidos.
+ Belo trabalho. Até participo de alguns grupos do Telegrama sobre Galgos, mas nunca apostei. Não fujo muito dos mercados tradicionais.
+ >>26805806 \r\n Kek. Pode pelo menos dizer um intervalo de quantidade de features? Digo, está entre 10 e 15 ou entre 25 - 30 features, por exemplo.
+ >>26805841 

@@ -1,0 +1,4 @@
+ Qual gerenciador de download os anões estão utilizando?
+ O do baixaki.
+ Orbit mestrecorrida!
+ Aria2c, é muito útil se você quer baixar milhares de arquivos.

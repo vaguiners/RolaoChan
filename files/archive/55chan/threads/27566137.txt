@@ -1,0 +1,9 @@
+ Pra fazer uma geladeira eu preciso só de uma serpentina, trocadores de calor e um compressor, correto? A temperatura mínima depende só do ponto de ebulição do gás ou de alguma coisa a mais?
+ Rapaz, se é para gelar teu refrigerante, até um projetinho de peltier resolve. Montar um sistema de refrigeração na teoria é como falou, mas na prática a pica é outra.
+ >>27566164 \r\n >até um projetinho de peltier resolve \r\n Ineficiente demais. \r\n \r\n >mas na prática a pica é outra. \r\n Eu preciso de uma bomba de vácuo e o que mais? É só levar em algum lugar pra encher de gás.
+ >>27566137 \r\n Ponto de ebulição, calor de vaporização/condensação e calor específico.
+ Quero fazer um ar-condicionado de cachorro.
+ Por que a válvula de expansão tem esse arame comprido?
+ >>27566249 \r\n Troca de calor.
+ >>27566218 \r\n Como seu cachorro vai resfriar sua casa? Isso não é possível, além de ser maus tratos.
+ >curso de eletrônica no senac \r\n >'Ah, facinho fazer uma geladeira, só montar as peças' 

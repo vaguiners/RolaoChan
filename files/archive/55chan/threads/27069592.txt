@@ -1,0 +1,2 @@
+ Alguém está conseguindo acessar o pastebin? Tentei acessar normalmente e não foi, porém com proxy funcionou normalmente. Será que a justiça mandou bloquear de novo por alguém estar usando ele para compartilhar café? 
+ É só você usar algum DNS decente. Aposto que está usando a bosta do Cloudflare. Use OpenDNS + Google.

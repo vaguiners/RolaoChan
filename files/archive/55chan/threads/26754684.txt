@@ -1,0 +1,5 @@
+ Quais áreas devo aprender para trabalhar com T.I ? Vale a pena ficar fornicação em Matemática, antes de estudar informática em si? Pretendo ser autodidata, então recomendem vídeos também.
+ Serviços gerais é uma boa.
+ Se prepara que no T.I você vai ter muitos clientes retardados.
+ Sim, estude matemática discreta, cálculo, geometria analítica, grafos e outras merdas. Lógica de programação e o entendimento de como um computador funciona, inclusive binário.
+ Estude só lógica que está bom, OP.

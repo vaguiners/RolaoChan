@@ -1,0 +1,119 @@
+ >eternamente reinventando a roda \r\n >nunca conseguindo fazer uma roda que preste e que o usuário comum queira usar \r\n Lembrete diário que a comunidade linux é puro autismo.
+ Sempre perco com a galera do pinguim. \r\n Kek.
+ >ele acha que Linux é um cara ou um grupo só que faz \r\n Eu nem sou Linuxfag mas, parabéns, você conseguiu passar o seu recibo de burro.
+ >>27442246 \r\n Tá bom, anã, agora volta lá para sua distro do Hannah Montana.
+ >>27442241 \r\n >essa pica \r\n \r\n Perdi totalmente pois tenho um colega de faculdade que é exatamente como é descrito.
+ >>27442261 \r\n Que bait fraca. Fique com o meu sage.
+ >>27442241 \r\n >>27442265 \r\n Eu gostaria de intervir por um momento. O que você está se referindo como Linux é, na verdade, GNU/Linux, ou como eu tenho chamado ultimamente, GNU mais Linux. Linux não é um sistema operacional por si só, mas um componente livre do sistema completamente funcional GNU, transformado em algo útil pelas corelibs, shell, e outros componentes vitais GNU, formando um sistema operacional completo conforme definido pelo POSIX. \r\n \r\n Muitos usuários usam uma versão modificada do sistema GNU todos os dias sem perceberem. Por um acontecimento peculiar, a versão do sistema GNU amplamente utilizada hoje é chamada de Linux, e muitos de seus usuários não estão cientes de que ele é basicamente um sistema GNU, desenvolvido pelo projeto GNU. \r\n \r\n O Linux realmente existe, e essas pessoas estão utilizando-o, mas ele é apenas parte do sistema que eles usam. Linux é o kernel: o programa no sistema que aloca os recursos da máquina para os programas em execução. O kernel é uma parte essencial do sistema operacional, mas inútil por si só. Ele só pode funcionar no contexto de um sistema operacional completo. O Linux normalmente é usado em combinação com o sistema operacional GNU: o sistema completo é basicamente GNU com Linux adicionado, ou GNU/Linux. Todas as assim chamadas distribuições Linux são na verdade distribuições de GNU/Linux!
+ >escravo do judeu \r\n >brainlet \r\n >vem se afirmar em fórum anônimo de travestis \r\n Puro lulz. Aposto que é uma vagabunda pelo tamanho do ego.
+ Concordo 100%. \r\n O único motivo pra usar Linux é se você for desenvolvedor de software ou trabalhar com TI. Pra qualquer usuário comum, é uma merda. Eu fico me perguntando quão improdutivo e desorganizado na minha adolescência e início da vida adulta se eu tivesse primeiro que aprender Shell script pra só depois conseguir organizar meus arquivos e diretórios decentemente. Computador é pra ser uma ferramenta pra facilitar a sua vida, não pra fazer você querer voltar a escrever tudo em papel porque é mais fácil do que aprender um milhão de comandos no terminal.
+ Até o filho do Linus virou aberração. \r\n \r\n https://www.reddit.com/r/linux/comments/9go8cp/linus_torvalds_daughter_has_signed_the/ \r\n \r\n INB4: slowpoke 
+ Linux ftw.
+ Protip: todo sistema operacional é uma merda, apenas use a que lhe der menos problemas.
+ >>27442241 \r\n >Windows 7 Ultimate x64, e você então está livre. 
+ Se você é burro o suficiente para considerar algo que não seja OpenSuSE, Fedora/CentOS e Ubuntu, ou você faz pela filosofia ou faz pela diversão. Se quiser considerar alguma distro sem impacto profissional você é retardado. \r\n \r\n Also, o kernel costuma ser o mesmo, a única diferença são os repositórios. Então não importa qual distro você escolha, o Kernel sempre será aprimorado com o passar do tempo.
+ >eles não sabem 
+ Então aponte uma roda ideal para qualquer tipo de veículo, OP. É tudo sobre especificidade.
+ GNU/Linux te dá liberdade, algo que o Windows nunca teve. Continue na Matrix, draminado.
+ >usa janelas pirata e acha que tem moral 
+ >>27442569 \r\n >liberdade \r\n >sem pacote adobe \r\n >sem sony vegas \r\n >faltando tudo que é programa \r\n Aproveite essa sua liberdade aí.
+ Só de eu poder fazer update a hora que eu quiser já vale o esforço.
+ >só existe um tipo de roda 
+ >>27442655 \r\n >>27442655 \r\n >>27442655 \r\n >>27442655 \r\n >>27442655 \r\n >>27442655 \r\n >>27442655 \r\n >>27442655 \r\n >>27442655 \r\n >>27442655 \r\n >>27442655 \r\n >>27442655 \r\n >>27442655 \r\n >>27442655 \r\n >>27442655 
+ >>27442655 \r\n >p-p-pelo menos eu p-posso mudar a cor da barra de scroll, você nem isso pode 
+ >Pacman deu pau de novo 
+ >>27442704 \r\n >não usando Debian \r\n \r\n Você pediu por isso.
+ >>27442655 \r\n Nem uso Lunix e sei que dá pra usar esses programas com Wine ou outro negócio.
+ >>27442655 \r\n Já te passou pela cabeça que nem todo mundo usa fotoloja ou edita vídeos?
+ >essa bunda em chamas \r\n Existem estudos que mostram que usuários de linux têm o QI acima da média.
+ Pica sempre relatada.
+ >>27442707 \r\n Secundo.
+ >>27442774 \r\n KEK. Não consigo entender o motivo de ficarem com a bunda ardida por ter gente que faz/usa coisas de maneira diferente.
+ Seu espertofone é o que OP? Se você tiver qualquer coisa que não seja uma maçã branca, sinto dizer que é um usuário do linux. \r\n \r\n Ahh! Se você também usa: \r\n \r\n - Roteador da TPLink (e seus derivados como Intelbras) \r\n - EspertaTV da Samsung \r\n - Impressora moderna da HP \r\n \r\n Entre muitas outras guloseimas tecnológicas, você também é usuário de Linux! \r\n Agora lide com isso.
+ >>27442781 \r\n Não fico de bunda ardida, anão. Eu já tentei usar Linux, Deepin, mas não deu muito certo. Acho ela uma das mais belas distribuições, mas precisei voltar pro janelas. Até tenho um HD com o Deepin ainda instalado, quem sabe não dou outro chance.
+ >>27442810 \r\n Os sistemas operacionais da Apple são irmãos dos GNU/Linux. Ambos baseados em UNIX, com similaridades absurdas. Ou seja, todo espertofone do mundo usa uma distribuição Unix based, com exceção dos Windows Phone.
+ >>27442774 
+ >>27442841 \r\n Não é você que da uma chance pro linux, é o linux que da uma chance pra você! O dia que você entender isso talvez saia da sua zona de conforto das Janelas. \r\n \r\n Só lembrando que o Til Bill não pretende lançar outra versão das Janelas além do 10, ou seja, curta usar um sistema remendado por muitos e muitos anos.
+ >>27442857 \r\n Prove isso mandando o código fonte do IOS.
+ >>27442810 \r\n E a máquina em que esse chan está hospedado? Linux.
+ >>27442865 \r\n Então eu já vou aproveitando meu HD pra outra coisa. KEK.
+ Continue geleiando e sendo cornohold do próprio computador.
+ >>27442870 \r\n É só realizar uma breve pesquisa, macaco. A Apple jamais saiu do UNIX, nem ao menos tentou sair.
+ >>27442841 \r\n >burro demais pra usar uma distro feita para o menor denominador comum \r\n >heh, não fique com a bunda ardida, anão \r\n \r\n Comecei a tossir de tanto rir.
+ >>27442763 \r\n >scq é real 
+ >>27442220 
+ >>27442966 \r\n Foi nela pelo simples fato dessa ser a promessa. Depois percebi que não teria vários dos programas que utilizo diariamente para trabalhar. \r\n Não queria ter que fazer gambiarra para usar programas que instalo com 3 cliques. Simples assim.
+ >>27442952 \r\n \r\n Macaco é você achando que algo que lá no passado foi baseado em UNIX, ainda possa conter um kernel que seja minimamente parecido com o kernel do linux, até porquê provavelmente você nunca compilou um Kernel na vida não é mesmo? nem sequer somou números binários. Então criança, volte pro seu minecraft e não encha o saco.
+ >>27442968 \r\n Fornique sim, rei marinho! Uso linux desde que nasci e sempre fui o melhor no colégio/faculgado.
+ >>27442841 \r\n Meua migo, se você não conseguiu usar uma distro user-friendly como o Deepin é melhor se matar.
+ >>27443015 \r\n >Unix \r\n >kernel \r\n >quem sabe compilar kernel sabe do que está falando \r\n Eu sou uma fodendo piada para você?
+ >>27442870 \r\n Pode imprimir e enfiar no cu: https://pt.wikipedia.org/wiki/MacOS \r\n \r\n >HUR DUR MOSTRE NU CÓDIGO FONTE OXIIIIIIII VO COME MEU VATAPÁ \r\n \r\n macOS não é código aberto, seu chimpanzé.
+ >>27443063 \r\n Perdi com esse katinguelê. Eu adoro os anões, puta merda.
+ >>27442916 \r\n Muito bom jogar esse joguinho com os anões.
+ >solus \r\n >mint \r\n >debian \r\n Qual dessas distros um usuário de Windows deve iniciar? Irei começar com um dualboot e com o tempo eu talvez abandone isso aqui. Tenho um HD com alguns arquivos importantes, consigo instalar o linux no HD sem perder esses arquivos? Já usei o Solus em VM e achei interessante. \r\n Já fiz Hackintosh algumas vezes e gostei do OS.
+ >>27443173 \r\n Deveria iniciar com Ubuntu, Debian só se você tiver bolas.
+ >>27443202 \r\n Acredito que ele vá sofrer bastante com o Gnome3. \r\n \r\n >>27443173 \r\n Linux Mint. Flavor Cinnamon, que é a padrão. É bem parecida com o Windows inicialmente, com o botãozinho no canto inferior esquerdo para se orientar. É só instalar que tudo funciona. O que você sentir que está faltando, é só jogar no buscador.
+ >>27443173 \r\n Lendo toda a documentação da pra começar até no arch ou gentoo.
+ >>27443173 \r\n Mint LXDE. Ubuntu vai estragar a sua experiência.
+ >>27442916 \r\n >>27443151 \r\n S@udades. SETIM_O_GRANDE aqui.
+ >>27443231 \r\n Se eu tivesse começado pelo Arch ou Gentoo, hoje eu provavelmente não estaria usando Linux. Não que Arch seja ruim, mas o choque de cultura é grande demais. Não é muito diferente de instalar o Debian netinst.
+ >>27443173 \r\n Linux mint.
+ >>27443283 \r\n Eu praticamente comecei pelo Arch Linux há 5 anos atrás, mas a grande diferença é que eu tinha uma amigo mais experiente para me auxiliar. Uso Arch até hoje.
+ ANtes que eu me esqueça: Pau no cu do GNOME Project.
+ >>27443202 \r\n >>27443226 \r\n >>27443231 \r\n >>27443256 \r\n >>27443316 \r\n Pelo jeito irei de Mint mesmo. Eu terei que formatar meu HD igual é necessário com o Hackintosh ou consigo instalar sem perder meus arquivos? \r\n Ubuntu foi meu primeiro OS há muitos anos, mas tive que trocar para o Windows na época.
+ >>27443753 \r\n Se você estiver com o Janelas, apenas abra uns 100 ou 200GB para o Mint em uma partição e siga o instalador. Ele vai te perguntar se você quer apagar tudo e instalar o Mint, ou instalar lado a lado com o Janelas. É só seguir as instruções.
+ PopOS! em todos os campos
+ >>27443783 \r\n Era o que eu imaginava, anão. Só fiquei com dúvidas, pois o hackintosh não aceitava partições, apenas o disco inteiro.
+ Tudo se trata do foco. \r\n \r\n Linux nunca teve foco no usuário comum.
+ >sem dor de cabeça para instalar nada, a menos que você seja um completo retardado \r\n >sem risco de pegar vírus, ramsonware e o caralho a quatro \r\n >sem telemetria da microsoft comendo sua internet e seu desempenho \r\n >tudo isso de graça, sem precisar instalar ativador \r\n >se dá um problema, em 1 dia lançam um patch pra solucionar \r\n >sistema pode ser atualizado quando você bem entender \r\n >tudo de graça \r\n \r\n Se o quejim minas soubesse como é tranquilo usar linux mesmo para as tarefas mais casuais. Só não é popular pois o povão com QI de ameba tem medo de testar coisas novas e, pior, uma preguiça enorme em aprender algo novo. \r\n \r\n Azar deles. Eu não poderia estar mais satisfeito.
+ >>27444636 \r\n Esse é o Rolling Release?
+ >>27444636 \r\n Eu consigo criar um link simbólico ou hard link pra um arquivo clicando com o botão direito e então clicando no item de um menu de contexto? Ou tenho que abrir o terminal?
+ >>27444655 \r\n Sim, o Tumbleweed. \r\n \r\n >>27444662 \r\n No KDE, basta arrastar.
+ >>27444726 \r\n Existe algum programa tão simples e eficiente quanto o MS Paint cuja atualização mais recente é de 2017 ou anos posteriores. \r\n >inb4 Gimp 
+ >>27444793 \r\n Avançado, o Krita. Para edições casuais, tente o Pix ou o Pinta.
+ >>27444636 \r\n Que interfaces gráficas estão disponíveis pro openSUSE?
+ >>27442655 \r\n >tem programas opensource melhores muito superiores \r\n >faz tudo que o ruindows faz e mais um pouco sem gastar 1 centavo \r\n >dúvidas resolvidas em 1 segundo de google \r\n >distros amigáveis até mesmo para autistas como ubuntu \r\n \r\n GNU+linuxlet é purolulz.
+ >>27444822 \r\n O Pinta não foi atualizado faz muito tempo e é cheio de bugs.
+ >>27444835 \r\n A nativa do Opensuse e o KDE/Plasma. mas na hora da instalação você pode optar por KDE, Gnome e XFCE, porém, você poderá instalar qualquer uma que estiver nos repositórios ou mesmo instalar adicionando outros repositórios. \r\n \r\n Eu gosto muito do Cinnamon, da época que usava Mint, mas no Suse ele ainda está na 3,8, enquanto no Mint já está no 5. Recomendo que fique com o KDE. \r\n \r\n >>27444894 \r\n Pode tentar também o Kolourpaint, mas nesse eu nunca mexi.
+ >>27444926 \r\n >enquanto no Mint já está na 4.0 \r\n Fixando
+ >>27444880 \r\n >arquivos de programas espalhados em vários diretórios diferentes \r\n >aprendo a usar o gerenciador de pacotes pra desinstalar um programa \r\n >um monte de arquivos relacionados aquele programa que não são dependência de nenhum outro programa continuam no computador e… espalhados em vários diretórios diferentes \r\n >abro o terminal \r\n >uso find, locate e o escambau pra achar os arquivos \r\n >tenho que remover 1 a 1 porque não existe nenhum programa ou comando decente que automatize o processo de remoção \r\n >find não reconhece a porra de um traço no nome do arquivo, achando que é uma opção/argumento pro comando, tenho que tirar o traço o que acaba me retornando resultados que eu não quero \r\n >me sugerem aprender shell script \r\n Nossa, realmente, a solução é usar Ubuntu, que distro amigável! Realmente resolve os problemas do Linux! \r\n \r\n Linux não foi feito pra uso comum. \r\n \r\n >enquanto isso no 'Ruindows' \r\n >clico em desinstalar no painel de controle \r\n >desinstala o programa \r\n >ain mas e os registros e arquivos de configuração? \r\n >baixo Geek Uninstaller \r\n >desinstalo através do Geek Uninstaller com uma interface gráfica \r\n >depois de deinstalar o programa, ele limpa os registros, arquivos de configuração, etc… \r\n >???? \r\n >lucro \r\n Parece que vocês sentem prazer em fazer coisas básicas do jeito mais difícil.
+ >>27444880 \r\n >tem programas opensource melhores muito superiores \r\n \r\n Forçou, meu rei. \r\n \r\n >>27444974 \r\n >tenho que remover 1 a 1 porque não existe nenhum programa ou comando decente que automatize o processo de remoção \r\n \r\n O comando purge remove todos os diretórios de um programa e autoremove remove todas as dependências de um pacote desinstalado que porventura ficaram no sistema e não são mais úteis. Faltou brio.
+ >>27444974 \r\n >desinstalador do programa não desinstala o programa inteiro \r\n >tem que baixar outro para desinstalar tudo \r\n >depois de desinstalar o programa, tem que desisntalar o desinstalador \r\n E você chama isso de eficiência? \r\n \r\n >Parece que vocês sentem prazer em fazer coisas básicas do jeito mais difícil. \r\n Suponhamos que você queira remover por completo o Opera de um PC rodando Debian, Ubuntu ou Mint \r\n \r\n >abre o terminal \r\n >sudo apt purge opera \r\n >enter \r\n \r\n Problema resolvido. E o mesmo serve para as outras, só mudando o gerenciador (dnf, zypper, pacman, etc).
+ >>27445035 \r\n >O comando purge remove todos os diretórios de um programa e autoremove remove todas as dependências de um pacote desinstalado que porventura ficaram no sistema e não são mais úteis. Faltou brio. \r\n Não, nem sempre remove.
+ >>27444793 \r\n Eu gosto do Kolourpaint, é bem parecido com o MSPaint.
+ >>27445056 \r\n Sou linuxfag mas ele tem razão. Desinstalar o Mysql/Mariadb do Ubuntu é impossível. Você pode usar purge e depois um grep para varrer a porra toda e excluir tudo que tiver 'mysql' ou 'mariadb' do sistema. Quando você abrir um terminal e digitar 'sudo mysql' o banco de dados vai abrir e todas as tabelas ainda estarão lá. Isso quando o 'sudo mysql' falha e você se convence que ele foi removido. Aí você instala ele de novo esperando que seja uma instalação limpa, mas as tabelas ainda estão lá. É de cair o cu da bunda.
+ >>27445062 \r\n >>27445089 \r\n Pacman -Rscn.
+ >>27445108 \r\n >Arch 
+ >>27445108 \r\n >acabaram de dizer que Ubuntu é distro amigável pro usuário comum \r\n >tento fazer algo simples, não consigo \r\n >anão me recomenda trocar pro Arch Linux só pra poder usar o Pacman como gerenciador \r\n Como linux é amigável pro usuário comum!
+ >>27445089 \r\n Já tentou 'apt –purge remove'?
+ >>27445134 \r\n >mas anão, tem o Manjaro! 
+ >>27445130 \r\n Perdi. \r\n \r\n >>27445134 \r\n Eu não recomendei, só disse que funciona.
+ >>27444880 \r\n >tem programas opensource melhores muito superiores \r\n O linuxfag nos oferece merda e tem a ousadia de falar que é chocolate. O mal-caratismo deles não têm limites. Mate um usuário de linux hoje mesmo!
+ >>27445134 \r\n Me diz o que você tentou fazer e não conseguiu.
+ >>27445162 \r\n Instalar o Google Chrome. Cliquei no .exe e apareceu um monte de coisa estranha.
+ >>27445144 \r\n Falou o anão que paga para usar excel.
+ >>27445167 \r\n Mordi.
+ >90 replies para uma pesca óbvia \r\n Seriosamente?
+ >mau-caratismo* \r\n Fixado.
+ >>27445167 \r\n Vou morder. Só abra a loja de apps do Ubuntu e procure pelo Chorume. Se não achar, instale o Chorumium que é a mesma bosta.
+ >>27445184 \r\n Deixa a galera brincar.
+ >>27445167 \r\n >esse mentiroso se passando por mim \r\n No Ubuntu, o Chrome te envia um pacote .deb que você clica duas vezes e abre a central de programas.
+ >>27445176 \r\n >huur \r\n Eu não quero ter que compilar código toda vez, só quero clicar duas vezes e ver tudo pronto.
+ >>27445144 \r\n >mau-caratismo* \r\n Fixado.
+ >>27445189 \r\n Não funciona sempre. Já tive o mesmo problema com uma instalação limpa. Tive que instalar uma caralhada de coisas antes dele funcionar.
+ >>27445184 \r\n A thread pode ser de pesca, mas serviu para alguns anões que se interessarem a aprender algo.
+ >>27445173 \r\n Uso MS Office crackeado. Nunca roubaram minhas senhas do banco, nem ferraram com o meu HD. Se tem algum vírus, ele é bem inútil.
+ >>27445202 \r\n Mas que porra de ubuntu é esse que você tá usando, caralho?
+ >>27445202 \r\n >entra no site \r\n >clica em baixar \r\n >vai baixar a porra do pacote .deb \r\n >dois cliques \r\n >'Instalar' \r\n \r\n QUAL A DIFICULDADE QUE ISSO TEM, FILHO DA PUTA! 
+ >>27445210 \r\n Da última vez foi o 18.04. Depois aconteceu o mesmo no 19.04.
+ >>27445221 \r\n ACABEI DE DIZER QUE NÃO FUNCIONA SEMPRE, PORRA. \r\n Eu não sou incluso. Sei consertar as coisas e fazer funcionar. Mas não funciona sempre. Pare de controlar danos.
+ >>27445231 \r\n Perdi.
+ >>27445231 \r\n O problema provavelmente é você, anão.
+ >>27445231 \r\n Prove. Poste prints.
+ >>27444974 \r\n >geek uninstaller \r\n \r\n Obrigado, anão. Finalmente algo útil nesse foro de pardos e travestis.
+ >>27445257 \r\n >achando que essa merda limpa realmente o registro \r\n \r\n Kek.
+ >>27445239 \r\n >>27445243 \r\n >>27445256 \r\n >linuxfags em uníssono controlando danos \r\n Meua migo… vou explicar para vocês. \r\n >compro um PC novo \r\n >instalo Gentoo Ubuntu \r\n >baixo o .deb \r\n >executo \r\n >dependências faltando \r\n >instalo as dependências \r\n >Chrome funciona \r\n É disso que estou falando. Imaginem se o OP dá de cara com um aviso dizendo que falta libgconf.
+ Sou grato aos linuxfags por garantirem meu anonimato na rede mundial de computadores. \r\n Se mexer com eles, eu quebro na porrada.
+ >>27445290 \r\n É só ter brio. Ou pagar uma licença, você escolhe.
+ Sou applefag, mas é por conveniência. Não ligo pra nada a não ser o uso tanto os macs quanto os iphones são muito melhores de usar. Se lançarem algo melhor, aí um migro. No momento estou comfy.
+ >>27445337 \r\n >…uso e tanto os macs… \r\n Fix.

@@ -1,0 +1,11 @@
+ Boa noite. \r\n Tenho um i5 2400 e acabei de encomendar uma GTX 1060 6gb. Sei que haverá gargalo em alguns jogos, a opção que tenho é comprar um i7 3770 de um amigo por 500 reais. É uma boa?
+ Por enquanto não quero ter que trocar a MOBO e memoria RAM só para ter um processador mais recente.
+ Difícil saber, anão. Você pode estar pegando um processador em ótimas condições ou uma bomba relógio. Eu não arriscaria.
+ >500 reais em um processador de 7 anos 
+ >comprando processador abaixo da 8ª geração em 2019 \r\n >comprando uma 1060 em 2019 \r\n \r\n Macaco pobre imundo, não merece nem ser ajudado. Vai trabalhar e ganhar dinheiro.
+ A 580 era melhor e mais barata.
+ >>27364147 \r\n Eu sei, na verdade achei as 2 pelo mesmo preço. Paguei 1100 nesta bosta e a outra merda também estava 1100.
+ >>27364183 \r\n Also, a fabricante também pesou. A 1060 é da Galax e a 580 era da Asus.
+ Um Xeon E3-1240 v2 tem o desempenho similar ao i7-3770 e custa menos de 300 no AliExpress. \r\n \r\n Tem ainda opções melhores por até uns 400. Qual sua mobo?
+ >>27364204 \r\n Mas não teria que trocar a placa mãe?
+ >>27364265 \r\n Por isso eu perguntei qual era, se uma H61 talvez não suporte, já uma B75 tem suporte para maioria dos E3-12xx v2. \r\n \r\n Se estiver querendo comprar por aqui esqueça, pegue o i7-3770 por 500 mesmo. \r\n Mas se estiver afim de comprar da china um Xeon sai mais em conta e na faixa tem algumas opções mais próximas do i7-4770.

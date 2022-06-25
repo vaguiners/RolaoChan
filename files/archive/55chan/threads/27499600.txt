@@ -1,0 +1,6 @@
+ Irmãos, utilizo Linux Mint e instalei Ubuntu paralelamente, o problema é que Ubuntu ficou como boot prioritário e está ocupando muito espaço no disco. Quero removê-lo por completo e deixar apenas o Mint. não sei ao certo como proceder e tenho medo de fornicar tudo. No caso eu apagaria pelo Gparted mesmo? Seria essa /dev/sda2? Voltaria tudo ao normal?
+ >>27499600 \r\n Entre no Gparted pelo Mint e delete a partição do Ubuntu. Se quiser, já realoque o espaço livre ali mesmo. \r\n \r\n Depois de apagar o Ubuntu, bastará reescrever o Grub para o sistema reconhecer a nova tabela de partições, apenas com o Mint \r\n Abra um terminal e digite: \r\n \r\n \r\n sudo grub-install –boot-directory=/boot /dev/sda \r\n sudo update-grub \r\n \r\n Ele vai reinstalar o grub e reescrever a MBR.
+ >>27499706 \r\n Ah, só uma coisa. Se o Grub já estiver instalado no Mint, somente digite a segunda linha desse comando.
+ >>27499706 \r\n Vou testar, muito obrigado, meu nobre amigo anão.
+
+ >>27499755 \r\n Essa seria a versão Arch ou Gentoo. Para todas as outras, todo o trabalho de compilar tudo do zero não existe mais há, pelo menos, uns 10 anos.

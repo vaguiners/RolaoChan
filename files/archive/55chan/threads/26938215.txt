@@ -1,0 +1,12 @@
+ Me ajudem, anões. O meu pai pediu para eu formatar o computador dele e colocar o Windows 7, como sempre. Mas dessa vez quando eu terminei de instalar o Window$, acabou retornando um erro estranho com os drivers. Eu passei o executável do 3DP via pen driver para o computador dele, instalei os drivers de rede, mas o wifi ainda não está funcionando. Pois aparece um x vermelho na parte de conexão e não faz a pesquisa de redes wireless disponíveis, antes que falem para conectar com o cabo de rede, não, não está funcionando!
+ Instale o W7 novamente. Veja se os drivers são da versão que você instalou(32/64). Por último, veja se você não desativou o wifi fisicamente , pelo botão FN.
+ Baixe o Driverpack Offline Network e coloque em um pen drive. Ele possui cerca de 500mb e tem quase todos os drivers de rede para o computador de seu pai.
+ >pen driver 
+ O computador é muito velho? Parece problema chipset.
+ >>26938616 \r\n >um problema no chipset \r\n Mim Tarzan, desculpe.
+ Compre uma placa de rede. Provavelmente é um problema na placa mãe.
+ Sei não, amigão. \r\n Uso o sistema do pinguim.
+ >pen driver \r\n Aposto que o Op é um daqueles retardados, que também confunde as palavras design e designer.
+ Opa, vocês ainda estão aí? Perdão pel demora, é que eu acabei de acordar e estou meio tonto.
+ Alex, quanto tempo! Pedrinho não tá mais ajudando com os problemas do Pc?
+ >pen driver. 

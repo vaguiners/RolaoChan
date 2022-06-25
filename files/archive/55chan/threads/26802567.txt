@@ -1,0 +1,17 @@
+ Anões, como eu posso baixar todo o conteúdo de um site de forma prática? Vi um vídeo que ensina no cmd, mas achei meio tosco e creio que a elite conheça uma forma mais simples.
+ Bump.
+ >>26802567 \r\n Baixa o Aria2c. É um gerenciador de download em linha de comando excelente para baixar grandes quantidades de arquivo (algo na casa dos milhares ou centenas de milhares de arquivos). É um pouquinho chato de aprender a mexer, mas nada de outro mundo. \r\n \r\n Se você tentar baixar milhares de arquivos num Free Download Manager da vida vai ser um inferno (vai travar e vai ficar super pesado).
+ >>26802582 \r\n Irei tentar.
+ >>26802582 \r\n Dei um ctrl + v e o programa fechou e não quer abrir mais. Kek.
+ Qual site que é, se você puder falar aqui, por curiosidade. Dependendo do caso poderia lhe ajudar. Se for algum algum fórum, ou algum site em que as páginas seguem algum padrão, por exemplo: \r\n \r\n https://forum.org/thread/show.htp?threadid=1 \r\n https://forum.org/thread/show.htp?threadid=2 \r\n https://forum.org/thread/show.htp?threadid=3 \r\n https://forum.org/thread/show.htp?threadid=4 \r\n \r\n Já facilita muito na hora, pois você já basicamente sabe quais páginas tem que salvar e o formato delas.
+ >>26802608 \r\n É um que tá aparecendo o index, não quero compartilhar porque algum anão pode cagar com tudo e o webmaster arrumar. Acho melhor baixar pasta por pasta, quero organizar tudo com nome. Vou procurar alguma extensão de Chrome.
+ Baixa sites inteiros (ou só uma página se você quiser): https://www.httrack.com/ 
+ >>26802601 \r\n Bem, você tem que colocar esse exe dentro da pasta windows (não é vírus). \r\n \r\n Daí você abre o CMD.exe e digita: \r\n \r\n aria2c -i C:\Users\lista.txt -j16 -s16 -x16 –dir='C:\Users\' –user-agent=Chrome 70 –always-resume=true –disk-cache=0 –max-tries=4 –retry-wait=1 -l LogDownload.TXT \r\n \r\n Esse 'lista.txt' seriam as URLs do site que você quer salvar (por isso que eu comentei que seria interessante se o fórum ou site que você planeja salvar tivessem algum padrão nas postagens, pois isso facilita e muito). \r\n \r\n E o 'C:\Users' seria o endereço onde esses arquivos serão salvos. A título de curiosidade, de quantos arquivos estamos falando? Você tem alguma ideia?
+ >>26802634 \r\n Tá criando as pastas a
+ >>26802643 \r\n >>26802634 \r\n Tá criando as pastas aqui, vou ver se baixa as fotos. Batatei no botão.
+ https://stackoverflow.com/questions/273743/using-wget-to-recursively-fetch-a-directory-with-arbitrary-files-in-it 
+ >>26802649 \r\n Vou tentar esse se o do >>26802634 não der certo.
+ >>26802649 \r\n Secundando esse comentário. Também, pela situação do OP acho que o wget funcionária até melhor.
+ >>26802663 \r\n >>26802634 \r\n Funcionou aqui. Kek.
+ >>26802665 \r\n Meua migo, nunca dei uma dica errada em toda a minha vida para alguém.
+ >>26802835 \r\n Você é do caralho. Sabe me informar a linguagem de programação desse programa?

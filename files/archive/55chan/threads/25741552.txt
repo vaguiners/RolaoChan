@@ -1,0 +1,5 @@
+ Por que a fornicação é preciso digitar um monte de códigos hackers pra fazer qualquer coisa no linux? Já achava chato ter que escrever sudo apt-get install, mas aparentemente existem dezenas de maneiras de instalar um programa qualquer. Estou tentando instalar o bCNC, e para isso eu uso o pip, mas antes eu preciso instalar o OpenCV que eu tenho que baixar o código fonte e compilar . Vá se fornicar quem achou que isso seria boa ideia.
+ No Mint dá pra fazer qualquer coisa através da interface gráfica.
+ Quem mandou querer usar software livre?
+ >o que é Ubuntu \r\n Also, Linux é coisa de grifinorista.
+ Reclame com os desenvolvedores do programa por não disponibilizarem os binários pré-compilados. Aliás, você já olhou se não tem tudo isso no repositório da sua distro?

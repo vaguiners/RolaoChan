@@ -1,0 +1,3 @@
+[
+  "Anões, estou na luta para fazer uma calculadora de probabilidades para jogos de carta.\r\n\r\nA situação é a seguinte eu desejo calcular qual é a probabilidade de eu comprar uma ou mais cartas X em um baralho composto por 55Y e 5X. Porém vou comprar 7 cartas, eu preciso saber qual é a probabilidade de nessas 7 cartas ao menos uma ser X.\r\n\r\nEu sei que se eu fosse comprar apenas uma carta a probabilidade seria de 5/60. Mas se eu continuar comprando até comprar 7 cartas como desenvolvo essa equação?\r\n\r\nTinha pensado em algo tipo (5/60)+(5/60-1)+...+(5/60-6), mas isso obviamente está errado, pois essas coisas com probabilidade, de forma geral, nao se soma, se multiplica ou divide.\r\n\r\nEstou usando o Python. Ao final posso upar o programa aqui pra vocês."
+]

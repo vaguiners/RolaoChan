@@ -1,0 +1,1 @@
+ Eu preciso criar um instalador, e esse instalador precisa criar um atalho na área de trabalho do macaco, mas o atalho tem certos parâmetros de lançamento (flags internas do programa, como -noask -hidden, etc), como faço isso? Já usei milhares de criadores de setup e até os nativos do Windows, mas não encontro essa informação dos launch options nem em inglês. Ajudem, por favor.

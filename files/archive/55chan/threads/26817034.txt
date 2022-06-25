@@ -1,0 +1,16 @@
+ Bom dia, anões. \r\n Vou ser bem direto, estou procurando uma boa distro para usar no meu memepad t430, mas estou tendo dificuldades em achar algo que me sirva bem. Inicialmente eu gostaria de algo com boa autonomia de bateria e interface leve, atualmente estou usando Ubuntu e a interface é quase mais pesada que a do próprio Windows 7. \r\n Já usei outras distros, como Mint, ElementaryOS e SolusOS, gostando muito do ultimo, mas ele tem o pecado de usar um repositório próprio e tendo poucos programas para serem usados nele. \r\n Lembrando, meu objetivo é estudar, tomar notas e ouvir música, as vezes plugo o notebook na televisão do meu quarto para assistir algo também, mas isso não é problema para nenhuma distro. Atualmente estou sem tempo para ficar testando diferentes distros, e por isso vim ate aqui pedir por ajuda. \r\n Obrigado desde já. \r\n Um bom dia. :3 
+ >meu objetivo é estudar, tomar notas e ouvir música, as vezes plugo o notebook na televisão do meu quarto para assistir algo também \r\n >mas isso não é problema para nenhuma distro \r\n \r\n Então por que diabos você está procurando um novo distro?
+ >>26817074 \r\n Anão, o problema pra nenhuma distro que citei é na questão de reproduzir conteúdos de vídeo. O pedido maior é por uma distro leve e com boa duração de bateria.
+ Geralmente Windows tem uma autonomia de bateria melhor que GNU/Linux. Use o 7 com o aero desativado.
+ >>26817343 \r\n Que porcaria, não queria utilizar Windows. No geral a bateria do meu memepad tem durado bem, essa sua comparação é muito antiga,creio não ser mais relevante.
+ Perdi com o filename. \r\n KEK.
+ >>26817519 \r\n Quer uma manteiga, anão? \r\n Me ajude, se não o pretofelipe vai vir te visitar. 
+ >>26817528 \r\n >vai ir \r\n Fixado.
+ >>26817343 \r\n >>26817510 \r\n >Ubuntu (Default) \r\n Nem na época essa comparação teria sido honesta para comparar o Windows ao Linux. Ubuntu é uma piada de mal gosto.
+ >>26817510 \r\n >, creio \r\n Fixado.
+ Recomendo Debian mais i3wm. \r\n O Debian tem um vasto repositório e o i3wm é um gerenciador de janelas muito leve, essa configuração roda em qualquer carroça.
+ NÃO, EU NÃO QUERO MANTEIGA.
+ Manjaro.
+ >>26817584 \r\n Eu nunca entendi bem essa questão de gerenciador de janelas, é só instalar por cima do original e usar?
+ Bump.
+ >>26817584 \r\n +1 pelo i3wm, sempre tive problemas com o debian porque os programas no repositório estavam nunca estavam na versão mais atual. \r\n \r\n >>26817641 \r\n Eu acho que não, quando eu estava usando o i3wm, eu desinstalei o XFCE, já que estava dando conflito. Mas isso pode ser porque eu sou um brainlet, talvez.

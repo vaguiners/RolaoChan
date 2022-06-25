@@ -1,0 +1,11 @@
+ Anões, há uma semana eu baixei Blade Runner 2049, mas a imagem estava escura. Então eu decidi apagar e baixar novamente o filme, mas em outro arquivo. Novamente, a imagem está escura. O que vocês acham que é? \r\n Em cenas onde há luz solar, a imagem está melhor.
+ Olha essa merda. Me ajudem, anões.
+ Fiz o teste com outro filme.Mesma escuridão merda.
+ >media player classic \r\n \r\n Desinstale isso e vá para o VLC.
+ Teste no VLC.
+ Usei o editor de vídeo do Windows.Parece que a cor voltou ao normal.
+ Não tentou outro player?
+ >>26996896 \r\n Mpc hc com os codecs fica excelente, anão, bem melhor que vlc.
+ >>26996898 \r\n >>26996896 \r\n Obrigado. \r\n >>26996904 \r\n Só tenho esse. Estou baixando o VLC. Obrigado mesmo assim.
+ No painel de configuração da sua VGA veja como estão as opções de vídeo.
+ Você baixou o mesmo torrent só que em um lugar diferente. Esses sites tem o costume de fazer isso.

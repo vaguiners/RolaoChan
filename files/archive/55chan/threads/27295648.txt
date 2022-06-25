@@ -1,0 +1,2 @@
+ A quantidade de memória que o computador usa é capada? Tenho 24 gb de ram mas ele usa a mesma quantidade que estava usando quando tinha só 8.
+ Não sabia que o OS da Microsoft reconhecia mais de 16 gb de memória. Negócio tá evoluindo.

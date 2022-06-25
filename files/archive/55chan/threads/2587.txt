@@ -1,0 +1,5 @@
+Postando tutorial de como acessar os boards do 4chan sem erros até a sopa do Mutley ficar pronta. Em inglês porque eu sou um GRANDE VIADO segundo os mods e não to afim de traduzir. Enjoy: \r\n \r\n \r\n If you are having problems Anonymous 07/12/15(Sat)21:58 No.103029 \r\n \r\n Put at the bottom in C:\WINDOWS\system32\drivers\etc\hosts \r\n Remember to remove them in a few days when 4chan is 100% all up and working \r\n \r\n 66.207.165.166 www.4chan.org \r\n 66.207.165.167 content.4chan.org \r\n 66.207.165.168 orz.4chan.org \r\n 66.207.165.169 tmp.4chan.org \r\n 66.207.165.171 rs.4chan.org \r\n 66.207.165.172 static.4chan.org \r\n 66.207.165.176 zip.4chan.org \r\n 66.207.165.177 bin.4chan.org \r\n 66.207.165.178 dis.4chan.org \r\n 66.207.165.181 img.4chan.org \r\n 66.207.165.182 dat.4chan.org \r\n 66.207.165.186 cgi.4chan.org \r\n 66.207.165.187 nov.4chan.org \r\n
+ dispenso niggertits e seu shitty web 2.0 \r\n
+ visitar o 4chan não vale esse esforço \r\n
+ >>2589 >>2591 \r\n terceiro \r\n
+ quarto \r\n

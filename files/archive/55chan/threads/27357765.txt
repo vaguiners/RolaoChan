@@ -1,0 +1,21 @@
+ Anões, preciso entregar esses exercícios hoje até 00:00, é uma parte complementar da última nota da minha facugado na cadeira de Circuitos Elétricos. Bom, eu já terminei os exercícios, mas eu queria que os anões entendidos do assunto conferissem para ver se está tudo certo e não errei em alguma coisa. \r\n \r\n Logo a baixo estarei postando as picas dos exercícios resolvidos por mim. :3 \r\n \r\n ALSO, NT: /UF55/ EM GERAL. 
+ Estou com dúvida especificamente na formula da 11.16. E não encontro a tensão 38,2 da 11.17.
+ Cara, que bizarro! Você não teve que derivar e integrar nada. O que a fornicação?
+ >>27357812 \r\n Até dava para resolver com derivada e integral, mas dessa forma é muito mais simples.
+ >parênquima paliçádico de múie \r\n >500 replys \r\n >parênquima paliçádico de estudos \r\n >1 reply \r\n O ABSOLUTO ESTADO DESSE CHAN. 
+ Gráfico da questão 1.17.
+ Gráficos da questão 11.23.
+ Bump para o OP.
+ >>27358020 \r\n Obrigado.
+ >>27358020 \r\n Bump.
+ Vou assumir que a culpa dos anões não ter respondido a minha thread foi pelo fato de eu ter feito as questões com uma letra feia e de uma forma desorganizada, pois isso era só o rascunho. Aqui vos trago as questões de uma forma mais 'bonitinha' e organizada. De acordo com o que eu for passando a limpo as questões eu irei deliverando aqui. 
+ Não sei, anão. Eu poderia tirar 2 horas do meu dia e aprender a fazer essa merda pra te ajudar, mas hoje eu estou bastante ocupado. \r\n \r\n Boa sorte.
+ >>27358518 \r\n Cê faz engenharia elétrica?
+ >>27358641 \r\n Telemática. Acho melhor que engenharia. 
+ Pelo visto não tem nenhum anão no recinto que entende desse assunto, mas fornique-se, vou continuar deliverando mesmo assim.
+ >>27359211 \r\n Cortou lá em cima, mas só estava escrito: Questão 11.21.
+ Mal entendo a respeito e ainda não li o parênquima paliçádico. Essa conversa de tensão instantânea se resolveria apenas se multiplicando pelo seno daquele ângulo e se aplicando uma função de módulo antes de tudo, não? \r\n \r\n A resposta seria algo como mod(ang,180)*sin(ang) para cada ponto?
+ Quanto eu vou receber por isso?
+ >>27359523 \r\n Opa. Macaqueei. Quis dizer: \r\n sin(mod(ang,180))*volt
+ >>27359566 \r\n 50% . Conhecimento.
+ Continuando.

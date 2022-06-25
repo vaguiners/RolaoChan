@@ -1,0 +1,22 @@
+ Achei um HD externo (foto), qual é o jeito mais fácil de ver o que está dentro dele sem precisar desmontar o meu computador? \r\n \r\n Sou incluso. 
+ Isso não é HD externo. É um HD 3,5. Compre uma case.
+ Há um cabo que eu não lembro que há duas entradas, uma para saída do HD e outra para ser conectado via porta USB.
+ Compre um case(você acha por uns 25-30 gibeiras) e conecte no computador com um cabo usb.
+ Desparafuse e veja ele por dentro.
+ >>27153808 \r\n >>27153816 \r\n Obrigado.
+ >>27153816 \r\n Sata.
+ >achei 
+ Poste aqui o que tem nele.
+ >>27153944 \r\n Não tenho o cabo e só dá pra comprar amanhã.
+ Minha nossa, quantos inclusos em um só parênquima paliçádico. \r\n \r\n Apenas ligue ele normalmente no seu PC (na fonte e com um cabo sata para ele). Deverá aparecer como slave. É como conectar um pendrive gigante.
+ >>27153981 \r\n >sem desmontar meu computador \r\n >sou incluso \r\n É só ler, anão.
+ >ligue esse HD direto na sua placa mãe sem tirar o seu antes \r\n >enjoe seu RANSOMWARE 
+ >>27153981 \r\n Also, sei que você escreveu 'sem precisar desmontar' mas tudo se resume a abrir a tampa lateral. Não vai ter que desmontar nada.
+ >>27154004 \r\n >>27153999 
+ >>27153970 \r\n Ah, tudo bem. Mas se o parênquima paliçádico estiver vivo e você conseguir achar algo de interessante no HD, poste aqui, fiquei curioso.
+ >>27153816 \r\n Ele precisa de fonte de energia externa ou o cabo já faz essa função?
+ >>27154007 \r\n Postarei.
+ >achei \r\n Vou fingir que acredito, negresco. \r\n \r\n Se não tiver nada nele use o Recuva, ele recupera a porra toda que foi excluída.
+ >>27153981 \r\n >slave \r\n >sata não tem slave nem jumper \r\n >chama os outros de incluso 
+ >>27155519 \r\n O quotado é figurativamente um técnico da Microlins.
+ Você é muito incluso, puta que me pariu.

@@ -1,0 +1,46 @@
+ >galaxy s5 da trocafone dá problema na tela nas primeiras semanas \r\n >levo numa oficina e enrolam por 3 meses \r\n >peguei ele ontem à tarde \r\n >não está reconhecendo cartão sd \r\n >vou usá-lo agora e ele reinicia sozinho \r\n >não liga mais: fica num loop de mostrar a tela do 'samsung galaxy s5/powered by android', dá uma vibrada e reinicia \r\n Como resolver essa merda? Já dei um wipe cache partition e até wipe data/factory reset.
+ Agora não está entrando nem na tela do recovery.
+ Leva na oficina.
+ >>26725319 \r\n Quero evitar isso, esses filhos da puta são muito demorados. Já colocaram duas delas falhas nesse celular.
+ >>26725340 \r\n >duas telas \r\n Fixado.
+ Deixei ele um tempo sem a bateria pra ficar pedindo ajuda na internet e agora fui colocar a bateria e ver se liga, e ligou. O que a fornicação? A placa mãe dessa porcaria está morrendo, não está?
+ >>26725399 \r\n Na verdade ele chegou até a tela que mostra só 'SAMSUNG' e está preso nela agora.
+ Compre um esperto novo, jogue fora essa merda.
+ >>26725429 \r\n Não tenho condições, eu ganho 918 reais por mês.
+ >>26725432 \r\n Então compre um usado de fabricação recente e que seja menos esperto. O Galaxy S5, apesar de ser um bom esperto é de 2014 e os componentes devem estar todos carcomidos. \r\n \r\n Um esperto novo na faixa de 600 reais você consegue pagar.
+ Todo samsung hora ou outra vai dar esse problema. Se livre logo dessa merda.
+ Processe a oficina.
+ >>26725494 \r\n Tá ok. \r\n Um anão no 4falhas disse que pode ser problema na bateria, vou comprar uma no mercadogado e ver se resolve. Se ele voltar a dar problema eu vendo o aparelho logo pra inteinar um novo. \r\n \r\n >>26725511 \r\n O Y que eu tinha nunca deu problema e era resistente como a fornicação. \r\n \r\n >>26725517 \r\n O que acha de eu exigir que eles comprem o celular na minha mão?
+ >>26725418 \r\n Tentei mais uma vez e ligou. Chegou à tela de preparar o sistema, pediu pra inserir o chip para prosseguir com a configuração, eu desliguei pra inserir o SIM e agora está preso no powered by android novamente.
+ Tente reinstalar o sistema.
+ >>26725432 \r\n Vende essa merda por 200 reais, com uns 400 reais você já consegue comprar um celular decente. \r\n Eu tenho um iPhone 5S, de 16GB mesmo. Não costumo usar muito o celular e ele me quebra um galho legal. Costumo usar as redes sociais, zapzap , entrar no /b/, jogar uns joguinhos e tirar umas fotos. Não costumo me incomodar com ele com travamentos e afins. \r\n \r\n Paguei apenas 400 reais nele na Olx.
+ Troque a ROM.
+ >>26725528 \r\n Não gaste mais dinheiro nesse esperto e não parece ser problema na bateria. Tentou ligar plugado na tomada?
+ O correto era você acionar a garantia da trocafone.
+ OP aqui, observei o seguinte padrão. Se eu tirar a bateria e esperar esfriar, ele liga normalmente e funciona por uns minutos, aí reinicia sozinho e fica preso no boot novamente, aí só tirando a bateria e repetindo o processo. \r\n \r\n >>26725706 \r\n Plugado no usb sem a bateria? Não liga. \r\n \r\n >>26725721 \r\n Agora já era, comprei ele em dezembro/17.
+ >>26725738 \r\n \r\n \r\n Leve para outra oficina e relate esse problema. Diga que você desconfia qie seja a bateria. Na melhor das hipóteses o atendente pegará uma bateria e fará o teste na hora para você. \r\n É melhor fazer isso do que comprar uma bateria nova, e nessas oficinas as baterias tem quase o mesmo valor do mercado amigo.
+ >>26725767 \r\n \r\n >que seja 
+ >>26725767 \r\n Não devo levar na mesma oficina?
+ >>26725792 \r\n Não, já se mostram incompetentes.
+ >fica num loop de mostrar a tela do 'samsung galaxy s5/powered by android', dá uma vibrada e reinicia \r\n \r\n Celulares da Sony que tendem a ter esse problema de loop infinito. \r\n \r\n Tive um Xperia U, comprei ele em 2013, me lembro que na metade do ano de 2014 ele travou a ponto de reiniciar e acabou entrando nesse loop, o fornicação de Sony, é que na época, você precisava conectar ele no computador para fuçar na ROM dele e fazer as atualizações. \r\n \r\n Mandei em um técnico, ele arrumou e aguentou mais um tempo, até que novamente acabou dando esse problema, sorte que foi no mesmo dia em que eu comprei um celular mais novo. \r\n \r\n Além do mais, o meu patrão teve um Xperia M5 que deu o mesmo problema, fora o fato de que já vi muita gente reclamando na internet que esses celulares da Sony relatando situações semelhantes!
+ Fornique não. Comprei um Galaxy S7 novo por 1500 reais em janeiro do ano passado. Quero que esse caralhudo funcione por 5 anos, ou até um criolo levar de mim.
+ >>26725829 \r\n Por ser comum, não é um problema de fácil solução?
+ >>26725829 \r\n A Sony vai parar de vender espertos no Brasil. \r\n https://tecnoblog.net/283965/sony-reestruturacao-celulares-xperia/ 
+ Trocafone é uma bosta, cara. Eles compram celulares fodidos a preço de banana, consertam com peças de baixíssima qualidade e não originais, e vendem a preço de aparelho com procedência. Deveria ter devolvido quando a primeira falha apareceu.
+ >comprando um S5 usado no troca fone \r\n \r\n Quanto pagou pagou por ele?
+ >>26725939 \r\n Foi uns 530, em dez/17.
+ >>26725956 \r\n Menos mal… Mas de qualquer forma você devia ter juntando mais um pouco de dinheiro e comprado em xiaomi novo.
+ >>26725959 \r\n Também não quero ajudar o governo chinês.
+ >>26725956 \r\n Pagou caro, quase preço de um moto g 0 quilômetros.
+ >>26725963 \r\n Xiaomi barato + LineageOS
+ >>26725963 \r\n Então continue comprando merda e pagando preço de celular novo, seu otário .
+ >>26725959 \r\n >comprei um xiaomi 4x há exato 1 ano atrás \r\n >esses dias ele simplesmente morreu \r\n >não é a tela \r\n >não é a bateria \r\n >a placa foi pro caralho e agora só um novo \r\n \r\n Não compre essa merda. É melhor um samsung travando que essa porra feita de refugo chinês. \r\n \r\n E não vou nem falar que ele conecta com o servidor deles a cada 1s sabe-se lá pra que. Se estão duvidando rodem um firewall. Usam a AWS como cortina de fumaça do governo chinês. 
+ >>26725985 \r\n O pessoal da igreja do xiaomi chegará te xingando em 10s.
+ >>26725985 \r\n >comprei RN3P em 2016 \r\n >tudo ok até agora \r\n Você que é um macaco inferior.
+ >>26725982 \r\n Amigo, eu já paguei pra ele vir pronto pro uso. \r\n Não quero perder tempo instalando porra nenhuma. Já basta ter de instalar os apps outra vez.
+ >>26726001 \r\n Só deixando claro que você não é o OP.
+ Enquanto isso meu baseado galaxy s5 existe desde 2014 sem esses problemas. Unico ponto ruim que tive foi a bateria que quando viciou esperei ela não durar 15 minutos pra resolver comprar outra. Você falha quando se trata em cuidar de aparelhos, OP.
+ >>26726009 \r\n O segredo é comprar um bom modelo novo e cuidar bem dele. Meu moto X2 está perfeito até hoje.
+ >>26726016 \r\n Meu Galaxy S5 está perfeito em funcionamento depois que comprei a nova bateria. \r\n Ele está gastado atrás e nas bordas mas uso uma capa que cobre ele todo então que se fornique. \r\n \r\n Pretendo comprar algum flagshi t p pra me contentar por uns 4 ou 5 anos a mais porque meu mestre corrida já está pedindo arrego a certos aplicativos.
+ >>26726016 \r\n This. O meu é o S7 flat e comprei novo. É tão bom que eu quero enfiar no meu cu.
+ Custom rom talvez resolveria.

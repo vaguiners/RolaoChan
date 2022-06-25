@@ -1,0 +1,14 @@
+ Achei que o ataque ao Moro tinha sido feito por uma inteligência estrangeira usando um software espião de milhões de dólares, mas parece que só conseguiram receber SMS destinadas ao chip dele, pegar o código do instagram e acessar online. \r\n Ou seja, uma bosta. \r\n Alguém sabe como funciona essa falha ss7? É difícil de explorá-la? \r\n \r\n \r\n https://veja.abril.com.br/politica/ligacoes-perigosas-a-falha-que-permite-a-hackers-acessarem-seu-telefone/ 
+ Tudo isso seria evitado se o autista tivesse ativado o 2FA.
+ >>27285518 \r\n O que é 2FA? \r\n Se usasse o zipzop já seria evitado.
+ Essas falhas geralmente são deixadas pelo FBI e CIA. O que acontece que esses dados as vezes são vazados porque eles são hackeados e pra evitar tumulto e dizer que eles tinham meios de hackear várias coisas, eles simplesmente cruzam os dedos e esperam não dar em nada.
+ >>27285535 \r\n Verificação em duas etapas.
+ >>27285535 \r\n Senha que é pedida após você colocar o código SMS. Se não tiver a senha, nada feito.
+ >>27285547 \r\n Não entendi nada do que você disse, texto confuso do caralho.
+ >>27285574 \r\n Eu sou prolixo e repetitivo mas você está forçando. Está fácil de entender.
+ >>27285608 \r\n Não, não está.
+ Sobe.
+ Não é falha de sistema e nem hackeragem de grau 999, é a velha malandragem de pessoas mal intencionadas. \r\n Essa pedra já foi cantada em 2018 quando esse golpe ficou mais popular, as linhas são sequestradas usando logins das operadoras. \r\n O nível de acesso para essa operação é básico, qualquer atendente de quiosque tem. Experimente quebrar seu chip e ir na operadora pedir outro, em 10 minutos eles resgatam sua linha para um chip novo sem muitas barreiras. \r\n É isso que estão fazendo agora, ligam para a vítima para saber se a linha é usada, ativam a linha em outro chip e a partir daí é só receber os SMS de ativação de zup e outros serviços. \r\n Chips não ativados são vendidos em qualquer biroscas e um atendente de operadora não recusaria receber dinheiro para vazar umas senhas ou ele mesmo fazer o serviço.
+ >>27285759 \r\n > ativam a linha em outro chip \r\n Como? \r\n Mas daí a pessoa perde a linha e percebe, não? E isso não tem nada de falha. \r\n Por que 'falha s77'?
+ Sobe.
+ Vocês ainda estão com esse discurso de 'hacker'? Não teve 'ataque hacker' coisa nenhuma, deixaram o celular pra alguém dar uma olhada ou em cima de alguma mesa, o cara pegou e soltou as conversas. Aqui é Brasil, nossos políticos são analfabetos digitais, pode até ter sido o sobrinho dele que ele pediu pra 'colocar aquele programa lá que faz as carinhas nas fotos' e pegou os arquivos. \r\n \r\n Parem com essa conspiração de hacker super fodão. Ninguém falou em hacker até o Moro falar, e ele está usando só pra disfarçar a completa burrada dele e do Dallagnol de deixar vazar isso aí.

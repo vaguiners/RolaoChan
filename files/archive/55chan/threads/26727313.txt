@@ -1,0 +1,14 @@
+ Meusa migos! \r\n >clico com o botão direito do mouse em qualquer ambiente de trabalho \r\n >novo \r\n >explorer.exe parou de funcionar \r\n >20 segundos \r\n >abre as opções de 'novo' \r\n >vida segue \r\n \r\n \r\n Toda fodendo vez que vou nessa opção da uma travada no explorer.exe. Estou tentando resolver mas nada até agora e reparo algumas extensões no ShellExView. Algum anão manjador pode me ajudar a resolver? Estou pensando em deixar tudo funcional no windows e desabilitar update e o defender. Viver aproveitando dos benefícios e tentar vedar o máximo da exploração do usuário(eu).
+ Bump.
+ Nenhum amizade pra ajudar o OP?
+ O senhor já tentou tirar o modem da tomada e colocar de novo?
+ >>26727517 \r\n Posso ser um pouco incluso quanto as funcionalidades do shell mas não é pra tanto, confrade.
+ >winrar \r\n >não usando peazip 
+ >>26727568 \r\n E-eu não conheço peazip. Tem as mesmas funções básicas ? (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >windows+r \r\n >digite msconfig \r\n >procure por todos os serviços que não são da microsofr \r\n >desative todos \r\n >reinicie \r\n Veja se o problema permanece; se não permanecer, vá ativando um por um dos excedentes para ver qual está dando problema. \r\n Encontrado o problema, desinstale aquele que use o serviço ou apenas remova ele diretamente dos registros, talvez funcione. \r\n >windows+r \r\n >digite regedit \r\n >procure por HKEY_CLASSES_ROOT \r\n >procure por:7 \r\n \r\n …\shell \r\n …\shellex\contextmenuhandlers \r\n …\allfilesystemobjects\shellex \r\n …\directory\shell \r\n …\directory\shellex\contextmenuhandlers \r\n 
+ >>26727573 \r\n E outras melhores, é gratuito, livre e leve. \r\n É o único que implemente eficientemente o zpaq, que é o melhor método de compressão de todos. \r\n Para melhor compressão e utilidade é melhor ficar com uma aplicação grafica do zpaq original mesmo: \r\n > http://mattmahoney.net/dc/zpaq.html 
+ Ultima vez que eu tive isso era meu avira fazendo merda.
+ >>26727633 \r\n Não achei esse referencial 7.
+ >>26727653 \r\n Obrigado pela dica. \r\n \r\n >>26727956 \r\n Não uso anti-virus a não ser o WindowsDefender e raramente deixo-o ativado.
+ >>26728377 \r\n O '7' foi um erro, apertei a tecla sem querer.
+ >>26729107 \r\n Esse é o conjunto de shell que achei.

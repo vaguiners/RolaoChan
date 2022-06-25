@@ -1,0 +1,1 @@
+ >Instale a extensão NoScript no firefox \r\n >aperte as teclas (CTRL+SHIFT+N) com a extensão ativa \r\n >irá aparecer um site de bitcoin: https://iqoption.com/land/start-trading/pt/ \r\n \r\n Será que foi o próprio editor que botou essa pagina oculta ou foi infectado por um malware?

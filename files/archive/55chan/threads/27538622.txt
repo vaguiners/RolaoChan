@@ -1,0 +1,15 @@
+ Anões, preciso descobrir como descompactar arquivos .rar com senha! ==É URGENTE== \r\n \r\n Pago com qualquer coisa que esteja dentro da legalidade
+ Inserindo a senha, ué.
+ >>27538631 \r\n Mas eu não sei a senha, campeão!
+ >>27538631 \r\n Faça engenharia reversa do winrar e descompacte sem precisar usar a senha. Os arquivos virão criptografados, mas você não falou nada sobre isso.
+ Você primeiro precisa ser um hacker dos anônimos.
+ Use algum script de força bruta.
+ Vai digitando senhas aleatórias até desbloquear, demora um pouco mas é o único jeito. Espero ter ajudado.
+ >>27538659 \r\n Você por acaso tem algum aí? Sou brainlet
+ É um .rar de fotos safadas da minha irmã e do meu cunhado. Me ajudem a desmascarar essa safada e eu delivarei as fotos de bom grado!
+ >>27538675 \r\n Qual a idade deles?
+ >>27538681 \r\n Já são de maior, agente
+ To na mesma, OP.
+ >>27538666 \r\n Procure algum em Python, capeta.
+ Se a senha não for muito complexa da para tentar no brute force, à alguns anos atras consegui fazer isso que você queria. Vou ver se lembro qual era o programa.
+ >>27538770 \r\n La para 2012 eu tinha um i7 e 8gb de ram, usei o Advanced Archive Password Recovery. \r\n \r\n Aqui esta o log de quanto tempo demorou e qual era a senha. \r\n \r\n Total passwords: 3.951.477 \r\n Total time: 6h 28m 43s 819ms \r\n Average speed (passwords per second): 169 \r\n Password for this file: D4~s \r\n \r\n Pra você ter uma ideia de como essa porra demora.

@@ -1,0 +1,10 @@
+ Ainda vale a pena aprender?
+ Eu fui obrigado a aprender um pouco por causa da faculgado. Até que me ajudou a programar melhor, mas pretendo nunca mais ter que mexer com isso.
+ Vale a pena aprender qualquer coisa.
+ Receita para ganhar 2k+ hoje em dia: \r\n \r\n HTML, CSS e JavaScript. 
+ Bump.
+ >>27618096 \r\n Como?
+ >>27618124 \r\n Mas disso todo mundo sabe. Só estava pensando se ainda valia a pena PHP além disso, não sei se Node tem essa adoção de mercado toda. Ainda vejo muitas empresas usando até Asp.Net MVC.
+ >>27618096 \r\n >php me ajudou a programar melhor \r\n Caralho.
+ >>27618135 \r\n Porque existem construtos interessantes da linguagem. Então acabou me dando idéias de coisas pra fazer em C ou em Java. Apesar de que o que eu gosto mesmo é Javascript com NodeJS. \r\n Mas pode substituir por algoritmos e padrões de projetos que acho que dá no mesmo.
+ >>27618135 \r\n >não sei se Node tem essa adoção de mercado toda \r\n Claro que tem, porra. \r\n Ignore essas empresas que ainda não pularam na bandwagon do javascript. \r\n Ao menos eu é que não volto mais.

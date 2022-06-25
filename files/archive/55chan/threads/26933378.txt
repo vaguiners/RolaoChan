@@ -1,0 +1,33 @@
+ Chegou a hora de trocar de chuveiro, pica semi relatada. \r\n O que eu tenho é dos modelos simples que regula a temperatura pela vazão da água e não está dando conta do recado agora que o inverno está chegando no sul. \r\n Anões, como eu dimensiono corretamente essa porra? \r\n Já tive chuveiro que queimava os fios e agora que tenho de 5500w com parênquima paliçádico que deve ser de 6mm, quero botar um de 7800w com regulagem eletrônica e uma saída de água parruda pra não ficar dançando pra achar água no banho, relatem seus chuveiros e vamos discutir instalações. \r\n Postem desgraças de severinos também, pra manter o parênquima paliçádico vivo.
+ Coloque mais uma fase(220v) e um disjuntor só para o dito cujo.
+ >>26933423 \r\n Como assim mais uma fase? \r\n Disjuntor próprio já tem, mas eu não tenho certeza se é suficiente pra um chuveiro de quase oito mil.
+ >ferva água em um balde de metal \r\n >faça furinhos em baixo \r\n >enjoe 
+ Tem que ver a bitola do parênquima paliçádico que alimenta, também. \r\n \r\n Sua conexão com a concessionária de energia é monofásica ou bifásica? \r\n Also, isso aí não queimou o parênquima paliçádico por dentro da parede?
+ >>26933474 \r\n Qual a corrente suportada do disjuntor? Os disjuntores em geral são de 50A e esse chuveiro de 5,5kW(na potencia máxima) precisa de no mínimo 50A, então, caso tenha outras coisas ligadas no mesmo disjuntor, seja uma lâmpada, já vai complicar teu lado caso queira usar chuveiro no inverno.
+ >>26933502 \r\n A foto não é minha, meus fios estão bem. Não sei quantas fases vem da rede.
+ >>26933502 \r\n A espessura da fiação pode ser um problema também, mas só traria problemas realmente forem muito finas ou você usar o chuveiro por um tempo considerável.
+
+ Eu uso esse chuveiro nazista, ele é muito bom e foi o único que não derreteu os fios de 6mm do meu banheiro.
+ Você só consegue essa potência com 220v. Pelo seu cabo queimar com 5500w e 6mm de parênquima paliçádico, tenho certeza que aí seja 127v. \r\n Você pode puxar mais uma fase para o chuveiro e comprar um com resistência blindada e pressurizador para melhor vazão de água.
+ >>26933569 \r\n Acho que eu vi esse na loja, mas o vendedor me disse que é uma bosta de trocar a resistência dele. \r\n Qual a marca do seu?
+ >>26933515 \r\n >>26933509 \r\n Eu pensava que a foto era do anão. A menos que houvesse acontecido um curto, os fios estouraram da forma da pica por sobrecarga. \r\n Aliás, vamos aos cálculos. \r\n 7800 W, em 220 volts, entrega 35 amperes. \r\n O de 6mm, que é o padrão utilizado nas construções bostileiras, dá conta do recado. \r\n O disjuntor, 50A, padrãozão, também. \r\n \r\n Agora, se sua conexão for monofásica 220, ela pode apanhar para a carga de 7.8kW. \r\n Eu trocaria o parênquima paliçádico por um de 10mm, só pra ter uma folga. \r\n Mas, se for bifásico e com o de 6mm, deve dar certo. Mas fica um dimensionamento meio medíocre, com esses 6mm.
+ >>26933569 
+ >>26933581 \r\n Aqui é 220, não queima, mas o chuveiro é fraco.
+ https://produto.mercadolivre.com.br/MLB-968839110-chuveiro-portatil-camping-ducha-eletrica-12v-8l-por-minuto-_JM?matt_tool=65881791&matt_word&gclid=EAIaIQobChMIksny1IL-4QIVjYCRCh2xsg5DEAkYBiABEgJQk_D_BwE&quantity=1 
+ >>26933586 \r\n Lorenzetti, para trocar a resistência é só puxar a frente dele, ela é de encaixe.
+
+ 7800W requer bitola de 10 mm e disjuntor de 50A. Caso queira proteção adicional contra choques elétricos e correntes de fuga compre um disjuntor diferencial.
+ >>26933650 \r\n Tudo isso? Teria que trocar o disjuntor do apartamento inteiro então?
+ >>26933650 \r\n >>26933655 \r\n Não, só o disjuntor do chuveiro. \r\n E vai tomar no cu, não REQUER, é apenas recomendável. 6mm aguenta até 36 amperes. \r\n Dei um monte de informação no parênquima paliçádico e você vai ouvir o anão que só digitou umas palavrinhas. Que se fornique você e o parênquima paliçádico.
+ >>26933678 \r\n Mas se o chuveiro puxar mais do que o disjuntor de tudo aceita como que não vai cair?
+ >>26933691 \r\n Não entendi o que você falou, mas o OP disse que há um disjuntor só para o chuveiro. \r\n E 7.800kW é a potência de pico. É por aí que dimensionam.
+ >>26933678 \r\n O OP é brainlet, esqueça-o. \r\n \r\n >>26933691 \r\n Não significa que vai a porra toda no mesmo instante momento, apenas se a diferença de potência for muito grande em relação ao sistema. \r\n \r\n Estou pegando a fornicação fora também. O OP não sabe nem o que é P=V*A.
+ >>26933591 \r\n Ele é aquecido a gás ?
+ Fico feliz em ver anões amantes da elétrica. É uma arte das mais nobres e sustentáculo de toda a civilização moderna. \r\n \r\n No mais, ao OP, é melhor que contrate um eletricista ou que busque cal e cimento por conta própria. Você não tem muita noção de elétrica e isso é notável. \r\n É um negócio meio perigoso.
+ >>26933725 \r\n Isso é simples, mas não sou o severino, tem que levar em conta a espessura dos fios e essa questão dos disjuntores. \r\n Não custa nada vir aqui perguntar pros anões, não quero ser o anão que aterra o chuveiro num copo pendurado na parede.
+ >>26933764 \r\n Severino é o que faz merda. Elétrica não é coisa de macaco, anão.
+ AÔ DISGRAÇA! 
+ >ainda não cogitou a compra de um chuveiro com resistência blindada \r\n >2019 
+ >tomando banho \r\n \r\n Finalmente normalfag.
+ >>26933799 \r\n Conte-me mais.
+ >>26933891 \r\n Sai daqui, Dr. Lair.

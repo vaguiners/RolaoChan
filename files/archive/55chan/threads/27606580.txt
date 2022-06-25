@@ -1,0 +1,7 @@
+ Boa noite, nobres anões. Estava aqui para começar meu sábadão jogando Oblivion moddado no meu novo e potente PC (ryzen 3700 e AMD Radeon RX 5700 XT) quando percebi que o jogo não estava rodando bem quando poderia. Ele dá umas pequenas 'travadinhas' de pouco em pouco tempo, o que me incomoda um pouco. Outros jogos simples como LoL também apresentaram esse problema, o que me leva a crer que seja um problema de driver ou configuração. Já atualizei o Direct X e os drivers da minha placa de vídeo, mas o problema continua. Alguém tem uma idéia do que poder? Estou com o Oblivion fortemente moddado com pacotes de texturas e tudo mais, mas acho que mesmo assim isso não deveria estar acontecendo.
+ O Oblivion é naturalmente mal otimizado, eu lembro que ela roda pior que Skyrim em algumas máquinas mid-end. \r\n \r\n Algo perto de GTA 4 pra PC, só que em menor escala.
+ Isso aí é Skyrim? Parece um pouco o quarto do arcano de Winterhold só com os gráficos todo cagado.
+ >>27606618 \r\n Imaginei que pudesse ser isso, mas aí eu não teria o mesmo problema com LoL.
+ Será que não é o teu HD, anão? Meu primo estava com quase o mesmo problema até que eu descobri que ele usava um HD de 10 anos atrás. Emprestei um meu para testar e o problema foi eliminado. Os jogos eram Assassin's Creed Odyssey, The Division 2 e Minecraft.
+ >>27606679 \r\n O HD é novo, mas pode ser que seja. Como tenho dois HDs, vou tentar instalar no outro e ver o que acontece. Obrigado pela dica.
+ >>27606758 \r\n De nada, anão. Reporte aqui se der certo ou não.

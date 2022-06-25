@@ -1,0 +1,2 @@
+ >notebook normal \r\n >conecto o mouse \r\n >encosto no touchpad \r\n >botões do touchpad se invertem e o ponteiro fica mexendo sozinho igual louco \r\n >às vezes volta ao normal se eu usar apenas o mouse e outras desconfigura tanto o mouse quanto o touchpad \r\n Que porra é essa? Tudo que sei até agora é que o causador é o mouse, pois não ocorre sem conectar ele.
+ Desative touchpad no botão feito para isso.

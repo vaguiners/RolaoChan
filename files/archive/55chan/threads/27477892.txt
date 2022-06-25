@@ -1,0 +1,17 @@
+ Qual é a diferença entre os chipset's X370 e B450? Qual é melhor? \r\n \r\n O processador em questão seria o Ryzen 5 3400G.
+ X370, mas vai precisar atualizar a BIOS pra funcionar o ryzen de terceira geração.
+ >>27477902 \r\n Por que o X370 é melhor?
+ Você de novo. KEK.
+ >>27477906 \r\n VRM's melhores, possibilidade de SLI, melhor pra Overclock, só ver se é compatível com a terceira geração do ryzen via atualização da BIOS.
+ >>27477923 \r\n Não sei do que você está falando.
+ >BIOSTAR X370GTN \r\n >Gigabyte B450 Aorus Elite \r\n Levando em consideração que ambas são o mesmo preço e que a B450 é ATX e a X370 é Mini-ITX, qual das duas é melhor para o Ryzen 5 3400G?
+ >>27478888 \r\n Respeitem meus quádruplos, respondam-me.
+ >>27478888 \r\n >>27478888 \r\n >>27478888 \r\n >>27478888 \r\n >>27478888 \r\n >>27478888 \r\n >>27478888 \r\n >>27478888 \r\n \r\n >>27478916 
+ E vale a pena pegar um 3400G? Meu i7 4790k foi pro saco e estou sendo obrigado a fazer um upgrade, fiquei em dúvidas entre o i5 9400f, ryzen 5 3400 e ryzen 7 2700, esse último que um pouco mais caro mas acho que em uma boa promoção por R$899. Estou inclinado ao último, mas ainda estou em dúvidas.
+ >>27478989 \r\n Depende. Com placa de vídeo, não compre os xxxG.
+ >>27478888 \r\n A segunda, ué. Tem dissipador na VRM, mais slots de RAM, mais saídas SATA. Parece uma escolha óbvia.
+ >>27478993 \r\n Não sou o quotado, sou o OP, minhas configurações seriam as seguintes: \r\n >memória RAM: Geil Gaming Ryzen 16gb (2x8) Ddr4 3000mhz \r\n >processador: Ryzen 5 3400G \r\n >fonte: PCYES 430W ELECTRO V2, SELO 80 PLUS BRONZE - ATX 12V \r\n >armazenamento: HD 1TB WD10EZEX 7200RPM (azul) \r\n >placa de vídeo: Nenhuma (pretendo não comprar ou comprar só daqui á uns 2 anos). \r\n >placa mãe:??????????????????????????? \r\n Falta comprar ainda o processador e a placa mãe, o resto eu já tenho. Tenho um orçamento de até R$1800,00.
+ >>27478996 \r\n Mas o >>27477902 falou que placas mãe com o chipset X370 é melhor, por isso que estou na dúvida.
+ >>27478996 \r\n A primeira também tem dissipador no VRM.
+ >>27479045 \r\n O x370 é, em geral, um chipset melhor, ainda que não nativamente compatível com os ryzen segunda e terceira geração. O problema aí é no modelo específico dessa placa, o chipset é bom, mas a construção nem tanta. Além de obviamente ter menos slots para RAM, o que impacta significativamente num PC com APU, o design das VRMs é inferior à B450 Aorus. Isso, é claro, contando que vá fazer overclock. \r\n \r\n \r\n Enfim, em vez de gastar tanto na MOBO e no CPU, não é mais jogo reduzir um pouco o CPU, pegar a MOBO mais furreca que achar e pegar uma GPU dedicada? Não é preciso muita coisa pra superar o vídeo integrado desses processadores.
+ >>27479154 \r\n Sim, mas bem menor, apenas parcial e a VRM tem menos fases. Vai ser basicamente o mesmo caso daquele anão chorão que comprou uma B450M DS3H-CF, que tem um dissipador quase inútil na VRM que não serve pra muita coisa.

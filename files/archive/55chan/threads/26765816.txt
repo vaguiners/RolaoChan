@@ -1,0 +1,35 @@
+ Tente postar um jogo com uma jogabilidade e história melhor do que Hotline Miami e falhe.
+ /thread
+ >>26765839 \r\n Baseado Cobrinha.
+ Estou pensando em baixar, porém, o que eu vi pelo YouTube não me agradou.
+ >>26765839 \r\n Como é falhar três vezes de uma vez só? \r\n >controles/jogabilidades são cagados, Snake parece que está cagado quando tem que deitar/agachar/ficar em pé e fornique a porra toda \r\n >'história' de mgs só impressiona quem é jogou esses lixos na infância ou tem um QI de 1 digito e meio, odeio a palavra mas aja cringe \r\n >a terceira falha é você 
+ >>26765963 
+ >>26766019 \r\n MGS É UMA PRAGA QUE ACABOU COM O GÊNERO STEALTH FEITO POR UM HACK FRAUD. \r\n \r\n NUNCA VOU PERDOAR ESSA FRANQUIA DE BOSTA.
+ >>26766031 \r\n Metal Gear não é um jogo Stealh, é um jogo de ação com ELEMENTOS de um jogo Stealth. Que rjogar um jogo realmente Stealth? Jogue Hitman.
+ >>26766048 \r\n >quer jogar* \r\n Fixado.
+ >>26766048 \r\n Além de burro, não sabe interpretar texto. Eu especificamente disse 'acabou com o gênero stealth'. E outra, falar que metal gear é um jogo com 'elementos' de stealth é botar ele no patamar de joguinho AAA com set pieces mandatórias em stealth (que só existem graças a MGS).
+ >>26766048 \r\n >elmentos stealth \r\n >dá pra passar todos os jogos inteiros sem matar um cara 
+ >>26766088 \r\n Duplos da verdade.
+ >>26766048 \r\n Hitman é meio forçado. Pra conseguir fazer algumas missões no modo mais difícil é preciso saber de antemão tudo o que vai acontecer, como se você fosse o protagonista do Groundhog Day e tivesse ensaiado cada cenário 90000 vezes.
+ >>26765839 \r\n >camera toda cagada \r\n >jogabilidade melhor que alguma coisa 
+ >>26766188 \r\n Mas, anão. \r\n Essa é a intenção do jogo. O seu objetivo é matar o alvo, agora se quer diversão, repita a missão, estude ela, descubra as rotinas e mate seu alvo de inifinitas maneiras e no maior stealth possível.
+ >>26766188 \r\n Exatamente. Você nunca jogou Hitman? Essa é a graça do jogo.
+ >>26766224 \r\n Já joguei, é uma das minhas franquias favoritas, mas ainda acho forçado. Na vida real ninguém começa a atirar em você só por ter entrado onde não deveria sem querer. No jogo eles não te dão a menor chance de se explicar.
+ >>26766188 \r\n >Nunca jogou e não entendeu que essa é a principal mecânica do jogo 
+ Parênquima paliçádico chato.
+ >>26766243 \r\n >na vida real \r\n Você que sabia video-games são ficcionais?
+ >>26766243 \r\n >Na vida real 
+ >>26766278 \r\n Sei. Também sei que eles podem fazer o jogo do jeito que quiserem. Ou eles exageram na reação dos inimigos, ou fazem eles não perceberem um careca desconhecido colocando veneno de passarinho no potinho de mel.
+ >>26766278 \r\n >>26766301 \r\n Video-games não ganham passe de retardo só por serem ficcionais.
+ >>26766310 \r\n Secundado.
+ >>26766310 \r\n Vocês ao menos game design? Qual é a melhor forma de mostra para a anta que está jogando que ele não deve acessar uma área sem ter completado um requerimento antes, bala no cu dele. \r\n >>26766304 \r\n >não perceberem um careca desconhecido colocando veneno de passarinho no potinho de mel. \r\n Queria que ele vestisse uma peruca, porra? Chato pra caralho.
+ >>26766310 \r\n Você deve ser um dos arrombados que financiam a indústria AAA.
+ >>26766350 \r\n >Queria que ele vestisse uma peruca \r\n Ele pode se vestir até de palhaço em alguns jogos, com peruca e nariz que faz FONFON. A questão é que você perceberia se visse a cabeça de alguém se escondendo atrás de uma mesa naquela situação.
+
+ >>26766394 \r\n Você é tão chato, se o jogo te da o opção de se esconder em um lugar, por que caralhos você não estaria escondido? \r\n Quer camuflar a careca do 47? \r\n Colocar uma touquinha de natação com octocamo?
+ >>26766350 \r\n >não deve acessar uma área sem ter completado um requerimento antes \r\n Você nem ao menos se permite conversar no contexto proposto, fornique-se você e sua defesa de game design fraco.
+ >>26766452 \r\n Conversar? 47 não é um papeador, ele não seduz, ele não vai pra cama com um konato. Ele entra, ele mata e ele sai.
+
+ >>26766448 \r\n A questão é que o 47 é figurativamente invisível se ele ficar visível por um curto espaço de tempo. O guarda nem ao menos ficou assustado ou comentou que viu um vulto.
+ >>26766483 \r\n Você ainda está insistindo no cocão do 47 que fica a mostra quando ele está em cover? O cara tem 1,88m.
+ >>26766511 \r\n Sim. Era para o segurança ter visto, mas foi só um \r\n \r\n if hitman47.isInsideCover() then begin \r\n if hitman47.isCrouched() then{ GOTO HITMAN_IS_INVISIBLE.exe} \r\n end; \r\n \r\n \r\n Also, veja que morte ridícula em 16:25.

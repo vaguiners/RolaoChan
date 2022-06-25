@@ -1,0 +1,5 @@
+ Finalmente estou com meu espertofone e comecei a usar o Dashchan. Gostaria de saber se: \r\n 1- É possível resolver captcha? \r\n 2- É possível reproduzir WebM internamente? \r\n 3- É possível utilizar horário relativo de postagem? \r\n \r\n GRATO. 
+ >instala o app \r\n >testa essas funções \r\n >deixa instalado ou desinstala \r\n >??? \r\n >profit 
+ 1ª: Não é possível, tem que tomar a dose diária no browser. \r\n 2ª: Não, abre no navegador ou no player de sua preferência. \r\n 3ª: Não. \r\n \r\n Aposto que você já sabia que não dava para fazer porra nenhuma. 
+ >>27034235 \r\n Não sabia, mas suspeitava que não desse mesmo. De qualquer forma, obrigado.
+ >>27034235 \r\n É só instalar uma biblioteca que você consegue rodar webm pelo app. \r\n \r\n https://github.com/Mishiranu/Dashchan-Extensions/raw/master/update/package/DashchanWebm.apk 

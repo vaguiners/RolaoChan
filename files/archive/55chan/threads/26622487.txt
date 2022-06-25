@@ -1,0 +1,8 @@
+ Anões, se eu instalar um SSD sata 3 em uma placa mãe sata 2, a diferença de velocidade ainda faz valer a pena? Estou pensando em comprar um SSD, já que estão baratos.
+ 240GB já tá nesse preço? Acho que vou comprar um.
+ Qual a velocidade desse SSD? Porque o SATA2 é limitado ao máximo de 300MB/s.
+ >>26622508 \r\n 500 para leituras e 350 para gravações.
+ >>26622508 aqui. \r\n \r\n >Powered by a latest-gen controller for read and write speeds of up to 500MB/s and 450MB/s1 \r\n \r\n De acordo com isso: \r\n https://www.kingston.com/en/ssd/consumer/sa400s37 \r\n \r\n Você perderá muita performance, mas já que tá barato e eu suponho que você não possa fazer o upgrade, fornique-se. Vai fundo no SSD.
+ >>26622508 \r\n Continua sendo trocentas vezes mais rápido que um HDD.
+ Vale a pena ainda.
+ >>26622539 \r\n Duas vezes, para ser exato. A média é 150MB/s para HDs. Mas sim, é bastante considerável. Vale a pena.

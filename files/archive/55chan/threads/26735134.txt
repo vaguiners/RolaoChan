@@ -1,0 +1,14 @@
+ Finalmente consegui fazer essa merda parar de girar. \r\n \r\n VÃO TODOS TOMAR NO CU (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ E quando conseguiu foi banido por analfabetismo. \r\n HUEHEUHEUHEUEHUE. 
+ Já passou da meia noite e os moderadores de merda , não desativaram essa bosta. \r\n Eu pago imposto nessa porra, pra que? (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ >>26735142 \r\n Para ser banido por analfabetismo. Enjoe.
+ >>26735152 \r\n Nunca me pegarão com vida! \r\n Chupa minha pica, sua puta. \r\n \r\n Eu gozo de impunidade, se eu for banido eu evado golo golo, otário.
+ >>26735164 \r\n Baseado.
+ Eu to postando sem nem ver se consigo postar.
+ >>26735169 \r\n Fornique-se.
+ >>26735164 \r\n >O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRS 
+ Me ajuda aí, parceiro. Eu estou mais curioso para ver como se resolve isso do que qualquer coisa, até porque estou postando aqui normalmente pelo Dashchan e por mim tudo bem.
+ >>26735289 \r\n Baixe um editor de CSS e coloque o seguinte código para o chan: \r\n div { \r\n width: auto; \r\n height: auto; \r\n background-color: transparent; \r\n animation-duration: 0; \r\n animation-iteration-count: 0; \r\n animation-timing-function: ease; \r\n } \r\n 
+ >>26735323 \r\n É só isso?
+ >>26735330 \r\n Sim. 
+ >>26735333 \r\n >triplos de três 

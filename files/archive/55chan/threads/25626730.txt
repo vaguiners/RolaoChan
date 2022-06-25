@@ -1,0 +1,115 @@
+ >sua cara quando o PT não dá a mínima para a segurança de APIs \r\n \r\n Enjoem a lista de doadores da campanha do Haddad. \r\n \r\n https://doe.haddadpresidente.com.br/api/campaign/doadores/ 
+ Maior quantia que encontrei foi de 5k.
+ >stein 6 resultados \r\n >berg 14 resultados \r\n Tem mais sobrenomes de globalistas para pesquisar?
+ Interessante.
+ O mais engraçado é que 90% desse dinheiro vem de funcionário público vagabundo que não produz absolutamente nada e só quer manter seu empreguinho. \r\n Figurativamente nosso dinheiro.
+ >>25626748 \r\n \r\n Nunca falha.
+ >>25626758 \r\n Teve algum motivo importante para a criação de funcionários públicos ou foi só uma garantia de ganhar votos?
+ >>25626774 \r\n Todo país tem funcionários públicos.
+ Escreva seu nome no ctrl f e veja quão câncer ele é. Fodendos 7 resultados.
+ Vamos tentar achar jornalistas famosos que se dizem ((((isentos)))), mas cansaram de fazer matérias para tentar desestabilizar a campanha do Bolseiro.
+ >>25626786 \r\n Isso eu imaginava, mas sem dúvidas eles não são tão beneficiados e preguiçosos quanto os daqui.
+ >>25626792 \r\n 4. Um doou duas vezes e outro é o segundo nome. Se esses contarem, são 6.
+ >>25626792 \r\n >mpq o meu nome também deu 7 resultados \r\n Puta merda.
+ Os nomes e CPF de quem doa para políticos não tem que ser obrigatoriamente publicamente acessíveis?
+ >>25626796 \r\n Caralho, perfeito. GOGOGOGO
+ >>25626792 \r\n 4 resultados.
+ >esse tanto de CPFs completamente disponíveis para cadastrar hipotéticos chips de celular 
+ >>25626796 \r\n Eles não seriam tão burros. Certamente, se fizeram isso, foi por debaixo dos panos. \r\n >>25626839 \r\n Vai dar em feijoada. \r\n \r\n Mas procurem, quem sabe causemos algum lulz. 
+ >>25626848 \r\n E p-pode fazer isso?
+ >>25626853 \r\n Sim.
+ >>25626818 \r\n 22 resultados.
+
+ Algum anão que manja das programarias poderia fazer uma página em HTML a partir desse json?
+ >>25626857 \r\n Caralho, Raimundo.
+ >>25626853 \r\n É apenas uma hipótese, anão. \r\n Longe de mim fazer algo ilegal com um CPF alheio.
+ >>25626862 \r\n Clik em RAW DATA e pare de abrir que nem um macaco.
+ Por que tantas doações no valor de R$1064.00? Não é um valor meio específico demais para se repetir mais de 200 vezes?
+ >>25626870 \r\n >encontrem a cidade onde a pessoa mora \r\n >descubram a companhia e luz \r\n >entrem com o CPF \r\n >solicitem desligamento 
+ >>25626864 \r\n O json vai cair em breve, e quando cair não servirá mais de prova.
+ >>25626878 \r\n Já baixei.
+ >>25626875 \r\n Fora que alguns nomes parecem até inventados, o nome fica estranho combinado com o sobrenome.
+ >>25626874 \r\n M-Mas assim machuca meus olhos.
+ Seria uma boa ideia espalhar esse link para jornais alternativos ?
+ >>25626887 \r\n Seja rápido.
+ >>25626883 \r\n O campo de nome devia ser livre para os macacos escreverem, tanto que alguns estão completamente em caixa alta. \r\n >>25626875 \r\n Talvez os 'planos' de doação fossem pré-definidos pelo site e esse era um dos valores.
+ >>25626862 \r\n 'nome':'silvio hamacher','cpf':'79778925704','pagamento_tipo_id':'5','valor':'4900.00'
+ Arquivei. \r\n https://web.archive.org/web/20181102032248/https://doe.haddadpresidente.com.br/api/campaign/doadores/ 
+ >>25626906 \r\n Duas filhinhas…
+ Por favor, anões espertos e possuidores de ferramentas que geram lulz, façam algo com esses dados.
+ >>25626883 \r\n Seria possível checar o CPF pra verificar a veracidade das doações?
+ Já encontrei três japoneses aqui que doaram para o Haddad. Não sabia que os pasteleiros eram tão filhos da puta.
+ >>25626792 \r\n 0 resultados, e olha que é um nome bem comum…
+ Cinco grifinoristas doaram o teto permitido, cinco mil reais. Poderíamos mandar umas lembrancinhas para eles.
+ >>25626877 \r\n Secundo os duplos.
+ Por que tem tantos nomes repetidos doando o mesmo valor?
+ >>25626914 \r\n Poderia fazer algo quando abrisse o Sisu, mas a probabilidade de achar alguém que fez bar mitzvah é baixa.
+ Em Excel. \r\n https://my.mixtape.moe/vzgzfa.xlsx 
+ >>25626931 \r\n >doando cinco mil para político \r\n >preciso de 1700 para comprar um computador novo \r\n Eu só tinha que me candidatar a presidência…
+ >>25626938 \r\n Provavelmente é porque existe um limite para cada doação.
+ >>25626941 \r\n P-posso confiar?
+ >>25626948 \r\n Sim, relaxa. Eu só usei pandas pra mandar pra excel.
+ >>25626945 \r\n Limite é 5000. \r\n Várias pessoas doaram 100 reais mais de 3 vezes.
+ >>25626957 \r\n Tem caroço nesse angu.
+ >>25626948 \r\n Não. 
+ >entre no site \r\n >clique em 'VEJA A LISTA COMPLETA DE DOADORES' \r\n >os mesmos dados \r\n \r\n Vocês são burros? \r\n Claro que são, não sei por quê ainda me surpreendo 
+ >>25626972 \r\n Que site?
+ >cobrando juros por doação \r\n Mas o que a fornicação?
+ >>25626864 \r\n Tipo isso?
+ >>25626980 \r\n Eles devem usar algum sistema integrado como o Paypal ou MercadoPago. Esses serviços cobram porcentagem nos pagamentos.
+ >>25626985 \r\n Exatamente isso.
+ >>25626972 \r\n E daí, filho da puta? Pelo menos tem os dados desses macacos expostos pro mundo todo ver. \r\n Pelo chilique eu aposto que teu nome tá aí no meio. 
+ >>25626972 \r\n >mpq fomos todos jubilados pelo OP metido a hackerman 
+ >>25626741 
+ >>25626972 \r\n Se o GET está disponível, o PUT e o DELETE também estão. Um minuto, vou atualizar essa lista.
+ >>25626995 \r\n >>25626985 \r\n >>25626979 \r\n \r\n Tipo esse site, macacos filhos da puta. Absolutamente ninguem liga.
+ >>25627005 \r\n Claro que não estão, meu chapa.
+ >>25627009 \r\n Por que você tá tão salgado, anão? Xii…
+ >>25627009 \r\n Já podem fechar o parênquima paliçádico.
+ >>25627009 \r\n Parece que alguém aqui está com o rabo preso…
+ >>25627009 \r\n Perdi para essa merda. Eu estava me achando um ráquer.
+ >>25627009 \r\n Só tem valor mixuruca aí. Onde estão as altas somas?
+ >>25627009 \r\n Kek. Perdi.
+ >>25627031 \r\n Qual seu objetivo propondo essa queima de arquivo? Tá com medo, safad a? 
+ Eu vi o que você fez aqui.
+ >>25627009 \r\n O que você ganha cortando o barato dos outros, seu porra? Se te pego na rua, você chora.
+ >>25627016 \r\n Estou realizando alguns testes.
+ Eu chego ficar triste com a burrice dos anões. \r\n >>25626875 \r\n >>25626883 \r\n LEL.
+ >>25627049 \r\n Kek, o anão está realizando testes com a API. Vou até parar o que eu estava fazendo.
+ >>25627061 \r\n >esse autismo 
+ >>25627061 \r\n Não vai achar nada aí. Isso é justamente para ser integrado em outros sites.
+ >>25627071 \r\n Eu já desenvolvi APIs com alcance regional, e por força maior não me deixaram proteger a porra toda. Envolvendo dinheiro, API aberta, só protegida pela URL que só era acessada pelo sistema. Vocês não tem ideia de quais empresas estão vulneráveis.
+ Normal, na página do gibeiranaro tinha isso exposto. Nada de impressionante. A API existe justamente para que o front-end exiba essas informações.
+ >>25627097 \r\n >expor CPF, nome e quantidade doadas para a campanha \r\n \r\n Claro, anão, esse é o tipo de informação que todo mundo deve acessar, não é?
+ >>25627144 \r\n Sim. Pelas novas leis de financiamento de campanha que começaram a valer nesta eleição.
+ >>25627144 \r\n \r\n b) identificação obrigatória, com o nome completo e o número de inscrição no cadastro de pessoas físicas (CPF) de cada um dos doadores, o valor das quantias doadas individualmente, forma de pagamento e as datas das respectivas doações; \r\n \r\n c) disponibilização em sítio eletrônico de lista com identificação dos doadores e das respectivas quantias doadas, a ser atualizada instantaneamente a cada nova doação, cujo endereço eletrônico, bem como a identificação da instituição arrecadadora, devem ser informados à Justiça Eleitoral, na forma por ela fixada;
+ >>25627165 \r\n Pode citar alguma fonte disso?
+ >>25627178 \r\n Eu sou desocupado mas nem tanto. Se vira, rapaz.
+ >>25627186 \r\n Você é desocupado o suficiente para acreditar em algo que nem sabe se é verdade?
+ >>25627009 \r\n Me fisgou legal.
+ >>25627188 \r\n Eu sei que é verdade. Já li. Você que é o burro e não sabe nada sobre o sistema que o ronda. \r\n Inclusive militei a favor da reforma politica alguns anos atras, que não foi aprovada como defendiamos mas enfim. \r\n Agora que tal treinar averiguar as informações que chegam até você e voltar com uma fonte confiavel disso que te afirmei, que tenho certeza que é verdade.
+ >>25627049 \r\n >doações apenas entre 10 e 1064 \r\n >anão doa 0,01 e 0,17 
+ Achei um ricaço jews com o meu sobrenome, vou contatá-lo para pedir dinheiro.
+ >>25627207 \r\n Claro que tem. Percebe-se.
+ >soma: R$1.298.811,27 
+ 5 pessoas doaram 5 mil facadas para ver o Haddad perder, já que eles não sabem gastar o dinheiro de forma correta, os anões que entendem de cartões já sabem o que fazer.
+ Maior doador. 12k. \r\n \r\n Possui graduação em Engenharia Civil Com Ênfase Sanitária pela Universidade do Estado do Rio de Janeiro (2001) e mestrado em Engenharia Ambiental pela Antro De Marxismo do Espírito Santo (2009). Atualmente é engenheiro sanitarista do Tribunal de Contas do Estado do Espírito Santo, atuando nos seguintes temas: sistemas de informação geográfica, projeto de rede de esgoto, análise hidrológica, gerenciamento de resíduos sólidos e, principalmente, auditoria de engenharia. \r\n \r\n Informações coletadas do Lattes em 16/08/2018 \r\n \r\n https://www.researchgate.net/profile/Mauricio_Manzano 
+ >>25627276 \r\n >engenheiro sanitarista do Tribunal de Contas do Estado do Espírito Santo \r\n \r\n Estudou pra caralho só para se tornar um mega zelador.
+ https://www.cancro.com/apreendendo2017/photos/a.521889978160261/632526460429945/?type=3&theater \r\n \r\n Esse doou 5k.
+ https://www.cancro.com/armando.tripodi.1 \r\n \r\n 4k
+ https://www.cancro.com/profile.php?id=100009407888483 \r\n \r\n 3,2k
+ >>25626875 \r\n É o limite pra doadores que não declaram Imposto de Renda.
+ >>25627315 \r\n E de doações em dinheiro em espécie.
+ >>25626957 \r\n O limite na verdade é 10% da declaração de imposto de renda do ano passado. \r\n \r\n Caso não haja o limite fica em torno de 3000.
+ Nada que possa ser jogado na conta do Merdadd e incriminá-lo por crime eleitoral? \r\n \r\n Que merda, só queria gerar um katinguelê.
+ Será que dá para criarmos um script que pesquisa o nome no google, grava o número de respostas e rankeia os nomes? Poderiamos achar famosos assim. \r\n \r\n Se eu soubesse burlar o captcha, faria. 
+ >>25626792 \r\n >1 
+ >>25626748 \r\n >silva 658 \r\n KEK
+ >'Armando Ramos Tripodi';12426520515;4000 \r\n >pesquiso nome \r\n >investigado na lava jato \r\n <a Veja já noticiou 
+ >>25627488 \r\n >'Mozart Schmitt de Queiroz';22880232015;1064 \r\n Gerente de Energia Renovável da Petrobras, mas valor muito baixo. Creio que seja irrelevante.
+ >>25627488 \r\n >'Armando Ramos Tripodi';12426520515;4000 \r\n >'Ana Cristina Rabello Balogh Tripodi';38241641591;2000 \r\n >'Armando Ramos Tripodi';12426520515;1064 \r\n >'Ananda Rabello Balogh Tripodi';13761874774;1064 \r\n >'Igor Oliveira Tripodi';82488010553;1064 \r\n A família inteira dele doou. Essa eu acho que a Veja não noticiou.
+ >>25627506 
+ >>25627506 \r\n >>25627536 \r\n Perdi.
+ >>25627536 \r\n >>25627544 \r\n Eu não entendi. Acho que é a hora.
+ O pessoal já vasculhou essa porra toda aí, tanto é que já anunciaram que o pessoal da Petrobrás doou para ele.
+ >>25627549 \r\n Tripodi = tripod.

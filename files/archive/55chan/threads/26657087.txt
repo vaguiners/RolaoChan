@@ -1,0 +1,8 @@
+ Como terminou esse tiroteio?
+ Deram um copo d'água para todos e eles ficaram bem.
+ >>26657109 \r\n O cara foi preso ou se matou?
+ >>26657139 \r\n Ele tomou água.
+ >>26657147 \r\n Mas ele foi preso ou se matou?
+ >>26657152 \r\n Tá foragido.
+ >>26657160 \r\n Sério mesmo?
+ >>26657169 \r\n Foi preso.

@@ -1,0 +1,5 @@
+ Você frequentaria esse bar, anão? 
+ Sim, sempre vou aos sábados com meu amigo, o Géca.
+ >frequentaria \r\n \r\n Eu frequento.
+ Tô sempre por aí no domingão.
+ Eu frequento um bar cujo o nome é inferninho.

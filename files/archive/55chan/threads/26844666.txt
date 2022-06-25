@@ -1,0 +1,3 @@
+ Como é o nome daquele programa que salva tipo um histórico do seu Ctrl+c? \r\n \r\n Estou há meia hora procurando e não acho. Also, tem alguma alternativa para Linux?
+ SHILAI MAHAI, MESTRE! 
+ O windows tem um nativo, precisa ser habilitado.

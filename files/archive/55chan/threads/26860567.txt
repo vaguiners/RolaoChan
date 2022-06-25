@@ -1,0 +1,37 @@
+ Avaliem esse CSS que desenvolvi para o chan, se quiserem posso mandar o código para os anões. Achei muito bonito, sendo sincero.
+ Que coisa horrível.
+ Feio.
+ Gostei, manda aí.
+ Gostei, anão. Manda aí.
+ Não precisa compartilhar não, muito obrigado.
+ Eu não gostei, mas não é feio. Pergunte à sua mãe. Se sua mãe gostar, é isso que importa. É uma questão de gosto.
+ Estou usando esse. \r\n \r\n /** \r\n * volafile.css fuck you \r\n color change by kalyx \r\n */ \r\n @import url('/stylesheets/dark.css'); \r\n @font-face \r\n { \r\n font-family: 'DejaVuSansMono'; \r\n src: url('/stylesheets/fonts/DejaVuSansMono.ttf') format('truetype'); \r\n } \r\n \r\n @font-face \r\n { \r\n font-family: 'lain'; \r\n src: url('./fonts/nrdyyh.woff') format('woff'), \r\n url('./fonts/tojcxo.TTF') format('truetype'); \r\n } \r\n body \r\n { \r\n background: #140f16; \r\n color: #D794F2; \r\n font-size: 12px; \r\n } \r\n .bar \r\n { \r\n background-color: #29202D!important; \r\n border-color: #29202D!important; \r\n } \r\n \r\n div.boardlist:not(.bottom) \r\n { \r\n background-color:#29202D!important; \r\n } \r\n .desktop-style div.boardlist:not(.bottom) \r\n { \r\n background-color:#140f16; \r\n } \r\n \r\n .boardlist \r\n { \r\n text-shadow: none!important; \r\n } \r\n header h1, header div.subtitle, form table tr th, form table tr td input \r\n { \r\n color: #D794F2!important; \r\n } \r\n header h1 \r\n { \r\n font-family: 'lain',sans-serif; \r\n font-style: normal; \r\n font-weight: 400; \r\n \r\n font-size: 28px; \r\n letter-spacing: 0px; \r\n margin-top: calc(-16px / 3 - 6.5px); \r\n } \r\n p.intro span.subject { \r\n color: #32BFAB; \r\n } \r\n div.topbar, input[type='text'], select, form table tr th, form table tr td input[type='text'], form table tr td textarea, div.post.reply, [type='submit'], input[type='password'], div.pages \r\n { \r\n background: #29202D!important; \r\n border-color: #29202D!important; \r\n color: #D794F2!important; \r\n } \r\n \r\n div.post.reply.highlighted{ \r\n background-color: #211A24!important; \r\n } \r\n form table tr td input[type='text']:focus, form table tr td textarea:focus \r\n { \r\n border-color: #5E7F9F!important; \r\n } \r\n input[type='submit'][name='post'] \r\n { \r\n color: #3A4040!important; \r\n background-color: #29202D!important; \r\n border-color: #29202D!important; \r\n } \r\n .blotter \r\n { \r\n color: #00ff00!important; \r\n } \r\n hr { \r\n border-color: #29202D; \r\n } \r\n a \r\n { \r\n color: #32BFAB!important; \r\n } \r\n \r\n p.intro span.name \r\n { \r\n color: #D794F2; \r\n } \r\n span.quote { \r\n color: #E6E1E9; \r\n } \r\n a:hover, p.intro a.post_no:hover \r\n { \r\n color: #EDEDED!important; \r\n text-shadow: none!important; \r\n } \r\n :not(a) > i.fa \r\n { \r\n color: #29202D; \r\n } 
+ >>26860625 \r\n Você que fez, anã?
+ Parece aquele estilo militar americano dos anos 40.
+ >>26860661 \r\n Não. 
+ Posso confiar?
+ >>26860625 \r\n Poste uma pica dele, retardado. Não vou usar sem antes ver como é.
+ O meu é mais bonito!
+ >>26860696 \r\n >>26860696 \r\n Testando o tema. \r\n Testando o tema. \r\n Testando o tema. 
+ >>26860714 
+ >>26860710 
+ >>26860719 \r\n Caralho, gostei. O texto no botão de enviar post está meio apagado e o negrito não tá muito bem destacado, mas o resto é muito bonito. \r\n Onde você achou essa bosta?
+ Agente pereira passou 1 semana para trocar a cor do tema. Mexendo com a programação html denovo, pereira?
+ E.
+ >>26860723 \r\n O mais bonito até agora. \r\n Poderia deliverar?
+ Cadê o do OP?
+ >>26860795 \r\n Sugando.
+ >>26860756 \r\n Tá na mão. \r\n https://pastebin.com/raw/QDxzTNGK 
+ Não tem como hackear com esses códigos, não é?
+ >>26860625 \r\n Ficou uma bosta.
+ >>26861243 \r\n Esse não é o do OP.
+ >>26861276 \r\n Não. CSS é código para estilização, figurativamente. Ou seja, cores, formas, tamanhos, etc.
+ Gosto desse estilo cyberpunk que alguns anões liberaram uma vez, até hoje uso.
+ >>26861351 \r\n Poste, por favor. É praticamente o >>26861243 . \r\n Só que nessa sua pica aí está mais claro, e com a lain. Tive que aumentar o zoom no navegador pra conseguir ler, uma pena.
+ >>26861351 \r\n Essa falta de margens nos títulos afeta meu autismo. \r\n Eu gostaria de melhorá-lo.
+ >>26861243 \r\n Esse me faz enxergar embaçado. \r\n Agora entendi a intenção de quem faz esses roxos. \r\n ELES QUEREM DEIXAR VOCÊS COM PROBLEMA DE VISÃO, NÃO USEM. 
+ >>26861276 \r\n >hackear 
+ >>26861366 \r\n >>26861371 \r\n Desculpe a demora, aqui está. \r\n \r\n Also, não fui eu quem fiz, esse tema cyberpunk é antigo pelo que sei, apenas foi adicionado a garota 2D. \r\n \r\n https://pastebin.com/9qTxPEzs>>26861371 
+ >>26861276 \r\n É só não deixar o navegador em tela cheia, anãozinho :3.
+ >>26861678 \r\n Macaquei, desculpe anões. \r\n https://pastebin.com/nd3pVeau 
+ >>26861710 \r\n Also, se alguém aperfeiçoar o código, envie aqui.

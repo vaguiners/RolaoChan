@@ -1,0 +1,4 @@
+ >instalo debian e o i3wm \r\n >configuro tudo sonserininho \r\n >estação uma belezura \r\n >vou reiniciar \r\n >teclado e mouse param de funcionar \r\n \r\n Desisto do Linux.
+ >500 distros que instalam tudo sonserininho para você \r\n >anão insiste em ser hacker \r\n >ain, bê, desisto do Linux \r\n \r\n Enfim, você instalou atualizações depois antes do reboot? Talvez o kernel não tenha drivers para os seus periféricos. Acho pouco provável que seja algo relacionado ao i3, mas instalaria uma DE completa como o LXDE só para ter certeza.
+ Eu já fiz isso várias vezes, em máquinas diferentes, na que estou agora inclusive, e nesta com um setup pouco convencional. \r\n \r\n Nunca tive nenhum problema.
+ https://manjaro.org/download/i3/ \r\n Faça bom proveito.

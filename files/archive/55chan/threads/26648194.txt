@@ -1,0 +1,17 @@
+ Preciso de uma ajuda de matemática básica, por favor. \r\n Não lembro como se faz essa relação (acho que é regra de 3 composta). \r\n \r\n Digamos que 1920 resulte em 670. \r\n Também, que 320 resulte em 470. \r\n \r\n Se eu usar um valor X qualquer, como eu sei quanto ele vai resultar usando essa mesma proporção? \r\n Eu quero chegar à fórmula para descobrir o X. \r\n \r\n Vou usar num JavaScript para ajeitar um layout, mas preciso da fórmula. 
+ >Vou usar num JavaScript para ajeitar um layout, mas preciso da fórmula. \r\n \r\n Está fazendo algo errado, paixão.
+ Se vira. \r\n \r\n Mas com certeza vai vir um otário te dar de graça pra você depois ganhar dinheiro em cima. \r\n \r\n Aqui está cheio de nice guys castrados pela mãe.
+ É uma proporção indiretamente proporcional. \r\n Se um sobe, o outro tem que subir.
+ Caralho, anão, você ao menos frequentou o EM?
+ >>26648209 \r\n Aliás, se um sobe, o outro tem que descer.
+ Procure por regra de três composta, como você mesmo disse. \r\n \r\n Não vale a pena escrever sobre algo que pode ser encontrado em duzentos vídeos no Youtube. É simples e rápido de aprender.
+ >>26648202 \r\n Não, não estou. Remover classe e detectar altura do scroll em certo ponto sabendo o tamanho da largura da janela é só com JavaScript. \r\n \r\n >>26648229 \r\n Estava com pressa, mas já descobri aqui, mas obrigado.
+ >>26648234 \r\n ignora o primeiro 'mas'.
+ >>26648234 \r\n E como é, anão?
+ BUMP.
+ Saudações, cakosherdas. Também preciso de ajuda nessa questão 2. \r\n Primeiro coloquei a terceira coluna no lugar da segunda, deu b= 6/5. Tentei outro método achando o valor de X e Y.
+ >>26648378 \r\n Fui banido sem nem ao menos.
+ >>26648334 \r\n Não bump meu parênquima paliçádico, filho da puta. Já resolvi o problema.
+ >>26648440 \r\n >bumpa \r\n Fixed.
+ >>26648440 \r\n Quero saber como tu resolveu, macaco.
+ \r\n \r\n 3 = 6 \r\n 5 = ? \r\n Óbvio que é 10. Na sua cabeça você está imaginando um numero que multiplicado por 3, dá 6. Ou seja, 3*x = 6, onde x = 2. \r\n x = 6/3. \r\n \r\n Usando o seu exemplo: \r\n 1920*x = 670 \r\n x = 0,3489583333333333 \r\n \r\n 320*x = 470 \r\n x = 1,46875 \r\n \r\n \r\n usando x = 0,3489583333333333 \r\n 1080 * 0,3489583333333333 = ?? \r\n 1080 * 0,3489583333333333 = 376,875 \r\n \r\n x é a proporção. Nos dois casos que você mencionou, a proporção é diferente. \r\n \r\n Multiplicando algum numero pela proporção, você tem o resultado da 'conversão'. \r\n \r\n 

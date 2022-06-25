@@ -1,0 +1,19 @@
+ Anões, qual o melhor software para se ler PDFs no PC?
+ Google Chrome.
+ Sumatra.
+ >não lendo djvus 
+ Eu gosto do Foxit para tablet/espertofone, para PC eu gosto do evince.
+ Eu uso o Foxit, masn ão sei se é o melhor mesmo.Adobe é puro câncer.
+ Windows: Sumatra pra coisas rápidas ou Adobe Reader para textos maiores. \r\n iOS: PDF Expert ou Documents \r\n Android: Macacos não sabem ler. 
+ SumatraPDF.
+ >>26703736 \r\n >>26703740 \r\n Foxit só tem um OCR decente, e nem é tão bom assim, só é rápido pra burro.
+ >>26703749 \r\n O Sumatra é melhor do que o Foxit? É pelo menos mais leve e mais rápido?
+ Acrobat. \r\n \r\n https://www.reddit.com/r/Piracy/comments/arbt9p/ultimate_adobe_guide/ \r\n \r\n Não precisa agradecer.
+ >>26703758 \r\n É ambos, mas é apenas e somente para LEITURA.
+ >>26703722 \r\n Quem é essa delicinha, OP?
+ >>26703749 \r\n Eu uso o Foxit para tablets e espertofones. Tem o Sumatra para IOS e Android?
+ Opera.
+ >>26703787 \r\n Juliana Wetmore.
+ >>26703788 \r\n Não, mas você pode usar o mupdf.
+ >>26703771 \r\n Testei aqui. 3 documentos iguais: \r\n >foxit 45mb \r\n >sumatra 150mb \r\n A memória da minha carroça é pouca. Vou ficar no Foxit mesmo.
+ >>26703819 \r\n Há algo de errado, estou lendo agora mesmo um documento de 421 páginas não-reconhecido e está consumindo apenas 59.

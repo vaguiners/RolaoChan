@@ -1,0 +1,14 @@
+ Anões, trabalho em uma empresa de designer, confecções de camisetas, placas, posters e etc e estou tendo a necessidade de desenhar e ilustrar coisas complexas como personagens humanoides onde há uma gama de cores, iluminação sombra e etc. \r\n Estou com uma dúvida desgraçada sobre essa questão de Layers , camadas. Os desenhistas profissionais semparam as coisas em 'coisas' como estou fazendo, ou por cores e etc? Eu separo em camadas por necessidade de administrar facilmente depois que o desenho fica mais complexo e extenso. \r\n Tenho uma dificuldade imensa com sombra e iluminação.
+ Eu te ajudaria mas sou apenas um amador no Photoshop.
+ Algum anão artista digital no recinto? \r\n \r\n A complexidade das coisas que estou tendo que ilustrar é quase do nível da pica relatada. \r\n Eu fico alucinado imaginando como caralhos esse pessoal desenhista digital trabalha e administra obras como essa.
+ >>27247429 \r\n Eu sou um merda pra desenho digital, mas já vi uns videos em que eles criam uma camada pra tudo, uma pra sombra, outra pra cor base do objeto, outra pra luz e pra qualquer cor que for usar.
+ >>27247446 \r\n Ainda estou tentando entender qual o benefício prático de separar cores por camadas…
+ >>27247466 \r\n Caso precise trocar, ué.
+ >>27247471 \r\n Será que não tem nem um curso sobre isso não?
+ Bump.
+ Sim, separam por camadas. \r\n \r\n Vídeo relatado.
+ >>27247656 \r\n Vou ter que baixar em alta resolução pra ver pelo que ele está separando, se é por cores ou cosas.
+ >tenha uma empresa \r\n >contrate um anão que não sabe o que está fazendo 
+ Porra, OP! Procura um curso, caralho! Se até de programação você acha inclusive para piratear quem paga por conteúdo digital é corno , não é possível que não tenha nada sobre ilustração profissional.
+ >>27247729 \r\n Os cursos que tem são uma bosta.
+ Vamos lá… primeira coisa: não chama de empresa de 'designer' que diminui o valor do seu passe no mercado. É design. Quem faz é o designer, o que ele faz é design. \r\n \r\n Quando você trabalha com vetores, como no Inkscape, layers não são obrigatórias. Cada objeto pode ser selecionado e mudado de posição em relação aos outros. \r\n \r\n Mas, quando você vai para programas como o Photoshop (ou o Gimp), layers servem para esse propósito. Separam os elementos da arte para serem editados sem interferir no resto, mas no caso de ilustrações, principalmente para separar as coisas no espaço 3D. O que está na frente do quê… \r\n \r\n Os desenhistas profissionais usam layers para separar frente do fundo, principalmente. Esse negócio de separar por cores é uma coisa que se fazia muitos anos atrás, hoje em dia não precisa mais.

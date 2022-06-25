@@ -1,0 +1,16 @@
+ Desenvolvimento pessoal parênquima paliçádico. \r\n \r\n Aproveitando que estou de férias na faculdade vou começar a aprender a programar, porém não sei ainda qual linguagem seguir, exceto o VBA, pois onde trabalho o Excel é uma ferramenta muito poderosa e os softwares que uso são integrados quase que 100% ao Excel, assim, quem domina VBA domina o Excel e por sua vez domina os outros softwares. \r\n Porém, existe alguma outra linguagem interessante a se aprender? Visual Basic é uma boa? O que eu preciso, por ora, é um conhecimento para aplicações em Windows, então essas linguagens da Microsoft são muito interessantes, não acham? \r\n Algum anão manjador de programação, pode me apontar o caminho a seguir? Já tenho um leve conhecimento em HTML, CSS e C. Conseguirei, com essa pequena bagagem, aprender VBA e Visual Basic em 20 dias?
+ >Visual Basic é uma boa? \r\n Não. \r\n >Já tenho um leve conhecimento em HTML, CSS \r\n Não são linguagens de programação.
+ >>27518430 \r\n >existe alguma outra linguagem interessante a se aprender? \r\n >[…]linguagens da Microsoft são muito interessantes, não acham? \r\n \r\n >Não são linguagens de programação. \r\n Aprendido. Espero que ninguém mais foque nesse detalhe e siga o objetivo da thread, que é, curto e grosso: \r\n >Conseguirei aprender VBA em 20 dias? \r\n Also, tens alguma sugestão de rota a qual devo seguir? Quais pontos devo atentar-me para cumprir o objetivo dentro do prazo? Estou um pouco perdido, por isso essa enxurrada de perguntas.
+ 10 minutos a parênquima paliçádico. \r\n BUMP. \r\n Alguém me ajuda?
+ Seu objetivo é qual, especificamente? Não sei muito do Office, mas dependendo você poderia aprender VBA e/ou C# (para .NET). Deve ter bastante tutorial de VBA na internet, mas aí vai depender da sua ambição.
+ Não perca seu tempo com VBA. Aprenda python.
+ >>27518738 \r\n Como?
+ >>27518756 \r\n Codeacademy para o básico e Udemy para um curso específico de pandas.
+ >>27518696 \r\n Macros para Solidworks, Excel e SAP. VBA promete conversar com esses três softwares. \r\n \r\n >>27518738 \r\n Por que eu aprenderei algo que não usarei? Sei que python é poderoso, mas para minha função não será útil, ainda mais no prazo de 20 dias. \r\n Also, Codeacademy tem VBA? Darei uma olhada no site de qualquer forma, obrigado pela dica.
+ Estou aprendendo Object Pascal na ide lazarus. \r\n Vou vender um sisteminha de controle financeiro/estoque.
+ >>27519351 \r\n Python tem integração completa com o excel via pandas. Além disso é muito mais poderoso que o VBA.
+ >>27519426 \r\n Sério? Conte mais disso, sou só ouvidos! Consigo usar pandas no Solidworks e no SAP? Se sim vou de python, há meses estou querendo aprendê-lo para fazer um app de uma ideia de tive, mas não disponho de tempo. Se eu conseguir usar a linguagem no trabalho e nos meus hobbies será puro ouro! \r\n Anão é irmão mesmo! Se isso que você diz for verdade te desejarei muitos cus na vida.
+ >>27519455 \r\n >python \r\n >app 
+ >>27519490 \r\n Não sei se leu a thread, mas não sou programador.
+ >>27519426 \r\n Não vai desembuchar?
+ BUMP

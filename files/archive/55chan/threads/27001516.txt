@@ -1,0 +1,25 @@
+ Que distro e interface gráfica você está usando, anãozinho?
+ >Windows \r\n >Windows 
+ >>27001527 \r\n Engraçadão, windowsbicha.
+ >>27001527 \r\n Esqueci da pica.
+ Debian e i3WM.
+ Windows porque não sou um gordo.
+ Arch Linux com bspwm.
+ >lxde \r\n >mint \r\n A minha única tristeza é a saudade da AUR e dois bugs do lxde. Fora isso, está uma beleza.
+ Botnet 10. \r\n \r\n >>27001538 \r\n Que programinha é esse na barra de tarefas?
+ Ubuntu 19.
+ >>27001579 \r\n Esqueci. Ubuntu 19 padrão com Gnome 3.
+ Queria ir pro Linux, mas não posso ficar sem meus joguinhos. Sei que a Steam colocou compatibilidade com Linux em quase toda a loja, mas aparentemente estão rodando mal por falta de optimização.
+ >>27001618 \r\n Fique pelo janelas. \r\n Jogar no pinguim é uma merda ainda.
+ Arch Linux. \r\n \r\n Xfce.
+ Manjaro com i3.
+ Não é da sua conta, sua bicha maldita.
+ Hoje não, ABIN!
+ >>27002301 \r\n Só Deus sabe o quanto eu perco quando os anões citam a ABIN.
+ >ubuntu 18.04.2 LTS \r\n >GNOME Shell 3.28.3 \r\n Acabei de formatar, sou incluso nas linuxarias.
+ Arch linux e i3, mas já estou ficando enjoado do i3. Algum anão me recomenda alguma interface?
+ >>27003272 \r\n >2646x768 \r\n Você usa dois fodendo monitores de baixa resolução?
+ >>27003296 \r\n Sim, um é o próprio notbook e o outro é um monitor que eu usava no meu computador antes de quebrar. O monitor é menor que a tela do notbook. 
+ >>27001618 \r\n Eu apenas gostaria de interromper por um momento. O que você está se referindo a como Linux, é na verdade, GNU/Linux, ou como eu tomei recentemente para chamá-lo, GNU e Linux. Linux não é um sistema operacional por si, mas sim outro componente livre de um sistema totalmente funcional do GNU feito útil pelo GNU corelibs, utilitários de shell e componentes vitais do sistema composto por um sistema operacional completo, como definido por POSIX. \r\n \r\n Muitos usuários de computador executam uma versão modificada do sistema GNU, todos os dias, sem perceber. Através de uma peculiar reviravolta dos acontecimentos, a versão do GNU que é largamente utilizada hoje é muitas vezes chamada de 'Linux', e muitos de seus usuários não estão cientes de que é basicamente o sistema de GNU, desenvolvido pelo projeto GNU. Há realmente um Linux e essas pessoas estão usando, mas é apenas uma parte do sistema que eles usam. \r\n \r\n Linux é o kernel: o programa no sistema que aloca os recursos da máquina para os outros programas que você executa. O kernel é uma parte essencial de um sistema operacional, mas inútil por si só; ele só pode funcionar no contexto de um sistema operacional completo. Linux é normalmente utilizado em combinação com o sistema operacional GNU: o sistema é basicamente GNU com adição do Linux ou GNU/Linux. Todas as distribuições 'Linux' assim chamadas são realmente as distribuições de GNU/Linux.
+ Archlabs com Openbox e Polybar. As vezes troco o polybar pelo tint2.
+ \r\n \r\n Estou tentando instalar o wine https://wiki.winehq.org/Ubuntu , mas estou com problemas no comando da pica relatada, faz mais de 10 minutos que fica nessa setinha do verde texto e não sai do canto. Algum anão pode me ajudar? Eu ia criar um parênquima paliçádico para isso, mas decidi usar esse aqui mesmo. Also, sou o >>27003272 .

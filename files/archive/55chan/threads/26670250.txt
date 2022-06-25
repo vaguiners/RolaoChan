@@ -1,0 +1,24 @@
+ A pedido de um anão do /mod/, fiz um script para quem não gosta de ter que ir à outra página na hora de tomar a dose diária. Quem se interessar, é só colar o código abaixo em 'JS de usuário', na área de opções. Não funciona com dollchan. \r\n \r\n function alert(a) { \r\n var handler, div; \r\n var close = function() { \r\n handler.fadeOut(400, function() { \r\n handler.remove() \r\n }); \r\n return !1 \r\n }; \r\n if (a.includes('dose_diaria')) { \r\n $.ajax({ \r\n url: ' https://55chan.org/dose_diaria.php ', \r\n type: 'get', \r\n async: false, \r\n success: function(response) { \r\n var resposta = $('<div></div>'); \r\n resposta.html(response); \r\n $('form p', resposta).html('Já tomou sua <span style='color:rgb(0,128,0)'>dose</span> <span style='color:rgb(128,0,128)'>diária</span>?'); \r\n a = $('form', resposta); \r\n $(a).unbind('submit').on('submit', function(event) { \r\n event.preventDefault(); \r\n $.ajax({ \r\n url: ' https://55chan.org/dose_diaria.php' , \r\n dataType: 'text', \r\n type: 'post', \r\n contentType: 'application/x-www-form-urlencoded', \r\n data: $(this).serialize(), \r\n success: function(data, textStatus, jQxhr) { \r\n $('#alert_message form').html('<h1>Sucesso!<h1>'); \r\n }, \r\n error: function(jqXhr, textStatus, errorThrown) { \r\n $.getJSON('/8chan-captcha/entrypoint.php', { \r\n mode: 'get', \r\n extra: 'abcdefghijklmnopqrstuvwxyz' \r\n }, function(json) { \r\n $('#alert_message form p').fadeOut(function() { \r\n $(this).text('Erro. Tente novamente.').fadeIn(); \r\n }); \r\n $('#alert_message form .captcha_cookie').val(json.cookie); \r\n $('#alert_message form img').replaceWith(json.captchahtml); \r\n setTimeout(function() { \r\n redo_events(provider, extra) \r\n }, json.expires_in * 1000) \r\n }); \r\n console.log(errorThrown); \r\n } \r\n }); \r\n }); \r\n }, \r\n error: function(xhr) { \r\n //Do Something to handle error \r\n } \r\n }); \r\n \r\n } \r\n handler = $('<div id='alert_handler'></div>').hide().appendTo('body'); \r\n $('<div id='alert_background'></div>').click(close).appendTo(handler); \r\n div = $('<div id='alert_div'></div>').appendTo(handler); \r\n $('<a id='alert_close' href='javascript:void(0)'><i class='fa fa-times'></i></div>').click(close).appendTo(div); \r\n $('<div id='alert_message'></div>').html(a).appendTo(div); \r\n $('<button class='button alert_button'>' + _('OK') + '</button>').click(close).appendTo(div); \r\n handler.fadeIn(400) \r\n } 
+ >>26670250 \r\n Obrigado, anão. Testarei mais tarde.
+ Copiou e colou, IP pra PF mandou.
+ Olha o ransomware.
+ Obrigado, anão.
+ ahan sei… (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ Recomendo o OP deixar o código rasquiner no tópico de sugestões do /mod/.
+ >$.getJSON('/8chan-captcha/entrypoint.php' \r\n Xiii…
+ >2019 \r\n >tomando dose diária \r\n Como é ser um completo incluso, OP?
+ Você está extremamente perto de burlar o captcha do chan e não percebe. \r\n Olhe o seu código com atenção, OP.
+ >>26670336 \r\n Faltou brio.
+ Faz um para nem precisar preencher.
+ >>26670374 \r\n >>26670296 \r\n >>26670300 \r\n >>26670284 \r\n >>26670271 \r\n >>26670268 \r\n >>26670264 \r\n \r\n Newfags.
+ Teste.
+ Teste.
+ Teste.
+ Para ficar ainda melhor, anões, coloquem esta linha na penúltima linha do script, acima da última chave }.: \r\n \r\n $( '#alert_message form .captcha_text').focus() \r\n Desse modo, a janelinha já aparece com o foco na caixa de texto, poupando o trabalho de ter que clicar nela para escrever.
+ teste 
+ Coloquei, mas vou ter que salvar online porque sempre apago o cachê. \r\n https://pastebin.com/yHT22Ujc 
+ Não tem alguma maneira de fazer esse script funcionar com Dollchan?
+ Teste.
+ Teste. \r\n Muito bom, OP. 
+ Teste.
+ Hoje não, agente Pereira.

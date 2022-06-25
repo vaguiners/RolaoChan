@@ -1,0 +1,14 @@
+ Imagine um círculo com 3 pontos em locais aleatórios na circunferência dele. Qual é a probabilidade de que o triangulo formado por estes três pontos contenha o centro do círculo?
+ 50%.
+ >>26754372 \r\n Errou.
+ Sim.
+ >>26754382 \r\n Está certo, macaco. Só existem duas opções: conter o centro ou não conter, logo, 1/2 de chance para cada um delas.
+ Considerando que o número de pontos específicos no círculo é infinito, afinal os pontos possuem infinitas casas decimais, a chance dele não acertar um ponto específico será infinitamente menor do que cair em outro. Portanto, nunca acontecerá.
+ >>26754394 \r\n Está errado. Mais da metade dos triângulos possíveis não contém o meio do círculo.
+ 1/3.
+ >>26754394 \r\n Sou bacharel em matemática e confirmo.
+ Virou ensino médio essa porra?
+ >>26754432 \r\n Devolva o diploma. \r\n \r\n >>26754422 \r\n Está perto da resposta, mas você só chutou.
+ >>26754446 \r\n Sugou.
+ Resolvi pra você, OP, inclusive fiz um vídeo bem legal explicando.
+ 100%.

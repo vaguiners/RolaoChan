@@ -1,0 +1,61 @@
+ NT: GNU/Linux \r\n Que distro e interface gráfica você está usando, anão?
+ Arch Linux com XFCE.
+ Mint com XFCE.
+ Linux Mint com XFCE. \r\n Estou há 6 meses. Perfomance igual de quando instalei, porém estou pensando em migrar para o Manjaro para poder aproveitar a AUR.
+ >>27361405 \r\n >>27361403 \r\n O Mint está tão bom assim? Vale a pena migrar do meu Ubuntu pro Mint KDE/XFCE?
+ >>27361415 \r\n Não ironicamente just werks . Nunca tive problema com driver ou qualquer coisa com o Mint. Internet funciona, coloca dongle de USB aleatório e funciona, coloca qualquer coisa e funciona.
+ >>27361439 \r\n Interessante, anão. \r\n Mas não era o Mint que estava correndo o risco de morrer/acabar?
+ Tenho um Thinkpad T430. Queria migrar para o linux mas sempre acabo voltando para o ruindows, teriam dicas?
+ >>27361453 \r\n Como assim? De onde você tirou isso? Não me lembro de nada assim.
+ >>27361457 \r\n >windows em notebook \r\n >windows em notebook que não irá rodar nem ao menos um CAD \r\n Meu Deus, anãozinho. \r\n Você voltar para o Windows com um hardware desses é simplesmente culpa sua. \r\n Qual o seu problema que te faz voltar para o Windows?
+ >>27361457 \r\n Não existe dicas para dar quando você não está com vontade de trocar de sistema. Você acaba voltando pro Ruindows por qual motivo?
+ Vou tentar instalar o Linux Mint com XFCE amanhã aqui na minha carroça.
+ >>27361507 \r\n Also, tem como deixar aquele menu iniciar do Mint judeu? Aquela cor branca me incomoda.
+ >>27361510 \r\n O XFCE padrão é bem feio, mas nada que a instalação de um pacote de tema e ícones não resolva. Abandonei o Windows e minha carroça tá voando!
+ >>27361510 \r\n Tem sim, só não lembro como. \r\n É bem fácil, através da interface gráfica.
+ Uso WSL e tenho o melhor dos dois mundos.
+ Ubuntu 19, porque foi a única distro que funcionou com o Ryzen 2200G. Não sei se outras distros atualizaram aquele problema com IOMMU, mas estou com preguiça de trocar.
+ >>27361405 \r\n Não tem nada de bom na AUR.
+ >>27361618 \r\n Tem sim, não ouca este anão.
+ Será que o Mint XFCE roda nessa porcaria?
+
+ >>27361631 \r\n Caralho, nessas condições eu usaria LXQT. \r\n É similar ao XFCE, mas é mais leve. 
+ Arch Linux, vivo intercalando entre i3-gaps e xfce.
+ Um dia eu instalarei o fodendo Gentoo.
+ >>27361453 \r\n É um boato que o Diolinux já refutou.
+ >NT Windows 7 com Aero 
+ >>27361405 \r\n Não faça isso.
+ >>27361955 \r\n Baseado 
+ >>27361958 \r\n Caralho, qual o problema com o AUR?
+ >>27361502 \r\n >>27361496 \r\n \r\n Sempre volto por causa do costume, ou simplesmente pela preguiça de tentar resolver incompatibilidades. Vocês possuem dicas?
+ >>27361985 \r\n (sou o anão do T430)
+ >>27361985 \r\n >>27361988 \r\n Mint XFCE. Nunca tive problemas de compatibilidade no meu X230.
+ >>27361985 \r\n Cara, se você não tem vontade pra resolver os probleminhas que aparecem, que dicas você quer? \r\n Minha dica é: tenha um mínimo de vontade para usar uma distro Linux.
+ >>27361969 \r\n >archlinux 
+ >>27362010 \r\n Qual o problema com o Arch?
+ >>27362013 \r\n Nenhum, eu simplesmente acho uma bosta. Sempre que instalei e utilizei, tive problemas com incompatibilidades que nunca consegui resolver.
+ >>27361996 \r\n Eu consigo instalar o Office 2010 nele? Eu vou precisar manjar dos códigos para usar a distro? Você já teve algum problema de compatibilidade com hardware? E quanto ao gerenciamento de bateria e resfriamento, tudo ok?
+ Como eu faço pra deixar o Xubuntu igual ao Manjaro Openbox? Gosto do visual dessa flavour, mas não quero utilizar arch.
+ >>27362034 \r\n Não sou o quotado. \r\n >Eu consigo instalar o Office 2010 nele? \r\n Por que não usar o libreoffice? \r\n \r\n >Eu vou precisar manjar dos códigos para usar a distro? \r\n Não. Só aprenda a usar o gerenciador de pacotes, é fácil.
+ >>27362139 \r\n \r\n Uso planilhas (Excel) para o meu trabalho, já estou acostumado a usar este caralhudo, mudar está fora de cogitação.
+ >>27362173 \r\n >>27362034 \r\n Anão, o libreoffice Calc já vem instalado no Linux Mint e é extremamente parecido igual ao Excel. \r\n Quando mudei para o Mint, abri o LibreOffice e consegui fazer tudo que conseguia fazer no excel, sem ter que procurar no google ou aprender nada de novo. É tudo igual, só um ícone ou outro que muda. \r\n Até gráficos consegui fazer com facilidade(e depois mandar eles para serem abertos em Excel rodando no Windows). \r\n Baixe e teste.
+ >2k19 \r\n >não usando a melhor distro \r\n Como é ser tão incluso?
+ >>27362295 \r\n Eu já usei esse papel de parede.
+ >>27362295 \r\n >melhor distro \r\n >não é Void \r\n Plebeu.
+ >>27362295 \r\n Não estou vendo gentoo na pica.
+ >>27362390 \r\n Está mais para gaytoo.
+ >>27362295 \r\n >não sendo o glorioso Fedora \r\n Tente mais duro.
+ Utilizar linux ajuda no desenvolvimento de seus respectivos trabalhos ou é só para não poder abrir joguinhos na hora em que se deve trabalhar?
+ >>27363044 \r\n Você só pensa em jogar? FIlho da puta.
+ >>27363044 
+ Depois que você customiza, ajusta e implementa tudo que você precisa dificilmente da problema. Ja estou a 3 anos sem nenhum break.
+ >>27363044 \r\n \r\n >é só para não poder abrir joguinhos na hora em que se deve trabalhar? \r\n \r\n É um meme que deveria ter morrido com o uso de proton e das novas instâncias do wine, os linux ja rodam boa parte dos joguinhos atuais. Agora que a microsoft ta migrando pra um kernel Unix com camada de compatibilidade pra Windows, a coisa vai ficar melhor ainda.
+ >>27363044 \r\n No meu caso sim, me mantém longe dos vícios e é meu principal problema. Mas ignorando isso: \r\n >o sistema não vai instalar nada sem sua autorização \r\n >não existe programas abrindo sem sua autorização \r\n >tudo simplesmente funciona e funciona melhor \r\n >(quase) não existem vírus \r\n \r\n Desvantagens: \r\n >não existe configuração de mouse que não exija doutorado \r\n >piratear programas para Windows às vezes é boa ideia \r\n >você se esquece como o Windows funciona quando precisa usar 
+ Gentoo com i3.
+ Arch + Gnome Xorg rodando a kernel ZEN. Eu já tentei mudar de desktop environment mas usar mais de uma tela com densidades diferentes é bem mal suportado na maioria dos DE's.
+ >>27363155 \r\n \r\n >não existe configuração de mouse que não exija doutorado \r\n \r\n Literais 60 segundos de google e melhor ainda se tiver usando synaptics.
+ >>27363155 \r\n Configurar o mouse é a coisa mais fácil que tem.
+ >>27363173 \r\n >>27363169 \r\n Me ensinem a alterar a sensibilidade do scroll.
+ Anões, algumas dúvidas de um usuário antigo de Linux que nunca se aprofundou nele. \r\n Como mudar a interface gráfica do mint? achei interessante o XFCE. \r\n Estou com problema com o wine (ele não instala de jeito nenhum), e com dispositivos USB (PSP, Kindle etc), eles só fazem leitura. A melhor opção seria, reinstalar o mint ou o que?
+ Xubuntu pois o meu computador é fudidão.
+ >>27363244 \r\n Sou como você. Não costumo perder tempo, só faço um backup e reinstalo a porra toda.

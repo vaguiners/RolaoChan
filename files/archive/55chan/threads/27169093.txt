@@ -1,0 +1,32 @@
+ NT: Postem joguinhos de Rpg Maker, de preferencia comédias curtas.
+ Não quero ficar feels hoje.
+ Engraçado você postar isso. Estava pensando em começar um joguinho no rpg maker.
+ >>27169114 \r\n Começar a fazer ou jogar? De qualquer forma, seu reply me lembrou de um anão que disse que faria um jogo em uma semana. Me pergunto que fim levou aquela historia.
+ >>27169129 \r\n Começar a fazer, mas desisti da ideia por conta das formas combates disponíveis não serem compatíveis. \r\n Lembro de um puto que falou sobre fazer um jogo focado no grinding pros anãos competirem.
+ OneShot é muito bom. Infelizmente não é uma comédia e acredito que também não seja exatamente curto, mas está aí…
+ Não é comédia mas vou postar aqui, joguem Pocket Mirror \r\n \r\n https://astralshiftpro.itch.io/pocket-mirror 
+ VOCÊ NUNCA VAI JOGAR O FINAL DE GUSTAVO'S ADVENTURE 
+ >>27169167 \r\n Eu lembro que joguei esse jogo quando lançou. Ele é muito interessante e tem uma arte muito boa, porém o jogo começa a ficar meio massante depois de uma certa parte. Se eu não me engano, eu parei de jogar um pouco depois da parte em que você encontra uma menininha meio com jeito de psicopata. Talvez o problema tenha sido a minha falta de paciência… \r\n \r\n Also, jogue Space Funeral, OP, é uma experiência bem… única.
+ >>27169208 \r\n >maçante 
+ >>27169157 \r\n Eu já fiz um joguinho no Rpg Maker, e te digo, se for fazer, faça algo simples e curto. Levei mais de um mês trabalhando todo dia naquela merda, e no final ficou uma bosta com uma hora e meia de gameplay. Dá muito trabalho. \r\n \r\n >>27169158 \r\n Vou checar, anão. \r\n \r\n >>27169167 \r\n >>27169208 \r\n Checarei. \r\n \r\n >>27169197 \r\n Não conheço isso aí. Estou perdendo algo?
+ >>27169216 \r\n >não conhece gustavo's adventure 
+ >>27169226 \r\n Caralho, eu lembro disso aí. Ainda tem o download em algum lugar?
+ >>27169208 \r\n Finalmente patrício. Adoro a OST desse jogo.
+ >>27169216 \r\n >se for fazer, faça algo simples e curto \r\n A ideia era muito grinding, muitas cidades e muitas dungeons, mas como eu disse: os sistemas de batalha não colaboraram.
+ >>27169327 \r\n Sistemas de batalha são uma merda de fazer. Você aumenta o poder de uma arma pra consertar algo, aí 5 armaduras ficam fracas demais, aí você arruma e uma habilidade fica fraca, enfim, uma bosta. Se quer fazer apenas pra se divertir fazendo, faça sem batalhas. E você só vai se divertir na primeira semana, depois vai se tornar um estresse. E sim, eu louco só de lembrar do mês que perdi fazendo aquela bosta.
+ >>27169366 \r\n O que eu queria era um jogo baseado em combos, anão. A ideia era ir combando skills e cada vez iria ficando mais difícil de acertar o timing, mas ABS é uma merda horrível e LMBS dá muito trabalho e não iria ficar do jeito que eu queria.
+ >>27169303 \r\n Ah, vejo que és um homem de cultura. A OST é facilmente a melhor parte do jogo.
+ >>27169389 \r\n Não sei do que está falando, usei o sistema normal no meu jogo autista.
+ >>27169425 \r\n ABS é aquele sistema de batalha que não muda de tela. \r\n Vídeo relatado.
+ >>27169431 \r\n Parece interessante. Porém complexo.
+ >>27169451 \r\n Não é tão complexo assim, mas demanda um pouco de conhecimentos em scripts para usar direito. Não gosto da câmera do rpg maker pra esse tipo de combate.
+ >>27169457 \r\n É isso, demanda tempo. Já é demorado para fazer o normal, mais demorado ainda com batalhas, e ainda mais com batalhas assim.
+ >>27169415 \r\n >essa composição primitiva, provavelmente de um adolescente de 15 anos que aprendeu harmonia pelo youtube \r\n >cultura \r\n Desgostante. \r\n Esse boom de gamedevs foi uma desgraça (como todo boom democratizante ). Eu preferia um monopólio de alguma corporação cancerosa como a EA ou Activision a esse bando de sojagaroto metido a artista despejando chorume no Vapor.
+ Mischief War. \r\n Não é curto, mas você não deve ficar muito tempo jogando mesmo. Ao menos não de uma vez.
+ >>27169473 \r\n Estou de nofap. Mas obrigado.
+ >>27169487 \r\n Eu também estou, aí fico tentando fazer os outros quebrarem pra me sentir menos mal quando eu o fizer.
+ >>27169468 \r\n Poste a sua melhor composição, anão .
+ >>27169505 \r\n Mateus 7:6.
+ Manjadores de Rpg Maker, é possível fazer um sistema de combate e level igual ao da serie SaGa? \r\n \r\n Para quem não conhece, a serie tem um sistema chamado de spark/glimmer, durante o combate ao usar um golpe com um tipo de arma existe uma chance de você aprender um novo golpe do mesmo tipo da arma usada. Cada golpe possui chances diferentes de ser aprendidos dependo do movimento que você usou e da diferença de poder entre você e o monstro alvo. \r\n \r\n Outra coisa é a ausência de level. A evolução do personagem é através dos atributos ganhos no fim da batalha, então se usou golpes de espada existe uma chance de você ganhar força no fim do combate.
+ >>27169542 \r\n Tem, mas dá muito trabalho. Você consegue fazer isso tudo por evento, mas sobre a questão de não ter leveis eu acho um pouco difícil. O RPG Maker tem os atributos extremamente fechados, mas acredito que dê pra por tudo no 0 e modificar com variáveis em eventos.
+ >>27169468 \r\n Essa música existe desde antes de você sequer sonhar em existir, bushido.

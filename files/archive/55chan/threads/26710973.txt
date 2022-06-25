@@ -1,0 +1,6 @@
+ Olá, anões. \r\n \r\n Preciso ter uma loja virtual, porém com estrutura 'própria' (nada de loja desintegrada, MuambaLibre, WooCommerce, etc). \r\n \r\n O que sugerem? Considerem que sou meio incluso em php e mysql. Grato.
+ Pegue o código-fonte/CSS de uma loja agradável e edite até ficar mascarada o suficiente para o seu gosto. \r\n \r\n Ou pague uns trocados para algum desocupado fazer um design meia-boca do zero.
+ >>26710979 \r\n Prefiro a segunda opção. \r\n \r\n Você conheceria algum material que dê para aprender a criar tais coisas de forma prática?
+ >>26710984 \r\n Existem zilhões de tutoriais/guias/apostilas de HTML/CSS/JSON na internet. É bastante fácil, na realidade, nenhuma destas sendo uma linguagem de programação. Tudo grátis.
+ >>26710990 \r\n Eu sei. Mas o problema é saber integrar - com praticidade a php e a um DB do tipo MySQL. Nunca achei material que trate disso de forma realmente conglobante.
+ >>26710999 \r\n Pica relatada.

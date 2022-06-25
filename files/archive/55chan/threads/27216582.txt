@@ -1,0 +1,8 @@
+ Preciso aprender fazer algo em arduíno até amanhã às 15h. Tenho um kit em mãos, e sei programar em C. Falta apenas juntar o útil ao agradável. Poderiam me mostrar o caminho das pedras? Para eu não perder o pouco tempo que tenho?
+ Te fornique lek
+ Leia os exemplos do programa.
+ >>27216589 \r\n 5 minutos.
+ >>27216599 \r\n Oshi
+ >>27216592 \r\n Estou fazendo isso, conhece algum bom portal ou fórum de arduíno que ajude? Já assisti o básico de tudo, estudei as peças, e me familiarizei com o arduíno em si.
+ Consegui ligar um led, um buzzer e e um sensor de movimento. Consegui fazer que apitasse, e consegui modificar o campo limite que ele pudesse atingir.
+ >>27216676 \r\n Pretendo agora fazer um sensor de ré apartir disso.

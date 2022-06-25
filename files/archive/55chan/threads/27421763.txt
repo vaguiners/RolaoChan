@@ -1,0 +1,6 @@
+ Algum anon que possa me auxiliar com o acess? \r\n \r\n Estou montando um banco que tem 2 tabelas: 1 de atestados médicos e outra de empregados que foram encaminhados ao INSS. Gostaria de fazer uma consulta em que me retornasse quais atestados estão na vigência de 60 dias anteriores a data de encaminhamento ao INSS.
+ Teste.
+ >>27421775 \r\n Teste o que?
+ >>27421783 \r\n Perdi. Eu só queria ver quão perto meu post estaria dos triplos pra eu saber quando enviar um reply num outro parênquima paliçádico e ganhar triplos.
+ \r\n MATCH q = (p:Person)-[h:HAS]->(mc:MCertificate) \r\n WHERE \r\n duration.inDays(date(mc.includeDate),date.realtime('America/Belem')).days < 60 \r\n RETURN q \r\n 
+ Já tentei mexer com Access e achei um saco. Acho mais fácil mexer com SQL na mão mesmo, com MySQL de preferência.

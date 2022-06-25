@@ -1,0 +1,8 @@
+ >i5 8250u \r\n >8gb ddr4 \r\n >mx 150 4gb \r\n >aprox 1.6 Kg \r\n \r\n Considerando que quero um notebook leve para faculdade, pretendo usar CAD, vale a pena pagar 3500 mitos nele bê?
+ Vá tomar no meio do teu cu.
+ Não.
+ Você consegue um notebook bem mais barato que no final vai te entregar o mesmo desempenho (se for usar pra tarefas básicas, obvio).
+ https://produto.mercadolivre.com.br/MLB-1138700009-notebook-lenovo-think-pad-t420-core-i5-2524-260ghz-4gb-250-_JM \r\n De nada.
+ Se particular, sim. \r\n Se federal, não.
+ >>25729051 \r\n \r\n Cad e aplicações gráficas, sim bem básico. \r\n \r\n >>25729055 \r\n \r\n Já pusso um T430 que não está aguentando o tranco. \r\n \r\n >>25729057 \r\n \r\n Wut?
+ Dica: não compre nenhum notebook com processador terminado em 'U'. Isso significa que é low voltage, eles vendem como se fosse econômico, mas na verdade é um processador mais fraco. \r\n \r\n Also, tente não investir muito na placa de vídeo. Priorize um bom processador e cloco de memórias ram, tente comprar uma placa de vídeo a parte (gtx 1050ti pra cima) e fazer ponte eGPU por PCI-express.

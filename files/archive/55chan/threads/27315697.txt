@@ -1,0 +1,19 @@
+ Não consegui descobrir a razão desta PA. Algum bom anão pode me ajudar?
+ Ela é burra.
+ >>27315704 \r\n O que a fornicação?
+ Vai tomar no cu com esses fios de matemática.
+ Isso não é PA.
+ >>27315730 \r\n O OP a cada 15 minutos faz um parênquima paliçádico pois não consegue resolver umas continhas e eu sou o brainlet. Vá mamar um da sua cor.
+ >>27315734 \r\n Also. \r\n https://55chan.org/UF55/index.html 
+ >>27315734 \r\n Primeira vez que faço um parênquima paliçádico assim, macaco. \r\n \r\n >>27315770 \r\n Entendi nada.
+ 7-2=5, \r\n 16-7=9; \r\n 28-16=12, \r\n … \r\n 16, \r\n 19, \r\n 22, \r\n 26, \r\n 30, \r\n 33… \r\n \r\n A diferença entre um termo e o anterior alterna entre +3 e +4 se comparado a diferença dos últimos dois termos. \r\n \r\n Ou seja o termo 11 = 211…
+ >>27315779 \r\n Eu respondi aqui: >>27315784 . \r\n \r\n Eu imagino que seja um problema de algorítimos.
+ >>27315784 \r\n Na verdade, é. Isso são os valores de um atributo que sobem conforme você os vai aumentando.
+ Mais um anão que quer entrar em alguma faculdade.
+ >>27315786 \r\n Se for então fica algo mais ou menos assim \r\n \r\n if i = par then k=4 \r\n else k=3; \r\n \r\n f(i+1) = f(i)+ [f(i)-f(i-1)+k] \r\n ;
+ >>27315807 \r\n >>27315815 \r\n Obrigado, nobre anão. Desejo tudo de bom a você. Fique com a paz de Nosso Senhor Jesus Cristo e bons sonhos.
+ >>27315825 \r\n Última pergunta: o f e o k representam o quê?
+ >>27315866 \r\n \r\n O f é o vetor resposta, a resposta está do lado direito, o i é a iteração ou o que está do lado esquerdo. O k é só uma variável auxiliar para marcar se é par ou ímpar. \r\n \r\n A função final é \r\n \r\n f(i+1)=2*f(i)-f(i-1)+k; \r\n \r\n para i+1 = 7, i= 6, f(6) =63; f(5)=44 \r\n \r\n f(7) = 2*f(6)-f(5)+3=85.
+ >>27315898 \r\n Obrigado. :3 \r\n \r\n Pagarei sendo um bom anão.
+ >>27315915 \r\n Aceito muié pelada.
+ >>27315915 \r\n Ah e tem um pequeno erro, na função que atribui o k você compara é o i+1 e não o i. \r\n \r\n Ou seja \r\n \r\n se i+1= par \r\n então k=4 \r\n caso contrário k=3; \r\n \r\n Boa noite, anão, bons estudos.

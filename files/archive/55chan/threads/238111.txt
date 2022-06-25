@@ -1,0 +1,60 @@
+Um capital de R$ 25,000 aplicado durante 7 meses rende um juros de R$ 7850. Qual a taxa de juros correspondente? \r\n \r\n Em troca, moar. \r\n
+ J=C.i.t/100 \r\n
+ i e t seriam o que? \r\n
+ >>238118 \r\n taixa. \r\n
+ taxa* \r\n
+ >>238116 \r\n Mas tipo, \r\n \r\n Até onde me ensinaram: \r\n J> 7850 \r\n C> 25000 \r\n t> 7 meses \r\n i> ?????????? \r\n
+ >>238111 \r\n
+ >>238133 \r\n Faz o cálcuo. \r\n
+ >>238138 \r\n nem é troll, quero fazer minha liçã da escola, mas não sou muito esperto. \r\n \r\n >>238138 \r\n Mas tipo, se eu quero o i então seria -i=-J.C.t/10? \r\n
+ >>238145 \r\n \r\n \r\n >/100* \r\n
+ >>238145 \r\n AI CARALHO. \r\n
+ >>238145 \r\n
+ C1 = C0(1+j)^t \r\n (C1/C0)^(1/t)-1 = j \r\n \r\n ((25000+7850)/25000)Y(1/7)-1 = 0,039781760774171990744556371322351 = 3,97% a.m. \r\n \r\n Agora, moar. \r\n
+ >>238164 \r\n
+ Melhor estar trollando, crioulo. \r\n
+ >>238111 \r\n 45!!!!!1 \r\n
+ >>238164 \r\n \r\n Mas tipo, me diz oque é cada uma dessas siglas huaehuaehuae \r\n
+ posting in epic thread. \r\n
+ >>238184 \r\n \r\n J de Jorge \r\n C de Câncer \r\n i de internet \r\n t de troll \r\n
+ Nessas horas é que dá um alívio por saber que é um imageboard anônimo. \r\n
+ >>238164 \r\n \r\n como chegou no 3,97%? \r\n \r\n usei a fórmula do >>238116 e deu 0,044 \r\n
+ >>238190 \r\n
+ >>238164 \r\n \r\n Tô achando que fui trollado. \r\n
+ >>238194 \r\n \r\n Não sei que fórmula é essa. O meu cálculo está certo. \r\n \r\n C0 = capital inicial = 25K \r\n C1 = capital final = 25K + 7,85K \r\n j = juros \r\n t = período = 7 (meses) \r\n
+
+ >>238133 \r\n \r\n J = juros \r\n C = credito inicial \r\n t = tempo \r\n i = taxa da aplicação \r\n \r\n agora, MOAR \r\n
+ 2.45% ao mês. \r\n
+ Só dá trollbus nessa thread. \r\n \r\n 3,14 ao mês OP, pode confiar. \r\n
+ >>238209 \r\n \r\n 7850/25000 = 0.314 = 31.4% \r\n \r\n (1+0.03978)^7-1 = 31.4% \r\n \r\n 3.97% a.m. em 7 meses = 31.4% \r\n
+
+ >>238201 \r\n \r\n (C0/C1) = 1,314 \r\n \r\n Até aí estamos ok, ok? \r\n \r\n depois não faço idéia do quê é: \r\n >Y(1/7)-1 \r\n
+ >>238221 \r\n >(1+0.03978)^7-1 = 31.4% \r\n \r\n não entendi \r\n
+ >>238225 \r\n \r\n Esse Y tá aí pra você poder copiar a seguinte linha: \r\n \r\n >((25000+7850)/25000)Y(1/7)-1 \r\n \r\n e colar na calculadora do Windows para ver o resultado. 'Y' e '^' significam 'elevado a'. Y(1/7) = raiz sétima. Assim você tira a taxa ao mês. A taxa total de juros é 31%, que por mês equivale a 3.97%, e por ano equivale a (1+3.97%)^12-1 = 59.54%. O '^12' é elevado a 12 (meses por ano). \r\n \r\n >>238111 \r\n \r\n MOAR dessa guria. \r\n
+ Incrível o que os anons fazem por TITS. \r\n
+ >>238232 \r\n \r\n mas não é juros composto lol. \r\n
+ http://drcalc.net/easycalc/Juros.htm \r\n \r\n \r\n Tipo de Juros: \r\n Simples \r\n Cálculo a ser realizado: \r\n Taxa \r\n Valor Presente(R$): \r\n 25.000,00 \r\n Valor Futuro: \r\n 32.850,00 \r\n Tipo Taxa: \r\n Mensal \r\n Taxa(%): \r\n 4,4857% \r\n Tipo Prazo: \r\n Mensal \r\n Prazo(dias/meses/anos): \r\n 7 \r\n
+ >>238238 \r\n \r\n Se não é juros compostos, ao invés de tirar a raiz, basta dividir. \r\n \r\n 31.4%/7 = 4.48% a.m. \r\n
+ Vocês estão me confundindo, anãos. \r\n Sério. \r\n
+ >>238256 \r\n \r\n Aê, agora deu certo aqui. Muito obg anão. \r\n Pena que não tenho mais da guria >>238111 \r\n \r\n Mês que vem eu aprendo juros compostos aí você me ensina, huaehuiaheuh. \r\n
+ >>238267 \r\n MOAR, fornique-se A CONTA \r\n
+ IN B4 AHEUAHUEHUAEUAAE \r\n
+ >>238310 \r\n
+ MAIS \r\n
+
+
+ Questão de cursinho detected. Enjoe sua falha no próximo vestibular, entrei em engenharia numa federal sem cursinho e de primeira. \r\n
+ >>238914 \r\n é mermo é? \r\n
+ >>238914 \r\n \r\n Mora na europa e ganha milhoes tb? \r\n
+ >>238914 \r\n \r\n nem é, tipo, curso técnico de administração \r\n
+ >>238997 \r\n Eww. \r\n
+ 42 \r\n
+ >>238111 \r\n \r\n 4.48% ao mês. \r\n
+ >>239010 \r\n \r\n >slowpoke.jpg \r\n
+ >>239002 \r\n
+ caralho que investimento é esse? me fala ai que eu to afim, lol. malditos fundos de DI. \r\n
+ nem o tesouro dá isso.. \r\n \r\n deve ser bolsa uaheaheuahe \r\n
+ eu ri bastante com essa thread! lulz \r\n
+ Fundos 55chan FIA Alavancado Multi-mercado. \r\n
+ cade o moar do op? pra mim ta mais do que respondido \r\n
+ Usa uma HP e MOAR!!!!! \r\n

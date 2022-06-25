@@ -1,0 +1,19 @@
+ Anões, comprei uma placa de vídeo e ela tem 2 slots de 8 pinos, e minha fonte só tem 1. \r\n Tem algum adaptador para isso ou terei que comprar outra fonte?
+ Tem adaptador, sim, mas a fonte aguenta a placa de vídeo? Se sim, sem problemas.
+ Qual é a sua fonte, OP?
+ Qual é a placa? Com 2X8 o consumo pode chegar a 300W, se a fonte for menor de 500W é capaz de queimar.
+ Não precisa colocar mais que 8 pinos. Sua fonte provavelmente tem um de 6+2, vai funcionar de qualquer jeito. \r\n \r\n Qual placa é?
+ >>27396485 \r\n >>27396498 \r\n Ela é de 550w.
+ >>27396543 \r\n GTX 1080 ti. \r\n Será que vai funcionar com 1 conector só?
+ Não precisa disso, pode usar 6+2 ali e vai funcionar. Só recomendo uma fonte boa, no sentido de materiais bons, não só Watts. Fontes baratas podem dar sobrecarga e curtos e outros imprevistos, simplesmente pela qualidade do material e acabamento.
+ Leia a porra do manual: \r\n \r\n https://www.nvidia.com/content/geforce-gtx/GTX_1080_Ti_User_Guide.pdf \r\n \r\n Veja isso também: \r\n \r\n https://forums.tomshardware.com/threads/gigabyte-gtx-1080ti-power-connector-confusion.3304513/ 
+ >>27396465 \r\n >>27396555 \r\n Comprou por quanto e onde, OP?
+ >>27396555 \r\n Você vai queimar essa placa, kek. Está querendo puxar um semirreboque com um fusquinha.
+ >>27396587 \r\n Comprei de um amigo por 25 reais, vou arrumar ela e revender. \r\n >>27396570 \r\n Thanks good sir.
+ >>27396601 \r\n >arrumar placa de vídeo \r\n Você é um fodendo mago?
+ >>27396618 \r\n Tenho um pouco de conhecimento de eletrônica. \r\n >>27396570 \r\n Quero apenas para poder arrumar e testar a placa.
+ >>27396618 \r\n Se os chipsets não estiverem danificados e as trilhas não estiveram muito fodidas, é possível ressuscitá-la, mas nem sempre é garantido.
+ >>27396692 \r\n Não é nada fácil reparar uma placa de vídeo, ao menos que o erro seja superaquecimento ou algo assim.
+ >>27396618 \r\n >>27396669 \r\n É o gordo da Getech
+ >>27396756 \r\n Quem é o animal que faz 3 reballings na placa? \r\n Detesto teutões que acham que reballing resolve tudo, e se não resolver é que a GPU está queimada.
+ >>27396756 \r\n Gordo é o seu cu.

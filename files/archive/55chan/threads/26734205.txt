@@ -1,0 +1,13 @@
+ Porra, moderação. Vocês colocaram o tutorial no próprio html da página, mas essa porra é inútil já que a cada refresh volta a mesma coisa. Seria legal se colocassem um easter egg decente, vão se foderem.
+ >mas essa porra é inútil já que a cada refresh volta a mesma coisa \r\n Perdi. Incluso é incluso.
+ Baixa a extensão stylus e edita o css sem aquelas animations e com altura e comprimento automáticos.
+ >>26734222 \r\n \r\n Eu sou programador, não falei que não sabia resolver. A questão é que não explicaram no html da página o próximo passo, o que seria interessante para um incluso.
+ >>26734205 \r\n \r\n >localStorage.setItem('user_css', 'div {width: auto;height: auto;background-color:transparent;animation-duration:0;animation-iteration-count:0;animation-timing-function:ease;}') \r\n \r\n \r\n De nada
+ Não sou programador e nem tenho conhecimento básico de css. Apenas intuição. \r\n \r\n Html da página e procurei por animações, vi uma linha que era seguida de uns parâmetros, inclusive de animações. Desativo a linha e dou refresh. Retornando as animações eu copio as linhas e coloco tudo em auto e sem animações, cor de fundo, posições e loop. Acerto. \r\n \r\n Como é ser intuitivolet ? Resolvo praticamente 80% dos meus novos problemas com intuição e tiro aprendizado do ato. Sempre tem uma espécie de 'segunda voz' pra me indicar as probabilidades de algo dependendo de certas ações. A vida dos intuitivolets deve ser fornicação.
+ Acabei de chegar. Deu um pouco de trabalho, seu moderador arrombado. \r\n \r\n \r\n div { \r\n animation: none; \r\n width: initial; \r\n height: initial; \r\n background-color:initial; \r\n } \r\n \r\n \r\n Só adicionar no seu CSS de usuário.
+ É só um dia, bushido. Vai se fornicar.
+ >>26734314 \r\n EU TE AMO, FILHO DO DIABO. 
+ >>26734242 \r\n Entreguei de mão beijada pra esse macaco
+ >>26734339 \r\n Geniozinho, apenas execute \r\n >>26734242 \r\n No console do seu navegador
+ É só desativar a animação, caralho. Eu sou incluso, precisei pesquisar no google como se escrevia código de css.
+ >>26734343 \r\n Eu já estou conseguindo acessar normalmente, anão. Eu tinha conseguido desabilitar apenas nas páginas específicas, mas bastava um F5 e tudo ia pro caralho.

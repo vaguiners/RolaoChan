@@ -1,0 +1,16 @@
+ >esses newfags que não sabem burlar a brincadeirinha \r\n Triste.
+ Also, você deveriam ter feito isso quando estavam raidando essa merda.
+ Que brincadeirinha?
+ >>26732771 \r\n Dê CTRL+R no /b/.
+ >>26732769 \r\n A merderação é muito burra.
+ Do a barrel roll
+ 10/10, moderação. \r\n Tinha que ficar assim o ano todo.
+ Burlei mas ficou feio…
+ Existe alguma maneira melhor que desativar o CSS? \r\n Estou com preguiça de fazer algum script ou baixar extensão para isso.
+ Que agonia dessa merda, puta que pariu.
+ Esse elevador sempre esteve aqui e eu não percebi ou é coisa de agora?
+ >>26732789 \r\n O melhor é desativar o CSS e carregar um tema de sua preferência usando alguma extensão como o Stylish, Tampermonkey ou Dollchan.
+ Sim, eu apaguei o System32. \r\n Agora está tudo sonserininho.
+ div { \r\n width: auto; \r\n height: auto; \r\n background-color:transparent; \r\n animation-duration:0; \r\n animation-iteration-count:1; \r\n animation-timing-function:ease; \r\n } \r\n \r\n Coloquem isso aqui no seu CSS injector de preferência. Funciona no CSS customizado do chan pelas opções também, mas vai rodopiar uma vez ou duas antes da página carregar completamente.
+ >>26732806 \r\n Obrigado, a sua solução é muito melhor que a minha. Mesmo assim mudei o animation-iteration-count para 0, porque não sei brincar. 
+ Estou tonto.

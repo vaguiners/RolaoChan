@@ -1,0 +1,20 @@
+ Aplicativos que vocês não abrem mão. \r\n Postem recomendações.
+
+ >blackplayer ex \r\n >solid explorer \r\n >dashchan \r\n >pocket casts \r\n >telegram \r\n >quickpic \r\n >deezloader 
+ >>27076994 \r\n Inclusive, recomendo duríssimo o deezloader tanto no pc quanto no esperto.
+ >mx player pro 
+
+ >vlc \r\n >rocketplayer \r\n >here \r\n \r\n Eu não uso muito esperto.
+ >>27076870 \r\n >magisk \r\n \r\n Pra que diabos serve root em pleno 2019?
+ >>27076994 \r\n Não usando AntennaPod. \r\n >>27076998 \r\n Não sendo AIMP. \r\n \r\n >newpipe 
+ Estou portando o /e/ e o CWM (TWRP tem problemas de incompatibilidade) para meu esperto com um MTK6580, Mali 400p e 1 fodendo giga de RAM. Até então, os resultados foram promissores. Só preciso ajustar o dpi das fontes do clockwork mod para ficarem maiores, e resolver as pendências que tenho com a tela falhando, o 3G sem funcionar e o Wi-Fi conectando por poucos segundos. Estou me baseando no fork do Galaxy S3. Me desejem sorte. Also: \r\n \r\n https://www.xda-developers.com/e-google-free-lineageos-fork-nexus-oneplus-xiaomi/ \r\n https://github.com/CyanogenMod/android_bootable_recovery 
+ >>27077021 \r\n >eu não sou muito esperto \r\n Fixado.
+ >>27077018 \r\n Baseado e gachapillado. No entanto, metade poderia ser substituída por jogos melhores.
+ >>27077028 \r\n O que quer dizer, anão? \r\n Não há mais vantagens em rootear o esperto?
+ >>27077114 \r\n Não jogo FGO, im@s e Girls Frontline. Só está aí por estar.
+ >>27077114 \r\n Quotei errado. \r\n >>27077107 
+ Sleep timer é um otimo aplicativo para dormir com o celular liagdo e não acordar com ele pegando fogo do seu lado.
+ >>27077018 \r\n Azur Lane é uma delícia.
+ >>27077229 \r\n Concordo. Agora com esse UI update ficou mais delícia.
+ >>27077114 \r\n Atualmente eu não vejo nenhuma.
+ Queria um player parecido com o Musicbee.

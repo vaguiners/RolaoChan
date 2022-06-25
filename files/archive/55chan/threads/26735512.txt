@@ -1,0 +1,5 @@
+ Temos cariocas no recinto? Reportem dentro, por favor. \r\n \r\n Como funcionam estas negrices? Eu compro, instalo e detecta automaticamente a porra toda? Como funcionam estas tão temidas atualizações?
+ Precisa pagar mensalmente para algum servidor?
+ Jamais invoque um carioca depois da meia-noite 
+ Então, você compra o modelo que deseja, instala as antenas e fazer a sincronização com o satélite. Os macacos cobrar de 150 a 200 reais pra instalar e fazer o apontamento. \r\n Você não paga mensalidade alguma, usa todos os canais. Dependendo do modelo, dá pra usar 2 antenas apontadas e internet. \r\n \r\n Já ajudei um amigo a fazer essas merdas, tem um duosat que é bom pra caralho, mas custa 600 a 800 reais. Tem animes, filmes e os caralhos, meio como se fosse um site de stream.
+ >>26735539 \r\n Um amigo comprou um modelo destes aí, mas não funciona nem fodendo. Ele parcelou em 8x e o aparelho funcionou, coincidentemente, durante 8 meses. \r\n \r\n Tentei ajudar a configurá-lo, resetei pro estado de fábrica, mas não rolou. Só funciona com a configuração que o pilantra fez. Como é isso? O negócio lá apontava pra um servidor (endereço, obviamente) e uma porta.

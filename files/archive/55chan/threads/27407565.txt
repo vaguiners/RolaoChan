@@ -1,0 +1,19 @@
+ >comprei processador da geração atual \r\n >não sabia que a m$ não deixa instalar windows 7/8 em dispositivos com esses processadores \r\n O Windows 10 LTSC é melhor/mais leve que o LTSB? Instalar qualquer outra versão do Windows 10 está fora de cogitação, essa cortana enche o saco.
+ Use Linux.
+ >>27407586 \r\n Vá tomar no cu.
+ >>27407591 \r\n Linux tem desempenho superior.
+ >>27407601 \r\n Bom pra você.
+ >>27407601 \r\n Ele quer joguinhos, então esqueça. \r\n \r\n >>27407565 \r\n Instalei janelas 10 padrão do quejim minas aqui, neguei a Cortana já nas configurações iniciais da instalação e ela não me perturba. Você sempre será rastreado, inclusive no Windows 7 e também no Ubuntu , então não se preocupe. Apenas silencie.
+ Windows 10 home>ltsb/c
+ >>27407611 \r\n >Você sempre será rastreado, inclusive no Windows 7 e também no Ubuntu \r\n Só existe uma distribuição Linux, né?
+ >>27407629 \r\n Ele citou uma distribuição, seu burro filho de uma puta.
+ >>27407624 \r\n >Baboo \r\n Virou um bosta depois de virar MVP da Microbosta, faz questão de sempre defender a M$ e de sempre usar o MVP para embasar o argumento de autoridade.
+ Eu tenho um problema com qualquer versão do windows 10 que coloco aqui. A fan do notebook fica 100% o tempo todo. Coisa que não acontece com o windows 7. i7 2670, 8GB RAM, SSD. Não era pra ser assim. Já até tentei usar o 10 por estar de saco cheio de ter que dar voltas pra tudo no 7 (outro dia foi um moto G6 que a storage não era reconhecida e tiver que instalar driver da motorola), mas não dá desse jeito. O hardware vai pro saco. Alguém sabe o que é?
+ >>27407624 \r\n Esse cara só fala bosta. \r\n Judeu safado é pago pela Microsoft.
+ >>27407653 \r\n Virou? Desde que eu conheço internet, por volta de 1999, ele já shillava o MVP.
+ >>27407639 \r\n Primeiramente, vá tomar no seu cu. \r\n Se o OP estivesse preocupado com rastreamento, segurança e/ou privacidade, ele não teria cogitado em usar Ruindows.
+ >>27407670 \r\n Não faço ideia, mas eu preferia o 8.1 que o 7. Usava o 8.1 AIO e nunca tive problemas.
+ >>27407670 \r\n Você atualiza a porra toda? Deixa o PC ligado atualizando e depois reinicia? Se você não faz essas coisas, o sistema fica te 'varrendo' mesmo. \r\n Mas se quiser uma solução básica, pode ser que o Superfetch esteja habilitado na sua máquina mesmo com o SSD. Você sabe desabilitar o Superfetch?
+ >>27407693 \r\n Sim, vou testar mais uma vez desabilitando essa porra. Tinha até esquecido que isso existia. Quanto à atualizar, eu instalo, ele atualiza e desativo a porra que dá nas opções. O bitdefender eu tirei também por causa disso, na real ele voltava quando reiniciava mas dava pra ver que não era ele. Obrigado, anão.
+ Quanto à crack, KMSpico ainda é a melhor opção ou já descobriram algum podre dele?
+ >>27407724 \r\n É a única opção, mas está cada vez mais difícil achar a última atualização confiável.

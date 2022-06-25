@@ -1,0 +1,59 @@
+ Estou pensando seriosamente em comprar uma chave pro Window$ 10 Home. Formatei meu computador ontem e tenho certeza que ele estava lento por causa das perípecias que eu fazia para ativá-lo (KMSpico). \r\n \r\n Alguém já comprou dessa loja?**** \r\n https://www.g2deal.com/windows-10-home-32-64-bit.html 
+ Comprei no AmigoLivre 3 chaves do pro, R$9,90 cada uma. Nunca deu problema.
+ >>27207699 \r\n Mande o link.
+ >compre uma chave do Windows 7 Ultimate \r\n >instale \r\n >faça o upgrade pro Windows 10 assim que a receber \r\n >ative na microsoft e depois peça para recuperar a chave \r\n >enjoe seu W10 original 
+ >>27207702 \r\n Esses anúncios vivem caindo e os vendedores botam de novo. Fácil de achar.
+ Esses ativadores são uma desgraça. Sempre me fornico com eles.
+ >software \r\n >pagar \r\n \r\n Esse buraco já foi melhor.
+ Aquele novo CMD vai ser uma nova atualização ou vai ser alguma coisa paga?
+ >>27208380 \r\n Vai ser uma atualização. W10 tem garantia de suporte até 2035.
+ >>27208380 \r\n E por que caralhos de repente usuários de windows querem passar a usar o terminal?
+
+ >>27208409 \r\n Boa pergunta
+ >>27208409 \r\n Quero brincar de hacker também.
+ Baixe uma versão crackeada, macaco. Não precisa ativar nem nada. Seriosamente o que a fornicação esta inclusão? 
+ >>27208426 \r\n , \r\n Fix.
+ >>27208414 \r\n >sugerir arch \r\n >usuário acostumado com interface gráfica \r\n Vai ser apenas mais um reclamando que a distro é uma merda, sendo que ela não é feita para esse tipo de usuário.
+ >>27208426 \r\n Custa 7 reais uma chave. Você é tão miserável assim. Os ativadores vêm quase sempre infestados de vírus.
+ >>27208466 \r\n Você que é incluso e burro, acabei de falar pra baixar uma versão que já vem ativada pra não precisar baixar ativadores. Além de que qualquer técnico de informática de esquina sabe que é só baixar a versão portable do KMSpico pra ativar uma versão não crackeada sem pegar vírus. Duplos do novoamiguismo.
+ Alguém já.
+ >>27208466 \r\n Aonde você viu a esse preço, meu querido?
+ Não gaste dinheiro com chave do Windows, gaste com um SSD.
+ >>27208555 \r\n >>27207849 
+ >>27208534 \r\n >achando que no windows da baia dos piratas é limpo 
+ Anão, o KMSpico só ativa um período de testes e você precisa renovar a cada alguns meses. Além de ser o melhor ativador e o mais limpo, claro, se você baixou diretamente do criador. A maior chance é que a sua iso está infectada.
+ >>27208578 \r\n >implicando \r\n >baixando coisa de tracker público \r\n \r\n Não sei nem por que perco meu tempo.
+ Aproveitando o parênquima paliçádico, algum anão hackerman poderia me dizer se o código neste site: \r\n \r\n https://msguides.com/microsoft-software-products/2-ways-activate-windows-10-free-without-software.html \r\n \r\n Tem viros? Para encontrar o código a que me refiro, digite isso no ctrl+f: \r\n \r\n 'Step 1: Copy the following code into a new text document'
+ Por que não usar Windows 7?
+ >>27208610 \r\n \r\n Aonde?
+ Esta thread é o estado mais puro da infinitarde. \r\n Imagine só, em pleno ano atual, não ter a resposta definitiva para a obtenção do Windows. É o tipo de coisa que espero de pretos, cujo único contato com informática se deu parcelado.
+ >>27208652 \r\n Não sabe, né? Espero que saiba inglês, criança. Vá atrás.
+ >>27208632 \r\n Nada aí, anão. 100% clean.
+ https://www.wikihow.com/Install-Linux 
+ >>27208414 \r\n >navegar e shitpostar \r\n >linux \r\n Não tem sentido usuário comum usar isso ai.
+ >>27208632 \r\n \r\n Perdi.
+ >>27208737 \r\n Por quê, anão? É uma dúvida legítima. Não quero criar um .bat e rodá-lo sem saber o que ele faz.
+ >>27208750 \r\n Also, se foi por causa do 'ctrl+f', eu só disse como encontrar o código no site pois são uma caralhada de linhas e eu não ia postar isso no chan.
+ Comprei a minha no eBay em 2016 de um vendedor inglês, me custou 3 Libras na época e funciona até hoje. É só vincular a licença digital com sua conta Microsoft, que ela não expira e você pode fazer grandes atualizações de hardware sem problemas. Essa desse site está meio cara, no eBay ou mesmo ML você encontra muito mais em conta. Sugiro que se for comprar, comre no eBay, pois vendedores estrangeiros são menos macacos na hora de dar garantia, só fique longe de chineses.
+ >>27208801 \r\n >compre \r\n Fixado.
+ >>27208722 \r\n CARALHO, TALVEZ O MELHOR CASO SEJA ESSE. Se quer navegar e shitpostar, use linux. Se quer joguinhos, ai complica.
+ >>27207682 \r\n >figurativamente só não vai poder fazer pequenas alterações com versão não autorizada \r\n Mudar o Desktop é tão importante assim?
+ >>27208750 \r\n \r\n Vamos lá, anão, não precisa nem se esforçar. \r\n \r\n >Use the command “slmgr /skms kms8.msguides.com” to connect to my KMS server. 
+ >>27208822 \r\n Você está interpretando de maneira literal o que eu disse, eu tenho o deepin no notebook. Para instalar a raposa cu de fogo foi fácil, mas quando quis instalar um leitor de mangás/HQ, meu amigo… Até consegui, mas deu trabalho só pra uma merda de leitor.
+ >>27208937 \r\n >Deepin \r\n Ai complica. Infelizmente caso quiser algo um pouco mais diferente vai ter abraçar o Ubuntu ou AUR sendo que não sei qual dos dois é pior.
+ Bump.
+ Usei o mesmo Windows pirata durante anos e nunca aconteceu nada. Você é macaco.
+ Estou usando essa delícia aqui (com as devidas modificações). Seriosamente foi a melhor coisa que fiz ao meu velho notebook, nunca esteve tão fluído. \r\n Já havia testado outras distros antes, porém sempre acabava voltando pro janelas, até que resolvi dar chance ao Mint e já estou a um bom tempo usando ele, não regreto nada. \r\n \r\n Absolutamente não há nada que eu fazia antes no Windows que eu não faço agora, só que de forma muita ágil e sem travamentos. \r\n \r\n OP, qual a sua configuração?
+ >>27209222 \r\n Prefiro o MATE, senhor triplos.
+ Apresento-lhes o melhor ativador ! \r\n \r\n Re-Loader \r\n \r\n mega.nz/#!dxJTRQoQ!3d4PHeS7-73_DjpN6hV9vULwvbEzv_p7V4WeNdjJsgE \r\n \r\n Só abrir como administrador, selecionar a opção que desejar, no caso ativar o windows, quando terminar, irá aparecer um icone verde confirmando a ativação. \r\n \r\n Tambêm serve para Pacote Office.
+ Não acho o W10 muito bom. Parece que não é possível livrar-se da enxurrada de updates semanais que ele precisa.
+ >>27209662 \r\n Depende, use o Pro e mude opções de Update.
+ >>27209613 \r\n >ransoware \r\n Vai tomar no meio do seu cu, seu pedaço de merda.
+ >>27209662 \r\n >enxurrada de updates semanais \r\n Mas hoje em dia, praticamente todos os sistemas estão assim. E todos apresentam bugs nas atualizações de vez em quando e a porra toda com o S.O. Quem nunca teve uma dependência quebrada em uma atualização que leva a porra toda? É um preço a se pagar por sistemas cada vez mais complexos e conectados.
+ >>27209704 \r\n Use as LTS e a opção de segurança do Windows.
+ >>27209720 \r\n >LTS \r\n Minha última quebra foi justamente em um kernel LTS do Manjaro.
+ >>27209729 \r\n >Manjaro \r\n A AUR estava ativada?
+ >>27209720 \r\n E no Windows eu anônimo mitiguei um pouco, atrasando ao máximo qualquer atualização.
+ >>27209733 \r\n Não me lembro ao certo, mas acho que não.
+ >>27209734 \r\n Existe o modelos de atulização no Windows para versões acima da Home. Só tem configurar elas. \r\n \r\n >>27209736 \r\n Então a equipe do Manjaro fez alguma burrada. Se a AUR estivesse habilitada a culpa seria sua.
+ >>27209743 \r\n Se está falando de políticas administrativas do Windows, é exatamente o que faço.

@@ -1,0 +1,8 @@
+ Comprei um Redmi GO de 8GB. Tentei desativar aplicativos inúteis(Google Play filmes, Google Play música), mas não tive a opção de fazer isso e essa merda fica atualizando e ocupando espaço. Tem alguma forma de tirar essas merdas daqui ou só trocando a rom?
+ >>27149868 \r\n >>27149868 \r\n >>27149868 
+ >>27157081 \r\n >esse quote 
+ >>27157085 \r\n Mas esse é para compartilhar conhecimento. Não tirar dúvidas.
+ No meu Android (Samsung) eu desativo atualização automática do Google Play.
+ >>27157090 \r\n É para tudo. Melhor concentrar tudo em um, deixa com mais movimento.
+ https://play.google.com/store/apps/details?id=com.jumobile.manager.systemapp&hl=pt_BR 
+ Titanium backup tira, só que precisa de root.

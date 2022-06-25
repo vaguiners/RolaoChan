@@ -1,0 +1,32 @@
+ Ryzen 5 2600 por 550 reais no Chinês Internacional. Posso confiar, anões?
+ >custa mais que 100 dólares \r\n \r\n Anão, você vai ser taxado em no mínimo 60%.
+ >>27302365 \r\n Eu quebro tudo na RECEITA BOSTARAL se eles taxarem uma merda dessas em 60%.
+ OP vai receber um Celeron 430 no lugar do Ryzen.
+ >>27302396 \r\n Fiz o meu papel de Anão, você já está ciente, depois não adianta reclamar.
+ R$ 770 aqui no centro do RJ. Quer que compre para você?
+ PC da AMD vale a pena, anões? Estou pensando em um Ryzen 5/7 com uma RX 580. Windows virou um cu então acho que só vou de Linux.
+ >>27302421 \r\n Onde? Que loja? Confio mais em CHINÊS que em CARIOCA, hue.
+ >>27302423 \r\n AMD sempre valeu a pena pelo CxB. Atualmente viraram a mesa e massacraram a Intel. O problema é que tem gente que não sabe perder e não aceita.
+ >>27302396 \r\n Pica relatada, a cara do funcionário da receita quando levarem o judeu do OP na caçamba da viatura.
+ >>27302423 \r\n Ryzen são processadores caralhudos e a RX 580 de 8GB é melhor que a GTX 1060. \r\n Eu uso um Ryzen 5 2600 + 1060 6GB e não tenho do que reclamar.
+ >>27302427 \r\n Pena que pensa assim. Enfim, vá pelo Boa Dica e se vire.
+ >>27302448 \r\n Achei já. 770 é quase o preço da Kabum, paixão. \r\n \r\n >>27302444 \r\n Roda GTA V a quantos FPS no máximo em 1080p?
+ >>27302423 \r\n Recentemente comprei um R3 2200G, é o mais básico da segunda geração e tive problemas com temperatura, com as configurações e cooler de fábrica ele chegava aos 80 graus em stress, não sei se é comum para os processadores atuais (saí de um Pentium Dual-Core, kek). Em desempenho ele serve bem para as tarefas mais comuns e até mesmo roda alguns joguinhos decentemente com o chip gráfico integrado dele. Nessa geração pela primeira vez a AMD conseguiu se equiparar à Intel em desempenho e com preço menor, imagino que os R5 e 7 sejam mais recomendados para joguinhos.
+ >>27302469 \r\n Então compre pela Kabum, rapaz. Sem o risco de ser roubado, e roubado pelo imposto. Tem coisas que não vale a pena.
+ >>27302479 \r\n Onde você mora faz muito calor? Tenho um R3 2200G, e ele não passa de 65 graus em full load com cooler box.
+ >>27302479 \r\n Estou querendo montar um HTPC com este processador. Sabe dizer se roda com folga videos 4K 60fps, ou com HDR? Streaming rodam lisos também?
+ >>27302427 \r\n Não ironicamente, eu também. No ML, quando o vendedor é do merdeste, eu já nem compro ou vendo.
+ Não, você vai pagar altas taxas.
+ >>27302507 \r\n Aqui a temperatura ambiente máxima fica em torno dos 30 graus. Resolvi o problema da temperatura reduzindo o VCore do processador, o desempenho continuou o mesmo só que com uma temperatura bem aceitável, no máximo 65 graus em stress. \r\n \r\n >>27302508 \r\n Testei reprodução de vídeos no JewTube, a placa gráfica rodou 4K 60fps com pouca folga, ela fica em torno de 80-85% de utilização nesses cenários, não testei com HDR, acho que meu monitor não suporta. Streaming sem problemas em 1080p. Acho que o Chrome tem algum problema de compatibilidade com o chip gráfico, as vezes ele simplesmente não utiliza a GPU para reproduzir os vídeos, nesse cenário o CPU não consegue reproduzir 4K 60fps, mas é só reiniciar o navegador que volta ao normal. Fora o Chrome não encontrei mais problemas na GPU.
+ Pede para enviar fora da caixa que não será taxado. Peças aleatórias de baixo valor eles dão zero fod​as para avaliar.
+ >>27302616 \r\n Pode explicar melhor isso aí, anão? \r\n É só colocar uma observação lá dizendo que quero fora da caixa? Já fez algo parecido com isso? Elabore.
+ >>27302621 \r\n Pedi um Galaxy s9, mas era refurbished. Pedi para enviar só o celul​ar sem a caixa para não pagar o ICMS e as taxas. Deu certo.
+ >>27302469 \r\n Não joguei GTA V por muito tempo, mas devia ficar acima de 60 fps a maior parte do tempo. \r\n Recomendo comprar um pente de 8GB com 3200mhz visando o dual channel futuro em 16GB 3200mhz, processadores Ryzen tem um desempenho muito melhor com memórias em frequências maiores, infelizmente eu só tenho um pente 8GB de 2400mhz. \r\n >>27302479 \r\n Meu processador é diferente, todavia o cooler box deve ser o mesmo, em temperatura ambiente ele fica com 35 °C~40 °C, já em stress fica travado em 60 °C.
+ >>27302594 \r\n Que interessante, parece que até hoje existe otimização para Intel mesmo. Já vi um A10 7700K fazer isto também. E olha que é uma geração anterior ao seu.
+ >>27302651 \r\n Os valores estão corretos mesmo? É sabido que medição de temperatura em AMD é meio bagunçado.
+ >>27302365 \r\n Essas merdas nem taxam.
+ >>27302469 \r\n Eu tenho uma e fica nos 75/80fps.
+ >>27302672 \r\n Eu testei novamente e em stock está 38 °C, 90% de uso ficou em 60 °C e 99% chegou no pico de 68 °C, mas manteu 65 °C pela maior parte do tempo.
+ >amd 
+ >>27303353 
+ >>27302423 \r\n Se você vai para o linux, não compre uma placa de vídeo da AMD, os drivers são piores e a NVIDIA possui uma performance bem melhor. \r\n Sobre o ryzen, pode ir fundo.

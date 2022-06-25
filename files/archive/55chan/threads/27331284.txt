@@ -1,0 +1,20 @@
+ Existe alguma forma automatizada de resolver todas as dependências? Seriosamente, caras, faz mais de uma semana que estou tentando fazer uma coisa simples (compilar um código fonte com bibliotecas adicionais de um SDK) e não saio desse monte de erros.
+ Instale gentoo.
+ >>27331284 \r\n Qual distro?
+ >>27331317 \r\n Mint.
+ >>27331321 \r\n \r\n apt-get build-dep?
+ >>27331321 \r\n Você está programando C, certo? \r\n Por que não compila no code blocks ao invés do terminal?
+ >Existe alguma forma automatizada de resolver todas as dependências? \r\n Addictol. Puta merda, épico!
+ >>27331378 \r\n Que code blocks? \r\n \r\n >>27331374 \r\n Todas as funções que ele diz que não está encontrando estão em arquivos que aparecem nas pastas onde eu estou mandando ele procurar os cabeçalhos.
+ Instale o pacote padrão via apt, depois compile e instale o pacote editado.
+ >>27331450 \r\n Mas não é uma coisa pra rodar no computador, é uma coisa para rodar em um microcontrolador, mas eu quero ativar um componente na SDK que dá acesso a algumas funcionalidades nele que não estão presentes no projeto original. A SDK tem um target do make para configurar todos os módulos, mas o batatão que portou esse projeto para esse microcontrolador deu um jeito de não incluir essa funcionalidade.
+ >>27331405 \r\n Para os anões que não entenderam, Addictol é um item que cura às dependências químicas no jogo Fallout. É coisa de nerd.
+ >>27331510 \r\n >no jogo fallout \r\n >só tem no fallout 4 \r\n >implicando que o fallout 4 é um fallout 
+ >>27331510 \r\n É coisa de criança que joga joguinhos. É bom? 
+ >>27331405 \r\n >>27331510 \r\n >esse autismo 
+ >>27331540 \r\n Secundando. Fallout 4 foi um Fallout 3 que tentou apelar ainda mais pro quejim minas ao invés dos fãs de longa data da série. O último jogo de Fallout foi New Vegas e a série morreu depois disso.
+ >>27331510 \r\n >É coisa de nerd. 
+ >>27331626 \r\n O 3 é uma bosta também. A série é composta por Fallout 1, 2 e New Vegas. Não atoa foram desenvolvidos pelas mesmas pessoas (praticamente).
+ Até agora nada, porra. Só essa parede de erros.
+ >>27331510 \r\n E? 
+ TÁ IMPOSSÍVEL ESSA MERDA. \r\n \r\n Porra, que programa burro do caralho. Por que ele simplesmente não escaneia o código fonte e determina o que precisa ser linkado ou não?

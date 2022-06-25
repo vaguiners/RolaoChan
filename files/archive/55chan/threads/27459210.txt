@@ -1,0 +1,15 @@
+ Recomendem alguma distro que não precise de muito código hacker para ser utilizável. Sou totalmente ignorante em GNU/ Linux, sempre usei o Windows então quero dar uma mudada. \r\n Pesquisei sobre a distro da pica e ela me parece bem user-friendly. Qual a opinião dos anões?
+ >Recomendem alguma distro que não precise de muito código hacker para ser utilizável. \r\n Todas elas precisam. Recomendo continuar no Ruindows.
+ inb4 install gentoo. 
+ Queria o mesmo, mas, pelo que sei, é necessário usar malabarismo para usar certos programas e jogar joguinhos.
+ Debian.
+
+ Você quer Linux Mint LXDE.
+ Ubuntu.
+ Ubuntu e seus derivados.
+ Zorin é focada para iniciantes.
+ Kurumin.
+ Mint.
+ Caralho, vocês são burros. \r\n Não precisa de códigos hackers pra usar Linux. A única coisa necessária é saber usar o gerenciador de pacotes. Se você não consegue aprender a usar um gerenciador de pacotes, sinto muito, não tem mais salvação. \r\n \r\n >>27459258 \r\n >é necessário usar malabarismo para usar certos programas e jogar joguinhos. \r\n Isso é próximo da verdade. Precisa lidar com umas coisas chatas para jogar joguinhos, mas para programas não necessariamente, a menos que você use editores de vídeo ou fotoloja.
+ >>27459606 \r\n Obrigado por falar o que eu iria falar. Rapaz, essa nova leva de anões é muito burra, é incrível que consigam passar pela dose diária.
+ Ubuntu e derivados.

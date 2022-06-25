@@ -1,0 +1,43 @@
+ >2019 \r\n >medindo a relevância das universidades pela quantidade de artigos publicados 
+ Ninguém perguntou.
+ 90% dos artigos publicados no Brasil são é pura touro bosta para encher linguíça e ganhar pontinhos em concursos públicos. \r\n Eu nem ao menos terminei o mestrado e já estou escrevendo um livro sobre ondas eletromagnéticas que não passa de um compilado de trechos de artigos estrangeiros que eu li na internet.
+ >>27159153 \r\n >não passa de um compilado de trechos de artigos estrangeiros que eu li na internet \r\n \r\n Se até Einstein plagiou geral, anão, não é você que estará errado.
+ Poste o artigo completo, animal de tetas!
+ >botou o próprio nome em uma fórmula de algo que já é conhecido há milênios 
+ >>27159161 \r\n Einstein bebeu direto da fonte. Imagine um ciclo sem fim de artigos citando outros artigos sem colocar nada de novo. O teor científico vai diminuindo até ter mais 'Segundo FULANINHO (2009) e BELTRANINHO(1994), de acordo com CICLANINHO (2011), a interpretação de ANÃOZINHO (2019) a respeito de HUGUINHO (2008)' do que experimentos, e toda a 'verba de pesquisa' vai sendo consumida por um monte de fazedores de nada.
+ >>27159173 \r\n https://math.berkeley.edu/~ehallman/math1B/TaisMethod.pdf 
+ >>27159183 \r\n O editor se retratou \r\n \r\n EDITORIAL NOTE: Citing this paper as 'Tai's method' is strongly discouraged, as the method is actually known under the name of trapezoidal rule. See also Comments for further explanations.
+ >>27159153 \r\n Isso mesmo, a maioria não passa de resumo de livros já publicados.
+ >>27159203 \r\n http://care.diabetesjournals.org/content/17/10/1223.2 
+ Sabe o que é pior? Esses débeis mentais vivem em uma bolha e acreditam piamente que a pesquisa inútil deles vai mudar o país e que figurativamente o futuro do país está nas mãos de suas pesquisinhas bibliográficas e abstratas inúteis. Chega a ser engraçado.
+ Não estranharia se o OP não soubesse calcular a área de um linguiçaézio e só veio postar isso aqui porque recebeu no grupo da panelinha neocon do zip zop. \r\n De repente, todos neocons que não sabem o que é um cosseno, estão compartilhando esses artigos. Na maioria dos casos são brainlets que não têm QI para entrar sequer em uma licenciatura em matemática.
+ >>27159255 \r\n \r\n >55 \r\n >linguiçaézio \r\n \r\n Toda vez.
+ >>27159255 \r\n >calcular a área de um linguiçaézio \r\n Eu desenvolvi um método de aproximar a área de um linguiçaézio que consiste em calcular a média das áreas de dois retângulos: um inscrito e trapezoscrito.
+ >>27159280 \r\n >>27159280 \r\n \r\n Bacana. \r\n Qual a precisão?
+ >>27159321 \r\n 50%.
+ >descobriu \r\n Na verdade, como a própria imagem diz, eles comprovaram a validade.
+ >>27159321 \r\n Não é possível medir a área de um objeto desses fisicamente, mas pelos meus experimentos é maior do que 99.99%.
+ >linguiçaézio 
+ >>27159342 \r\n >tem a fórmula da área de um linguiçaézio \r\n >tem a fórmula da área dos dois retângulos \r\n >calcula a média \r\n >… \r\n \r\n Programe e calcule milhares de linguiçaézios randômicos e veja a validade do 'seu' método.
+ >>27159136 \r\n Na matemática que é bom. Não dá pra fazer um artigo sem provar alguma coisa nova (se bem que já vi uns artigos que só aplicaram um teorema até bem conhecido).
+ >>27159381 \r\n No computador tem erro de ponto flutuante então eu usei papel milimetrado e fui contando os quadradinhos, mas meu método é válido. Pode comparar com o seu, se você não acredita.
+ Estou perdendo duro com o marmelo nesses linguiçaézios.
+ Atirem roedores no meu método simples para estimar a área de um triângulo.
+ >>27159381 \r\n >>27159321 \r\n Você é burro? A fórmula para calcular a área do linguiçaézio já é essa.
+ >>27159402 \r\n \r\n >computador tem erro de ponto flutuante \r\n >vou contar quadradinhos no papel \r\n \r\n Realmente, você não sabe do que está falando.
+ >>27159417 \r\n Isso é figurativamente a soma de Riemann, anão.
+ >>27159422 \r\n Definitivamente não.
+ >artigo é pra coisas novas \r\n Finalmente brainlet.
+ >>27159321 \r\n 100%. É só definir a área como sendo esse valor.
+ >>27159425 \r\n É o limite da soma de rinemann com o numero de fatias tendendo ao infinito.
+ >>27159421 \r\n Estava em dúvida se o anão estava pescando e fui pescar também. \r\n Nunca duvide da burrice desse chan.
+ >feito por uma depósito de porra 
+ >>27159433 \r\n Isso. O paper é da área médica. Tá certo que ele deveria ter dado os devidos créditos, e foi presunçoso e dar o próprio nome ao método. \r\n Mas o paper é legítimo, o autor pegou um método da matemática e aplicou no campo de estudos dele. Isso é ciência.
+
+ Então como se calcula se a universidade é boa, digamos, para criar um ranking?
+ >>27159520 \r\n Não tem só uma métrica disso. \r\n Se você quer saber se a universidade é boa em relação ao mercado de trabalho, seria bom ver quantos ex-alunos estão empregados na área de formação ou o salário deles logo após a formação, por exemplo. \r\n Se quiser saber em relação à área acadêmica, a quantidade de publicações é, sim, um bom parâmetro. Claro, isso depende muito da área específica em que você está interessado.
+ >>27159520 \r\n Fator de impacto.
+ >>27159482 \r\n Eu pergunto aos anões: quão errado seria este método? Os termos com maior porcentagem de erro são aqueles de polígonos com poucos lados, mas ao mesmo tempo a contribuição deles no total tende a zero, enquanto que os termos de polígonos com mais lados tende a 100%. Poder-se-ia dizer que a área seria 100% igual àquela da formula pi * r^2?
+ >>27159536 \r\n É só ver o quão boa é a convergência, isso é, o quão rápido a razão A(n+1)/A(n) tende a 1.
+ >>27159536 \r\n Se o número de lados tender ao infinito, sim.
+ >>27159321 \r\n Burro. Burro mil vezes.

@@ -1,0 +1,133 @@
+ Cara, porque não existe linguagem de programação decente? \r\n >python \r\n gay \r\n >c \r\n reinventar a roda \r\n >java \r\n verboso demais \r\n >php \r\n Gambiarra. \r\n >c# \r\n Microshit \r\n >javascript \r\n Nem sei o que falar. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ Python é 7/10 tier. Não tem nada de gay nela, o único problema é que os grupos empoderados(vide teutões e muiéres) se apropriaram dessa porra. \r\n \r\n Se quer uma linguagem pra homens, aprenda Elixir ou Haskell.
+ Faça uma.
+ >>27099763 \r\n Cara, por que você não volta para escola?
+ Cara, por que eu vou te reportar?
+ Aprenda COBOL.
+ C++.
+
+ Lua é a melhor linguagem. \r\n Fim.
+ Homem que é homem programa em Erlang.
+ >>27099819 \r\n >erlang \r\n >não sendo a baseada Elixir 
+ >>27099810 \r\n >>27099768 \r\n >funcional \r\n >2019 \r\n Macacos de merda. \r\n \r\n >>27099802 \r\n O que é custo cognitivo?
+ >>27099829 \r\n Erlang > Elixir. \r\n Respeito Elixir também, mas não é melhor. \r\n Erlang tem uma sintaxe que é meio complicada no inicio, então para aprender é uma bosta, mas depois que se entende se vê que faz muito sentido com a proposta da linguagem. \r\n \r\n >>27099833 \r\n Caralho, você é muito plebeu.
+ >>27099843 \r\n >chama os outros de plebeus \r\n >recomenda FP \r\n Vá mamar uma fornicação. Nem matemáticos usam isso e preferem Python pela simplicidade.
+ HolyC.
+ >>27099852 \r\n Mas as vezes você precisa de uma linguagem que não seja uma bosta, mesmo que ela precise mais de 15 de qi para programar. Daí você não usa Python.
+
+ >>27099895 \r\n >esse Java \r\n Meus lados.
+ >>27099889 \r\n O mundo não precisa de programas construídos por alguém com mais de 15 de QI. E alguém com mais de 15 de QI consegue fazer o que quiser em Python. E olhe que eu nem gosto de Python.
+ >>27099923 \r\n Mais ou menos. Python tem vários problemas que atrapalham qualquer coisa além de scripts/cruds simples. Não que seja impossível, mas é uma bosta. \r\n \r\n Trabalho com grandes equipes é uma merda, projeto muito grande também fica uma merda. É relativamente lento, relativamente pesado. \r\n Python é uma boa linguagem para quem precisa de computação, mas não sabe programar. O que é uma boa parte das pessoas e empresas, mas a linguagem ainda não é tão boa.
+ >>27099833 \r\n Você está advogando em prol do que? OOP? \r\n \r\n Puta que pariu.
+ A proveitando o parênquima paliçádico, estou começando a programar agora, comecei por C++ porque disseram que é o caminho das pedras, qual outra linguagem devo aprender como suplementar ou somente para somar ao meu arcabouço de linguagens?
+ >>27099966 \r\n Lua. \r\n É simples, rápida, vai te dar uma base legal e possui boa integração com C/C++. \r\n Ela não possui tudo pronto igual Python, mas boa parte é fácil de implementar. \r\n \r\n Se curte Minecraft, tem um mod bem interessante que te deixa programar no jogo usando a linguagem. É uma boa forma de aprender.
+ >>27099943 \r\n >É relativamente lento, relativamente pesado. \r\n \r\n Nuitka, Cython, Pypy.
+ Todas as linguagens têm seus méritos. Você já teve, muito provavelmente, contato com aplicativos web ou softwares que usaram uma ampla quantidade de linguagens.
+ >>27099995 \r\n Mantenho minha palavra. \r\n Relativamente lento, relativamente pesado.
+ Tente as esotéricas.
+ >>27099951 \r\n Estou advogando contra FP. Defendem essa merda há décadas, FP é o modelo mais antigo que existe. Talvez na Era das Máquinas elas usem isso, mas tudo aquilo que fez o mundo andar não foi feito com FP. Até OOP fez o mundo andar e se tornar pelo menos um pouco melhor. FP nunca saiu das academias e dos círculos de desenvolvedores. \r\n \r\n Imagine a Google, um dos unicórnios da tecnologia. Bilionários e algumas das grandes mentes reunidas em uma mesa confabulando, isso em fodendo 2007~2008. Um deles diz: \r\n >estamos reunidos aqui hoje, para não sermos massacrados pela Apple por causa do iPhone. A era dos PCs pode acabar por causa daquele dispositivo. Precisamos entrar nesse mercado para não sermos engolidos por ele. \r\n >tempo passa \r\n >discussão acalorada \r\n >m-m-mas… se vamos fazer um dispositivo igual, qual linguagem vamos usar? \r\n E a escolha foi Java. Porque é a mais rápida? Não. Porque é a que vai permitir que a miniaturização dos computadores se torne menos penosa? Não. Porque vai consumir menos memória e vai ser um desafio absurdo colocar recursos em um dispositivo tão pequeno? Não. Escolheram Java porque era a linguagem com o maior número de programadores no mundo. Macacos ou não, eles escolheram as pessoas. Os recursos, as dificuldades, eles escolheram passar por tudo isso. \r\n Agora enfie sua FP no seu cu.
+ >>27100026 \r\n >era a linguagem com o maior número de programadores no mundo \r\n Mas por que não C, que é 90% parecido?
+ >sem object pascal \r\n >sem quick basic 
+ >>27100035 \r\n >c parecido com java \r\n \r\n Meua migo…
+ >>27100026 \r\n Erlang é utilizado em uma caralhada de lugares. \r\n É a melhor linguagem para aplicações distribuídas. Só não é utilizada pelo programador genérico.
+ >>27099993 \r\n Lua roda dentro de uma aplicação feita em C/C++. Eu estava procurando por uma implementação em C# e no mesmo dia descobri que um programa usando a plataforma NET consegue compilar e rodar em tempo real um 'script' em C#/qualquer outra linguagem.NET. \r\n \r\n C# é coisa de maluco.
+
+ >>27100050 \r\n Lua tem Apis para várias plataformas. Um dos pontos da linguagem é ser uma linguagem de extensão. \r\n \r\n Tem APIs para C e Java também, por exemplo.
+ >>27100035 \r\n Por causa do custo cognitivo. Imagine a quantidade de energia necessária para o treinamento de milhões de macacos. Java, por pior que seja, permite que haja libs mais acessíveis para QIs mais baixos. Não se pode isolar os pedreiros digitais dessa forma, alguém precisa fazer o trabalho sujo. \r\n \r\n Só um adendo, eu reconheço esses defensores de FP. Eles são mods e admins de uma panelinha de programação no cancro, que não sei se existe ainda hoje. Quando eu ainda tinha conta uns 2 anos atrás eles me baniram porque eu comecei a rivotrillar os outros por causa dessa forçação. Um deles, o que mais força, é um animufag metido a cientista computacional que também fica forçando garotinhas 2D aqui no /b/. \r\n \r\n Se eu te encontrar na rua eu te encho de porrada, cancroso de merda. Espero que me bana daqui também para eu descobrir ainda mais sobre você.
+ >>27100026 \r\n Você tem figurativamente alguma experiência com sistemas não triviais, qualquer coisa que tenha ido pra produção ou só está bostejando? \r\n Você sabe a dor de cabeça que é programar qualquer coisa não trivial com OOP?
+ >>27100087 \r\n Kek. \r\n Quanta projeção. Não sai de porra de panela nenhuma, vai tomar no cu. \r\n \r\n >ainn comecei a rivotrilla \r\n Vai se fornicar, cancroso de merda.. Não tem argumentos e vem com essa. Kek.
+ >>27100088 \r\n O que é uma coisa 'não trivial'?
+ Apenas patrícios conhecem. Enjoe, OP.
+ >>27100088 \r\n Eu trabalho com sistemas financeiros, legislação tributária brasileira, aplicação de leis em cálculos que pagam o salário de funcionários de 17 mil empresas no país. \r\n \r\n >não-trivial \r\n Defina não-trivial. \r\n \r\n >>27100097 \r\n >esse controle de danos \r\n Estou te vigiando, filho da puta. Fique de olho no seu cu.
+ >>27100102 \r\n Algo ao menos mais complexo que um CRUD.
+ >>27100107 \r\n RTOS conta como não-trivial?
+ >>27100026 \r\n >esse macaco \r\n JavaScript é uma linguagem quase funcional e olha aí. Scala está ai também. FP é um paradigma mais avançado de programação, mas é mais difícil de dominar.
+ >>27100105 \r\n Não está meio ultrapassado? \r\n Acho que atualmente ObjectPascal com uma IDE tipo Lazarus esteja melhor.
+ >>27100113 \r\n Exatamente que parte do Javascript a torna funcional? Nunca entendi essa forçação idiota de 'funcional'.
+ >>27100115 \r\n Lazarus é uma merda, seriosamente.
+ >>27100113 \r\n Desculpa, estou do seu lado, mas Javascript não é funcional nem fodendo. No máximo tem uma coisa aqui e ali. \r\n \r\n >>27100116 \r\n Versões recentes do Javascript implementam uma caralhada de coisas no estilo funcional. Ou seja, tentando não ter side effects. \r\n \r\n >>27100120 \r\n Não conheço de verdade nenhuma das duas, mas achei realmente que atualmente era a melhor forma de se programar Object Pascal. Conheço alguém na internet que defende duramente. Kek.
+ >>27100130 \r\n >mas achei realmente que atualmente era a melhor forma de se programar Object Pascal \r\n Só se for em Linux.
+ >>27100102 \r\n >>27100107 \r\n Pensando na área de web, algo útil e completo. \r\n Exemplos 1: um site de vagas de emprego completo, com login, cadastro, cadastro/edição de vagas, full-text search, busca geolocalizada, processamento de pagamento e planos, disparo de emails transacionais, cache no servidor, painel de administração, etc. \r\n Exemplo 2: Uma API simples que integra outras 15 APIs em tempo real. \r\n \r\n Você só percebe os problems do OOP quando usa ele no mundo real, e posso dizer que até hoje, a melhor solução pra mim tem sido FP.
+ Kotlin.
+ >>27100141 \r\n Mas essas duas coisas são ridiculamente simples. Pensei que você fosse falar algo como controladores de movimento.
+ >>27100113 \r\n Javascript é um caso isolado, ela não se parece nem um pouco com o que era antes. Eles vão adicionando elementos com o tempo para ganhar migalhas no desempenho, e por incrível que pareça, tem funcionado até agora. \r\n \r\n >>27100141 \r\n Desculpe mas o cancro era mais complexo que isso nos primeiros 5 anos de implementação e era feito em PHP. Sem FP requerida.
+ >>27100141 \r\n Escreva um exemplo de programa em FP. Quero ter uma ideia do que essa bosta é.
+ >>27100130 \r\n Bom saber. \r\n Obrigado, anão. \r\n \r\n >>27100162 \r\n Ainda não vi nenhuma crítica sua a Erlang. \r\n É utilizada no mundo real em situações com milhões de clientes simultâneos. Atualizações e correções são aplicadas sem afetar nem um usuário.
+ >>27100180 \r\n >Ainda não vi nenhuma crítica sua a Erlang. \r\n Não sou o anão ao qual você se refere. Eu nem sei o que é Erlang.
+ >>27100191 \r\n Desculpe. \r\n Erlang é essa mestre peça. \r\n \r\n Kek, eu amo esse vídeo. 
+ >>27100162 \r\n Ridiculamente simples porque você nunca fez nada disso. \r\n Quero ver você implementar algo completo dessa forma, e tentar fazer 0dt deployments em 6 servidores pra 100000 usuários simultâneos diferentes. \r\n \r\n >>27100171 \r\n >Desculpe mas o cancro era mais complexo que isso nos primeiros 5 anos de implementação e era feito em PHP. Sem FP requerida. \r\n De fato, não é requerido, só torna tudo muito mais fácil.
+ >>27100206 \r\n Porra, anão. Nada disso é muito complexo. Kek. \r\n Me ajude a te ajudar, caralho.
+ >C++ \r\n >usada por todos os campeões de programação \r\n \r\n >>27099817 \r\n >>27099993 \r\n Gay. \r\n \r\n >>27099802 \r\n Patrício. \r\n \r\n Qualquer coisa que não seja C e C++ é para homossexuais, pardos e travestis.
+ >>27100221 \r\n Kek, Lua e C++ não são concorrentes. \r\n Inclusive são boas linguagem para se utilizar juntas. \r\n C++ definitivamente é mais rápida, isso é o principal fator em uma competição de programação, isso não é nem questionado.
+ >só torna tudo muito mais fácil \r\n Para poucos. É exatamente disso que estou falando, não adianta advogar para todos algo que não é para qualquer um.
+ >>27100219 \r\n Nem seu controlador de movimentos é complexo. Agora mostre aí o controlador de movimentos que já programou ou o site de alta-disponibilidade que integra APIs de 15 sites diferentes em tempo real com baixa latência e deploy 0 downtime. \r\n \r\n Você claramente não tem experiência com programação no mundo real, provávelmente está no terceiro semestre de CC e acha que sabe tudo.
+ >>27100247 \r\n Não sou o quotado do controlador. \r\n Mas integrar API não é difícil, de onde você tirou que é difícil? É Javascript 101. \r\n Agora eu aposto que controladores exigem uma latência e tempo de resposta muito menor que seu crud de bosta.
+ Você é burro, anão.
+ >>27100239 \r\n >Mas integrar API não é difícil, de onde você tirou que é difícil? É Javascript 101. \r\n Estamos falando de integrar 15 APIs críticas. Vou dar um exemplo mais claro: você precisa integrar as APIs websockets de 15 corretoras de compra e venda de moedas, em tempo real e baixa latência, e disponibilizar essas informações em uma única API. Sua API precisa ser capaz de executar operações em qualquer uma dessas 15 corretoras e perder ou atradas uma única mensagem de uma delas significa que você fornicou tudo. \r\n \r\n >Agora eu aposto que controladores exigem uma latência e tempo de resposta muito menor que seu crud de bosta. \r\n Hue, e certamente não é com o Python que o quotado está advogando que ele vai alcançar isso.
+ >>27100282 \r\n >perder ou atrasar \r\n Fixado.
+ >>27100282 \r\n Tá bom, anão, vou aceitar. Ainda não entendi a grande dificuldade, mas vou aceitar que deve ser mais complicado que parece. \r\n \r\n Realmente, Python não é linguagem mais indicada para coisas que precisam de alta performance ou para software embarcado.
+ >>27100282 \r\n >descrevendo um problema que abrange 100 pessoas no mundo inteiro no máximo e usando para estabelecer que FP é melhor 
+ >>27100310 \r\n >>27100310 \r\n Lol, Wpp usa FP no backend e suporta centenas de milhões de usuários.
+ Por que as fintechs usam FP?
+ >>27100355 \r\n Por que é pura modelagem matemática e quem não entende de matemática nem sequer deveria trabalhar como programador em uma fintech?
+ >>27100355 \r\n Porque são descolixos e programadores de Python brincando de empreender com capital de risco. Bancos de verdade usam COBOL.
+ Existe.
+ >>27100382 \r\n Como diabos não justifica? O que você quer? \r\n \r\n O que essa versão faz exatamente? Não precisa falar nada que vai te identificar, só estou curioso. \r\n \r\n Não coma meu cu pela minha curiosidade. 
+ >>27100388 \r\n Fornique sim, não estou mais sozinho na thread.
+ >>27100370 \r\n >programadores de Python \r\n >FP 
+ >>27100247 \r\n >Nem seu controlador de movimentos é complexo \r\n Leia os papers sobre robôs movidos por cabos. A matemática é extremamente complexa. Essas suas APIs de bancos não exigem nenhum raciocínio. Cada posição do robô tem infinitas soluções para a posição dos servos, e apenas algumas delas não fazem com que ele se auto-destrua fisicamente.
+ OP aqui. \r\n Acho que vou aprender elixir, não tenho nada a perder.
+ >>27100370 \r\n >>27100410 \r\n Also, bancos de verdade usam Cobol porque suas operações começaram décadas atrás, quando Cobol era a melhor linguagem pra isso.
+ >>27100395 \r\n >coloque no seu site para atendimento desktop \r\n >coloque no seu sistema \r\n >integre com bots \r\n >dispare spam à vontade \r\n >faça uma API que envia mensagens para os clientes de acordo com o cadastro \r\n >enfie no cu 
+ >>27100412 \r\n >seno \r\n >cosseno \r\n >matemática extremamente complexa 
+ >>27100412 \r\n Ok e o que isso tem a ver com usar OOP ou FP pra resolver problemas do cotidiano das empresas envolvendo programação?
+ >>27100435 \r\n >if api_do_banco.funcao(2) then \r\n > cria_tarefa() \r\n >'ain, tem que ser erlang, são 15 APIs, milhões de usuários ao mesmo tempo!' 
+ >>27099966 \r\n Continue em C++ até se tornar proficiente. Você não quer pular de uma linguagem para a outra e no final não saber fazer nada com qualquer linguagem que seja.
+ >>27100453 \r\n Nada, e o seu sistema que integra banquinhos é tri-vi-al porque já está tudo feito para você.
+ >>27100456 \r\n Ele não é o anão do Erlang, este sou eu. Eu programo no Erlang no backend. \r\n \r\n Ele programa em Javascript eu acho.
+ >>27100470 \r\n O que o Erlang tem de legal que faz com que só ele permita que essas coisas sejam feitas?
+ >>27100456 \r\n Você só demonstrou claramente não saber o que está falando. \r\n Boa noite, vou tomar uma cervejinha. \r\n \r\n >>27100470 \r\n >Ele programa em Javascript eu acho. \r\n Não me subestime.
+ >>27100438 \r\n Vá se fornicar. E a API paga foi criada este ano. \r\n \r\n >>27100435 \r\n Não sou ele, mas dependendo do custo do equipamento, implementar matemática em sistemas é uma merda. \r\n >anão, mude a equação para o Playmobil reagir melhor quando acontecer a situação extremamente rara e dependente de N fatores 
+ >>27100480 \r\n Erlang é interpretada e já tem figurativamente tudo relevante pronto, kek. \r\n \r\n Pra criar uma thread só precisa usar a função spawn(). Ok, assim eu consigo ver porque seja mais fácil fazer algumas coisas nela, mas é tão abstraído que os problemas já estão praticamente resolvidos e se torna tudo trivial.
+ >>27100477 \r\n Extremamente escalável, permite concorrência monstruosa e é leve. Cada thread gerada por ele não ocupa 1kb na memória. No Java o mínimo são 512kb por exemplo se eu não me engano.
+ >>27100487 \r\n Não tive intenção de ofender, vou apagar a postagem. \r\n \r\n Realmente acho que deve ser legal trabalhar com isso.
+ >tenta criticar o glorioso C# \r\n >ad hominem \r\n \r\n Tente mais duro, negrinho.
+ >>27100508 \r\n Então é uma espécie de RTOS com interpretador? No que isso diferete de fazer um sistema usando corrotinas no Lua, por exemplo?
+ >>27100516 \r\n Então, eu trabalho com C#, mas é só mais um Java da vida. \r\n É o java da micro$oft.
+ >essas críticas de macaco \r\n \r\n É por isso que não segui carreira. Ia ter que lidar com macacos como você todo santo dia.
+ >>27100535 \r\n >rápido \r\n >leve \r\n >compilado em tempo real \r\n >framework pode compilar códigos em tempo real \r\n >'é só mais um java!' 
+ >>27100516 \r\n É uma boa linguagem para drones corporativos. \r\n Não falo isso nem para ofender, das linguagens corporativas considero a melhor. \r\n \r\n >>27100521 \r\n Tudo. Corrotinas padrões não são executadas de forma paralela por exemplo. A PUCLUA default é single thread. \r\n \r\n Lua também não é uma linguagem funcional. A comunicação não é feita apenas por passagem de mensagem geralmente. Isso faz com que falhas em um ponto possa contaminar todos os outros, se deixar a memória em um estado instável. Erlang pode apenas matar esse ponto e reiniciar e todo o resto continuara funcionando normalmente, por exemplo. \r\n \r\n Gosto muito das duas linguagens, mas são bem diferentes. OpenResty é uma delícia. 
+ >>27100558 \r\n >mais pesado que Java \r\n >mais lento que Java \r\n A única vantagem é ajudar o programador e consumir menos memória. Mas é só um pato: sabe andar, nadar e voar, só não faz nenhuma das 3 coisas com excelência.
+ >>27100535 \r\n >não tem LINQ \r\n >não tem delegates \r\n >não tem properties \r\n \r\n Realmente, Java é 1:1 com C#, anão.
+ >>27100562 \r\n >Erlang pode apenas matar esse ponto e reiniciar e todo o resto continuara funcionando normalmente, por exemplo. \r\n \r\n Eu poderia então entrar na sala do administrador e criar um processo apenas escrevendo um trecho de texto, e ele fazer parte do programa enquanto estiver rodando? O resto do programa tem como saber que eu fiz isso?
+ >>27100581 \r\n Não sei se entendi bem, mas acredito que sim, anão. \r\n \r\n Você pode aplicar atualizações em Erlang com 0 de downtime. Os clientes utilizando a aplicação no momento não seriam afetados em nada mesmo que estivessem no meio de uma operação. \r\n Agora, se fala tipo invadindo uma empresa, eles provavelmente vão ter outras formas de impedir que código não revisado vá parar em produção.
+ >>27100026 \r\n >usando Google como exemplo \r\n \r\n Perdi duro. Golang foi simplificada ao extremo justamente pra facilitar pros brainlets da Google.
+ >>27100595 \r\n Então para hackear um sistema funcionando com Erlang bastaria que eu chegasse lá disfarçado de faxineiro com um badusb e enfiar em qualquer computador para criar um processo que executasse o código que eu quisesse enviado por TCP?
+ >>27100595 \r\n > Os clientes utilizando a aplicação no momento não seriam afetados em nada mesmo que estivessem no meio de uma operação. \r\n Os processos dos clientes ficariam vivos até os clientes fecharem o aplicativo ou página?
+ >>27100617 \r\n Bem, isso funcionaria com figurativamente qualquer coisa. Se você conseguir executar código arbitrário em um servidor, já era, o controle é seu. \r\n \r\n >>27100622 \r\n Simplificando, é criado um para cada requisição e elas funcionam de forma isolada uma das outras.
+ O que erlang tem que as linguagens normais não tem?
+ >>27100622 \r\n Also, veja esse vídeo >>27100204 , ele é tosquinho, mas foi feito pelo criador da linguagem e explica bem o conceito.
+ >>27100634 \r\n >Se você conseguir executar código arbitrário em um servidor, já era, o controle é seu. \r\n Mas com Erlang fica muito mais fácil porque não precisa esperar 15 minutos para recompilar nem procurar exploits de dia zero. Seria figurativamente algo como digitar upload virus . \r\n \r\n >>27100634 \r\n >Simplificando, é criado um para cada requisição e elas funcionam de forma isolada uma das outras. \r\n Isso significa que pra cada requisição um clone do sistema inteiro é criado?
+ >>27100608 \r\n Parece que você ainda não entendeu que um time de jogadores ruins é superior a um gênio da bola jogando sozinho.
+ >>27100508 \r\n Ainda perde para programação assíncrona, que possui apenas um parênquima paliçádico de execução e portanto não desperdiça memória mantendo uma pilha para cada requisição. O problema é que o código vira uma máquina de estados. \r\n \r\n Mas de fato, erlang é fornicação. Hot upgrade é algo que até hoje não vi ser replicado em nenhuma outa implementação de nenhuma linguagem.
+ >>27100639 \r\n Os processos criados por ele são diferentes de processos convencionais. São MUITO mais leves, isso permite uma concorrência muito maior. Os processos também funcionam de forma isolada, isso significa que se um erro ocorrer, vai afetar apenas aquele processo e o sistema continua intacto. \r\n Isso entre outras coisas. \r\n \r\n >>27100651 \r\n Se você tiver acesso ao servidor, não precisa nem ao menos mexer na aplicação. Você pode redirecionar todo o tráfego de dados dela para passar por algum ponto que você controla. \r\n \r\n Não, é mais como se cada função executada fosse criado um processo. Algo assim. \r\n \r\n >>27100674 \r\n Ela é assíncrona. Qual sua definição de assíncrona? \r\n Acho Erlang com uma escalabilidade muito boa, mas talvez tenha coisa melhor. Ainda assim isso é compensado por uma aplicação que basicamente nunca fica fora do ar.
+ >>27100656 \r\n Você está defendendo uma empresa que acha que genéricos são coisa de gênio. Até mesmo Java tem genéricos. Não estou nem falando de FP.
+ >>27100705 \r\n Erlang é o que, exatamente? Se eu quiser fazer um site com Erlang, eu posso procurar um hospedeiro com ele e pronto, ou é algo que precise rodar em uma máquina virtual?
+ >>27100729 \r\n É uma linguagem interpretada. \r\n Você precisa ter um servidor, anão, Não pode ser aquelas hospedagem Cpanel, mas um VPS já deve servir para você brincar um pouco. \r\n Daí você precisa codar para responder as requisições HTTP para fazer um REST com o bagulho. Tem algumas bibliotecas para isso já, Cowboy por exemplo.
+ >>27100706 \r\n O objetivo é ganhar dinheiro, não defender tecnologias. Pare de defender tecnologias em detrimento de soluções no mundo real, com pessoas reais e não floquinhos de neve atrás dos sistemas.
+ >>27100072 \r\n Me lembrou o escudo do Athletico Paranaense.
+ >>27100752 \r\n Mas isso é coisa de quejim minas. \r\n Dinheiro você consegue até dando a bunda. Vamos tentar ter uma discussão com mais propriedade que isso.
+ >>27100705 \r\n Perdão, forniquei a definição. Quis dizer event loops usando select, poll, epoll, kqueue e afins. Sacrifica-se muito a qualidade do código para obter um programa eficiente na questão do uso da memória. Erlang usa cerca de 1 kb por parênquima paliçádico, então uma máquina de 4 GB podd ter no máximo 4 000 000 threads, sem contar o overhead de cada thread para manter estado de cada conexão, etc. Para comparação, um parênquima paliçádico nativo do Linux extremamente leve tem uns 16 kb de stack, levando a um limite máximo de 250 000 fios nessa mesma máquina. \r\n \r\n Erlang tem concorrência ótima mesmo. A implementação de green threads é a melhor que eu conheço.
+ >>27100752 \r\n Vá mamar uma fornicação, macaco. Você vai ganhar muito mais do que como pedricista de código.
+ Ainda bem que só programo em HTML.
+ >>27100763 \r\n Em um sistema 32bits usa ainda menos memória por processo, são 0.5kb por processo. \r\n Acho assustador.
+ >>27100820 \r\n E o que tem dentro desses 512 bytes?
+ >>27100762 \r\n >>27100783 \r\n Vocês vivem em uma realidade paralela. \r\n Música boa não vende mais do que música para macacos. \r\n Livro bom não vende mais do que livro para macacos. \r\n Sistema bom não vende mais do que sistema para macacos.
+ >>27100829 \r\n Não tenho certeza, anão. Vou ler sobre isso agora aqui pra ver direito. \r\n http://www1.erlang.org/doc/efficiency_guide/processes.html se quiser me acompanhar. \r\n \r\n >>27100831 \r\n Fornique-se, ninguém está falando de vendar aqui.
+ Não consigo acompanhar o grosso dessa discussão, mas gostaria. Não fiz nada em TI, mas tenho forte atração pela área. Só aprendi a programar em C (e acho que não sou tão ruim programando em C).
+ >>27100842 \r\n >vendas \r\n Fixed.
+ >>27100845 \r\n O que aconteceu aqui foi punhetação mental. Programar é fazer mais e falar menos.
+ >>27102066 \r\n Pedricista.
+ >hurdurr dinheiro não é o foco vc pode da a bundaaaa e tb ganha xDDDDDDD \r\n \r\n Programador é tudo escória. Macaco tier da TI. Ganha menos e trabalha mais.
+ >programas sempre com boa coesão e pouco acoplamento \r\n >injeção de dependência \r\n >código altamente testável \r\n >não escrevo um único teste unitário 
+ >>27102093 \r\n >só ganha seu dinheirinho do goldberg porque pessoas superiores inventaram toda a tecnologia que você usa \r\n \r\n Às vezes eu gostaria que open source não existisse só pra ver esses macacos tomando no cu.

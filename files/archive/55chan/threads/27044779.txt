@@ -1,0 +1,31 @@
+ Mais um dia de trabalho como programador. Parece que segunda iremos começar a desenvolver, finalmente. Mais uma vez, perguntem qualquer coida para um anão programadeiro entediado.
+ >qualquer coisa \r\n Fix'd. Desculpem a macaquisse.
+ Meu HD externo não está sendo reconhecido pelo linux, será que a merda queimou de vez?
+ Vale a pena? Estou cursando SI e quero trocar de curso.
+ >>27044784 \r\n Primeiro, veja se um programa chamado gvfs está instalado em seu sistema. \r\n Segundo, veja se o dispositivo está entrando no /dev. Se tu der uma olhada, tem uns arquivos com o nome /dev/sda, /dev/sdb e assim vai. Veja se, quando conecta, aparece um arquivo desse tipo. Se sim, só montar o HD, se não, tu ta na merda. \r\n \r\n >>27044790 \r\n Se você não gosta, não vale a pena.
+ Como você tem coragem de acessar o chan no trabalho? E se alguma vagabunda/paneleiro reconhecer o chan e te chamar de travequeiro?
+ >>27044816 \r\n Não acesso o chan pelo notebook do trabalho e também estou num canto relativamente vazio.
+ A Tohru já parou de lamber suas roupas? Você já comeu o rabo dela ?
+ >>27044824 \r\n Faz um tempo que ela não faz, mas já peguei ela se masturbando com as minhas roupas. \r\n Aquele rabo tem veneno e fede. Nunca que irei comer aquilo.
+ >>27044815 \r\n \r\n Funcionou depois de reiniciar o computador. \r\n \r\n Enfim, obrigado. Pode ficar com essa torrada zé droguinha.
+ >>27044831 \r\n >nunca irei \r\n Fix'd. \r\n \r\n >>27044832 \r\n De nada.
+ >>27044831 \r\n >Aquele rabo tem veneno e fede \r\n >mpq rabo de homem tem veneno(AIDS) e fede \r\n >mpq tem gente que ainda come \r\n >sem prolapso 
+ Estou em uma situação e gostaria de ouvir a opinião do OP, se for possível me ajudar. \r\n \r\n Eu estou aprendendo a programar JS por conta própria. Acabei o cursinho de 99999 horas do FreeCodeCamp, fiz uns sites porcos de 'portfólio' para ser aprovado lá e tirei todas as certificações básicas. Pode me dizer para onde vou agora? E como vou saber quando estou pronto para trabalhar como programador? Não tenho faculdade, fui largando o pó (coca) para aprender a programar então esse negócio é meio que o que me mantém são. Porém, se até o fim do ano eu não trabalhar, vou ser despejado pelos meus pais.
+ >>27044851 \r\n Vá colocando curriculo por aí e faça isso até conseguir. Enquanto espera as respostas das milhares de empresas que você botou o currículo, vá estudando. Procure por front-end júnior. Se você for chamado e se manter por mais de 2 meses, você está pronto.
+ Entediado por que, Op? Also, faço memenharia elétrica e vou começar a estudar js, e minha dúvida é vale a pena? Será que vai ser legal? Se divertir é legal, mas ganhar dinheiro também é. Eu já deu uma programada em c++ algum tempo atrás e me diverti autistando.
+ Quanto tempo você demorou a aprender a programar? Eu estou desde julho do ano passado tentando aprender pelo python e ainda estou um pouco atrás de aprender POO.
+ >>27044933 \r\n Estou programando há 8 anos e comecei com o Java. Demorei uns 2 anos estudando até ser considerado 'mestre' em Java. Atualmente, estou programando profissionalmente em C++. \r\n Python é bom, mas vai te ensinar merda nenhuma. Aprenda Java. \r\n \r\n >>27044931 \r\n Você tem que realmente gostar de programar pra trabalhar. Eu estou entediado porque estou apenas 'de prontidão', digamos assim. Hoje, só tenho uma reunião as 16:00. Se está vendo sobre JS, busque ver sobre front-end. Back-end seria Java, C++ e SQL.
+ >>27044992 \r\n Obrigado pela resposta Op, e aqui vão mais alguns questionamentos. Existe área para programação no Brasil, sem ser em js? Meus conhecidos sempre forçam que js é o que há no Brasil. Você disse que trabalha com c++, foi difícil achar a vaga?
+ >>27044992 \r\n >Python é bom, mas vai te ensinar merda nenhuma. Aprenda Java. \r\n Perdi 6 meses da minha vida vendo essa merda então. Cai na pescaria de videos do youtube para quem quer aprender a prorgamar, estou com raiva agora.
+ Volte para casa.
+ Você trabalha em casa? Caso não, já trabalhou em casa em algum outro emprego?
+ tenho 31 anos, é muito tarde para começar a aprender a programa e trabalhar a área ?
+ >Cai na pescaria de videos do youtube para quem quer aprender a prorgamar, estou com raiva agora. \r\n \r\n Kek. Python como aprendizado não é pescaria. Esse anão está obviamente exagerando.
+ O que acha sobre aprender programação no vocêtubo?
+ >>27045062 \r\n >>27045125 
+ >>27044874 \r\n Postei e esqueci. Obrigado vou começar a fazer isso.
+ >>27044992 \r\n Não sou o quotado, mas como está o mercado de empregos no Brasil para JS? Also, vale a pena aprender node.js, vue.js… E React Native (no Brasil)?
+ Vale a pena fazer CC? Fornique não, cada dia que passa ando mais desesperançoso com meu curso.
+ Como se sente fazendo um trabalho especializado e ganhando menos que uma faxineira?
+ >>27045265 \r\n É o meu primeiro emprego, então tanto faz. Se bem que queria ganhar mais. Foram 8 anos de estudo pra ganhar só 2k? \r\n \r\n >>27045213 \r\n Mais uma vez, se tu gosta, vá em frente. Se não, pegue a fornicação fora. \r\n \r\n >>27045054 \r\n Foi pura cagada que achei esse emprego de C++. Parece que C++ é mais para trabalhar em ambiente legado, vai ser mais facil encontrar com Java e PHP, provavelmente. \r\n \r\n >>27045119 \r\n Acredito que eu tenha respondido acima. E não, infelizmente tenho que sair de casa toda santa manhã. \r\n \r\n >>27045130 \r\n Sim e não. Foi um pouco de tudo. \r\n \r\n >>27045086 \r\n Irei voltar umas 18:00. Depois me conte como foi a escola.
+ Se pudesse voltar no tempo, cursaria medicina só pelo dinheiro?

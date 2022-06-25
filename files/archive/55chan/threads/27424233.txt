@@ -1,0 +1,43 @@
+ Chan tá parado.
+ >>27424233 \r\n Verdade.
+ >>27424235 \r\n O que será que aconteceu?
+ Sempre está. Vou tomar meu remédio.
+ >>27424239 \r\n Toma remédio pra quê?
+ >>27424241 \r\n Só estou tomando antibiótico.
+ >>27424242 \r\n Por quê?
+ >>27424241 \r\n Pra comer cu de curioso.
+ >>27424242 \r\n Isso faz muito mal.
+ >>27424245 \r\n Melhor apagar isso daí, daqui a pouco leva ban.
+ >>27424238 \r\n Não faço idéia.
+ >>27424245 \r\n Chegou o paneleiro.
+ >>27424247 \r\n Sempre faço isso e nunca levo ban.
+ >>27424246 \r\n Mais ou menos. Eu só tomo remédios em casos extremos. \r\n \r\n >>27424244 \r\n Inflamação na garganta.
+ >>27424249 \r\n Doideira, hein.
+ >>27424251 \r\n Sempre há uma primeira vez.
+ >>27424254 \r\n Nyasha Myasha :3.
+ 5:05.
+ >>27424254 \r\n É.
+ pprt
+ 04 anões online, segundo o contador.
+ >>27424259 
+ >>27424264 \r\n Que contador?
+ Vou deixar aqui um code css pra quem quiser adicionar uma imagem no canto inferior direito do xã. Pra alterar a imagem basta alterar o link da imagem no 'background-image: url(…). \r\n \r\n body:before { \r\n background-color: black; \r\n position: fixed; \r\n width: 1px; \r\n height: 2px; \r\n bottom: 74%; \r\n right: 23%; \r\n content: ''; \r\n } \r\n .intro span.name { \r\n color: #177013; \r\n } \r\n body { \r\n background-image: url( https://55chan.org/b/src/1562572684116.png ); \r\n background-repeat: no-repeat; \r\n background-attachment: fixed; \r\n background-position: bottom right; \r\n } \r\n \r\n Pica relatada.
+ >>27424274 \r\n \r\n Funciona com .gif também.
+ >>27424274 \r\n >>27424274 \r\n >funciona com gif \r\n Dá pra eu colocar um pinto girando então?
+ >>27424264 \r\n Como o contador sabe que estou online se não estou postando nada?
+ >>27424277 \r\n Sim, vai do seu gosto, poste como ficou.
+ >>27424277 
+ >>27424269 \r\n Newfag.
+ >>27424274 \r\n Apareci no print, hue.
+ >>27424283 \r\n Parabéns. :3
+ >>27424280 
+ >>27424286 \r\n Baseado. \r\n Mas que porra resolução de merda é essa, cidadão?
+ >>27424288 \r\n É só a janela do navegador reduzida. Aí dá pra gravar o vídeo em menor tamanho.
+ >>27424286 \r\n Perdi.
+ >>27424289 \r\n Faz sentido. \r\n Usa o LICEcap?
+ >>27424291 \r\n Ah, não. \r\n Batatei, esse é pra gif.
+ >>27424291 \r\n Nesse pc eu uso o windows, aí pra fazer pequenas gravações de tela e gifs uso o Screen To Gif, que é simples e rápido o bastante.
+ >>27424293 \r\n Parece uma boa ferramenta… checarei. :3
+ Olha o DotA com cavalos.
+ >>27424274 \r\n Creio que só está parte seja a importante para o css funcionar sem interferir em outras partes do css. \r\n \r\n body { \r\n background-image: url( https://media1.giphy.com/media/BetLyuCzghyww/200w.gif ); \r\n background-repeat: no-repeat; \r\n background-attachment: fixed; \r\n background-position: bottom right; \r\n } \r\n \r\n Usem imagens/gifs sem background.
+ >>27424311 \r\n Não julguem o gif, foi só pra teste, hue.

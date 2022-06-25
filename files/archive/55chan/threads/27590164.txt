@@ -1,0 +1,28 @@
+ Raiz quadrada de 10: 3.1622 \r\n Raiz quadrada de 100: 10 \r\n Raiz quadrada de 1000: 31.6227 \r\n Raiz quadrada de 10000: 100 \r\n Raiz quadrada de 100000: 316.22776 \r\n E assim por diante. Por que essa porra de 3.1622 fica aparecendo repetidamente?
+ Se você soubesse a verdade, ficaria enojado.
+ Aleatoriedade.
+ Porque o quadrado de 3.1622 é 10.
+ Also… por que o limite da raiz quadrada de 10 elevado a X, com X tendendo ao infinito é zero?
+ Fatoração: \r\n sqrt(1000) = sqrt(10*100) = sqrt(10)*sqrt(100) = 3.1622*10 = 31.6227. \r\n \r\n sqrt(100000) = sqrt(100*100*10) = sqrt(100)*sqrt(100)*sqrt(10) = 100*sqrt(10) = 316.22776
+ >>27590194 \r\n Mas não é, só seria se X estivesse tendendo a menos infinito.
+ >>27590194 \r\n Só é zero se x tender ao infinito pela Grifinoria (-∞). Porque x^(-y)=1/(x^y) => 10^(-1)=0,1, 10^(-3)=0,001…10^(-∞) tende a 0. Pela sonserina o resultado do limite é infinito mesmo, isso se chama limites laterias.
+ >>27590199 
+ Você não estudou em uma escola muito boa não é? \r\n Você pode decompor os números em números primos. \r\n \r\n No seu exemplo, temos que 10 é 5 multiplicado por 2, então a raiz de 10 é raiz de 5 multiplicado pela raiz de 2 \r\n \r\n Dessa forma temos que 100 é 10 multiplicado por 10, logo a raiz quadrada de 100 é 10. \r\n \r\n Agora note que 1000 é 10*10*10, ou seja é 100*10, que em outras palavras é raiz de 100 multiplicada pela raiz de 10.
+ >>27590333 \r\n Você não estudou em uma escola muito boa, não é? \r\n Fix'd.
+ >>27590333 \r\n >>27590335 \r\n A verdade é que tem vários outros erros de pontuação. Ignorem, por favor.
+ >>27590333 \r\n Anão mais brainlet do dia, parabéns.
+ >>27590345 \r\n Já reportei, macaco.
+ >>27590345 \r\n Você não estudou em uma escola muito boa, não é?
+ >>27590369 \r\n No que você se baseia para dizer isso?
+ >>27590333 \r\n Vai thumar no cú!
+ >>27590333 \r\n \r\n Taí, curti.
+ Ponto fixo e atratores, caralho. Vá ler sobre sistemas dinâmicos.
+ >>27590423 \r\n Vá tomar no seu cu.
+ >Raiz quadrada de 10: 3.1622 \r\n >Raiz quadrada de 100: 3.1622^2 x 3.1622^2 \r\n >Raiz quadrada de 1000: 3.1622^2 x 3.1622^2 x 3.1622^2 \r\n >Raiz quadrada de 10000: 3.1622^2 x 3.1622^2 x 3.1622^2 x 3.1622^2 \r\n \r\n Espero ter ajudado.
+ >>27590450 \r\n Melhor resposta. Simples e intuitiva.
+ >>27590472 \r\n O op é burro. Não duvido nada que não tenha entendido.
+ >>27590333 \r\n Em português, chefia.
+ >>27590194 \r\n O limite da raiz quadrada de 10 elevado a X com X tendendo a infinito é 1. \r\n \r\n >>27590262 \r\n X tendendo a menos infinito também dá 1. \r\n \r\n >>27590295 \r\n X tender a infinito pela Grifinória não faz absolutamente nenhum sentido. X pode tender a menos infinito (que acho que foi o que você quis dizer). \r\n \r\n Essa função só tende a zero quando X tende a zero pela Grifinória. A parte de tender pela Sonserina você acertou, caso X tenda a 0, é claro. \r\n \r\n Olhando o gráfico da função isso fica fácil de ver.
+ sqrt(10) = 3.1622 // Pois o número que se é necessário elevar ao quadrado para que o resultado seja 10 é aproximadamente 3,16 (I). \r\n \r\n sqrt(10*10) = 10 // Decompondo 100 tem-se 10*10. \r\n \r\n sqrt(1000) \r\n sqrt(10*10*10) // Decompondo 1000 tem-se 10*10*10. \r\n sqrt(10*10)*sqrt(10) // Podemos separar os fatores de uma radiciação sem alterar o valor da expressão por causa da terceira propriedade da radiciação. \r\n 10*sqrt(10) // Pois a raiz de '10*10' é 10 \r\n 10*3,1622 // Pois a raiz de 10 é 3.1622 \r\n 31,622 \r\n \r\n Portanto tem-se que: sqrt(10 n) =~ 3,1622 * sqrt(10 (n-1)) se n for ímpar. \r\n Por isso o número 3,16 repete, pois ele é a raiz de 10.
+ 10 não existe. Só existe de 0 a 9.
+ >>27590706 \r\n sqrt(10 elevado a N) = 3.1622 * sqrt(10 elevado a (n-1)) \r\n Saiu errado porque eu usei '**'.

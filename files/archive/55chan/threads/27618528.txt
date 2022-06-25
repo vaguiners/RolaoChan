@@ -1,0 +1,13 @@
+ Debian é viável como OS principal?
+ Se for servidor, sim.
+ >>27618536 \r\n Para desktop. O que você recomenda, anão? Algo seguro e estável.
+ Sim, mas é bastante desatualizado, principalmente a versão stable. Depende para que você usa seu computador. É só pra postar no chan? Então sim.
+ >>27618541 \r\n Seguro? Kali. \r\n \r\n Estável? Windows 10. 
+ Sim, OP. O hackerman aqui usa Arch só com i3wm e todos os programas que uso exceto o navegador são commandline. Não há motivo para não ser viável, só se você quiser jogar joguinhos.
+ >>27618541 \r\n >Algo seguro e estável. \r\n Todas as distros são seguras. \r\n >estável \r\n Debian então, pois é stable release.
+ >>27618548 \r\n Edito vídeos com o Resolve, escrevo coisas e lido bastante com finanças (criptomoedas e dinheiro que recebo). Estou usando o Manjaro em dual-boot com o Windows 10 (para jogar SFV), mas comecei a pesquisar sobre o Debian e me interessei. Parece que todos os programas passam por uma bela revisão antes de entrarem no repositório, o que explicaria a demora, mas não sei ao certo. Quero dar uma mudada para ver se aprendo mais coisas. \r\n \r\n >>27618549 \r\n >kali \r\n Isso não é meme? \r\n \r\n Obrigado, anão. \r\n \r\n \r\n >>27618551 \r\n Arch Linux parece interessante, se bem instalado, sem esse autismo de escrever tudo por linha de comando. É difícil deixar ele bonitinho. Tipo esse.
+ >>27618584 \r\n >É difícil deixar ele bonitinho? \r\n Fixado, foi uma pergunta. Desculpa.
+ >>27618584 \r\n Se não me engano, o dono desse setup fez até um tutorial ensinando. Não é difícil, são só customizações padrão do KDE.
+ >>27618601 \r\n Me enganei, mas o autor do vídeo que eu estava pensando tem um desktop quase idêntico, imitando a interface do OS X.
+ >>27618584 \r\n Não entendo nada de edição de vídeo, então não tenho como te ajudar sobre isso. Até onde eu sei, o editor mais usado no Linux é o Kdenlive. \r\n Quanto à edição de texto e mercado financeiro, que eu imagino que você faça no browser, não terá nenhum problema.
+ >>27618591 \r\n Depende. Não é difícil, você acha na internet e existem até alguns scripts que instalam a porra toda pra você, mas é um porre de chato. O importante é ser funcional, eu uso o i3wm puro, porém mudei alguns shortcuts e ficou uma delícia de usar. Basicamente só uso o teclado pra interagir com o computador que na verdade é um notebook, então é muito mais comfy pra usar na cama sem precisar do mouse. \r\n \r\n Se você selecionar algum DE, fica simples. O KDE, por exemplo, tem vários temas. Se quiser fazer do zero, é um pouco diferente. Tem vários tutoriais espalhados pela internet, é só procurar por 'ricing'.

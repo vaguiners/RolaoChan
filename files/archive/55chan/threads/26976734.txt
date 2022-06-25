@@ -1,0 +1,47 @@
+ Anões, estou pensando em migrar para o Linux, poderiam me dar dicas de qual distribuição usar, conforme vocês avaliarem meu nível de uso? \r\n Eu uso diariamente os seguintes programas \r\n >pacote adobe em geral (premiere, after effects, photoshop e o media encoder) \r\n >opera (eu trocaria facilmente de navegador) \r\n >discord \r\n >teamviewer ou parsec (pra quando eu preciso usar meu PC remotamente) \r\n >teamspeak \r\n >steam \r\n >alguns joguinhos que eu consigo me virar sem \r\n \r\n Config do meu PC: \r\n >placa mãe asrock h110m \r\n >pentium g4600 \r\n >8GB rambo DDR4 em single-channel \r\n >gtx 1060 3gb Galax \r\n >ssd 120gb da kingston (aquele padrão) \r\n >hd de 1tb de notebook 5400rpm \r\n \r\n Enfim, só quero conseguir aproveitar o máximo de desempenho da minha configuração quando eu estiver trabalhando. É possível eu rodar o pacote adobe tranquilamente pelo wine? E quanto alguns plugins que eu uso no meus programas, eu consigo usar também? \r\n \r\n Agradeço desde já.
+ Negrei um pouco na escrita, peço perdão e peço que relevem, estou meio dopado de remédio pois passei o dia me estressando com essa merda de Windows.
+ Continue no janelas.
+ TODO DIA TEM ALGUÉM INDO PRO LINUX, E TODO DIA FAZEM AS MESMAS PERGUNTAS!
+ Vão te recomendar o Arch, mas não caia nessa, é muito complicado para iniciantes. Tente o ubuntu, manjaro ou o mint.
+ Ubuntu + kxfde. \r\n Apenas.
+ >>26976742 \r\n Por qual motivo? Você usa o pinguim ou o janelas? \r\n >>26976743 \r\n Nunca vi ninguém questionando quanto ao uso do pacote Adobe e alguns plugins do mesmo. \r\n >>26976744 \r\n Já tentei gostar do Ubuntu uma época, achei ele um pouco confuso, mas não usei por mais de 3 dias. \r\n Poderia me explicar como iria funcionar a questão da compatibilidade? Iria rodar mais 'liso'? Eu sofro sempre por alto consumo de RAM.
+ >>26976751 \r\n >kxfde \r\n https://pt.wikipedia.org/wiki/KDE isso aqui?
+ >>26976763 \r\n https://kubuntu.org 
+ >>26976742 \r\n \r\n Janelas, compatível com o que preciso, utilizo linux apenas nos meus servidores.
+ Use o Mint.
+ Chequem.
+ >pacote adobe \r\n >linux \r\n \r\n Espera aí, isso já roda no pinguim?
+ >>26976772 \r\n Testarei e irei relatar dentro de uns dias!
+ Qual o motivo de você querer tanto usar o linux?
+ >>26976778 \r\n Você falha.
+ >>26976786 \r\n Ele está insatisfeito com o janelas, eu acho.
+ >>26976780 \r\n Sim, através do Wine.
+ >>26976778 \r\n Fracassado! 
+ >>26976786 \r\n Essa merda de janelas é absurdamente pesado. Ocupa uns 40gibas do meu ssd sem nenhum programa essencial instalado. Sem falar do uso de memoria RAM que é constantemente alto, até mesmo em IDLE.
+ >>26976757 \r\n Se você está acostumado com a interface do Windows, é melhor usar algum flavor do Ubuntu como o Kubuntu ou Xubuntu. O Unity é terrível e o Gnome 3 é bem diferente do Windows.
+ O Opera está disponível nativamente no Linux, então não precisa trocar de navegador. Steam também, inclusive a Valve vem investindo pesado no suporte a Linux com o Proton. \r\n Talvez você já saiba, mas não custa lembrar, já que não dá pra ter certeza pelo seu post.
+ >>26976798 \r\n Tenho o Ubuntu instalado no meu PC e é mais lento do que o Windows, mesmo o SO e seus programas ocupando menos espaço. Aliás, odeio o Linux, só uso por conta de alguns softwares cujo suporte a dependências só é bom pro Linux, porque é mais fácil montar e controlar um servidor. Mas pra coisas de escritório, produtividade em geral é simplesmente horrível, tudo é complicado ou impossível de ser feito. \r\n >40GB no SSD \r\n Você usa qual edição do Windows? Eu uso LTSB e pelo que me lembre ocupa menos espaço que isso.
+ >>26976823 \r\n Also, tem um problema que tenho no Ubuntu de quando abro janelas demais, o Gnome começa a falhar e ficar com uma transparência esquisita entre as janelas que me impedem de ler qualquer coisa. Me obrigando a fechar todas as janelas e abrir somente algumas. Nunca tive problemas no Windows de abrir janelas demais.
+ OP, apenas pegue uma e instale numa máquina virtual. Você não vai perder tanto assim. \r\n >É possível eu rodar o pacote adobe tranquilamente pelo wine? E quanto alguns plugins que eu uso no meus programas, eu consigo usar também? \r\n Procure no google e veja se funciona.
+ >>26976797 \r\n >>26976787 
+ >>26976743 \r\n Daqui um pouco criam um parênquima paliçádico sobre a Xiaomi ou sobre Meme Souls.
+
+ >>26976823 \r\n A versão LTSB não é compatível com os novos programas da Adobe.
+ Se você não tiver disposição para cuidar do sistema do mesmo jeito que você cuidaria de um animal de estimação é melhor você continuar no Windows.
+ Depois que você acostuma com i3wm, quando você vai pra outro WM ou outro sistema operacional, você se sente corno.
+ >>26977339 \r\n É tanta coisa errada que nem sei por onde começar.
+ >>26977405 \r\n Só apagando os lixos da pasta Installer e instaladores de drivers da Nvidia que ficam na pasta de drivers você desocupa uns 2GB. \r\n Sem contar outras merdas que você pode remover. \r\n \r\n Quanto exatamente sua pasta Windows ocupa de espaço?
+ Slackware, anão.
+ >>26977530 \r\n Eu estou usando a versão LTSC.
+ >Ubuntu Studio 18.04 (XFCE4) \r\n >i3-gaps + Polybar \r\n \r\n É tudo que você precisa, OP.
+ >pacote adobe em geral (premiere, after effects, photoshop e o media encoder) \r\n Continue no Windows. \r\n Esses programas da Adobe não estão disponíveis para Linux, apenas Windows e MacOS. \r\n Você pode tentar algumas programas alternativos, mas alguns deles não são tão bons assim. \r\n Caso você queira mesmo assim tentar Linux, comece com alguma distribuição fácil. \r\n Mint e Xubuntu são boas escolhas.
+ >>26978033 \r\n >gaps \r\n \r\n Casual.
+ >gtx 1060 3gb \r\n Tu deverias de te matar, OP.
+ Se for para migrar para o linux, pensando em usar programas via WINE, desista!
+
+ >>26978153 \r\n Secundo fortemente. Wine não funciona. \r\n \r\n >>26978136 \r\n Estético.
+ >gtx 1060 pra rodar paciência no Linux \r\n \r\n TOP KEK 
+ >>26978173 \r\n Hash Cracking, Anão. Já ouviu falar?
+ Uma dica, OP: distro é tudo a mesma merda, apenas use a que melhor funcionar na sua máquina. Recomendo Debian sid + WindowMaker ou Xfce.
+ >>26978176 \r\n >cryptocorno \r\n \r\n KEK \r\n \r\n Não pare, anão. Por favor, me diga que o próximo passo é trabalhar de graça pra comunidade de software meme.
+ >>26978214 \r\n Não, acéfalo. Não estou minerando memecoin.

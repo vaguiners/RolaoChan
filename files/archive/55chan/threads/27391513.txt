@@ -1,0 +1,5 @@
+ Com o lançamento dos novas RTX Super e as novas da AMD saindo agora no dia 7, é o melhor momento pra atualizar meu PC de 2014 ou é melhor esperar a série 3xxx? \r\n \r\n Minha configuração atual: \r\n \r\n Gigabyte GA-Z77X-D3H \r\n i7 2600k \r\n GTX 970 \r\n 2x4GB 1333MHz \r\n Monitor ASUS 1080p 23'' \r\n SSD 120GB + HD 3TB \r\n Fonte Corsair 850w \r\n \r\n Estou querendo jogar em 1440p com framerate próximo dos 144hz (não precisa ser necessariamente acima, graças ao G-Sync/FreeSync). Estava pensando em um Ryzen 5 3600 e uma 2070 Super, mas estou com medo de lançarem coisa muito melhor ano que vem, ainda mais com a chegada do PCI-e 4.0 (e do 5.0 em 2021). \r\n \r\n Além disso, poderiam recomendar um monitor 27'', 144hz, 1440p e IPS?
+ A lei de Moore acabou, a única coisa que você precisa atualizar no seu PC é a memória.
+ >>27391547 \r\n Mas aí não dá pra rodar em 1440p 144fps, irmão.
+ A regra é clara: Não compre nada em lançamento.
+ >144hz, 1440p \r\n Olhando os reviews nem uma 2080Ti segura 144FPS.

@@ -1,0 +1,56 @@
+Miguxos, que porra é essa? \r\n \r\n Fuderam com o 4chan de vez! \r\n
+ no blog de status tava falando que alguém pegou o domínio, algo assim. De qualquer forma, sugiro que você limpe seus cookies e espere o original voltar. \r\n
+ Haha, oh, wow... \r\n Espero que o Mutley não consiga pegar devolta \r\n
+
+ ATTENTION! \r\n \r\n 4chan's domain name registrar account has been compromised, and thus our DNS servers and the integrity of 4chan.org (along with a few other domains) as well. \r\n \r\n DO NOT SEND ANY SORT OF 'PRIVATE' OR SECURE INFORMATION TO THE 4CHAN.ORG SERVERS. CLEAR YOUR COOKIES AND STOP BROWSING THE SITE IMMEDIATELY. \r\n
+ parece que foi coisa do 2chan, ontem teve uma mini invasion e os japas rebateram assim. \r\n
+ MORREU-EU LOL \r\n
+ Sempre q o 4chan cai a gente tem essa bosta pra se apoiar :D \r\n \r\n Quem tava no epic thread brasileiro ontem? \r\n
+ >>Quem tava no epic thread brasileiro ontem? \r\n >>brasileiro \r\n >>epic \r\n \r\n que? \r\n
+ >>1917 \r\n sim. \r\n
+ >>1917 \r\n Poisé, ia falar a mesma coisa... hahaha \r\n >>1913 \r\n Japa tudo kamikaze, sempre ownam qdo devem. \r\n
+ >>1916 \r\n Qual dos dois tópicos, o de tarde ou de noite? Criei o de noite, por falar nisso. \r\n
+ eu tava no de noite \r\n
+ >>1919 \r\n \r\n Me corrigindo...não foi os japas não. Foi alguma outra pessoa ae. \r\n \r\n Tem CP lá, caso interresse alguem. \r\n
+ 'Domain ID103979195-LROR \r\n Domain Name:4CHAN.ORG \r\n Created On:14-Feb-2004 15:46:26 UTC \r\n Last Updated On:14-Dec-2007 06:22:51 UTC \r\n Expiration Date:14-Feb-2011 15:46:26 UTC \r\n \r\n Mutley lost 4chan.org. \r\n HAHAHA \r\n Fist .net, then .org. \r\n Bravo, failure! \r\n \r\n Any good image hosts? \r\n I have some pictures to share, you see..' \r\n \r\n \r\n Retirado do 'novo' 4chan. \r\n
+ nao to conseguindo acessar esse 'novo' 4chan \r\n \r\n sempre cai no blog do mutley chorando \r\n
+ esse novo 4chan nem deve durar muito, spam de CP lol. \r\n
+ >>1916 \r\n \r\n Lembro-me da seguinte frase: '50% do staff da 55chan.org é weeaboo'. \r\n \r\n TCHAU 55CHAN \r\n
+ Quero acessar esse spam de CP \r\n \r\n mandem link d la \r\n
+ >>1928 \r\n http://www.4chan.org/showthread.php?t=2649 \r\n
+ >>1929 \r\n \r\n vlw anon \r\n \r\n Tive q acessar por um webproxy pq meus cookies levavam direto pro blog \r\n \r\n http://www.notraceweb.com/ \r\n
+
+ primeiro 7chan rodando e piscando, agora isso \r\n \r\n daqui a pouco só sobra o 55chan. que tragédia \r\n
+ INFORME AOS USUÁRIOS: O Ministério público federal através da ONG Safernet registrou o conteúdo dessa discussão junto com o endereço IP dos participantes devido à possíveis violações da lei brasileira. \r\n \r\n VIOLAÇÃO: Apologia ao crime. AVISO IMPORTANTE: Se você acha que esse tópico foi registrado equivocadamente, por favor encaminhe um pedido de revisão em nosso site usando o protocolo #421337 em até 24 horas. \r\n \r\n O endereço IP dos participantes foi registrado pelo programa de proteção à criança e ao adolescente. \r\n
+ >>1932 \r\n \r\n Na verdade eu nao considero mais 4chan como um lugar visitavel p/ real Anons. Já tava cheio de cancer, e depois que mudou pro shitty web 2.0 aí morreu de vez. \r\n
+ >>1932 \r\n >>agora isso \r\n \r\n qual o problema com 'isso'? CP a rodo e mutley chorando no TS dos caras que tomaram o 4chan, o que pode ser melhor? \r\n
+ >>1933 \r\n OS FEDERAIS ESTÃO NA MINHA PORTA, /b/, o que eu faço? \r\n \r\n Ahh, esqueci... eu só baixei... \r\n
+ >>1935 \r\n \r\n internet dramas já foram mais engraçados \r\n \r\n quando a putaria estendeu pro 7chan já começou a ficar sem sal \r\n
+ o que vocês acham melhor pra salvar o CP? pasta oculta, pasta com senha, ou oculta e com senha? \r\n
+ >>1939 \r\n TrueCrypt \r\n
+ >>1940 \r\n \r\n Se importa de fazer um tutorial de TrueCrypt for dummies? Já ouvi falar disso mas acho que não tenho Q.I. suficiente pra usar. \r\n
+ >>1930 \r\n \r\n hurray fakechan morreu \r\n
+ >>1941 \r\n \r\n Favor desconsiderar esse post. Meu Q.I. é suficiente pra me virar sozinho sim. \r\n
+ TrueCrypt, Simple enough: \r\n 1 - DL TrueCrypt \r\n 2 - Install Truecrypt \r\n 3 - Open TrueCrypt \r\n 4 - Click Create Volume \r\n 5 - Create a Hidden Volume -> Next \r\n 6 - Create a TrueCrypt volume and then a hidden Volume -> Next \r\n 7 - Marque Never Save History \r\n 8 - Select File -> Next( protip: aqui você pode criar qualquer arquivo, seja ele rar, iso, txt, jpg, tanto faz. Entao recomendo criar um arquivo que tenha o tamanho parecido com o volume que deseja fazer, por exemplo: volume de 600mb, arquivo Matrix_Revolution(AC3)(DivX).avi. Sacou?) \r\n 9 - Next \r\n 10 - Selecione o algoritimo AES-Twofish -> Next \r\n 11 - Coloque o tamanho desejado do volume - Next \r\n 12 - Digite um password relativamente simples pra você - Next \r\n 13 - Clique em Format \r\n 14 - Next \r\n 15 - Next \r\n 16 - AES-Twofish novamente - Next \r\n 17 - Indique o tamanho do seu HIDDEN Volume -> Next (protip: recomendo metade do tamanho anterior) \r\n 18 - Password bem complicado e impossivel de adivinhar. (protip: 20 caracteres ou mais) \r\n 19 - Format \r\n 20 - Next \r\n 21 - Cancel \r\n 22 - Agora no TrueCrypt clique em select file \r\n 23 - Selecione o arquivo com o volume que voce criou. \r\n 24 - Clique em Mount \r\n 25 - Coloque o password do OUTER VOLUME ( o password mais simples) \r\n 26 - Com isso aparecera um novo drive em 'Meu Computador'. Copie alguns pr0ns e hentai, nada ilegal. (protip: faça CÓPIA, e nao recorte e cole.) \r\n 27 - No truecrypt, selecione dismount all \r\n 28 - Mount novamente no arquivo \r\n 29 - Digite agora o password do HIDDEN VOLUME (o mais complicado) \r\n 30 - Novamente vai abrir um drive em 'meu Computador' \r\n 31 - HIDE T3h LOLI! \r\n 32 - ?????? \r\n 33 - PROFIT! \r\n
+ >>1943 \r\n Agora eu ja escrevi, FAG! ENJOY THAT! \r\n
+ >>1944 \r\n fukken saved, anyway. \r\n \r\n ficou melhor que o tutorial do próprio TrueCrypt. \r\n
+ >>1946 \r\n \r\n Also, protip: \r\n \r\n Depois de escrever os dados no HIDDEN Volume, se por algum motivo voce for escrever dados no Outer Volume novamente, antes de digitar o password clique em options e selecione a opção 'Protect Hidden Volume', e digite ali o password p/ o hidden volume. Se nao fizer isso os dados do volume oculto podem ser corrompidos, pois o true crypt nao vai saber aonde começa e termina a random data, sacou? \r\n
+ >>1947 \r\n \r\n deu pra ter uma idéia. \r\n \r\n mas o melhor mesmo é usar o Hidden volume, né? Tava usando o Outer. \r\n \r\n Ah sim, 4chan caiu de novo. \r\n
+ >>1949 \r\n Leia todo >>1944 e voce entenderá. \r\n
+ >>1950 \r\n \r\n Thanks. Masturbar-me-ei com a consciencia limpa agora. \r\n \r\n Conta suspensa; alguém deve ter denunciado o CP ou o Soupboy fez algo. \r\n
+ Mutley, faça alguma coisa. \r\n
+ Did It For The Lulz Owns You \r\n [Lulz]Vipsta \r\n [Lulz]CeLe \r\n [Lulz]Xyrix \r\n [Lulz]Zodiac \r\n \r\n \r\n Come to IRC.diditforthelulz.com #LULZ for more information \r\n \r\n http://www.diditforthelulz.com/ \r\n \r\n TeamSpeak: ts.diditforthelulz.com:8767 \r\n
+ 'Welcome to The Lulz IRC - Also visit us on TeamSpeak: ts.diditforthelulz.com:8767 | Press Release @ 6pm EST (GMT-0500) on 12/14/07' \r\n \r\n Anon, faz favor de postar esse press release aqui quando for liberado. \r\n
+ HAHA OH WOW \r\n \r\n esse diditforthelulz já é conhecido do 420/i/. É basicamente uma concentração de aids, viadagem e anti-lulz. \r\n \r\n A vingança vai vir muito forte. Não duvido que até o 7chan revide junto. \r\n
+ nao entendi \r\n
+ http://img505.imageshack.us/img505/9892/clipboard10ge6.jpg \r\n
+ 4chan.org: End of an Era \r\n We realize that some of you have been caught off guard this morning. And no, this is not a trick. (Leave it to /b/ to run wild and spread rumors... ^_^) Everything is as planned: as we have discussed before, 4chan is changing. \r\n The domain transfer completed early this morning. 4chan is not going away... only the 4chan.org format is gone. We have moved to (and have been subsumed under) Did It For the Lulz, a group that already has the resources and skill to handle the 4chan community. \r\n This is the end of an era for 4chan.org, but 4chan marches on. 4chan.org will redirect to New 4chan for now, but soon 4chan.org will be abandoned. \r\n So set up your bookmarks and come on in to New 4chan. \r\n
+ >>So set up your bookmarks and come on in to New 4chan. \r\n \r\n Não \r\n
+ >>1961 \r\n \r\n I DON'T BELIEVE IN YOUR LIES! \r\n
+ bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro bizarro \r\n
+ >>1961 \r\n MENTIRAS \r\n
+ TITS OR GTFO \r\n
+ >>1952 \r\n \r\n OMG, É o Mário! \r\n
+ >>2074 \r\n \r\n mario? \r\n \r\n que mario? \r\n
+ >>2190 \r\n \r\n oi pessú, alguém quer que eu pegue sua estrelinha? \r\n
+ We have been in contact with 'Mutley's fake lawyer' and are in close contact with the 4chan administration. We are working together to find a common solution to this immense dilemma. \r\n \r\n \r\n Eu ri alto! \r\n

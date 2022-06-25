@@ -1,0 +1,2 @@
+ Meu notebook começou a apresentar um defeito estranho, quando eu abro certos programas ele usa 100% da cpu me obrigando a desligar. \r\n Isso nunca aconteceu antes, tudo abria normalmente; formatei e desativei a atualização e mesmo assim continuou o problema. \r\n O que pode estar acontecendo?
+ Algo deve estar esquentando muito o processador.

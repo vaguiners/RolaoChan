@@ -1,0 +1,24 @@
+ >não fazendo um dual-boot de windows com linux \r\n >não tendo um sistema seguro e rápido para navegar na internet \r\n >não tendo um sistema prático e otimizado para poder jogar seus joguinhos \r\n \r\n Eu seriosamente espero que não estejam fazendo isso.
+ Para trabalho eu uso linux, para jogos windows.
+ >>27463143 \r\n Baseado.
+ Linux é minha esposa, o Windows é o meu amante travesti.
+ Até usaria se o grub não cagasse com a porra toda.
+ >>27463145 
+ >>27463153 \r\n Eu sou incluso e nunca deu problema comigo.
+ >>27463158 \r\n Secundo esse paixão.
+ >>27463158 \r\n Quando eu tinha dualboot W10 + Manjaro, toda hora dava pau no grub e eu tinha que ficar correndo de um lado pro outro pra resolver.
+ >windows \r\n >um sistema prático e otimizado 
+ É o melhor dos dois mundos. Só um imbecil fica atrelado a um único sistema. \r\n \r\n >>27463165 \r\n Nunca vi isso acontecer. Você deve ter negrado alguma coisa.
+ >dual boot \r\n >não tendo um processador com Vt-d e fazendo GPU passtrough com QEMU/KVM. \r\n \r\n Em qual parte de 2007 você está? \r\n Os computeiros desse chan são completamente tapados.
+ >>27463362 \r\n Eu nem entendi o que você falou para começo de conversa.
+ >wine, playonlinux e jogos nativos na steam \r\n >instalando ruindows para joguinhos \r\n Só se for muito incluso.
+ >>27463368 \r\n Você é tapado, apenas. \r\n \r\n Vt-d é uma tecnologia que permite ao sistema operacional rodar máquinas virtuais com uma optimização muito boa, praticamente nativa. \r\n \r\n QEMU/KVM é um gerenciador/emulador de máquinas virtuais. Com ele você pode ter um Win10 virtual no seu sistema Linux que explora essa tecnologia Vt-d. E pode também fazer o PCI-e pass-through para a máquina virtual, deixando o Linux host com a GPU onboard do processador e o Win10 virtual com a sua placa de vídeo offboard dedicada a ele. Dá pra jogar qualquer joguinho assim. \r\n \r\n Isso junto ao Glass Door faz com que você jogue jogos triple A com uma redução muito baixa de performance. Tem muito “how to” na internet, só procurar.
+ >>27463419 \r\n OK, mas eu consigo comprar isso aí com R$50,00?
+ >>27463397 \r\n O wine fornique com a performance do joguinho.
+ >>27463426 \r\n Porra, paixão, assalta alguém, caralho.
+ >>27463459 \r\n Sou manlet, magrelo, branquelo e com cara de coitado. Se eu tentar assaltar alguém, a pessoa vai rir na minha cara.
+ >joguinhos \r\n Meu deus.
+ >>27463490 \r\n Chegou o adultão.
+ Mas é um belo de um precto. Eu uso um Macbookair 2018. O melhor dos dois mundos, estável como uma montanha e prático como um vibrador.
+ >>27463498 \r\n Nem todo mundo é homossexual, anão.
+ >>27463498 (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 

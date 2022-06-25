@@ -1,0 +1,24 @@
+ Estou pensando seriosamente em aprender C++ pra pegar a fornicação fora do Brasil, parece que muita empresa grande lá de fora busca gente que saiba C++. \r\n \r\n Also: \r\n >github \r\n >c++ \r\n >bitcoin, electron, cry engine, opencv, mongodb \r\n \r\n Fiquei impressionado. Algum anão manjador de C++ para me indicar bons materiais?
+ O que você já sabe?
+ Procura no Google, ninguém aqui é teu empregado. \r\n Quer aprender a programar, mas não sabe nem como usar um algoritmo pronto para buscar o conteúdo.
+ Aprenda COBOL e enjoe fazer manutenção para bancos em qualquer lugar do mundo.
+ >>26848661 \r\n Sei ler e digitar rápido.
+ >>26848661 \r\n Saber é uma palavra bastante forte, trabalho basicamente com Python e Node.js. Na faculdade eu já vi Java, C, C#, PHP e Kotlin.
+ >>26848670 \r\n Pare de ser passar por mim, Op aqui. \r\n Eu não sei nada sou iniciante, quitei da escola no primeiro ano.
+ >>26848683 
+ >>26848661 \r\n Formatar PC. Fiz 1 mês de S.I mas dropei.
+ Programação lá fora é muito exigente, OP. \r\n \r\n Recomendo ir para infra-estrutura, estude DevOps.
+ >>26848701 \r\n Infraestrutura? Dev o que? \r\n Está falando grego?
+ >>26848683 \r\n Aí você me fornique sem cuspe, irmão.
+ >>26848701 \r\n Estou pensando em me mudar pro Chile mesmo. Será que com programação me viro lá?
+ >não sabe se virar pra conseguir material \r\n >quer sair do país 
+ >>26848712 \r\n Não se passe por mim. Quero ir no mínimo para a Europa.
+ >>26848714 \r\n Material? Eu quero ser programador, não pedreiro.
+ Leia os livros'Linguagem C', 'C como programar', 'C completo e total e 'C++ como programar', nessa ordem. O primeiro é para te introduzir à linguagem C e é bem fácil, afinal C++ é o C que se acha especial por ser orientado a objetos e é bom que o OP aprenda C antes do C++. Os outros são livros extensos e cheios de exercícios que qualquer macaco que se dedique consegue aprender. O resto você que se vire. Mas eu acho mais difícil arranjar dinheiro pra sair dessa fossa doque aprender a programar.
+ JavaScript e Python ainda são as linguagens com maior demanda no Canadá? \r\n \r\n Lá fora ainda é possível conseguir empregos legais sabendo programar, mas não tendo faculdade?
+ >não sabe lógica \r\n >não sabe álgebra \r\n >não sabe pombas sobre algoritmos \r\n >quer aprender c++ 
+ >>26848932 \r\n >leia 'C como programar' \r\n \r\n Mas o livro é um manual de referência, não serve como livro didático.
+ >>26848701 \r\n Poderia elaborar um pouco mais, anon? Exigente em que nível? Por que dizem que há tanta mão de obra, então?
+ >>26849003 \r\n >há tanta demanda \r\n \r\n Fixando.
+ >C++ \r\n \r\n Que pescaria é essa? Estamos em 1980? \r\n Ninguem usa isso, aprenda algo que seja OO. Visual Basic, Java ou uma dessas linguagens de homosexual como ruby ou go.
+ >>26849016 \r\n Tem tanta coisa errada nesse post que eu não sei nem por onde começar. \r\n \r\n Fique com esta imagem aleatória.

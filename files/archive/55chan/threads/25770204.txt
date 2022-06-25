@@ -1,0 +1,12 @@
+ Teóricamente, cai na pescaria da pica. \r\n \r\n Como converter arquivos flacs em mp3?
+ Eu também, agora que eu uso um ssd fica inviável manter tudo no formato flac, eu usei o conversor abaixo. \r\n https://www.freac.org/ 
+ >mp3 \r\n Por que não opus ou ogg vorbis?
+ Use o Foobar. Jogue na playlist, botão direito e selecione 'convert'. Vai abrir umas opções, aponte pra onde está o executável do codec Lame (vai ter que baixar e extrair num diretório), selecione V0 e seja feliz. Próxima vez que for converter é só selecionar 'Last used'. Uso muito esse processo pra mandar MP3 pro meu esperto.
+ Valeu pelas dicas. \r\n \r\n Devo optar por VRB (V0) ou CRB?
+ >>25770281 \r\n >usando SSD para armazenamento de mídias que não demandam grande banda para serem acessadas \r\n \r\n Puta que pariu. \r\n \r\n >>25771644 \r\n Isso. \r\n \r\n Mas vai precisar baixar o LAME for Windows, acha-se fácil no Google.
+ >>25770281 \r\n Será que alguém tem que lhe ensinar que ssd é só pra porra do sistema e alguns programas? O Windows até tem uma opção de você utilizar as pastas em outro HD, filho de uma égua.
+ >>25771899 \r\n Deixe-me complementar. HD é pra armazenar, ssd é pra velocidade, animal de teta.
+ >>25771899 \r\n >>25771929 \r\n Esse filho da puta é burro.
+ >>25771883 \r\n >não usando ssd para tudo \r\n Plebe pura, oito anos com três UV400 aqui, estão longe de morrer, e se morrerem, não perderei nada, o exato contrario de um HDD.
+ >>25771984 \r\n Disse o fulano com problemas de armazenamento.
+ >>25771989 \r\n Acha que o chan só tem duas pessoas, retardado?

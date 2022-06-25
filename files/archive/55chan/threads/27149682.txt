@@ -1,0 +1,6 @@
+ Recomendem uma boa distro para alguém que nunca instalou o sequer utilizou algo além do ruimdows. \r\n \r\n Estou na dúvida entre Mint, Ubuntu e Debian.
+ Ubuntu.
+ Mint. Se instalar Ubuntu, vai ter a imagem errada do Linux e voltar para o Windows na semana seguinte. \r\n Se for de Debian, vai ter um setup retardamente gigante sem qualquer necessidade.
+ >>27149699 \r\n Imaginei que o Mint seria uma boa escolha para um incluso como eu. Mesmo trabalhando na área de TI há quase uma década, nada sei de Linux. \r\n \r\n Vou fazer uns testes na VM com o Mint, até me sentir confiante o suficiente para escolher algo mais complexo. \r\n \r\n Obrigado, Anão. \r\n \r\n >>27149692 \r\n t. Brainlet.
+ >>27149722 \r\n >>27149699 \r\n Apenas complementando, qual das três versões do Mint recomenda? \r\n A interface do Cinnamon parece ser interessante.
+ >>27149746 \r\n LXDE, anão. \r\n Bom, simples, rápido, funcional.

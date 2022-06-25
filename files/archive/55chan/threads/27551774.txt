@@ -1,0 +1,13 @@
+ Puta merda, acabei de derramar vodka no meu notebook. Me fodi bonito, perdi tudo. Essa porra não está ligando mais. Caralho. \r\n Pior que não manjo nada das computarias. Tirei o que parece ser o HD (pica relatada). Poderei recuperar meus 200gb de música com isso? O que fazer agora? É só comprar um notebook novo e enfiar esse HD nele?
+ ME AJUDEM, CARALHO!
+ >Poderei recuperar meus 200gb de música com isso? \r\n Na verdade, existe uma chance de aproximadamente 50%. 
+ >>27551783 \r\n Vai se fornicar, porra. Tô precisando de ajuda aqui.
+ Passa álcool isopropílico na placa toda e deixa secar. Tente ligar mais tarde. Caso não ligue, as formas de ver se o HD ainda funciona é colocar em outro notebook ou ligar em alguma assistência e pedir a verificação.
+ Oq aconteceu? \r\n Desligou imediatamente? \r\n Não tentou ligar denovo certo? \r\n Joga no arroz o HD e espera secar completamente. \r\n Se for pro pau e morreu, o disco pode ter sobrevivido e alguém pode recuperar por alguma $$$. \r\n Agora se entrou água nos discos, meus pêsames. (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ Quando amanhecer vou ir na casa de um amigo ver se o HD ainda funciona. É só chegar lá e conectar num notebook, certo? \r\n Meu problema é mais com meus arquivos do que com o notebook em si. Qualquer coisa eu compro outro, mas eu tinha coisa que não sei se acho novamente.
+ >>27551797 \r\n \r\n Compre um HD externo e comece a fazer o backup daqui pra frente.
+ Você pode conectar ele em outro notebook, se estiver instalado o Windows 10, ele reconhecerá, vai carregar os drivers e você pode recuperar o que quiser, se for o windows 7 e a placa do notebook for diferente da que você conectou, o sistema não vai carregar. \r\n \r\n Você pode conectar ele em um desktop, simplesmente conecte o cabo de energia e o cabo sata, ele deve ser reconhecido e assim já pode pegar seus arquivos e volta.
+ Cachaceiro tem que se fornicar mesmo. Otário.
+ Você não deveria ter ligado o notebook molhado.
+ >>27551774 \r\n Vai ter que comprar uma placa mãe do HD nova, o disco rígido em si é a prova de infiltração, pois ele é vedado com cola (ou deveria ser) abre-o e verifique os polos de contatos se estão oxidados, se estiverem limpe-os! Compre uma placa mãe nova e seja feliz.
+ Deixa eu adivinhar, não esperou o notebook secar e ainda ficou virando e balançando para tentar tirar o resto de vodka. Faz o seguinte compra um Case para HD externo de 2.5 (notebook) ele vai transformar esse hd em um externo com 2 conexões usb (energia/transferência de dados). Ai tu liga em qualquer computador e recupera os dados vai ser um pouco lento por conta da conexão usb 2.0 e por ser um adaptador que se alimenta dos 5V do usb 

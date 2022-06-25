@@ -1,0 +1,36 @@
+ Anão, qual editor de texto/IDE você usa? \r\n \r\n \r\n Até hoje eu só usei Sublime Text, NetBeans e Idle. Eu me sinto um pouco desconfortável com Sublime e NetBeans e Idle é limitado pra Python então compartilhem sua sabedoria sobre o assunto comigo, anões.
+ >NetBeans \r\n \r\n Puta que pariu. O Eclipse ainda vá, porque é bem personalizável, mas ainda aconselho o mãefodendo IntelliJ.
+ Word.
+ Sublime em todos os campos!
+ Plataforma Jetbrains.
+ Vim, que nem qualquer pessoa normal.
+ Emacs.
+ Uso o Sublime, mas gosto do Atom também.
+ >>26824745 \r\n Como faço pra ganhar experiência com ele? Porra, toda hora que vou utilizá-lo acabo negrando nos controles. \r\n \r\n >>26824234 \r\n Perdi.
+ Usava o Notepad++ mas ele passou a bugar meus arquivos depois de renomeá-los.
+ >>26825064 \r\n É só decorar, não tem segredo. Você se acostuma com o tempo.
+ >>26825079 \r\n Requesto uma boa cheat sheet de vim.
+ EU NÃO CONSIGO CONFIGURAR O SUBLIME TEXT PRA ABRIR O TERMINAL DOS MEUS ARQUIVOS EM C!!! 
+ Btw, toda vez que executa um programa a sintaxe do resultado fica toda cagada. O que pode ser o motivo?
+ >>26825332 \r\n >executo \r\n Fix'd.
+ Uso Atom.
+ UltraEdit. Mas não manjo das programarias. \r\n https://www.ultraedit.com/ 
+ Visual Studio, o mesmo que qualquer um que esteja programando profissionalmente usa, diferente de macacos estudantes de TI que estão aprendendo C.
+ >>26825324 \r\n A-alguém?
+ >>26825064 \r\n Abra seu terminal e digite 'vimtutor'. \r\n Siga o tutorial.
+ >>26825324 \r\n Migre pro VSCode.
+ >>26825420 \r\n Ah, anão, vale a pena migrar? Sinto que é algo muito básico que estou retardando, sou bem iniciante ainda.
+ >>26825434 \r\n Se seu computador aguentar, o VSCode é um belo avanço em relação ao Sublime. \r\n \r\n Also, não entendi sua pergunta direito, por isso não dei uma resposta melhor.
+ Sublime Text 3 e PyCharm.
+ >>26825494 \r\n Meu computador de longe não é um problema, felizmente . \r\n Toda vez que eu executo um arquivo .c no Geany, no terminal, o mesmo sai bugado, como se estivesse com caracteres inválidos, entende? Já no Sublime Text eu nem sei como conseguir executar um arquivo .c no terminal. Já tentei executar com o CMD mas diz que o tipo de arquivo é inválido e feijoada.
+ >>26825546 \r\n Chegou o GODILSON DA PYTHON.
+ >>26825434 \r\n Não tem porque usar qualquer coisa que não seja VS Code em 2019, a não ser que você precise de um terminal e baixa memória. Aí o Vim ajuda. \r\n \r\n >>26824229 \r\n A última vez que usei o NetBeans ele ainda era superior. Os plugins desse filho da puta são muito poderosos. A única coisa que eu sinto falta é daquele mapa automático que um plugin chamado 'Iris-alguma-coisa' faz no IntelliJ.
+ >>26825561 \r\n A-anões?
+ Visual Studio 2017.
+ >>26825653 \r\n >Toda vez que eu executo um arquivo .c no Geany, no terminal, o mesmo sai bugado \r\n É alguma coisa com encoding. Nunca trabalhei com C então não sei dizer se o problema está no seu código ou na configuração de encoding do terminal. \r\n \r\n >Já no Sublime Text eu nem sei como conseguir executar um arquivo .c no terminal. \r\n Não uso Sublime há muitos anos, então não sei dizer se tem um terminal embutido, mas aparentemente existem alguns plugins de terminal como o Glue. \r\n https://gluedocs.readthedocs.io/en/latest/ \r\n \r\n >Já tentei executar com o CMD mas diz que o tipo de arquivo é inválido e feijoada. \r\n Isso me leva a crer que está usando Windows. \r\n Recomendo fortemente que instale uma distro linux em dual boot ou em uma VM pela sua própria sanidade. \r\n \r\n Espero ter ajudado.
+ Sublime.
+ Nano ou Vim para scriptar rapidamente coisas direto no meu servidor. \r\n Visual Studio Code como editor geral para praticamente tudo. \r\n NetBeans, Eclipse ou IntelliJ para Java (dependendo do que está disponível no ambiente que estou usando) \r\n CodeBlocks ou VSCode+Terminal para C/C++
+ VS Code e se você usa qualquer outro é um corno.
+ >>26825653 \r\n Para resolver temporariamente seu problema até ser capaz de compreender toda a configuração sozinho, recomendo instalar o Code::Blocks com mingw. Não tem erro. \r\n http://www.codeblocks.org/downloads/26 
+ Google Colab.
+ Emacs.

@@ -1,0 +1,72 @@
+ Qual é o menor e melhor Windows para fazer dual boot com o Linux? \r\n \r\n O professor da minha facugado passou uma atividade valendo ponto em um programa que só roda no Windows. REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE. \r\n \r\n Eu uso o arch linux há anos, então não tenho muito contato com o Windows. \r\n \r\n O programa não roda direito com o wine, então vou ter que fazer dual boot apenas para fazer essa atividade. Depois eu formato a partição e junto esse 10GB novamente com o Arch.
+ Usa o XP logo.
+ >>27203837 \r\n Não tenho certeza se o programa roda no XP.
+ Cria uma VM. Virtual Box funciona muito bem para suas necessidades. \r\n \r\n Also, se quer economizar memoria com a VM, procure PDFs sobre VDI para otimização de desempenho. Lá você vai achar scripts prontos para desabilitar serviços e funções do windows que são desnecessárias em uma VM.
+ >baixa um windows que roda em pendrive \r\n >coloca no pendrive \r\n >usa \r\n ????????
+ >>27203848 \r\n Puta merda, eu sou fodendo burro, nem tinha pensado nessa possibilidade, obrigado. Vou rodar pela VM mesmo.
+ >>27203856 \r\n Só tenho pendrive de 4GB.
+ >>27203856 \r\n >enjoy trabalhar com taxas de escritas que fazem o IDE parecer rápido. 
+ Empresta um computador da faculgado.
+ >>27203858 \r\n Foi assim que eu fiz minha faculdade inteira. E por incrível que pareça, o Visio travava menos no Virtual Box, do que nos PC da universidade.
+ >>27203867 \r\n Como faz isso?
+ >>27203868 \r\n Você é formado em que, anão?
+ >>27203877 \r\n Redes de computadores. Nos usávamos o Visio para projetar cabeamento estruturado (só engenheiro precisa de cad).
+ >>27203884 \r\n Sou o OP, na grade curricular da minha facugado tem Redes de Computadores e Cabeamento Estruturado também. Also, curso Telemática.
+ >>27203908 \r\n >Telemática \r\n Isso ainda existe?
+ Por que não existiria? Isso está mais em alta do que nunca com a acensão do IOT (internet das coisas) e da AI (inteligencia artificial).
+ >>27203992 \r\n \r\n >>27203953 \r\n Esqueci de quotar.
+ >>27203884 \r\n Vale a pena fazer Redes, amigo?
+ >>27204010 \r\n Vale mais apenas fazer Telemática, que também engloba Redes.
+ Como consertar isso, anões? Não consigo instalar o Mint de jeito nenhum.
+ >>27204140 \r\n >esse Rexona 
+ >>27204145 \r\n Não tenho onde guardar. Ajuda um incluso aí.
+ >>27204148 \r\n Você já fez o que está escrito lá?
+ >>27204154 \r\n Não sei como fazer.
+ >>27204140 \r\n Ajudem eu aí.
+ >>27204140 \r\n Instalou no pendrive com o rufus? \r\n Also, belo dildo. 
+ >>27204192 \r\n Sim, e eu não enfio isso no cu.
+ >não usando o glorioso WSL 
+ >>27204201 \r\n O que eu faço?
+ >>27204237 \r\n >>27204140 \r\n Ajudem.
+ >>27204229 \r\n Como funciona isso? Achei interessante. \r\n \r\n Não conhecia, sempre usei o Arch Linux.
+ >>27204039 \r\n Poxa, ajuda aí.
+ >>27204301 \r\n ??????
+ >>27204140 \r\n Isso que é fornicação, ficam falando sempre pra trocar de Windows pro Linux e quando alguém vai fazer ninguém ajuda.
+ >>27204310 \r\n Quotei errado.
+ >>27204311 \r\n >esse macaco desesperado \r\n Você nem ao menos testou em Virtualbox antes?
+ >>27204330 \r\n Não, não tentei. Ajuda eu, anão.
+ >>27204311 \r\n Coloque o pendrive em outra entrada.
+ >>27204341 \r\n Não deu, continua a mesma coisa.
+ >>27204339 \r\n Ao menos tentou isso?
+ >>27204366 \r\n >>27204366 \r\n Sim, não deu. Bios antiga.
+ >>27204140 \r\n EU VOU QURBRA ESSA PORCARIA QUE NÃO PRESTA NO SOCO 
+ >>27204140 \r\n Ajuda eu.
+ >>27204140 \r\n Esse é um recado pra quem fica falando de Linux no chan: vai acabar isso aí. EU vou começar a fazer fios do Linux todo dia até todo mundo ver que é forçação e começar a reportar, Linux vai ser blacklistado pra sempre. RAIOL!
+ >>27204507 \r\n MEUS MOTIVOS SÃO PORQUE ESSE SO NÃO PRESTA NÃO RODA NO MEU COMPUTADOR, ESSA PORCARIA POR MAI QUE EU FAÇA O QUE MANDAM NÃO RODA. EU VOU QUEBRAR ESSA FORÇAÇÃO E ELA VAI SER BLACKLISTADA! VOCÊS MEXERAM COM A PESSOA ERRADA. 
+ >>27204517 \r\n Instala o Elementary OS, caralho. É muito mais leve e fácil do que o mint.
+ >>27204140 \r\n Me ajudem a resolver esse problema.
+ >>27204530 \r\n Toda hora ficam falando pra eu trocar de Distro, uma hora um fala que Mint com Xfce é melhor, outro fala que com Moon alguma coisa é melhor. Agora chega você e me diz pra instalar o Elementary, eu tenho cara de bobo?
+ >>27204140 \r\n Você precisa procurar sozinho pra aprender.
+ >>27204548 \r\n Eu só quero instalar pra merdapostar no chan em segurança! Eu não tenho Windows aqui, eu tô pelo celular digitando!
+ >>27204517 \r\n Continue, estou perdendo duro com o seu autismo.
+ >>27204554 \r\n É só colocar o chrome modo anônimo, incluso do caralho.
+ >>27204532 \r\n Porra, mico. Instale o ubuntu vanilla. Se não der boot é porque seu pendrive deve ir para o lixo.
+ >>27204558 \r\n VOCÊ TÁ ACHANDO GRAÇA, SEU FILHO DA PUTA? EU NÃO TÔ DE BRINCADEIRA NÃO, CARALHO. EU VOU ACABAR COM O LINUX NO CHAN, EU VOU FAZER A CABEÇA DE TODO MUNDO PRA UTILIZAR O WINDOWS. PODE PRINTAR AQUI, EU IREI PASSAR A RULEIAR ESSE CHAN POIS VOCÊS FORÇADORES DE MERDA ME FIZERAM ME ESTRESSAR COM ESSE SO QUE EU DEVERIA USAR PRA LIMPAR O CU DA VEIA DA SUA MÃE 
+ >>27204566 \r\n EU NÃO USO O CHROME, BABACA! \r\n >>27204571 \r\n EU QUERO O MINT! 
+ >>27204577 
+ Instale novamente.
+ >>27204140 \r\n Me ajudem.
+ Já fiz o mesmo uma vez.
+ >>27204595 \r\n >>27204595 
+ Bump.
+ >>27204140 \r\n Anão já passei por isso, vou te ajudar nessa, mas é recomendável que você tente sozinho se estiver começando. Seguinte, em informática, boot é o termo em inglês para o processo de arranque do computador durante o carregamento do sistema operacional quando a máquina é ligada. Muitos computadores podem executar apenas códigos existentes na memória de trabalho (ROM ou RAM); os sistemas operacionais modernos são normalmente armazenados em disco rígido, CD-ROM ou outros dispositivos de armazenamento. Logo que o computador é ligado, ele não tem um sistema operacional na memória. O hardware do computador não pode fazer as ações do sistema operacional, como carregar um programa do disco; assim um aparente insolúvel paradoxo é criado: para carregar o sistema operacional na memória, precisamos de um sistema operacional já carregado. Carregadores de inicialização de segundo estágio, como GNU GRUB, BOOTMGR, Syslinux, NTLDR ou BootX, não são sistemas operacionais em si, mas são capazes de carregar um sistema operacional adequadamente e transferir a execução para ele. O sistema operacional subsequentemente se inicializa e pode carregar drivers de dispositivo extras. O carregador de inicialização de segundo estágio não precisa de drivers para sua própria operação, mas pode usar métodos genéricos de acesso a armazenamento fornecidos pelo firmware do sistema, como o BIOS ou o Open Firmware, embora normalmente com funcionalidade de hardware restrita e desempenho mais baixo. Muitos carregadores de inicialização (como o GNU GRUB, o BOOTMGR do Windows e o NTLDR do Windows NT/2000/XP) podem ser configurados para dar ao usuário várias opções de inicialização. Essas opções podem incluir diferentes sistemas operacionais (para multi inicialização de diferentes partições ou unidades), diferentes versões do mesmo sistema operacional (no caso de uma nova versão ter problemas inesperados), diferentes opções de carregamento do sistema operacional (por exemplo, inicialização em modo de recuperação ou em modo seguro), e alguns programas autônomos que podem funcionar sem um sistema operacional, como testadores de memória (por exemplo, memtest86+), um shell básico (como no GNU GRUB) ou até mesmo jogos. Alguns carregadores de inicialização também podem carregar outros carregadores de inicialização, por exemplo, o GRUB carrega o BOOTMGR em vez de carregar o Windows diretamente. Normalmente, uma escolha padrão é pré-selecionada com um atraso de tempo durante o qual um usuário pode pressionar uma tecla para alterar a escolha. Após esse atraso, a opção padrão é executada automaticamente para que a inicialização normal possa ocorrer sem interação. O processo de inicialização pode ser considerado completo quando o computador está pronto para interagir com o usuário ou o sistema operacional é capaz de executar programas do sistema ou programas aplicativos.
+ >>27204716 \r\n Não entendi nada. Eu preciso de um gerenciador de inicialização?
+ >>27204746 \r\n Não, na verdade este é o texto da Wikipédia sobre boot, kek. Instala o elementary OS como eu disse, filho da puta.
+ >>27204780 \r\n Deixa quieto, vou ficar no windows.
+ >>27204785 \r\n Não acompanhei o parênquima paliçádico. Por que você queria instalar Linux?
+ >>27204804 \r\n Só por instalar mesmo, não estou mais suportando o windows, mas vou ter que aguentar a suportar.
+ >>27204814 \r\n Sua carroça é muito antiga? Por que não experimentar uma variante do Ubuntu com um ambiente desktop mais leve, como o Xubuntu ou Lubuntu (XFCE e LXDE, respectivamente)? Em termos de compatibilidade, acho que o Ubuntu ainda é uma das melhores distribuições.
+ >>27204834 \r\n Sim, é muito antiga.
+ >>27204838 \r\n Xubuntu rodaria liso aí, anão.
+ >>27204838 \r\n >>27204844 \r\n Also:
+ >>27204844 \r\n Deixa quieto, eu queria o Mint mesmo. Já aceitei que nessa porcaria aqui não vai dar.

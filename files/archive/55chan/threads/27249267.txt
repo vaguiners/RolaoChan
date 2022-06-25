@@ -1,0 +1,38 @@
+ Versão do Windows 10 com kernel do Linux é lançada. \r\n \r\n A Microsoft acabou de divulgar para os usuários do programa Insider a nova atualização do Windows 10, identificada como Preview Build 18917 (20H1). Dentre as novidades, está a prometida inclusão do Subsistema Windows para Linux (WSL), que promete melhorar o desempenho da máquina. \r\n \r\n Nesta versão do sistema, estará presente o WSL2, versão com nova arquitetura que alimenta o sistema Windows. Essa nova edição usa um kernel Linux real e altera a forma como os binários do SO de código aberto interagem com a plataforma da Microsoft e com o hardware do computador. Mesmo com a nova arquitetura, ele funcionará de forma semelhante aos que os usuários estão acostumados com o WSL 1. \r\n \r\n Segundo a Microsoft, o WSL 2 oferece um desempenho de sistema muito mais rápido e compatibilidade com todo o sistema Linux, o que permite executar mais aplicativos, como o Docker. Essas mudanças podem beneficiar muitas pessoas que utilizam os dois sistemas operacionais na mesma máquina. \r\n \r\n Muitos podem considerar que essas mudanças estão voltadas apenas para desenvolvedores, que agora podem projetar jogos e aplicativos utilizando um modo de compatibilidade com os dois sistemas. Mas essa nova versão pode ser boa para todos, já que será possível fazer com que diversos arquivos do Linux sejam compatíveis com o Windows, sem a necessidade de trocar de sistema toda vez que quiser acessar algo específico.
+ Isso é melhor que ter carros voadores.
+ O judeu sempre vence.
+ Quer dizer que todos os executáveis antigos vão parar de funcionar?
+ >Linux com malware \r\n Tem que ser muito queijim de minas para se empolgar com essa bosta.
+ Isso é ótimo para o mercado de jogos. Vai ser bom.
+ >>27249332 \r\n Eu fico empolgando porque mostra que a parcela que acessa linux está incomodando eles. Sem falar na maior relevância que o linux vai pegar por causa disso e talvez, dando um impulso para termos mais jogos pro linux.
+ >>27249284 \r\n O systemd é judaico, o hardware inteiro é judaico, o modem é judico, absolutamente tudo é judaico.
+ >>27249338 \r\n >empolgando \r\n Empolgado.
+ >>27249267 \r\n Acho que o próximo windows vai usar um kernel linux puro, e funcionará como uma extensão proprietária ao Linux. \r\n \r\n Todo o ambiente gráfico e APIs proprietárias, como uma alternativa proprietária ao xorg/wayland e ambientes gráficos free. \r\n Programas antigos rodarão com uma espécie de wine proprietário.
+ >>27249347 \r\n Isso me faz questionar a razão deles não terem feito isso antes. Sabe, são programadores trabalhando de graça que você pode colher os frutos tranquilamente. Também tem a questão de que o Windows só ganha por causa das licenças para as empresas e o vício que as pessoas tem nos softwares deles. Realmente é uma boa ideia. Mesmo que eles percam uma fatia do mercado, não mudará nada no lucro, no caso, sobre as consequências de popularizar o linux.
+ >>27249347 \r\n Isso significa que teremos um Wine 99% compatível? Se eles fizeram isso, será absolutamente gostoso. Contudo, impossível. Eles só lucram por causa do vício nos softwares deles. Se remover isso, não haverá motivo algum para continuar pagando licenças, uma vez que o que realmente importa é o software para as empresas.
+ >>27249379 \r\n >fizeram \r\n Fizerem.
+ >>27249379 \r\n Wine proprietário que só rodará no ambiente gráfico proprietário deles.
+ >>27249394 \r\n Faz sentido. Além da maior visibilidade dos desenvolvedores, como poderia beneficiar o linux?
+ Por que a Microsoft não abre o código do Windows de uma vez? Eles lucram muito mais com Azure do que vendendo SO.
+ >>27249413 \r\n Eles lucram mais com as licenças para as empresas, anão. Além das multas absurdas que eles carcam nas empresas que usam pirateado.
+ >>27249418 \r\n Office 365.
+ >>27249413 \r\n Isso seria o mesmo que acabar com a venda de dados pessoais dos usuários, que é a parte mais lucrativa de todas.
+ >Versão do Windows 10 com kernel do Linux é lançada. \r\n Quanta bosta. É só o WSL, o kernel ainda é o NT. o linux só roda em uma VM para o terminal.
+ >>27249342 \r\n Eu também.
+ >pare de usar linux \r\n >use nosso sistema comprometido e proprietário \r\n >temos alguns componentes de código aberto \r\n Perdi.
+ >>27249338 \r\n KEK, como é engraçado se acharem tão importantes assim para a Microsoft. Eles estão migrando para kernel linux somente para ter menos trabalho futuramente, já que faz anos que o Windows não da lucro, mas eles não podem simplesmente abandonar o sistema.
+ Isso o que você chama de Linux na verdade… 
+ >>27250892 \r\n /r/ o /cc/.
+ >>27249347 \r\n Não seria má ideia não. O fornicação seria precisar editar makefile pra conseguir compilar qualquer coisa porque o gmake não consegue encontrar um arquivo que está na mesma pasta que o main.c.
+ >>27251074 \r\n É só usar #defines pra incluir os cabeçalhos.
+ >>27251106 \r\n >É só usar #defines pra incluir os cabeçalhos. 
+ >>27251106 \r\n >#define \r\n >incluir cabeçalho \r\n Você quis dizer '#include'?
+ >>27249413 \r\n >Por que a Microsoft não abre o código do Windows de uma vez? \r\n Deve ser uma meleca só. \r\n \r\n Eu imagino como eles fazem pra testar, já que o código vai ser compilado dentro do Windows e ele deve rodar sozinho em um só computador.
+ MEU FODENDO DEUS, EU LOUCO!!! \r\n COMO FAZEM UMA PORRA DESSAS? ESSA BOSTA NUNCA VAI DAR CERTO, NÃO DÁ PRA JUNTAR CÓDIGO ABERTO E FECHADO E VENDER!
+ >>27251184 \r\n O meu computador travou 5 vezes mais com o Ubuntu do que com o Windows 10.
+ >>27251198 \r\n Gnome é uma merda.
+ >>27251074 \r\n \r\n Isso já não é mais problema a anos, já ouviu falar de Clang e LLVM?
+ >>27251224 \r\n >Isso já não é mais problema a anos \r\n É sim.
+ >>27249334 \r\n Isso só acontecerá quando a Microsoft e os devs abrirem mão do DirectX e migrarem de vez para o Vulkan, e isso não parece que vai acontecer tão cedo, infelizmente. \r\n \r\n >>27249379 \r\n Não necessariamente. Estamos falando aqui de comunicação hardware > SO e não SO > Programa. E mais questão de retrocompatibilidade entre plataformas. Vale lembrar que joguinhos de Windows 98 e até alguns de XP funcionam muito quebrados no próprio Windows 10 e também no 7 X64. Mas é um começo. \r\n \r\n Quem sabe, mais pra frente, teremos algo como um Flatpak para MS e Distros Linux. Isso sim seria excepcional tanto pra quem programa, quanto pra quem usa.
+ Arch sem UI reina.
+

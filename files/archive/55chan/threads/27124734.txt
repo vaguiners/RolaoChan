@@ -1,0 +1,8 @@
+ >compre um pendrive 3.0 muito rápido e com uns 60 gigas \r\n >instale windows nele \r\n >vitória \r\n Já pensaram nisso antes? Estou pesquisando por isso e só acho tutoriais ensinando a instalar o Windows fazendo boot pelo pendrive. Isso eu sei, eu quero é ver um Windows instalado no pendrive e funcionando.
+ Conhece o linux? Você só precisa bootar ele no pendrive e usar por Linux Live.
+ Não vale a pena.
+ Meua migo, você sabe o que caracteriza um sistema operacional ?
+ >windows live usb \r\n Já tentou isso?
+ >>27124751 \r\n Linux só serve para programação e trabalho. Eu não sei programar e não tenho trabalho.
+ Não funciona assim, o kernel do Windows funciona de forma diferente. O Linux é outra história.
+ Enjoe estragar o seu pendrive em 2 meses. \r\n É possível, mas não compensa. Um sistema operacional trabalha com milhares de operações por segundo, e um SO não otimizado para isso, como o Windows, estraga um pendrive simples que não tem capacidade pra todas essas gravações e leituras. Sem contar que um pendrive comum 3.0 escreve entre em uma velocidade muito menor que qualquer SATAII bosta por aí. \r\n Linux, por exemplo, é possível, mas mesmo assim não é ideal. É bom pra, por exemplo, ter um sistema de backup, ou para ser paranóico, colocar Tails no pendrive e criptografar seu HD e só acessar ele pelo sistema operacional. \r\n \r\n No geral, não compensa.

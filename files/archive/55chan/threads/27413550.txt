@@ -1,0 +1,2 @@
+ É seguro usar o Whonix em Live Mode? Tem um puta de um warning na página deles a respeito disso, porém eu não entendo sobre segurança de dados e se isso afeta algo: \r\n https://www.whonix.org/wiki/Whonix_Live \r\n \r\n Also, como os anões fazem em relação a segurança? Digamos que eu queira fazer algumas coisas no TOR, mas queria deixar tudo em um USB Flash Drive pendrive, por comodidade.
+ Bump.

@@ -1,0 +1,12 @@
+ >compre um raspberry pi 3b+ ou qualquer computador de mão barato (recomendo que seja quad-core) \r\n >compre um hub USB, ou use sem mesmo, fornique-se \r\n >faça dual boot nele com kali linux e outro SO principal \r\n >teclado e mouse você pode usar aqueles bluetooth 2 em 1 \r\n >tela você pode usar uma LCD pequena, ou se tiver um monitor por perto, melhor ainda \r\n >com o kali linux você se aprofunda um pouco em aircrack e aprende a crackear wifi, ou usa https injector no celular e roteia pro rbpi \r\n >??? \r\n >computador barato pra ficar na internet, youtube e joguinhos leves, portátil e versátil como a fornicação, além de ter internet de graça e aonde for (se souber usar o aircrack ou o HTTPS injector no celular certinho) \r\n NT: Manodicas.
+ Relatado.
+ Meua migo, é como um anão disse há uns dias, a plataforma ARM é o futuro.
+ Bump.
+ OP, por favor me indique um lugar para comprar esse caralhudinho que não exija importação.
+ >>27408016 \r\n Estou pensando em comprar também. Achei no ML um kit por 300 mangos, mas me parece meio caro, ainda mais que no ali é uns 200 e vem mais coisa. \r\n Acho que o melhor é importar e pedir pro cara declarar como valor menor.
+ >>27408016 \r\n Se não quer importar, viaje pros EUA.
+ Ou use a porra de um celular, que foi feito para esse exato motivo.
+ >>27408084 \r\n Você não consegue fazer metade do que um raspberry pi faz com um celular. \r\n Começando que não consegue usar aircrack.
+ >>27408040 \r\n Realmente, devo fazer isso também.
+ Bump.
+ >>27408016 \r\n Pesquise por um site chamado Resender ou semelhantes. Eles compram para você nos EUA ou você compra e envia para eles, e eles te enviam como presente, cobrando taxas pequenas.

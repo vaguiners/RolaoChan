@@ -1,0 +1,44 @@
+ Limpo meu cu com. Determina os fatores primos de um número qualquer. Só é ineficiente como um caralho, o que fazer para melhorá-lo? \r\n \r\n \r\n def verificacao(k): \r\n \r\n iteracoes = 0 \r\n maior_divisor_possivel = int(k/2) \r\n r = range(2, maior_divisor_possivel + 1) \r\n num_menor_k = [*r] # Lista dos números naturais menores que a metade de k. \r\n compostos = [] # Lista de compostos. \r\n divisores_primos = [] \r\n \r\n for x in num_menor_k: \r\n for y in num_menor_k: \r\n # Encontra os múltiplos de x \r\n if (x * y) in num_menor_k: \r\n # Coloca esses múltiplos na lista 'compostos' \r\n compostos.append(x*y) \r\n iteracoes += 1 \r\n # Subtrai os compostos de num_menor_k, e atribui o resultado a uma lista de numeros primos \r\n primos = [i for i in num_menor_k if i not in compostos] \r\n #print(f'{primos} são os primos candidatos a divisores de {k}') \r\n \r\n for p in primos: \r\n if (k % p) == 0: \r\n divisores_primos.append(p) \r\n iteracoes += 1 \r\n if len(divisores_primos) == 0: \r\n print(f'{k} é primo, e portanto não foi fatorado.') \r\n else: \r\n print(f'{divisores_primos} são os divisores primos de {k}') \r\n \r\n print(f'{iteracoes} iterações foram feitas.') \r\n \r\n while True: \r\n k = int(input('Valor: ')) \r\n verificacao(k) \r\n \r\n 
+ Puta merda, tu perdeu tempo numa merda dessa? Só pode ser sacanagem.
+ >>27093601 \r\n Provavelmente é algum exercício.
+ >num_menor_k = [*r] \r\n Nem sabia que isso era possível em pintão.
+ >>27093601 \r\n Qual o problema? Me pareceu um problema interessante. \r\n \r\n >>27093611 \r\n Foi pra ver se realmente aprendi o básico antes de começar a estudar OOP. \r\n \r\n >>27093622 \r\n Como eu quero enfiar Python no meu cu, ainda mais usando o Pycharm.
+ >>27093627 \r\n Estou estudando Python também, que material você está usando para aprender? Estou perto de aprender POO também.
+ >>27093640 \r\n Esse curso aqui: https://www.udemy.com/the-modern-python3-bootcamp/ \r\n Parece ser bem completo. A maioria só ensina a declarar variáves e fazer coisas simples com estruturas condicionais.
+ Bump.
+ >mpq tive que fazer um exercício ontem para determinar números primos 
+ C?
+ De novo essa merda?
+ >>27093786 \r\n Como fez? Está na faculdade? \r\n \r\n >>27093818 \r\n É Python, anão.
+ >>27093818 \r\n É obviamente python.
+ >>27093824 \r\n Você passa tempo demais aqui. É porque agora eu finalmente consegui o que queria.
+ >phyton \r\n Aí é de cair o cu das nádegas, anão.
+ >>27093835 \r\n >python \r\n Fix'd.
+ >>27093835 \r\n >linguagem poderosa como a fornicação \r\n >mais suporte do que rolas que sua mãe carrega todos os dias \r\n >código bonito e simples de entender 
+ >>27093828 \r\n >>27093826 \r\n Verdade, desculpa, eu não tinha visto direito.
+ Sou um batata de merda. Única coisa que posso te dizer é que você não precisava desse 'iteracoes = 0', você só precisava colocar um enumerate() no for e fazer uma variavel para pegar ele. \r\n Se puder me explica umas coisas que não entendi o que são pois não vi nada sobre nos cursos que consumo online? Nunca tinha visto essas porras aqui: \r\n [*r] \r\n [i for i in num_menor_k if i not in compostos]
+ >>27093826 \r\n Estou fazendo um curso. \r\n \r\n def det_primo(num): \r\n \r\n n = [] \r\n for x in num: \r\n if x % 2 != 0: \r\n n.append(x) \r\n print(n) \r\n a = [] \r\n \r\n numero = int(input('Digite um número maior do que 1: ')) \r\n \r\n while numero > 1: \r\n a.append(numero) \r\n print(a) \r\n numero = int(input('Digite um número maior do que 1: ')) \r\n else: \r\n print('\nNúmeros primos: ') \r\n det_primo(a) \r\n 
+ >>27093895 \r\n >enumerate() \r\n Não conhecia, anão, muito obrigado. \r\n \r\n >Se puder me explica umas coisas que não entendi como funcionam pois não vi nada sobre nos cursos que consumo online: \r\n O [*r] serve para transformar um intervalo feito a partir do range em uma lista. O que fiz foi pegar o intervalo range(2, maior_divisor_possivel + 1) e transformar numa lista, mantende a ordem dos itens. \r\n \r\n >[i for i in num_menor_k if i not in compostos] \r\n Dê uma pesquisada sobre list comprehensions. Pythônico como a fornicação. \r\n \r\n A expressão new_list = [expression(i) for i in old_list if filter(i)] é equivalente à expressão \r\n \r\n new_list = [] \r\n for i in old_list: \r\n if filter(i): \r\n new_list.append(expressions(i)) \r\n \r\n \r\n https://www.pythonforbeginners.com/basics/list-comprehensions-in-python 
+ >>27093925 \r\n Não funciona, aqui está me retornando uma lista com os números que coloquei.
+ >>27093847 \r\n Se você quer implementar um algoritmo eficiente e rápido faça em C/C#, quer um exemplo? Um mero algoritmo de ordenação de ordem O(n^2) demoraria algumas horas para ordenar um vetor de centenas de milhares de elementos em python, sabe quanto tempo C demora? Apenas 2 minutos. \r\n A escolha não é tão óbvia assim como você presunçosamente pensa, além disso se eu fosse você estaria aprendendo a programar usando C, deixe linguagens de níveis mais elevados para depois, aprenda a fazer as coisas na unha para não virar apenas um mero macaco encaixador de blocos como já existem aos montes, pare de se exibir só porque gastou 15 minutos fazendo uma coisa simples e estude.
+ >>27093583 \r\n >Só é ineficiente como um caralho \r\n Isso é inevitável. \r\n >o que fazer para melhorá-lo? \r\n LiteraImente comprando um computador quântico.
+ >>27093969 \r\n A é uma lista vazia, e ele recebe o número que você digita, depois não faz nada.
+ >while … else \r\n Meu jesus cristo.
+ >>27093983 \r\n >Isso é inevitável. \r\n Não. Segundo alguém no StackOverflow, um outro alguém conseguiu gerar todos os números primos menores que 1000000 em 68.1 ms. Eficiente como a fornicação.
+ >>27093979 \r\n Apague isso. Deixa eu brincar, filho da puta. 
+ >>27093993 \r\n Perdi. Que porra de exercício é esse? O que tem a ver com números primos?
+ >>27094015 \r\n >68.1 ms \r\n Caralho, que lento, meu C faz mais rápido.
+ >>27094015 \r\n Fornique-se você que não entende nada de complexidade algorítmica. É ineficiente pra um caralho. \r\n \r\n Se quiser algum algoritmo que não demora um dia inteiro pra fatorar 1000, use algo que alguém com doutorado fez, não o que você tirou da bunda. \r\n \r\n https://en.wikipedia.org/wiki/Integer_factorization 
+ >>27094060 \r\n Vai me fazer chorar mesmo? 
+ >>27093979 \r\n Quero fazer algo hoje.
+ >>27094113 \r\n O engraçado é que ele disse 'você demorou 15 minutos pra fazer'', quando na verdade demorei pouco mais de duas horas.
+ >>27094126 \r\n Muito fácil, re-rola.
+ >>27093969 \r\n Compreendo sua tristeza.
+ >>27094060 \r\n Não acredito que seja esse o rumo, o OP só quer melhorar suas habilidades de programação e não criar o algoritmo mais rápido existente, muitos menos copiar um existente vai ajuda-lo, o que ele tem de entender é que é possível melhorar a eficiência do seu código apenas pensando diferente, mas para buscar algo mais concreto é necessário conhecimentos de complexidade algorítmica que apesar de não muito complexos, fogem do escopo atual de aprendizagem dele. \r\n \r\n >>27094127 \r\n Não, amigo, acabei me exaltando, 15 minutos seria impraticável para quem está aprendendo. Boa sorte nos estudos.
+ >>27094088 \r\n >dando alguma fornicação para Cfags \r\n Eles ficam punhetando essa velocidade, mas no mundo real você nunca vai chegar a fazer uma aplicação que 1ms vá fazer a diferença. \r\n Eu faço aplicações pra web com fodendo java, ninguém dá meia fornicação.
+ >>27094015 \r\n Foi o cara que trapaceou fazendo os números serem gerados em tempo de compilação usando preprocessors? Se for, não vale.
+ >>27094033 \r\n O exercício era só para ver se é um número primo e colocar na lista.
+ >>27094248 \r\n Mas você não conferiu se era um número primo.
+ >>27094260 \r\n Faltou colocar um 'or n % 3 == 0' ali.
+ >>27094468 \r\n >>27094260 \r\n Desculpe, esqueça o que eu falei, eu sou burro.
+ >>27094829 \r\n Perdi e senti.

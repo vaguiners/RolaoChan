@@ -1,0 +1,6 @@
+ Quero instalar uma distro linux em um cartao de memoria flash pra eu fazer coisas ilegais na net. \r\n Pode? (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 
+ Por que não poderia?
+ >>26958344 \r\n Queria saber se existe possibilidade tecnica.
+ Tem que tirar o hd.
+ >>26958329 \r\n Com toda certeza, anão. A melhor distro pra isso é o 'Tails Linux'. Ele apaga a sua sessão no momento em que você desliga a máquina. Não esqueça de usar uma VPN e o Tor router. Divirta-se.
+ >>26958386 \r\n Mas que burro! É só apagar a pasta system32 (O USUÁRIO FOI CONVIDADO A VISITAR SEUS AMIGUINHOSRSRSRS) 

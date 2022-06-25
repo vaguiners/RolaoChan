@@ -1,0 +1,16 @@
+ Alguém me ajude a resolver essa merda, puta que pariu. \r\n \r\n Um investidor aplicou a quantia de R$ 500,00 em um fundo de investimento que opera no regime de juros simples. Após 6 meses o investidor verificou que o montante era de R$ 560,00. Qual a taxa de juros desse fundo de investimento? \r\n a) A taxa de juros do fundo de investimentos é igual a 1%. \r\n b) A taxa de juros do fundo de investimentos é igual a 2%. \r\n c) A taxa de juros do fundo de investimentos é igual a 3%. \r\n d) A taxa de juros do fundo de investimentos é igual a 4%. \r\n e) A taxa de juros do fundo de investimentos é igual a 5%. \r\n \r\n O gabarito é a 'b', mas minha conta não chega nem perto disso: \r\n \r\n J = C · i · t \r\n 60 = 500 · i · 6 \r\n 60 = 3000i \r\n 3000i = 60 \r\n i = 3000/60 \r\n i = 50??
+ >3000i = 60 \r\n >i = 3000/60 \r\n \r\n PERDI, NUNCA MUDE /B/.
+ >>26611416 \r\n Qual a graça?
+ É 60/3000, burro. Caralho, nem meu irmão que está na 6ª série erra essa merda.
+ >>26611436 \r\n Porra, nesse caso, as posições não deveriam ser trocadas?
+ Contabilidade, OP?
+ >>26611449 \r\n Não, só estou estudando mesmo.
+ M = P × (1 + i x n) \r\n 560 = 500 × (1 + i x 6) \r\n 1.12 = 1 + i × 6 \r\n 6×i= 0.12 \r\n i = 0.02
+ >>26611454 \r\n Sou o >>26611416 . \r\n \r\n Não desista, anão. O correto seria: \r\n i= 60/3000 = 0,02 = 2% \r\n \r\n Você não pode dar esses moles, anão. Você chegou quase no final.
+ >>26611496 \r\n Obrigado.
+ Nem precisa de fórmula para resolver essa merda. \r\n \r\n Lucro de 10 reais a cada mês, 10 é 2% de 500.
+ >>26611436 \r\n Tá certo. O erro dele é achar que seria 60, e não contabilizar o juros pelo mês, e não o total. \r\n J = C · i · t \r\n 10 = 500 · i · 6 \r\n 10 = 3000i \r\n 3000i = 10 \r\n i = 10/3000 \r\n i = 0,0033333333 \r\n \r\n 0,0033333333*6= 1,99, aproximadamente 2. \r\n \r\n É o juros é a taxa de juros em relação aos seis meses.
+ >>26611488 \r\n De onde saiu esse '1.12'?
+ >>26611529 \r\n 560/500
+ >>26611555 \r\n Mas que porra, como você fez isso?
+ >>26611523 \r\n KEK \r\n \r\n Eu errei completamente, mas ainda acertaria a questão. Eu sou o pior tipo de burro, tiro respostas do cu.

@@ -1,0 +1,19 @@
+ Anões programadores, poderiam me ajudar a deixar de ser medíocre? \r\n \r\n Ganho a vida desenvolvendo site em wordpress, crio toda a parte gráfica no photoshop e monto o site no wp. Entendo bem de html e css, muito pouco de PHP. Graças a isso, consigo montar site personalizados e vender. \r\n \r\n O problema é que estou ganhando merreca com isso, apesar de quase não trabalhar. Eu quero mudar e me tornar um profissional de verdade, deveria começar pelo PHP? Ou outra linguagem de programação seria mais adequada para começar? E por onde começar a estudar? Poderiam recomendar algum site, curso ou videoaula no jewtube? \r\n \r\n Quero me tornar um programador de verdade e ver se consigo de alguma formar ganhar dinheiro de verdade.
+ Vá pra JavaScript. Lá tem figurativamente TUDO que você precisa pra deixar de ser um desenvolvedor medíocre. \r\n Also, quanto ganha por mês?
+ Aproveito o parênquima paliçádico, pra perguntar se algum anão tem esse curso pra deliverar pros anões.
+ >>27500171 \r\n Eu voltei a fazer isso tem pouco tempo, apenas 4 meses. Meu maior rendimento até agora foi mês passado, R$1.800 dilmas. Mas em 2014, no meu auge, cheguei a vender site com tráfego por 10k. Voltei porque estava desempregado e recorri nessa área sem esperança, mas tive resultados de novo. \r\n \r\n No passado eu parei porque tive um surto psicológico.
+ Eu apenas pego um 'theme' crackeado ou free, tiro os 'vírus' e modifico o CSS até ficar do jeito que quero. Não precisa fazer todo o trabalho de criar no photoshop e tal. \r\n Entretanto, não trabalho com isso profissionalmente, apenas em projetos pessoais.
+ Gostaria de aprender a programar também.
+ >>27500200 \r\n Já fiz muito isso também, hue. Pra comercializar eu faço isso porque dá mais originalidade, então acaba me destacando um pouco dos outros.
+ >>27500171 \r\n Escute esse anão. \r\n Estude sobre a stack React+Node.JS+MongoDB. No futuro essa stack vai ser a favorita dos pajeets e vai ter uma vaga para cada 500 programadores, mas por enquanto o mercado está muito bom.
+ >>27500174 \r\n Consegui este: \r\n https://drive.google.com/drive/folders/1uUZFZiSXPkn9bKmrxq5Hpz-kTwkr_u_B 
+ >>27500194 \r\n Você é freelancer, anão? \r\n \r\n >>27500174 \r\n https://devfreebooks.github.io/ 
+ >>27500223 \r\n >>27500171 \r\n Fodendo anotado.
+ >>27500223 \r\n Recomenda NodeJs com javascript ou typescript?
+ >>27500251 \r\n A maioria dos pacotes no NPM não são muito bem otimizados para Typescript, embora TS seja consideravelmente mais seguro. \r\n \r\n Diz o criador do Node que ele vai criar uma versão mais otimizada para Typescript, chamada Deno.
+ Bump.
+ >deixar de ser medíocre \r\n >web \r\n Faz-me rir.
+ >>27500322 \r\n Por que está bumpando parênquima paliçádico na primeira página, macaco?
+ >>27500327 \r\n Sim, só reparar nos desonestos no parênquima paliçádico. Front só tem pilantra. No back é menos pois a merda que dá é maior.
+ A única forma de deixar de ser medíocre com web é stack BCHS ou semelhante. E você não é capaz disso.
+ >>27500225 \r\n Agradeço.

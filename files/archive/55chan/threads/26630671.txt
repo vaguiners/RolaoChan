@@ -1,0 +1,5 @@
+ A resolução está certa, anões?
+ Acho que sim. Eu uso 1920x1080.
+ Bump.
+ Acho que fiz merda. \r\n \r\n 3,5=400/t \r\n t=114 Porsche \r\n \r\n 3=350/t \r\n t=116 \r\n \r\n Porsche> Honda
+ >não entendi como transformar aceleração em velocidade \r\n A real é que você não entendeu O QUE É ACELERAÇÃO, hue. Se um carro acelera a 3.5m/s^2, isso significa que a cada segundo, sua velocidade aumenta em 3.5m/s. \r\n \r\n Agora resolvendo o problema. \r\n Quem ganha a corrida é quem chega primeiro, ou quem faz um tempo menor. O Porsche, para ganhar, precisa percorrer 450m antes que o Honda corra 400m. \r\n Tempo do Honda percorrer 400m: 400 = a*t^2/2, t ~ 16.32s \r\n Tempo do Porsche percorrer 450m: 450 = a*t^2/2, t' ~ 16.03 \r\n \r\n Logo, Porsche ganha. \r\n \r\n >>26630730 \r\n Fez merda.

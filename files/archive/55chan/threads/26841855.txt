@@ -1,0 +1,16 @@
+ Acabei de instalar uma distro baseada em bugunto, me recomendem bons programas de multimídia em geral e produtividade.
+ Windows 7.
+ >>26841860 \r\n Bobo.
+ >linux \r\n >produtividade 
+ >>26841912 \r\n >>26841890 \r\n >>26841860 \r\n Achei que seria um bom horário pra pedir dica.
+ >>26841924 \r\n Existe algum serviço essencial que faça diferença você punhetar distro linux? Tudo leva a crer que você é só mais uma desocupado. \r\n \r\n E vem pedir dica de produtividade. Gente produtiva instala o windows com qualquer merda e faz as coisas. Não fica experimentando distro de linux.
+ >>26841932 \r\n Sim, Qgis com vetores. Agora cai fora do meu parênquima paliçádico.
+ >>26841860 \r\n O Windows 7 já está praticamente morto, a melhor coisa a se fazer é tentar se acostumar com outro sistema.
+ >>26842115 \r\n Eu me recuso a migrar para o 10. \r\n \r\n Vou usar o 8 até 2023 e depois irei para o linux.
+ Comece usando XFCE, filho da puta. Não caia na pescaria do Arte Linux + i3.
+ >2019 \r\n >não usando Debian 
+ >>26842150 \r\n Mas i3 é bom. Só é pescaria no sentido de que uma vez que você acostumar com tiling, você sempre vai se sentir corno ao usar managers convencionais.
+ >>26842165 \r\n >não usando ls \r\n >não usando mkdir \r\n >não usando cp \r\n >não usando mg \r\n E quando for usar um SSH tendo que economizar o máximo de espaço, anão? Vai instalar várias livrarias e pacotes pra fazer tarefinhas básicas porque muh preguiça? Sempre contar a objetividade dos comandos acima para uso doméstico.
+ >>26842176 \r\n >mv \r\n Aliás, confundi tudo. Você é daqueles que usam file manager no terminal?
+ >>26842176 \r\n >sem \r\n Arrumadinho.
+ Cmus.

@@ -1,0 +1,9 @@
+ Anão programadeiro em python reportando dentro. \r\n \r\n Postem seus códigos merda e eu ajudarei, a não ser que eu não conheça a biblioteca, mas eu conheço as mais famosas .
+ connection = super.getConnection(); \r\n String sql = '{call pack_relatorio.relatorio_fin.arrecadacao_diaria(?,?,?)}'; \r\n statement = connection.prepareCall(sql); \r\n this.inicializaParametroProcedure(dataInicio, dataFim, statement); \r\n statement.execute(); \r\n result = (ResultSet) statement.getObject(3); \r\n this.populaRetornoProcedure(listaRelatorioVO, result);
+ Bom dia, Godilson.
+ Seja sincero, anão, python da dinheiro? Estou fazendo um curso online e tem sido bastante pacifico, mas mesmo assim eu me sinto pressionado sobre o dinheiro do futuro.
+ >>27529544 \r\n Isso não é python. Parece com a sintaxe do C++. \r\n \r\n >>27529551 \r\n Não sei. Não me preocupo com dinheiro. \r\n Mas como qualquer macaco aparentemente consegue aprender python em ate uns 3 meses, acredito que pague pouco por conta da oferta excessiva.
+ Vou perguntar aqui mesmo. \r\n Anão, o que eu preciso aprender pra ganhar dinheiro com safadeza na internet? Ex: fazer bot pra jogo, esse tipo de coisa. \r\n \r\n Also, qual lingua e com quanto tempo vou poder fazer safadezas consistentemente?
+ >>27529559 \r\n Dicas de como usar as minhas únicas 5 horas livres por dia estudando programação? (Como não perder o foco, anon?)
+ Bom dia, OP. Estou aprendendo Python por este livro. Me recomenda algo? \r\n \r\n https://www.souravsengupta.com/cds2015/python/LPTHW.pdf 
+ /r/ aquela imagem que compara lingaguens com personagens do senhor dos anéis

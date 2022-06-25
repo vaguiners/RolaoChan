@@ -1,0 +1,53 @@
+ Anões programadores, eu os invoco. Sou incluso nas programarias e estou desenvolvendo um código em portugol para saber se o OP suga ou não suga caralhos. \r\n \r\n Está ai o código: \r\n \r\n algoritmo 'O OP é ou não é sugador?' \r\n // Função : Descobrir se o OP suga ou não caralhos \r\n // Autor : anon \r\n // Data : 16/03/2019 \r\n // Seção de Declarações: EMERSON EDUARDO RODRIGUES SETIM MATOU ROGÉRIO GASPAR \r\n var \r\n OP,n1,n2: inteiro \r\n inicio \r\n n1 <- 0 \r\n n2 <- 999999998 \r\n escreval('Digite quantos caralhos o OP sugou:') \r\n leia(OP) \r\n se(OP>n1)entao \r\n escreva('O OP suga caralhos') \r\n senao \r\n escreva('O OP não suga caralhos') \r\n fimse \r\n se(OP>n2)entao \r\n escreva('O OP suga caralhos estratosféricos') \r\n fimse \r\n fimalgoritmo \r\n \r\n \r\n O código roda relativamente bem, porém observem o erro na terceira pica. ;_; . \r\n \r\n Algum anão sabe como fazer o computador escrever apenas; 'O OP suga caralhos estratosféricos' em vez de 'O OP suga caralhosO OP suga caralhos estratosféricos'?
+ Não tem condição definida para o senão. Ele da print porque satisfaz a segunda e a terceira ao mesmo tempo já que a segunda não há condição a não ser o primeiro não ter passado.
+ Colocou dois 'se', então ele vai mostrar as duas mensagens verdadeiras. Se quiser separar as mensagens é só colocar o 'escreval' ou junta os 'se' para ter apenas uma mensagem. \r\n \r\n Quanto autismo, vai arrumar o que fazer, filho da puta. 
+ É assim que você pretende aprender a programar?
+ >>26632010 \r\n E como ficaria o código então? \r\n Não tenho nada melhor para fazer, já abusei de joguinhos. \r\n \r\n >>26632024 \r\n Sim.
+ >portugol \r\n Um atraso de vida.
+ >aprendendo portugol \r\n >aprendendo portugol usando um interpretador \r\n >essa estrutura de pascal \r\n Vai ser um programador de merda. O certo é fazer os estudos de caso na mão. Seu algoritmo é uma caixa que recebe algo e retorna algo. Todos os casos possíveis podem ser determinados. Se tem algum erro de execução, você consegue identificar rapidamente fazendo passo a passo do algoritmo. \r\n \r\n A questão é: Usar uma ferramenta cagada como essa aí só vai atrasar mais ainda a sua vida.
+ >>26632083 \r\n Ah, e respondendo ao seu problema. Tente por \n no final das frases que você quer terminar a linha.
+ Crie bolas e vá estudar C, porra.
+ \r\n algoritmo 'O OP é ou não é sugador?' \r\n // Função : Descobrir se o OP suga ou não caralhos \r\n // Autor : anon, enzo_g \r\n // Data : 16/03/2019 \r\n // Seção de Declarações: EMERSON EDUARDO RODRIGUES SETIM MATOU ROGÉRIO GASPAR \r\n var \r\n OP,n1,n2: inteiro \r\n inicio \r\n n1 <- 0 \r\n n2 <- 999999998 \r\n escreval('Digite quantos caralhos o OP sugou:') \r\n leia(OP) \r\n se(OP>n1)entao \r\n se(OP>n2)entao \r\n escreva('O OP suga caralhos estratosféricos') \r\n senão \r\n escreva('O OP suga caralhos') \r\n fimse \r\n senao \r\n escreva('O OP não suga caralhos') \r\n fimse \r\n fimalgoritmo \r\n 
+ Se (essa condição for verdadeira) então{ \r\n faça isso aqui \r\n isso aqui também \r\n } \r\n Senão se (a condição anterior for falsa e essa for verdadeira) então{ \r\n faça isso aqui \r\n isso aqui também \r\n } \r\n Senão se (a condição anterior for falsa e essa verdadeira) então{ \r\n faça isso aqui \r\n isso aqui também \r\n } \r\n Senão{ \r\n só restou fazer isso aqui. \r\n } \r\n \r\n Não sei dar tab aqui no chan dentro do code.
+ Se você colocar no primeiro 'se' <=n2 e no segundo >n2 o erro desaparece. Não precisa disso tudo, você sabe que a entrada é inteira, já que não existe caralho negativo.
+ Caralho, amigo, você é muito burro. Nunca vi uma dúvida tão burra, lol.
+ Estude python, seu corno.
+ >>26632128 \r\n Existe uma quantidade zero pertencentes conjunto de caralhos sugados pelos OPs.
+ >>26632123 \r\n Entendi anão, obrigado.
+ >>26632164 \r\n O que você entendeu?
+
+ A faculdade te forçou a usar essa merda? Ou você escolheu isso por contra própria? Aprenda uma linguagem de verdade. Perda de tempo isso.
+ >>26632183 \r\n Não entendi.
+ >portugol \r\n KEK.
+ >>26632196 \r\n Então o judeu venceu.
+ >>26632196 \r\n Segura essa aqui então, leia atentamente.
+ >>26632083 \r\n Qual ferramenta você recomenda?
+ >>26632236 \r\n >python \r\n Tinha que ser.
+ >>26632244 \r\n Aprender C utilizando o Notepad++. Mude a sintaxe do notepad++ pra C na aba 'linguagens' e compile o código manualmente.
+ \r\n x = int(input('N# caralhos sugados: ')); print('O OP suga caralhos estratosfericos' if x > 999999 else 'O OP nao suga caralhos' if x == 0 else 'O OP sugou caralhos') \r\n \r\n \r\n Fornique-se legibilidade. 165 caracteres. Quem faz melhor?
+ >>26632269 \r\n Antes disso aprender a programar mesmo. \r\n Só pegar em uma linguagem depois que souber estruturas básicas e ler um algoritmo. \r\n A maioria dos programadores são uns bostas por acharem dispensável essa base e correrem para aprender a escrever códigos.
+ >>26632291 \r\n Não, nada disso. Se aprende programar programando.
+ >>26632289 \r\n Que linguagem é essa, anon?
+ >>26632347 \r\n Vai lar aprender a 'programar programando' em assembly então.
+ >>26632291 \r\n Eu recomendaria que o OP aprendesse os conceitos básicos enquanto aprende uma linguagem. Quase todo mundo faz isso. Ainda mais se o OP for do tipo que gosta de aprender na prática, estudar um monte de algoritmo em pseudo-código não vai trazer nenhuma gratificação. \r\n \r\n Pense em algum projeto e faça-o. Pesquise todos os problemas que encontrar e as dúvidas que tiver. Apesar de ter educação formal na área, foi assim que aprendi. Prefiro tentar fazer algo que eu não tenho os conhecimentos necessários para realizar (e aprendê-los no processo). \r\n \r\n >>26632366 \r\n Python 3.
+ >>26632387 \r\n >lá \r\n Fix'd.
+ Sugiro que utilize a plataforma Portugol Studio. \r\n Muito melhor do que VisualG.
+ >>26632389 \r\n Obrigado, anon. Vou seguir seus conselhos. :3 . \r\n \r\n >>26632409 \r\n Já estou baixando para testar, vou tentar repetir esse código nela.
+ >>26632387 \r\n >assembly 
+ Belas sugestões a de mandar o cara largar o Portugol, mas alguém aqui faz T.I?. \r\n Portugol é uma ferramenta de introdução a programação, o que é essencial pra desenvolver a lógica de qualquer linguagem que ele venha a aprender.
+ >>26632389 \r\n >Eu recomendaria que o OP aprendesse os conceitos básicos enquanto aprende uma linguagem. \r\n Como assim 'conceitos básicos'?
+ >>26632389 \r\n Sim, anão. Aí o anão quer fazer um MMORPG e resolve aprender RPG Maker. \r\n Pra aprender programação, você tem que gostar de programação em si, pois você vai gastar um tempo absurdo antes de conseguir fazer um joguinho decente (pros padrões de hoje em dia) que nem sequer fará sentido mais o seu objetivo inicial de fazer joguinho, porque você já terá passado tanto tempo estudando estrutura de dados e algoritmos, sistemas operacionais, redes de computadores, orientação a objeto, paradigma funcional, paradigma concorrente, web frameworks, etc… que só gostando muito de programação em si pra aguentar. \r\n Ninguém aguenta aprender programação só pra fazer um joguinho, pois quem quer fazer joguinho sem ter nunca aprendido a programar, não tem noção da dificuldade que é. Qualquer iniciante que use a sua estratégia de simplesmente escolher um projeto vai só se frustrar, pois tão logo ele comece com o projeto, ele vai descobrir que é muito mais complexo do que ele imaginou inicialmente e desistirá rapidamente.
+ >>26632123 \r\n Não deu certo, KEK. Nem a porra da mensagem apareceu.
+ >>26632459 \r\n É só escolher um projeto pequeno, anão.
+ >>26632389 \r\n Mas, claro, você tendo tido educação formal, claramente é capaz de escolher um projeto e adquirir os conhecimentos necessários para concluí-lo. Porque \r\n 1 - Você tem noção da área e sabe escolher um projeto que você consiga atingir \r\n 2 - Você já criou uma base sólida de conhecimentos na área
+ >>26632409 \r\n Eu também recomendo aprender pelo Portugol Studio, quando achar que já aprendeu o suficiente começa a programar em uma linguagem usado comercialmente.
+ >>26632448 \r\n Eu aprendi a programar usando COBOL.
+ >>26632458 \r\n Algoritmos e estruturas de dados, basicamente. \r\n \r\n >>26632459 \r\n Programação é uma ferramenta, anão. Se alguém tem interesse em aprender edição de vídeos, você recomendaria que começasse estudando processamento de sinais, codecs, compressão? \r\n \r\n Se um anão quiser fazer um jogo e o RPG Maker for a melhor ferramenta para isso, qual o problema? Como você mesmo disse, pelo caminho das pedras ele provavelmente vai estudar tanta coisa que vai desistir por perceber que o sonho de fazer o jogo está cada vez mais distante.
+ >>26632469 \r\n Você fechou a penúltima sintaxe e depois colocou um 'senao' tirado do cu. Tinha que colocar um 'se' antes. \r\n \r\n Also, não acentos nessa porra. Esse compilador é uma bosta.
+ >>26632183 \r\n >>26632236 \r\n >OP com tema rosa \r\n Faz sentido. Hue.
+ >>26632485 \r\n Não ficou claro, mas eu aprendi a programar muito antes de entrar no curso. É dessa forma que funciona para mim. Não quer dizer esse é o jeito certo nem que vai funcionar para todo mundo. Se você se sentir mais confortável, pode escolher um bom livro e estudá-lo de capa a capa.
+ >>26632529 \r\n >dizer que \r\n Fix'd.
+ >>26632387 \r\n Por que eu faria isso?
+ >>26632480 \r\n Como que ele vai saber se é um projeto pequeno ou grande se ele não conhece a área? A tendência é o que eu falei… ele querer fazer um Candy Crush pro celular ou algo que tem alta visibilidade pro usuário final, pois é com isso que um leigo convive. \r\n O certo é você aprender pela ementa de uma grade curricular de faculdade e ir fazendo projetos com base nos conhecimentos adquiridos através de leitura, vídeos e exercícios. Escolha o projeto com base no conhecimento que você já tem, não escolha um projeto às cegas na esperança de que você vai ter paciência pra conseguir o conhecimento que aquele projeto requer.
+ OP leia esses caralhudos.
+ >>26632610 \r\n Anotado, obrigado.

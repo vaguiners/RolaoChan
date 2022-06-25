@@ -1,0 +1,15 @@
+ Atirem roedores no meu algoritmo de bosta que tem por objetivo encontrar os fatores primos de um número natural qualquer, elevados a seus devidos expoentes. O maior problema é que não consigo passar da parte de encontrar os divisores, no final fico com essa lista sem saber o que fazer. Pensei em aplicar a função em cada elemento da lista, e depois para cada elemento da nova lista, e assim por diante. No final junto todas as listas em uma só e conto quantas vezes os números apareceram. Mas demoraria um bilhão de anos, mais do que já demora. Um número de 8 digitos já demora alguns segundos para ser executado. \r\n \r\n O que fazer, anões? Baixei um curso na Udemy para aprender a programar. Ainda não aprendi sobre OOP, estou no básico. É legal resolver esse tipo de problema, mas não vejo a hora de poder construir alguma coisa de verdade. \r\n \r\n \r\n def verificacao(m): \r\n \r\n # Verifica se o número não é primo. \r\n maior_divisor_possivel = int(m / 2) \r\n for x in range(2, maior_divisor_possivel): \r\n if (m % x) == 0: \r\n print(f'{m} não é primo.') \r\n composto = True \r\n break \r\n elif (x + 1) == maior_divisor_possivel and (m % x) != 0: \r\n composto = False \r\n print(f'{m} é primo e portanto sua fatoração não pôde ser feita.') \r\n # Lista de divisores se o número for composto. \r\n if composto: \r\n fatores_primos_compostos = [] \r\n for x in range(2, maior_divisor_possivel + 1): \r\n if (m % x) == 0: \r\n fatores_primos_compostos.append(x) \r\n print(f'{fatores_primos_compostos} são os fatores primos ou compostos de {m}') \r\n \r\n while True: \r\n teste = int(input('Valor: ')) \r\n verificacao(teste) \r\n 
+ Bump.
+ Bump.
+ Muito legal, OP.
+ >>27065784 \r\n Obrigado. Você é muito gentil.
+ >>27065793 \r\n Você também.
+ Não use break dentro de um for. Isso foi deprecado na versão 3.7.
+ >>27065833 \r\n O que fazer então?
+ Qual curso baixaste?
+ >>27065854 \r\n https://www.udemy.com/the-modern-python3-bootcamp/ \r\n \r\n Não é um indiano que mal fala inglês, fique tranquilo.
+ >>27065843 \r\n sys.exit()
+ Último bump.
+ >>27065892 \r\n Como assim? Ou eu não entendi direito, ou você não entendeu direito. \r\n \r\n Primeiro eu peço para você postar a fonte do que postou. Como você fala para o rapaz trocar o break pelo sys.exit()? O break ali é para interromper o for, visto que já foi verificado que não é primo. Sendo assim ele entra no if e imprime o número fatorado. \r\n \r\n Usando o sys.exit() o anão apenas está saindo do programa. Break e sys.exit() tem funções diferentes.
+ >>27065833 \r\n >Não use break dentro de um for. Isso foi deprecado na versão 3.7. \r\n Seu cu.
+ >>27066194 \r\n Also, agora vou ler o seu post realmente. Só respondi isso aqui >>27066256 sem analisar a matemática do código realmente, somente a parte lógica.

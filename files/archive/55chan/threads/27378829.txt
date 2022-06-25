@@ -1,0 +1,3 @@
+ Anões, preciso aprender C#/Net, recomendam algum local especifico ou qualquer tutorial no youtube já serve para que eu consiga me virar?
+ De inicio a própria microsoft fornece um material bom, aprendi bastante sobre C#, mas é básico/intermediário, conforme necessário parta para google e livros. \r\n \r\n Site da microsoft: \r\n https://docs . microsoft. com/en-us/learn/ \r\n \r\n allitebooks tem um material legal e amplo, porém é necessário inglês, pois a maior parte é em inglês.
+ >>27378851 \r\n Obrigado, darei uma olhada. Inglês não é um problema.

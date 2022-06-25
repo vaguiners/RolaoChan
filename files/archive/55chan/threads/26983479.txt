@@ -1,0 +1,7 @@
+ Estou baixando aqui agora, amigos. God of War Collection. Tentei emular GoW no PCSX2 e foi um desastre, todo travado, não consegui balancear a velocidade de jeito nenhum. Assiti uma gameplay hoje de um cara que conseguiu emular esse God of War Collection no RPCS3 com 60fps, estava sensacional. Vou ver se consigo também.
+ >Tentei emular GoW no PCSX2 e foi um desastre \r\n >vai emular num emulador de ps3 que tem o dobro de requerimentos \r\n \r\n Boa, Op.
+ >>26983502 \r\n Se eu libero o limite de velocidade do jogo, ele roda muito rápido com mais de 100fps. Por que não roda quando está em velocidade normal? É algum problema com a emulação, talvez seja diferente no PS3.
+ >>26983511 \r\n Tem que configurar os plugins direito, hacks de velocidade/compatibilidade e depois aumentar a resolução nativa em quantas milhares de vezes você quiser.
+ >>26983535 \r\n Não tenho motivos para não tentar. Vou fazer isso agora.
+ >não comprando um PS3 por 500 reais na OLX e depois vendendo ele 
+ >>26983535 \r\n \r\n A dura verdade é que esse emulador de ps2 é uma bosta até hoje. \r\n \r\n >emulador \r\n >closed source \r\n \r\n Pica relatada.

@@ -1,0 +1,19 @@
+ >mexendo no laptop velho ressuscitado \r\n >descubro que tenho uma Bitcoin Wallet desde 2011 \r\n >me recordo minuciosamente de ter realizado algumas compras \r\n >'Huh, vamos ver se estou rico.' \r\n >isso 
+
+ >out of sync \r\n Se tiver alguma coisa dentro, pode ser que esteja.
+ Larga syncando.
+ Pega a chave privada e importa em uma electrum.
+ >>27052453 \r\n Acho que nem tem bosta nenhuma dentro mesmo. Vou pagar pra ver, mas parece nem ser meu dia de sorte.
+ Se tiver alguma coisa dentro vai pagar um joguinho pra todo mundo.
+ Vergonha.
+ >>27052453 \r\n Faça isso, OP. Esse client que você está usando, o Bitcoin Core, precisa baixar toda a blockchain para funcionar porque ele também serve, falando de forma bastante vulgar, como uma espécie de 'servidor'. \r\n A blockchain atualmente tem 215 GB.
+ >>27052466 \r\n Meu medo trata-se somente do receio de sequer ter qualquer tipo de valor. Depois de tudo, descubro que saio com a mesma quantia que tinha antes.
+ >>27052471 \r\n Então delete isso do computador e de tua mente.
+ >>27052471 \r\n Por isso a sugestão. Ter de baixar 215 gibas e não encontrar nada é algo que não desejo nem para meu pior inimigo. \r\n \r\n Se tiver certeza que você nunca comprou nada com Bitcoin, também pode colocar sua chave pública nesse site: https://www.blockchain.com/explorer 
+ >>27052478 \r\n Caralho, encontrou. Vou ter que baixar os duzentos gibas.
+ >>27052498 \r\n Não, anãozinho, agora é só você importar a chave privada em uma electrum.
+ >>27052498 \r\n Quanto deu?
+ Anões, vale a pena farmar alguma altcoin em pleno 2019? \r\n Tenho uma GTX 1070 que paguei barato exatamente por causa da baixa do farm.
+ >>27052466 \r\n >215gb \r\n \r\n Kek. Daqui a pouco, só poucos grandes servidores vão poder guardar o blockchain e a tecnologia basicamente irá perder sua segurança.
+ O anão morreu.
+ >>27054544 \r\n Deve ter uma grana fodida na carteira e foram atrás dele. RIP!

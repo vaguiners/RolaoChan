@@ -1,0 +1,12 @@
+ Anões manjadores das espertofonerias, quero instalar o pixel experience no meu redmi note 6 pro, mas encontrei apenas um tutorial na internet, foi esse aqui: \r\n \r\n https://www.getdroidtips.com/pixel-experience-redmi-note-6-pro/ \r\n \r\n O fato de ter encontrado apenas este tutorial me deixou um pouco com pé atrás. Achei apenas alguns vídeos no youtube, e eram todos de uns indianos que falavam enquanto cagavam na rua. O que acham desse tutorial que postei? Posso confiar? \r\n Also, eles liberaram uma versão nova dia 20, disseram que está bem melhor que a anterior.
+ Você sequer deve ter procurado direito. Mas como sou um bom anão, aqui vai: \r\n https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-t3885126 
+ >>26719855 \r\n Postei o link errado. Os tutoriais encontram-se aqui: \r\n \r\n https://forum.xda-developers.com/redmi-note-6-pro/how-to \r\n \r\n Mas recomendo fortemente que baixe a imagem do XDA.
+ >>26719855 \r\n Obrigado, anão, mas eu consegui chegar nesse link sim. O negócio é que ele não me dá um tutorial, apenas o link para baixar a pixel experience e uns arquivos que precisam de 'flash', e mais uma descrição da ROM. \r\n Estou terminando de baixar a ROM, mas e aí, qual o próximo passo? Não acredito que seja só descompactar.
+ >>26719885 \r\n >>26719886 
+ Tem algo para o Redmi Note 4X? Estou meio puto com a Miui cheia de negrices.
+ >>26719885 \r\n Ah, ok, obrigado, espero que dê tudo certo. \r\n \r\n >>26719892 \r\n Deve ter sim. Tem até para o meu J3 de 2016, só que não é mais atualizado.
+ >>26719892 \r\n https://forum.xda-developers.com/redmi-note-4 
+ No YouTube tem centenas de tutoriais!
+ >>26719936 \r\n Tem nada. Todos esses vídeos, inclusive os dois primeiros que dizem 'install' ão apenas reviews do sistema. Nenhum deles ensina como fazer.
+ Also, no fórum do XDA só tem o tutorial de como instalar o TWRP. Vou instalar uma custom ROM no meu espertofone velho mesmo.
+ >>26719953 \r\n Mas é que você procurou errado. Tudo que tem de fazer é desbloquear o bootloader, fazer root e instalar o TWRP. Depois disso, é só escolher a custom rom e instalar a partir do TWRP. Qualquer custom que escolha será instalada praticamente da mesma maneira através do TWRP.

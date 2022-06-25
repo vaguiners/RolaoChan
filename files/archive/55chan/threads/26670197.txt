@@ -1,0 +1,3 @@
+ /r css para colocar uma garotinha fofinha no lado do chan \r\n \r\n Eu o usava, mas acabei tendo que apagar o cache. Pago sendo um bom anão.
+ body:before { \r\n position: fixed; \r\n width: 1px; \r\n height: 2px; \r\n bottom: 74%; \r\n right: 23%; \r\n content: ''; \r\n } \r\n .intro span.name { \r\n color: #177013; \r\n } \r\n body { \r\n background-image: url( https://i.imgur.com/zdib60w.png ); \r\n background-repeat: no-repeat; \r\n background-attachment: fixed; \r\n background-position: bottom right; \r\n } \r\n \r\n >pago sendo um bom anão \r\n É sua obrigação, porra.
+ >>26670209 \r\n Obrigado, anão! :3 

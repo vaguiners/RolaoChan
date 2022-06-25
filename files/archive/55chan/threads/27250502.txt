@@ -1,0 +1,8 @@
+ Atirem roedores no meu invento.
+ Uma bosta.
+ Entendi nada, tá em eletroniquês.
+ >>27250515 \r\n É um enchedor/desenchedor de garrafa. O controlador é ligado em uma ponte-H e a ponte-H é ligada em um motor DC de uma bombinha. Quando eu aperto em um botão ele começa a encher a garrafa, quando aperto no outro ele começa a desencher, e no terceiro ele para.
+ Estou no primeiro dia do curso de gastronomia. \r\n \r\n Atirem roedores no meu invento.
+ >>27250580 \r\n Me parece bem gostoso.
+ Faz com Arduíno. 
+ >>27250591 \r\n Dá muito trabalho programar, mas poderia fazer com um só attiny85.

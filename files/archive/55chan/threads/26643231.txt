@@ -1,0 +1,12 @@
+ O notebook do meu vizinho, ao fazer o boot, apareceu com uma mensagem pra escolher algo sobre o carregador, ele não escolheu nada e foi no automático, depois ele usou o notebook normalmente por horas, desligou, e agora ele não liga mais. O que pode ser, bê? É um Dell. Peguei porque, mesmo tendo um subemprego, estou apertado. 
+ Bump.
+ >>26643231 \r\n Use o /comp/, OP.
+ >>26643231 \r\n Já tentou ver se não há nada na BIOS?
+ >>26643532 \r\n Lá é lento, preciso dar uma resposta ainda hoje. \r\n \r\n >>26643538 \r\n Não está nem chegando na BIOS. Não liga mesmo.
+ >>26643545 \r\n Tentou ligar sem a bateria?
+ >>26643548 \r\n Não. Vou tentar.
+ Abre logo essa merda e resta a bios. Só não vá fazer cagada.
+ >>26643579 \r\n Como faz isso?
+ >>26643579 \r\n >>26643583 \r\n Imagino que seja uma chave que reseta a bios fisicamente, como tem em PCs de mesa?
+ >>26643583 \r\n É só retirar a bateria da Bios e esperar alguns segundos e depois colocar novamente, procura no google.
+ >>26643601 \r\n Tá ok.

@@ -1,0 +1,58 @@
+ Quero melhorar meu desempenho, anões. Não desejo o setup mais fodido do momento, mas quero algo superior ao meu kit atual: \r\n I7 4790 \r\n 8GB DDR3 \r\n 1050TI \r\n Fonte de 500W. \r\n SSD 120GB. \r\n \r\n Quais as melhores placas de vídeo acima da minha? Vale dizer que meu monitor é ultrawide.
+ Se mate.
+ Coloque mais 8GB de RAM e compre uma RX 580 8GB.
+ 1660 é a melhor custo-benefício atualmente. Um SSD com mais armazenamento ou mais 8 de RAM e chorou. O processador dá pro gasto e não tem necessidade de upgrade.
+ >>27478517 \r\n >>27478538 \r\n Sim, irei providenciar mais memória. A 1660 é melhor que uma 980TI?
+ >>27478629 \r\n De maneira alguma. A 1660 se equivale à uma 970 e a 1660ti à uma 1070ti. Melhor que a 980TI só a RTX2060, mas você não precisa dela pra jogar em full HD. Eu recomendo você pegar mais um pente de 8gb pra trabalhar em dual-channel (o seu pente é único de 8gb, né?) e uma 1660ti em um ou dois meses, já que com o lançamento das RTX Super e das novas placas da AMD eu creio que os preços das intermediárias vão abaixar uns 100 bolseiros.
+ E eu aqui com meu PC da positivo, pra que você quer mais que essa merda aí?
+ >>27478890 \r\n Eu também pensava assim até o ano passado quando tinha um pentium 4 e 1gb de RAM, kek. Montei um gueimer e já estou pensando em trocar. Infelizmente quanto mais temos, mais queremos.
+ >>27478849 \r\n Negativo. A 1660ti é superior à 980ti e a 1660 é só um pouco pior, quase irrisório.
+ >>27478927 \r\n A 980ti tem o dobro de unidades sombreadoras, muito mais capacidade de largura de banda de memória e taxas de pixel do que a 1660. A 1660ti se equivale à ela sim, mas a pergunta do anão foi sobre qual placa era superior. A 1660 é um pouco pior, a 1660ti é um pouco melhor e a 2060 é a única que roda com uma diferença de mais de 10 quadros por segundo da 980ti. \r\n De qualquer forma, OP, ainda recomendo a 1660ti. Só evite o modelo da Gigabyte pois ela esquenta muito.
+ >>27478849 \r\n Tenho dois pentes de 4GB.
+ >>27478849 \r\n >>27478927 \r\n >>27478988 \r\n Ainda estão aí?
+ Vende o CPU, RAM e Mobo. \r\n Compre um ryzen 3700x, 16gb de ram e uma b450 tomahawk ou uma x470 gaming plus. \r\n \r\n Já que estaria atualizando a plataforma poderia aproveitar pra pegar um ssd m.2 nvme também.
+ >i7 4ª geração \r\n Se eu fosse você, pegaria uma ryzer, aumentaria a memória em mais 8gb para ficar com 16, e, se tivesse grana sobrando já que seu foco é uma placa de vídeo nova: uma 1660ti de 6gb. \r\n \r\n Sobre SSD não sei dizer, mas se tua memória de armazenamento não é tão importante e já cumpre o necessário… então fique com 120gb.
+ >>27479164 \r\n Uso o SSD só para o windows. Eventualmente irei comprar outro para alguns jogos. E não tenho grana para trocar o CPU, placa mãe comprar 16GB de DDR4. Tudo isso mais uma placa nova.
+ >>27479162 \r\n Você fala como se vender fosse tão simples assim.
+ >>27479198 \r\n Só acho que você está focando nos componentes errados, anão. Não faça igual aquele outro que comprou um notebook gaymer de quase 4 pila e veio aqui perguntando manodicas para poder comprar outra sucata nesse preço.
+ >>27479223 \r\n >anuncie no olx \r\n >espere umas semanas \r\n >profite 
+ >>27479232 \r\n >>27479269 \r\n Irei pensar nisso, anões. O meu i7 é realmente inferior a esse ryzen 3700x?
+ >>27479198 \r\n Então só vende a gpu e compra uma 1660.
+ >>27479285 \r\n Muito.
+ >>27479290 \r\n É, ele custa quase 2000 reais.
+ >>27479302 \r\n Um 2700 também é muito superior e tava custando 870 na pichau numa promoção esses dias.
+ >>27479285 \r\n Você não precisa de um 3700x, esses anões são exagerados e acham que todo mundo aqui caga dinheiro. Um 3600 (esqueça os x, isso é pescaria, faça o seu próprio overclock se quiser) é muito melhor do que um i7 da geração atual e infinitamente melhor do que o seu i7 da quarta geração, já está de ótimo tamanho pra jogar tudo o que o seu coração deseja em full HD.
+ >>27478849 \r\n O que recomenda para alguém com 8 Gibas, i7 9700 e uma 1070 Ti? Preciso aumentar meu desempenho.
+ >>27479335 \r\n Me vende tudo. 
+ >>27479326 \r\n O ps5 e o xcaixa novo ão ter processadores octa core, o que quer dizer que todos os jogos do futuro serão otimizados para octa cores. Comprar um hexa agora não é jogo se você pensar no futuro.
+ >>27479354 \r\n E você acredita nisso? \r\n \r\n Por quanto eu deveria vender meu kit, anões? 
+ >>27479346 \r\n Me procure daqui a 6 anos e 15 dias, não cobrarei preço de produto novo. \r\n E o desempenho?
+ >>27479354 \r\n Bobagem, tem pentium de dois núcleos e quatro processadores lógicos rodando quase tudo hoje em dia, gargalando mas roda. Seis núcleos e 12 processadores lógicos estão de bom tamanho pro anão, já que ele disse que não precisa do melhor. Um 3600 não está usando nem 40% no Metro Exodus que é a nota de corte do momento, vai deixar o OP tranquilo por um bom tempo.
+ >>27479373 \r\n Daqui um ano ou dois provavelmente vão descontinuar os processadores quad-core por não terem núcleos o suficiente e tu vai estar aí rodando os jogos mal pra caramba com um hexa. KEK. Isso se tu não continuar com o i7 que também é quad.
+ >>27479285 \r\n É, mas segura as pontas tranquilamente. Eu tinha um e não gargalava minha RX 580, você não terá problema algum jogando em 1080p. Infelizmente o meu abriu o bico e estou sendo obrigado a upgradear para um R7 2700.
+ >>27479354 \r\n Só queria que confirmassem logo data e se realmente vai ter retrocompatibilidade. ;_;
+ >>27479326 \r\n >esses anões são exagerados e acham que todo mundo aqui caga dinheiro \r\n É dever de todo branco ter uma RTX, essa placa usa tecnologia Ray Tracing, e vai ser muito útil para a próxima geração de consoles.
+ O problema é que não conheço nada sobre os ryzen. De AMD eu só usava placa no passado. Irei considerar vender meu KIT e procurar mais sobre os ryzens. O R5 3600 é bom?
+ >>27479445 \r\n Uma RTX 2080, a melhor do mercado, tá peidando feio pra Ray Tracing no Metro Exodus em 1440p (!), isso é falta de vergonha na cara da jewVidia. Eu quero mais é que essa porra fracasse.
+ >>27479462 \r\n Pega R7.
+ >>27479445 \r\n É sempre uma estupidez ser early adopter de qualquer merda no ramo de tecnologia. Real time ray tracing é uma piada, a tecnologia em tese é excelente, mas ver uma 2080 ter seus framerates capados pela metade por habilitar meia dúzia de reflexos idiotas é de cair o cu da bunda. Daqui duas gerações a tecnologia vai estar madura, até lá é tourobosta gastar com isso. \r\n \r\n tem que ser muito burro pra cair no marketing da sony e achar que consoles conseguirão usar essa merda quando nem GPUs high-end atuais conseguem 
+ Tô de olho numa RTX 2060 por 1.730 taokeis. Acho que é o melhor custo/benefício pra quem quer performance. Queria uma EVGA mas pode ser uma Asus também.
+ >>27479528 \r\n 2060 não é custo benefício. Se achar uma 2070 por um preço bom, pegue.
+ >>27479468 \r\n >esses anões são exagerados e acham que todo mundo aqui caga dinheiro \r\n Também depende muito do processador, não adianta ter uma placa fodona e um processador lixo. É como colocar um elefante em um fusca. \r\n >>27479481 \r\n >Daqui duas gerações a tecnologia vai estar madura, até lá é tourobosta gastar com isso \r\n Nesse ponto eu concordo com sua crítica, mas sobre os framerates arrancados fora do desempenho também tem consequência no processamento. \r\n \r\n >>27479528 \r\n Só toma cuidado com o processamento. Agora aos ricofags, a quem pode pagar mais do que você já está pagando, o esquema é R7 ou se arriscar com uma i9.
+ >>27479538 \r\n A 2070 tá 4.100, meuc akosherda. Meu limite era os 1.300 da 1060 e já subi pra 1.730 da 2060. 4.100 é proibitivo. Só pra se ter uma idéia, acabo de comprar uma TV LG OLED de 55 por 5.700 e a outra TV 4k LED que essa substitui está 2.900.
+ >>27479565 \r\n Você verá menos uso no seu cinema particular do que na placa, vai por mim, caro anon.
+ Será que essa placa aguenta um overclock mediano num Ryzen 7 2700? Also, esses macacos mudaram o bracket do am3 pro am4, onde arrumo um adaptador pra conseguir colocar meu cooler da antec?
+ >>27479611 \r\n Essa placa tem um vrm de apenas 3 fases, não recomendo overclock num octa-core nele.
+ >>27479589 \r\n Realmente até poderia considerar isso já que coleciono tanto jogos quanto filmes, porém essa TV é a 55' melhor cotada no site rtings (LG B8) e tenho um sistema de som Bose pra ligar nela. Uma 2060 já resolveria bem pro meu lado já que estou usando uma GTX760. \r\n https://www.rtings.com/tv/reviews/best/by-size/55-inch \r\n https://www.amazon.com/Bose-Companion-Multimedia-Speaker-System/dp/B00064X4QM 
+ >>27479652 \r\n Se foi (e for) o melhor pra você, ótimo. Mas sugiro você economizar essa grana até a 2070 baixar até o final do ano. A 2060 não substituirá a 1060 nessa geração, esse papel é o da 1660.
+ >usando isso \r\n >melhorar \r\n \r\n Meu Deus… E eu aqui usando um fodendo pentium em pleno 2019.
+ >>27479795 \r\n Eu te dou meu computador, anão.
+ >>27479611 \r\n TODO DIA ESSA MERDA, FILHO DA PUTA?
+ >>27479803 \r\n Mim dê, papai.
+ >>27479806 \r\n Me encontra na antiga loja de pastel em São Paulo. Você deve saber onde é.
+ >>27479818 \r\n Eu moro no interior, fornique não.
+ Honestamente, anão? Falta 1 ano e meio para essa geração acabar. Deixe o dinheiro rendendo e se prepare para a próxima. Tua GPU já é 90% de uma PS4 PRO, não vejo motivo para você investir mais nesse momento, a não ser que você faça compre algo top de linha.
+ Vou aproveitar o parênquima paliçádico do anão. \r\n Por quanto consigo vender esse kit: \r\n \r\n -i5 4690K \r\n -16GB (2x8GB) Kingston HyperX FURY 1866Mhz (DDR3) \r\n -Placa Mãe Gigabyte GA-Z97M-D3H \r\n \r\n Meu i5 já tá peidando pra coisas que eu faço, estou interessado no Ryzen 5 3600.
+ >>27479831 \r\n Tava demorando pro bushido típico do Cluibe do Hardware chegar. \r\n \r\n 'Espera a próxima geração' do alto do seu semprão.
+ >>27479864 \r\n 1k. Talvez. Não sei se alguém daria isso numa plataforma antiga, no entanto.
+ >>27479805 \r\n Não sou o zé ruela do ryzen com apu integrada.

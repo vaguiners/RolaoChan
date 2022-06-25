@@ -1,0 +1,15 @@
+ >o conjunto dos números pares e o conjunto dos números naturais têm a mesma quantidade de elementos \r\n >isso seria verdade pois embora os pares sejam só um subconjunto dos naturais, que envolvem pares e impares, tanto pares quanto naturais são infinitos \r\n >e todos os infinitos são iguais \r\n \r\n Isso é verdade, bê? Esse paradoxo está explodindo minha cabecinha, o que a elite intelectual da internet pode dizer a respeito disso?
+ >infinito é tudo a mesma coisa \r\n Não.
+ Não, infinito² é maior do que apenas infinito.
+ Um é infinito e o outro é infinito vezes dois.
+ Os números são indeterminados e não inifitos.
+ >isso seria verdade pois embora os pares sejam só um subconjunto dos naturais, que envolvem pares e impares, tanto pares quanto naturais são infinitos \r\n Não é esse o motivo deles serem do mesmo tamanho. O motivo que o conjunto N, os naturais, é do mesmo tamanho que 2N, os pares, é que você pode encontrar uma função bijetora entre os dois. Uma função trivial é a que leva n à 2n. O ponto é que tanto n quanto sua imagem estão associados de maneira única. Pra qualquer par, você faz a função inversa e chega em só um natural, que quando você faz a função, chega a só um par: \r\n A imagem de 1, nessa que associa n à 2n, é 2n=2(1)=2. E se pegarmos e fizermos o inverso com o 2, então dividir por dois, fica 2/2=1. O 2 está associado somente ao 1. O 1 está associado somente ao 2. Na verdade, todo n vai estar associado somente a 2n, e todo 2n vai estar associado somente a n, e pelo mesmo motivo: n multiplicado por 2 é 2n, e 2n dividido por 2 é n. Então N e 2N são de mesmas cardinalidade: mesmo tamanho, mesmo sendo conjuntos diferentes e infinitos. \r\n \r\n Mas você pode provar que nem todo infinito tem a mesma cardinalidade, mesmo tamanho, mostrando que dados dois conjuntos infinitos A e B, nem sempre há uma bijeção entre eles, e portanto eles não possuem a mesma cardinalidade: mesmo tamanho. Vou mostrar um exemplo e um exemplo infinito. \r\n \r\n O exemplo seria os naturais e os reais. O infinito de R é maior que o de N. \r\n O exemplo infinito é que pra qualquer conjunto A, seu conjunto das partes P(A) é sempre maior. Chamei de exemplo infinito pois A pode ser qualquer conjunto. \r\n \r\n Enjoe.
+ >>27068017 \r\n >mesma 
+ Tinha que ser merdafag pra falar tanta bosta.
+ >>27067706 \r\n A sua cabecinha está explodindo pois você fica assistindo moe e shounen, e isso te emburrece.
+ >>27067740 \r\n >vídeo de Pokémon 
+ >e todos os infinitos são iguais \r\n Errado. \r\n \r\n /parênquima paliçádico.
+ >>27068337 \r\n >>27068364 \r\n Por que tanto ódio gratuito a anime amigos? Só queremos trazer boas discussões e alegrar os anões.
+ >>27068556 \r\n Me responda com honestidade: você já quis dar o cu alguma vez? Já quis ou enfiou algo na bunda? Não é possível, maluco. Dá um tempo aí. Discuta se quer discutir. Meua migo, puta que pariu.
+ >>27068556 \r\n Mas eu não estou te hostilizando, animes de baixa qualidade realmente te emburrecem.
+ >>27067740 \r\n Muito bom esse vídeo.

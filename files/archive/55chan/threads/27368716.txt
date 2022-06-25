@@ -1,0 +1,8 @@
+ Algum manjador de XFCE + Openbox com lxsession num sistema baseado em Arch aqui? \r\n \r\n Sou incluso e gostaria de personalizar melhor os temas do SO. \r\n Depois de algumas pesquisas vi que é necessário o lxsession para que eu pudesse 'editar' as cores desses temas e para garantir que os temas afetarão o sistema inteiro. Eu o instalei, rodei e tudo funciona do jeito que eu quero, mas o caralho é que preciso executar o lxsession manualmente. \r\n Vi que tem como setar um autostart , mas eu sou burro e eu acidentalmente a porra toda. \r\n \r\n Acabei de reinstalar o sistema porque eu fodi tudo de um jeito que eu acho que não tinha conserto. \r\n \r\n Eu tentei vários tutoriais, inclusive esse: https://www.xfce-look.org/p/1130036/ 
+ Bump. \r\n \r\n Eu não quero quebrar meu sistema de novo. 
+ Bump.
+ Bump.
+ Bump.
+ Bump. 
+ Bump.
+ Bump. \r\n \r\n Fiz merda, reinstalando novamente.

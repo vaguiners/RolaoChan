@@ -1,0 +1,11 @@
+ Preciso converter um xml de 62 GB para JSON. Como posso fazer isso? \r\n \r\n Obs.: os meios tradicionais, sites, aplicações e parsing via programação, não funcionam porque crasham.
+ Como o XML está formatado? \r\n Se ele for de um formato bem comportado, você pode criar um parser que consiga interpretar partes do arquivo, e ir convertendo essas partes para JSON. \r\n Só vai ser possível dividindo para conquistar ou estratégia equivalente.
+ Como assim crash? Só fazer via código dando readline e writeline, linha a linha.
+ Como você tentou fazer? Eu tive que tratar alguns arquivos XML esses tempos e usei essa biblioteca para C++: \r\n > https://github.com/leethomason/tinyxml2 \r\n Mas o que eu fiz eram arquivinhos bestas, nada do tipo que você tem, provavelmente.
+ https://stackoverflow.com/questions/191536/converting-xml-to-json-using-python 
+ >>25623588 \r\n \r\n Also, se está crashando, é porquê você está carregando tudo na memória de vez, ou algo parecido. Qual linguagem você tentou usar para fazer o parsing?
+ >>25623591 \r\n \r\n https://stackoverflow.com/questions/814001/how-to-convert-json-to-xml-or-xml-to-json 
+ >>25623562 \r\n São 62GBs, anão. \r\n \r\n >>25623591 \r\n É precisamente o que acontece e não sei o que fazer, anão. \r\n \r\n Tentei Python e Java. \r\n \r\n >>25623561 \r\n Dividir para conquistar. Certo, a ideia em si é ótima, mas o arquivo sequer abre! Nem em editores de texto, nem na IDE onde tento fazer o parsing, nada! \r\n \r\n >>25623578 \r\n Vou experimentar, anão. Obrigado pela dica!
+ Utilize qualquer lib genérica para parsear e implemente algum algoritmo para já ir paginando. Você tem algum background de programação?
+ Não sei os detalhes, mas o pessoal do projeto Serenata de Amor já passou pelo mesmo problema. \r\n Pesquise como eles resolveram ou tente falar com eles.
+ >>25625129 \r\n Execute 'less arquivo.xml' e veja como ele é. \r\n Eu faria um programa em C para ler chunks de X bytes, e faria um parser próprio para esses chunks. \r\n Enquanto lê e faz o parsing, salva em outro arquivo e libera a memória. \r\n Vai demorar um pouco, e não esqueça de fazer um backup antes.

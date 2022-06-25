@@ -1,0 +1,29 @@
+ tl;dr Como ver se seu PC consegue minerar BTC e ter algum lucro. \r\n \r\n Um anão estava insistentemente perguntando se ainda é lucrativo minerar BTC, eu não me interessava por isso, mas acabei estudando criptomoedas e consequentemente a mineração. Minerar qualquer PC ou notebook consegue, mas compensar os gastos de energia já é outra coisa. Vai depender muito do seu processador ou placa de vídeo e do seu consumo de energia. Achei esse site excelente que calcula tudo para você, basta colocar o gasto de energia e o processador/placa de vídeo: https://www.nicehash.com/profitability-calculator# \r\n \r\n A minha placa é nvidia RTX 2080 ti, que consegue fazer 0.00014154 BTC (6,22 R$) por dia e 0.00591974 BTC (260,34 R$) por mês.
+ Enjoe pagar o triplo disso em luz por mês.
+ >>27455275 \r\n Vai depender da sua força computacional e gastos no geral. Fiz os cálculos aqui e com todos os gastos de energia (moro sozinho, então são poucos) consigo lucrar 200 R$ por mês. Não é ruim não.
+ >>27455284 \r\n >implicando \r\n Dois meses de bandeira vermelha e o seu lucro iria pro saco. \r\n Só vale a pena no Paraguai.
+ Você tem que calcular o consumo dos seus equipamentos a plena carga para ter uma ideia se vale mesmo a pena. \r\n Use como base a sua fonte e você terá uma ideia de quanto consumirá por hora de mineração.
+ >faça um gato na energia \r\n >roube computadores e placas de vídeo \r\n >???? \r\n >lucro puro 
+ Posso usar o PC do trabalho para isso. Por favor, expliquem para um brainlet no assunto como devo proceder.
+ >>27455355 \r\n Baixe um software de mineração, crie uma carteira (recomendo a wallet.btc.com) e coloque no software, depois é só ligar. Devem existir milhares de tutoriais por aí.
+ >>27455284 \r\n >consigo lucrar 200 R$ \r\n E quanto o anão gasta com conta de luz? Não pago energia, sou moro em uma favela e tenho poucos gastos. Consigo viver facilmente com 600 Guedes por mês, investiria em um PC para este fim se tivesse essa margem de retorno. \r\n \r\n Meu sonho é passar em um concurso e sair desse lugar. Mais vendi meu tempo e alma para o judeu, trabalho o dia todo e chego em casa exausto demais para estudar.
+ Amigo, você está uns 7 anos atrasado.
+ >>27455405 \r\n Minha conta vem uns 50-60 R$, por causa da geladeira, lâmpadas e o PC ligado. \r\n Compre um bom PC ou notebook e junte grana para comprar uma mineradora ou duas, só pesquisar bem.
+ >>27455421 \r\n Vá estudar.
+ >>27455439 \r\n \r\n Chupa meu pau.
+ >>27455405 \r\n >esse anão favelado \r\n >esse português todo cagado \r\n >essa pica \r\n provavelmente fazendo gato na luz \r\n Perdi, você é um bom anão, carioca.
+ >>27455454 \r\n >provavelmente fazendo gato na luz \r\n Fix'd.
+ >>27455446 \r\n Olha que eu chupo, hein. \r\n Mas falando sério, ainda é lucrativo minerar, não vou ficar rico, mas uns 200 reais a mais por mês não é ruim. E se eu tivesse mais grana para investir em umas 10 ou 20 mineradoras, nem precisaria mais trabalhar.
+ >>27455438 \r\n \r\n O anão pode me indicar alguma fonte para obtenção de cal e cimento? Me interessei por essa manodica, mas sou incluso nas computarias.
+ Me elucidem, anões. \r\n Você vai lá, deixa seu PC trabalhando , e consegue um trocado. \r\n \r\n Minha pergunta é: Quem ganha com isso no fim das contas, digo, alguém deve lucrar mais que você com o seu pc trabalhando. E quem realmente lhe paga?
+ Essa Bitmain antminer T9 custa 6299 R$ no mercado livre, ela consegue minerar 329,8 R$ por mês (já descontado o gasto de energia que terei). Eu levaria 1 ano e 8 meses para compensar o gasto que tive ao comprar (6289) e mais 1 ano e 8 meses para comprar uma segunda. Depois disso seriam 658 reais por mês, direto para os meus joguinhos. \r\n \r\n https://produto.mercadolivre.com.br/MLB-1156443667-mineradora-ethereum-bitmain-antminer-e3-200mhs-fonte-_JM?matt_tool=18507720&matt_word=&gclid=EAIaIQobChMIvZ6dw8Gv4wIVQoGRCh2EpQygEAQYAiABEgKdU_D_BwE 
+ >>27455542 \r\n >pensando 2 anos para frente sobre uma moeda de mentira \r\n \r\n Se essa merda do nada cai do nada, seu investimento vai para o caralho.
+ >>27455552 \r\n >…merda cai do nada \r\n Fix'd. \r\n Also, chequem.
+ Diga adeus à vida útil da sua GPU e pegue logo o seu recibo de burro.
+ >>27455537 \r\n Você está ganhando por prestar um serviço ao sistema. Você tem que entender o propósito dos mineradores, que servem para manter a rede rápida e gerar novos blocos na blockchain.
+ >>27455552 \r\n Cara, pare para estudar a porra do sistema. Burro pra caralho.
+ >>27455552 \r\n Se cair é melhor para mim, burrão.
+ >>27455570 \r\n Poxa, eu fui muito rude. Perdão, >>27455552 
+ Você pagou 6 paus numa GPU, cara. Tirar duzentos reais por mês não vai nem compensar o prejuízo que terá quando essa bosta queimar daqui um ou no máximo dois anos. Quanto você acha que uma GPU dura minerando assim, 24/7?
+ >A minha placa é nvidia RTX 2080 ti, que consegue fazer 0.00014154 BTC (6,22 R$) por dia e 0.00591974 BTC (260,34 R$) por mês. \r\n \r\n Por que o valor em um mês é maior que trinta vezes um dia?
+ >more em uma favela \r\n >faça um gato \r\n PROFIT 

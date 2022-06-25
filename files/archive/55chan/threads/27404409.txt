@@ -1,0 +1,18 @@
+ Vou iniciar CC ano que vem e comecei a aprender python agora. Eu vejo a mídia falando muito bem de python, que é a linguagem mais famosa e tudo mais, entretanto nos IB's os anões teoricamente experientes dizem ser uma merda, principalmente quanto ao financeiro. Então qual seria a melhor linguagem para quem pretende viver de programação? \r\n Eu tenho facilidade e gosto muito de matemática. Até ver os anões falando sobre python, meu objetivo era aprender python, depois JS, depois C e depois C++. O que eu faço?
+ Aprenda Node.js, React ou Angular, MongoDB e MySQL. \r\n Pronto, está preparado pra ganhar 12-16k por mês. \r\n \r\n Dê nada.
+ >>27404423 \r\n >node,js, react, angular \r\n São linguagens de programação?
+ >>27404432 \r\n Jogue no Google e descubra, preguiçoso.
+ >>27404448 \r\n Preciso saber javascript pra aprender node.js?
+ Comecei com a linguagem C com 13 anos por iniciativa do meu pai, que era programador na época. Sempre que me perguntam sobre qual linguagem iniciar os estudos, recomendo C. Python é algo extremamente desgostante, assim como JS. Entrei em uma empresa como programador C com 18 anos e permaneço nela até hoje. Não posso reclamar do meu salário atual (R$ 11.678) comparado as demais áreas. Saudades de você, pai. 
+ >>27404510 \r\n >python é degostante assim como JS \r\n >não diz o motivo 
+ >>27404465 \r\n MEUS LADOS.
+ >>27404555 \r\n Não tem motivo. São ambos baseados em C, o lado ruim é a lentidão na execução e a manipulação dos dados cagada (em JS), o bom é a rapidez em criar coisas. Não sei muito do Python, mas JS é muito inseguro. Empresas de auditoria e segurança estão crescendo só pelo tanto de merdas feitas com JS.
+ C++ em todos os campos.
+ Abandone tudo e leia o K&R primeiro, ou você correrá o risco de se tornar um macaco de código padrão. Pesquise pelo PDF nas internets mesmo ou compre, vale muito a pena. É um livro muito simples no começo, que chega até conceitos muito avançados, a ponto de aprender coisas que não se ensina mais nas faculdades porque não dá tempo. Me agradeça depois.
+ Por que não existe apenas uma linguagem de programação padrão e fim de papo?
+ >>27404633 \r\n The C Programming Language?
+ Bump.
+ Qual a vantagem de usar essa IDE aí ao invés de usar KATE ou VIM master race?
+ >>27404666 \r\n Exato, triplos do Demiurgo.
+ >>27404664 \r\n Porque não existe uma única maneira de pensar. Linguagens de programação são estruturas de pensamento diferentes, que se limitam para ter foco. Mas o foco exclui umas coisas para incluir outras, então não é possível você ter uma única linguagem simples o suficiente para ser produtiva e ao mesmo tempo universalmente abrangente.
+ CC SÓ TEM MONGOLOIDES, AUSTISTAS E ESQUISITÕES! 
