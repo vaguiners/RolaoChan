@@ -1,4514 +1,2067 @@
 [
   {
-    "CPU Name": "i7-880",
-    "Cores": 4,
-    "CPUMark": "3,007",
-    "ThreadMark": "1,408",
-    "Socket": "LGA1156",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "A8-7650K",
-    "Cores": 2,
-    "CPUMark": "3,012",
-    "ThreadMark": "1,371",
-    "Socket": "FM2+",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Phenom II X6 1045T",
-    "Cores": 6,
-    "CPUMark": "3,034",
-    "ThreadMark": "1,287",
-    "Socket": "AM3",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Pentium Silver J5005",
-    "Cores": 4,
-    "CPUMark": "3,040",
-    "ThreadMark": "1,206",
-    "Socket": "FCBGA1090",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-24050S",
-    "Cores": 4,
-    "CPUMark": "3,061",
-    "ThreadMark": "1,397",
-    "Socket": "LGA1155, FCLGA11",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-940",
-    "Cores": 4,
-    "CPUMark": "3,066",
-    "ThreadMark": "1,345",
-    "Socket": "LGA1366",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-870",
-    "Cores": 4,
-    "CPUMark": "3,074",
-    "ThreadMark": "1,392",
-    "Socket": "LGA1156",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "PRO A12-8870E",
-    "Cores": 4,
-    "CPUMark": "3,083",
-    "ThreadMark": "1,520",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i3-6100TE",
-    "Cores": 2,
-    "CPUMark": "3,085",
-    "ThreadMark": "1,615",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "A10-6700 APU",
-    "Cores": 4,
-    "CPUMark": "3,090",
-    "ThreadMark": "1,607",
-    "Socket": "FM2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "FX-4320",
-    "Cores": 2,
-    "CPUMark": "3,092",
-    "ThreadMark": "1,552",
-    "Socket": "AM3+",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i3-4330T",
-    "Cores": 2,
-    "CPUMark": "3,098",
-    "ThreadMark": "1,717",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "PRO A10-8770E",
-    "Cores": 4,
-    "CPUMark": "3,106",
-    "ThreadMark": "1,445",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "GT 1030",
+    "a3dmark": "2,544",
+    "a2dmark": 449,
+    "tdp": 30,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4570TE",
-    "Cores": 2,
-    "CPUMark": "3,106",
-    "ThreadMark": "1,631",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "GT 640",
+    "a3dmark": "1,187",
+    "a2dmark": 288,
+    "tdp": 65,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-4170",
-    "Cores": 2,
-    "CPUMark": "3,109",
-    "ThreadMark": "1,457",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "GT 740",
+    "a3dmark": "1,530",
+    "a2dmark": 343,
+    "tdp": 64,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4200H",
-    "Cores": 2,
-    "CPUMark": "3,113",
-    "ThreadMark": "1,807",
-    "Socket": "BGA1364",
-    "Category": "Desktop"
+    "name": "GTS 450",
+    "a3dmark": "1,324",
+    "a2dmark": 303,
+    "tdp": 106,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10-6790K APU",
-    "Cores": 2,
-    "CPUMark": "3,117",
-    "ThreadMark": "1,571",
-    "Socket": "FM2",
-    "Category": "Desktop"
+    "name": "GTX 1050",
+    "a3dmark": "5,087",
+    "a2dmark": 475,
+    "tdp": 75,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i7-875K",
-    "Cores": 4,
-    "CPUMark": "3,119",
-    "ThreadMark": "1,374",
-    "Socket": "LGA1156",
-    "Category": "Desktop"
+    "name": "GTX 1050 Ti",
+    "a3dmark": "6,313",
+    "a2dmark": 651,
+    "tdp": 75,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium G4600T",
-    "Cores": 2,
-    "CPUMark": "3,130",
-    "ThreadMark": "1,843",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "GTX 1060",
+    "a3dmark": "10,069",
+    "a2dmark": 762,
+    "tdp": 120,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4160T",
-    "Cores": 2,
-    "CPUMark": "3,133",
-    "ThreadMark": "1,771",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "GTX 1060 3GB",
+    "a3dmark": "9,730",
+    "a2dmark": 780,
+    "tdp": 120,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-4200",
-    "Cores": 4,
-    "CPUMark": "3,134",
-    "ThreadMark": "1,285",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "GTX 1060 5GB",
+    "a3dmark": "8,722",
+    "a2dmark": 669,
+    "tdp": 120,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4570T",
-    "Cores": 2,
-    "CPUMark": "3,136",
-    "ThreadMark": "1,875",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "GTX 1070",
+    "a3dmark": "13,485",
+    "a2dmark": 857,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10-7800 APU",
-    "Cores": 2,
-    "CPUMark": "3,142",
-    "ThreadMark": "1,450",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 1070 Ti",
+    "a3dmark": "14,511",
+    "a2dmark": 876,
+    "tdp": 180,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i7-950",
-    "Cores": 4,
-    "CPUMark": "3,152",
-    "ThreadMark": "1,394",
-    "Socket": "LGA1366",
-    "Category": "Desktop"
+    "name": "GTX 1080",
+    "a3dmark": "15,266",
+    "a2dmark": 889,
+    "tdp": 180,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10-7700K APU",
-    "Cores": 2,
-    "CPUMark": "3,153",
-    "ThreadMark": "1,423",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 1080 Ti",
+    "a3dmark": "18,295",
+    "a2dmark": 935,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10-6800K APU",
-    "Cores": 2,
-    "CPUMark": "3,157",
-    "ThreadMark": "1,605",
-    "Socket": "FM2",
-    "Category": "Desktop"
+    "name": "GTX 1650",
+    "a3dmark": "7,808",
+    "a2dmark": 592,
+    "tdp": 75,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-2400S",
-    "Cores": 4,
-    "CPUMark": "3,157",
-    "ThreadMark": "1,474",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "GTX 1650 SUPER",
+    "a3dmark": "10,033",
+    "a2dmark": 761,
+    "tdp": 100,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4170T",
-    "Cores": 2,
-    "CPUMark": "3,162",
-    "ThreadMark": "1,813",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "GTX 1660",
+    "a3dmark": "11,700",
+    "a2dmark": 796,
+    "tdp": 120,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4360T",
-    "Cores": 2,
-    "CPUMark": "3,164",
-    "ThreadMark": "1,852",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "GTX 1660 SUPER",
+    "a3dmark": "12,732",
+    "a2dmark": 823,
+    "tdp": 125,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "PRO A12-9800E",
-    "Cores": 4,
-    "CPUMark": "3,182",
-    "ThreadMark": "1,551",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "GTX 1660 Ti",
+    "a3dmark": "11,799",
+    "a2dmark": 702,
+    "tdp": 120,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10 PRO-7800B APU",
-    "Cores": 2,
-    "CPUMark": "3,184",
-    "ThreadMark": "1,502",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 260",
+    "a3dmark": "1,224",
+    "a2dmark": 87,
+    "tdp": 202,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Phenom II X6 1055T",
-    "Cores": 6,
-    "CPUMark": "3,197",
-    "ThreadMark": "1,315",
-    "Socket": "AM3",
-    "Category": "Desktop"
+    "name": "GTX 275",
+    "a3dmark": "1,401",
+    "a2dmark": 106,
+    "tdp": 219,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "PRO A8-8650B",
-    "Cores": 4,
-    "CPUMark": "3,203",
-    "ThreadMark": "1,485",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 280",
+    "a3dmark": "1,181",
+    "a2dmark": 121,
+    "tdp": 236,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A8-7600 APU",
-    "Cores": 2,
-    "CPUMark": "3,219",
-    "ThreadMark": "1,453",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 285",
+    "a3dmark": "1,539",
+    "a2dmark": 113,
+    "tdp": 204,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A8-7670K",
-    "Cores": 4,
-    "CPUMark": "3,224",
-    "ThreadMark": "1,512",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 295",
+    "a3dmark": "1,171",
+    "a2dmark": 150,
+    "tdp": 289,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G5500T",
-    "Cores": 2,
-    "CPUMark": "3,234",
-    "ThreadMark": "1,964",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "GTX 460",
+    "a3dmark": "2,291",
+    "a2dmark": 384,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i7-960",
-    "Cores": 4,
-    "CPUMark": "3,238",
-    "ThreadMark": "1,452",
-    "Socket": "LGA1366",
-    "Category": "Desktop"
+    "name": "GTX 460 SE",
+    "a3dmark": "1,974",
+    "a2dmark": 359,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4570T",
-    "Cores": 2,
-    "CPUMark": "3,244",
-    "ThreadMark": "1,693",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "GTX 460 v2",
+    "a3dmark": "2,005",
+    "a2dmark": 459,
+    "tdp": 160,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-4330",
-    "Cores": 2,
-    "CPUMark": "3,248",
-    "ThreadMark": "1,563",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "GTX 465",
+    "a3dmark": "2,681",
+    "a2dmark": 454,
+    "tdp": 200,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4400E",
-    "Cores": 2,
-    "CPUMark": "3,251",
-    "ThreadMark": "1,804",
-    "Socket": "BGA1364",
-    "Category": "Desktop"
+    "name": "GTX 470",
+    "a3dmark": "3,147",
+    "a2dmark": 381,
+    "tdp": 215,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-4350",
-    "Cores": 2,
-    "CPUMark": "3,262",
-    "ThreadMark": "1,603",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "GTX 480",
+    "a3dmark": "4,110",
+    "a2dmark": 447,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Phenom II X6 1075T",
-    "Cores": 6,
-    "CPUMark": "3,284",
-    "ThreadMark": "1,411",
-    "Socket": "AM3",
-    "Category": "Desktop"
+    "name": "GTX 550 Ti",
+    "a3dmark": "1,555",
+    "a2dmark": 364,
+    "tdp": 116,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon X4 840",
-    "Cores": 2,
-    "CPUMark": "3,287",
-    "ThreadMark": "1,482",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 555",
+    "a3dmark": "1,807",
+    "a2dmark": 485,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i7-965",
-    "Cores": 4,
-    "CPUMark": "3,288",
-    "ThreadMark": "1,452",
-    "Socket": "LGA1366",
-    "Category": "Desktop"
+    "name": "GTX 560",
+    "a3dmark": "2,711",
+    "a2dmark": 418,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A8-9600",
-    "Cores": 4,
-    "CPUMark": "3,291",
-    "ThreadMark": "1,486",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "GTX 560 SE",
+    "a3dmark": "2,087",
+    "a2dmark": 413,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4130",
-    "Cores": 2,
-    "CPUMark": "3,291",
-    "ThreadMark": "1,891",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "GTX 560 Ti",
+    "a3dmark": "3,062",
+    "a2dmark": 420,
+    "tdp": 170,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10-8750",
-    "Cores": 2,
-    "CPUMark": "3,320",
-    "ThreadMark": "1,554",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 570",
+    "a3dmark": "3,885",
+    "a2dmark": 466,
+    "tdp": 219,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Phenom II X6 1065T",
-    "Cores": 6,
-    "CPUMark": "3,320",
-    "ThreadMark": "1,359",
-    "Socket": "AM3",
-    "Category": "Desktop"
+    "name": "GTX 580",
+    "a3dmark": "4,534",
+    "a2dmark": 456,
+    "tdp": 244,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-4150",
-    "Cores": 4,
-    "CPUMark": "3,327",
-    "ThreadMark": "1,465",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "GTX 590",
+    "a3dmark": "3,345",
+    "a2dmark": 425,
+    "tdp": 365,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10-7860K",
-    "Cores": 2,
-    "CPUMark": "3,333",
-    "ThreadMark": "1,538",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 645",
+    "a3dmark": "1,858",
+    "a2dmark": 432,
+    "tdp": 64,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Phenom II X6 1405T",
-    "Cores": 6,
-    "CPUMark": "3,335",
-    "ThreadMark": "1,247",
-    "Socket": "AM2+,AM3",
-    "Category": "Desktop"
+    "name": "GTX 650",
+    "a3dmark": "1,769",
+    "a2dmark": 346,
+    "tdp": 64,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "PRO A8-9600",
-    "Cores": 2,
-    "CPUMark": "3,347",
-    "ThreadMark": "1,468",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "GTX 650 Ti",
+    "a3dmark": "2,532",
+    "a2dmark": 399,
+    "tdp": 110,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4150",
-    "Cores": 2,
-    "CPUMark": "3,360",
-    "ThreadMark": "1,933",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "GTX 650 Ti BOOST",
+    "a3dmark": "3,331",
+    "a2dmark": 454,
+    "tdp": 134,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10-7850K APU",
-    "Cores": 2,
-    "CPUMark": "3,363",
-    "ThreadMark": "1,512",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 660",
+    "a3dmark": "4,004",
+    "a2dmark": 475,
+    "tdp": 140,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4370T",
-    "Cores": 2,
-    "CPUMark": "3,368",
-    "ThreadMark": "1,914",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "GTX 660 Ti",
+    "a3dmark": "4,367",
+    "a2dmark": 448,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-B4150",
-    "Cores": 2,
-    "CPUMark": "3,369",
-    "ThreadMark": "1,425",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "GTX 670",
+    "a3dmark": "5,306",
+    "a2dmark": 523,
+    "tdp": 170,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i7-975",
-    "Cores": 4,
-    "CPUMark": "3,370",
-    "ThreadMark": "1,508",
-    "Socket": "LGA1366",
-    "Category": "Desktop"
+    "name": "GTX 680",
+    "a3dmark": "5,541",
+    "a2dmark": 528,
+    "tdp": 195,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon X4 870K",
-    "Cores": 2,
-    "CPUMark": "3,383",
-    "ThreadMark": "1,543",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 690",
+    "a3dmark": "5,654",
+    "a2dmark": 458,
+    "tdp": 300,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-2300",
-    "Cores": 4,
-    "CPUMark": "3,384",
-    "ThreadMark": "1,430",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "GTX 745",
+    "a3dmark": "2,174",
+    "a2dmark": 469,
+    "tdp": 55,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon X4 860K",
-    "Cores": 2,
-    "CPUMark": "3,428",
-    "ThreadMark": "1,527",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 750",
+    "a3dmark": "3,399",
+    "a2dmark": 479,
+    "tdp": 55,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "PRO A10-8770",
-    "Cores": 4,
-    "CPUMark": "3,434",
-    "ThreadMark": "1,522",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "GTX 750 Ti",
+    "a3dmark": "3,919",
+    "a2dmark": 498,
+    "tdp": 60,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Celeron G6900",
-    "Cores": 2,
-    "CPUMark": "3,446",
-    "ThreadMark": "2,587",
-    "Socket": "LGA1700,BGA1700",
-    "Category": "Desktop"
+    "name": "GTX 760",
+    "a3dmark": "4,774",
+    "a2dmark": 523,
+    "tdp": 170,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A12-9800",
-    "Cores": 2,
-    "CPUMark": "3,447",
-    "ThreadMark": "1,607",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "GTX 760 Ti",
+    "a3dmark": "5,206",
+    "a2dmark": 555,
+    "tdp": 170,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A12-9800E",
-    "Cores": 4,
-    "CPUMark": "3,447",
-    "ThreadMark": "1,604",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "GTX 770",
+    "a3dmark": "5,893",
+    "a2dmark": 552,
+    "tdp": 230,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10 PRO-7850B APU",
-    "Cores": 2,
-    "CPUMark": "3,458",
-    "ThreadMark": "1,587",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 780",
+    "a3dmark": "8,022",
+    "a2dmark": 601,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4350",
-    "Cores": 2,
-    "CPUMark": "3,459",
-    "ThreadMark": "1,902",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "GTX 780 Ti",
+    "a3dmark": "9,335",
+    "a2dmark": 625,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-2500S",
-    "Cores": 4,
-    "CPUMark": "3,459",
-    "ThreadMark": "1,677",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "GTX 950",
+    "a3dmark": "5,388",
+    "a2dmark": 641,
+    "tdp": 90,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10-7890K",
-    "Cores": 2,
-    "CPUMark": "3,477",
-    "ThreadMark": "1,566",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 960",
+    "a3dmark": "6,040",
+    "a2dmark": 671,
+    "tdp": 120,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10-7870K",
-    "Cores": 2,
-    "CPUMark": "3,486",
-    "ThreadMark": "1,508",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "GTX 970",
+    "a3dmark": "9,686",
+    "a2dmark": 781,
+    "tdp": 145,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4160",
-    "Cores": 2,
-    "CPUMark": "3,496",
-    "ThreadMark": "2,013",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "GTX 980",
+    "a3dmark": "11,238",
+    "a2dmark": 814,
+    "tdp": 165,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4340",
-    "Cores": 2,
-    "CPUMark": "3,506",
-    "ThreadMark": "2,027",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "GTX 980 Ti",
+    "a3dmark": "13,867",
+    "a2dmark": 854,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G5420T",
-    "Cores": 2,
-    "CPUMark": "3,508",
-    "ThreadMark": "1,978",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "GTX Titan",
+    "a3dmark": "8,551",
+    "a2dmark": 666,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium G4560",
-    "Cores": 2,
-    "CPUMark": "3,514",
-    "ThreadMark": "2,103",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "GTX TITAN Black",
+    "a3dmark": "9,140",
+    "a2dmark": 616,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Silver J5040",
-    "Cores": 4,
-    "CPUMark": "3,518",
-    "ThreadMark": "1,417",
-    "Socket": "FCBGA1090",
-    "Category": "Desktop"
+    "name": "GTX TITAN X",
+    "a3dmark": "13,171",
+    "a2dmark": 843,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10-8850",
-    "Cores": 2,
-    "CPUMark": "3,525",
-    "ThreadMark": "1,624",
-    "Socket": "Unknown",
-    "Category": "Desktop"
+    "name": "GTX TITAN Z",
+    "a3dmark": "9,189",
+    "a2dmark": 648,
+    "tdp": 375,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4330",
-    "Cores": 2,
-    "CPUMark": "3,541",
-    "ThreadMark": "1,984",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "RTX 2060",
+    "a3dmark": "13,950",
+    "a2dmark": 751,
+    "tdp": 160,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A10-9700",
-    "Cores": 4,
-    "CPUMark": "3,546",
-    "ThreadMark": "1,615",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "RTX 2060 SUPER",
+    "a3dmark": "16,511",
+    "a2dmark": 880,
+    "tdp": 175,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4170",
-    "Cores": 2,
-    "CPUMark": "3,572",
-    "ThreadMark": "2,070",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "RTX 2070",
+    "a3dmark": "16,076",
+    "a2dmark": 832,
+    "tdp": 175,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon X4 950",
-    "Cores": 4,
-    "CPUMark": "3,591",
-    "ThreadMark": "1,662",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "RTX 2070 SUPER",
+    "a3dmark": "18,174",
+    "a2dmark": 897,
+    "tdp": 215,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4460T",
-    "Cores": 4,
-    "CPUMark": "3,595",
-    "ThreadMark": "1,481",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "RTX 2080",
+    "a3dmark": "18,733",
+    "a2dmark": 916,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G5600T",
-    "Cores": 2,
-    "CPUMark": "3,601",
-    "ThreadMark": "2,025",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "RTX 2080 SUPER",
+    "a3dmark": "19,516",
+    "a2dmark": 934,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium G4600",
-    "Cores": 2,
-    "CPUMark": "3,605",
-    "ThreadMark": "2,186",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "RTX 2080 Ti",
+    "a3dmark": "21,807",
+    "a2dmark": 939,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G6400T",
-    "Cores": 2,
-    "CPUMark": "3,610",
-    "ThreadMark": "2,140",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
+    "name": "RTX 3060",
+    "a3dmark": "16,972",
+    "a2dmark": 953,
+    "tdp": 170,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-2310",
-    "Cores": 4,
-    "CPUMark": "3,616",
-    "ThreadMark": "1,497",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "RTX 3060 Ti",
+    "a3dmark": "20,223",
+    "a2dmark": 961,
+    "tdp": 200,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-6100T",
-    "Cores": 2,
-    "CPUMark": "3,617",
-    "ThreadMark": "1,891",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "RTX 3070",
+    "a3dmark": "22,101",
+    "a2dmark": 970,
+    "tdp": 220,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-2320",
-    "Cores": 4,
-    "CPUMark": "3,634",
-    "ThreadMark": "1,512",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "RTX 3070 Ti",
+    "a3dmark": "23,381",
+    "a2dmark": "1,008",
+    "tdp": 290,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "PRO A10-9700",
-    "Cores": 2,
-    "CPUMark": "3,644",
-    "ThreadMark": "1,655",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "RTX 3080",
+    "a3dmark": "24,873",
+    "a2dmark": "1,004",
+    "tdp": 320,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G5420",
-    "Cores": 2,
-    "CPUMark": "3,648",
-    "ThreadMark": "2,289",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "RTX 3080 Ti",
+    "a3dmark": "26,927",
+    "a2dmark": "1,036",
+    "tdp": 350,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Phenom II X6 1090T",
-    "Cores": 6,
-    "CPUMark": "3,655",
-    "ThreadMark": "1,456",
-    "Socket": "AM3",
-    "Category": "Desktop"
+    "name": "RTX 3090",
+    "a3dmark": "26,418",
+    "a2dmark": "1,000",
+    "tdp": 350,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon X4 880K",
-    "Cores": 2,
-    "CPUMark": "3,676",
-    "ThreadMark": "1,628",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "NVIDIA TITAN X",
+    "a3dmark": "13,660",
+    "a2dmark": 912,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-6100",
-    "Cores": 3,
-    "CPUMark": "3,679",
-    "ThreadMark": "1,320",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "NVIDIA TITAN Xp",
+    "a3dmark": "18,280",
+    "a2dmark": 812,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4360",
-    "Cores": 2,
-    "CPUMark": "3,694",
-    "ThreadMark": "2,072",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "HD 4850 X2",
+    "a3dmark": "1,132",
+    "a2dmark": 542,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G5400",
-    "Cores": 2,
-    "CPUMark": "3,723",
-    "ThreadMark": "2,224",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "HD 4870",
+    "a3dmark": "1,391",
+    "a2dmark": 70,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Phenom II X6 1100T",
-    "Cores": 6,
-    "CPUMark": "3,733",
-    "ThreadMark": "1,502",
-    "Socket": "AM3",
-    "Category": "Desktop"
+    "name": "HD 4870 X2",
+    "a3dmark": "1,309",
+    "a2dmark": 565,
+    "tdp": 286,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G6405T",
-    "Cores": 2,
-    "CPUMark": "3,746",
-    "ThreadMark": "2,206",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
+    "name": "HD 4890",
+    "a3dmark": "1,533",
+    "a2dmark": 103,
+    "tdp": 190,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "PRO A10-8850B",
-    "Cores": 2,
-    "CPUMark": "3,752",
-    "ThreadMark": "1,611",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "HD 5750",
+    "a3dmark": "1,157",
+    "a2dmark": 336,
+    "tdp": 86,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3335S",
-    "Cores": 4,
-    "CPUMark": "3,754",
-    "ThreadMark": "1,738",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "HD 5770",
+    "a3dmark": "1,351",
+    "a2dmark": 328,
+    "tdp": 108,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G5600",
-    "Cores": 2,
-    "CPUMark": "3,769",
-    "ThreadMark": "2,291",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "HD 5830",
+    "a3dmark": "1,735",
+    "a2dmark": 382,
+    "tdp": 175,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium G4620",
-    "Cores": 2,
-    "CPUMark": "3,777",
-    "ThreadMark": "2,268",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "HD 5850",
+    "a3dmark": "1,966",
+    "a2dmark": 404,
+    "tdp": 151,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon X4 845",
-    "Cores": 2,
-    "CPUMark": "3,784",
-    "ThreadMark": "1,680",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "HD 5870",
+    "a3dmark": "2,272",
+    "a2dmark": 412,
+    "tdp": 228,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G5500",
-    "Cores": 2,
-    "CPUMark": "3,785",
-    "ThreadMark": "2,259",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "HD 5970",
+    "a3dmark": "2,243",
+    "a2dmark": 392,
+    "tdp": 294,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-7100T",
-    "Cores": 2,
-    "CPUMark": "3,787",
-    "ThreadMark": "2,007",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "HD 6750",
+    "a3dmark": "1,005",
+    "a2dmark": 304,
+    "tdp": 86,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-2380P",
-    "Cores": 4,
-    "CPUMark": "3,797",
-    "ThreadMark": "1,607",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "HD 6770",
+    "a3dmark": "1,231",
+    "a2dmark": 313,
+    "tdp": 108,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-4370",
-    "Cores": 2,
-    "CPUMark": "3,807",
-    "ThreadMark": "2,126",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "HD 6790",
+    "a3dmark": "1,613",
+    "a2dmark": 370,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3330S",
-    "Cores": 4,
-    "CPUMark": "3,810",
-    "ThreadMark": "1,691",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "HD 6850",
+    "a3dmark": "1,979",
+    "a2dmark": 425,
+    "tdp": 127,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-2400",
-    "Cores": 4,
-    "CPUMark": "3,841",
-    "ThreadMark": "1,580",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "HD 6870",
+    "a3dmark": "2,224",
+    "a2dmark": 397,
+    "tdp": 151,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-8100",
-    "Cores": 4,
-    "CPUMark": "3,847",
-    "ThreadMark": "1,094",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "HD 6950",
+    "a3dmark": "2,649",
+    "a2dmark": 421,
+    "tdp": 200,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "PRO A12-8870",
-    "Cores": 4,
-    "CPUMark": "3,848",
-    "ThreadMark": "1,718",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "HD 6970",
+    "a3dmark": "2,863",
+    "a2dmark": 430,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-6120",
-    "Cores": 3,
-    "CPUMark": "3,863",
-    "ThreadMark": "1,415",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "HD 6990",
+    "a3dmark": "3,013",
+    "a2dmark": 630,
+    "tdp": 375,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "A8-7500",
-    "Cores": 2,
-    "CPUMark": "3,878",
-    "ThreadMark": "1,509",
-    "Socket": "FM2+",
-    "Category": "Desktop"
+    "name": "HD 7730",
+    "a3dmark": "1,230",
+    "a2dmark": 412,
+    "tdp": 47,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "PRO A12-9800",
-    "Cores": 4,
-    "CPUMark": "3,878",
-    "ThreadMark": "1,775",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "HD 7750",
+    "a3dmark": "1,696",
+    "a2dmark": 398,
+    "tdp": 55,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-7101TE",
-    "Cores": 2,
-    "CPUMark": "3,911",
-    "ThreadMark": "1,997",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "HD 7770",
+    "a3dmark": "2,202",
+    "a2dmark": 471,
+    "tdp": 80,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-2450P",
-    "Cores": 4,
-    "CPUMark": "3,974",
-    "ThreadMark": "1,654",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "HD 7790",
+    "a3dmark": "3,090",
+    "a2dmark": 459,
+    "tdp": 85,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4590T",
-    "Cores": 4,
-    "CPUMark": "3,982",
-    "ThreadMark": "1,648",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "HD 7850",
+    "a3dmark": "3,830",
+    "a2dmark": 551,
+    "tdp": 130,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-6200",
-    "Cores": 3,
-    "CPUMark": "4,001",
-    "ThreadMark": "1,382",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "HD 7870",
+    "a3dmark": "4,661",
+    "a2dmark": 587,
+    "tdp": 175,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G6500T",
-    "Cores": 2,
-    "CPUMark": "4,005",
-    "ThreadMark": "2,277",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
+    "name": "HD 7870 XT",
+    "a3dmark": "4,470",
+    "a2dmark": 661,
+    "tdp": 185,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Celeron N5095",
-    "Cores": 4,
-    "CPUMark": "4,010",
-    "ThreadMark": "1,510",
-    "Socket": "FCBGA1338",
-    "Category": "Desktop"
+    "name": "HD 7950 / R9 280",
+    "a3dmark": "4,765",
+    "a2dmark": 691,
+    "tdp": 200,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-6300T",
-    "Cores": 2,
-    "CPUMark": "4,040",
-    "ThreadMark": "2,055",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "HD 7970 / R9 280X",
+    "a3dmark": "5,248",
+    "a2dmark": 730,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3330",
-    "Cores": 4,
-    "CPUMark": "4,092",
-    "ThreadMark": "1,726",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "HD 7990",
+    "a3dmark": "5,566",
+    "a2dmark": 766,
+    "tdp": 375,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-2500K",
-    "Cores": 4,
-    "CPUMark": "4,098",
-    "ThreadMark": "1,699",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "HD 8950",
+    "a3dmark": "2,267",
+    "a2dmark": 423,
+    "tdp": 225,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-2500",
-    "Cores": 4,
-    "CPUMark": "4,101",
-    "ThreadMark": "1,708",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "HD 8990",
+    "a3dmark": "5,214",
+    "a2dmark": 658,
+    "tdp": 375,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3340S",
-    "Cores": 4,
-    "CPUMark": "4,102",
-    "ThreadMark": "1,792",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "Pro 5700",
+    "a3dmark": "11,844",
+    "a2dmark": 829,
+    "tdp": 130,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G5620",
-    "Cores": 2,
-    "CPUMark": "4,102",
-    "ThreadMark": "2,424",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Pro 5700 XT",
+    "a3dmark": "12,537",
+    "a2dmark": 831,
+    "tdp": 130,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-2550K",
-    "Cores": 4,
-    "CPUMark": "4,123",
-    "ThreadMark": "1,754",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "Pro 580X",
+    "a3dmark": "7,540",
+    "a2dmark": 698,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G6400",
-    "Cores": 2,
-    "CPUMark": "4,130",
-    "ThreadMark": "2,484",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
+    "name": "Pro Duo",
+    "a3dmark": "8,324",
+    "a2dmark": 715,
+    "tdp": 350,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon 200GE",
-    "Cores": 2,
-    "CPUMark": "4,135",
-    "ThreadMark": "1,817",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Pro Vega 56",
+    "a3dmark": "12,386",
+    "a2dmark": 860,
+    "tdp": "NA",
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon PRO 200GE",
-    "Cores": 2,
-    "CPUMark": "4,139",
-    "ThreadMark": "1,821",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Pro W5500",
+    "a3dmark": "9,276",
+    "a2dmark": 898,
+    "tdp": 125,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G6500",
-    "Cores": 2,
-    "CPUMark": "4,147",
-    "ThreadMark": "2,491",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
+    "name": "Pro W5700",
+    "a3dmark": "15,085",
+    "a2dmark": 908,
+    "tdp": 205,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-6300",
-    "Cores": 3,
-    "CPUMark": "4,156",
-    "ThreadMark": "1,486",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "Pro WX 4100",
+    "a3dmark": "3,766",
+    "a2dmark": 690,
+    "tdp": 50,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-7300T",
-    "Cores": 2,
-    "CPUMark": "4,159",
-    "ThreadMark": "2,128",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "Pro WX 8200",
+    "a3dmark": "14,110",
+    "a2dmark": 824,
+    "tdp": 230,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G5600F",
-    "Cores": 2,
-    "CPUMark": "4,160",
-    "ThreadMark": "2,442",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Pro WX 9100",
+    "a3dmark": "13,241",
+    "a2dmark": 772,
+    "tdp": 230,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4430S",
-    "Cores": 4,
-    "CPUMark": "4,168",
-    "ThreadMark": "1,719",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "R7 250",
+    "a3dmark": "1,144",
+    "a2dmark": 296,
+    "tdp": 75,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-6098P",
-    "Cores": 2,
-    "CPUMark": "4,170",
-    "ThreadMark": "2,160",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "R7 250X",
+    "a3dmark": "2,269",
+    "a2dmark": 637,
+    "tdp": 95,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3340",
-    "Cores": 4,
-    "CPUMark": "4,171",
-    "ThreadMark": "1,773",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "R7 260",
+    "a3dmark": "2,892",
+    "a2dmark": 559,
+    "tdp": 95,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-6100",
-    "Cores": 2,
-    "CPUMark": "4,177",
-    "ThreadMark": "2,221",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "R7 260X",
+    "a3dmark": "3,147",
+    "a2dmark": 506,
+    "tdp": 115,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3475S",
-    "Cores": 4,
-    "CPUMark": "4,177",
-    "ThreadMark": "1,815",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "R7 360",
+    "a3dmark": "3,034",
+    "a2dmark": 495,
+    "tdp": 100,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Ryzen 3 PRO 2100GE",
-    "Cores": 2,
-    "CPUMark": "4,187",
-    "ThreadMark": "1,855",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "R7 370",
+    "a3dmark": "4,481",
+    "a2dmark": 595,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3570T",
-    "Cores": 4,
-    "CPUMark": "4,207",
-    "ThreadMark": "1,782",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "R7 450",
+    "a3dmark": "1,968",
+    "a2dmark": 569,
+    "tdp": 65,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon 320GE",
-    "Cores": 2,
-    "CPUMark": "4,237",
-    "ThreadMark": "1,810",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "R9 255",
+    "a3dmark": "1,485",
+    "a2dmark": 395,
+    "tdp": "NA",
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3350P",
-    "Cores": 4,
-    "CPUMark": "4,243",
-    "ThreadMark": "1,784",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "R9 270 / R7 370",
+    "a3dmark": "4,260",
+    "a2dmark": 645,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Ryzen Embedded R1606G",
-    "Cores": 2,
-    "CPUMark": "4,253",
-    "ThreadMark": "1,923",
-    "Socket": "FP5",
-    "Category": "Desktop, Mobile/Embedded"
+    "name": "R9 270X",
+    "a3dmark": "4,926",
+    "a2dmark": 607,
+    "tdp": 180,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i7-4770TE",
-    "Cores": 4,
-    "CPUMark": "4,257",
-    "ThreadMark": "1,458",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "R9 280",
+    "a3dmark": "5,670",
+    "a2dmark": 679,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3450S",
-    "Cores": 4,
-    "CPUMark": "4,264",
-    "ThreadMark": "1,851",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "R9 280X",
+    "a3dmark": "6,287",
+    "a2dmark": 690,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4440S",
-    "Cores": 4,
-    "CPUMark": "4,277",
-    "ThreadMark": "1,790",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "R9 285 / 380",
+    "a3dmark": "5,550",
+    "a2dmark": 655,
+    "tdp": 190,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G6405",
-    "Cores": 2,
-    "CPUMark": "4,285",
-    "ThreadMark": "2,534",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
+    "name": "R9 290 / 390",
+    "a3dmark": "8,150",
+    "a2dmark": 695,
+    "tdp": 275,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-6400T",
-    "Cores": 4,
-    "CPUMark": "4,302",
-    "ThreadMark": "1,652",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "R9 290X / 390X",
+    "a3dmark": "8,389",
+    "a2dmark": 699,
+    "tdp": 290,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-7100",
-    "Cores": 2,
-    "CPUMark": "4,344",
-    "ThreadMark": "2,339",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "R9 295X2",
+    "a3dmark": "8,619",
+    "a2dmark": 804,
+    "tdp": 500,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-6130",
-    "Cores": 3,
-    "CPUMark": "4,353",
-    "ThreadMark": "1,390",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "R9 350",
+    "a3dmark": "2,007",
+    "a2dmark": 552,
+    "tdp": 60,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3470S",
-    "Cores": 4,
-    "CPUMark": "4,353",
-    "ThreadMark": "1,900",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "R9 360",
+    "a3dmark": "3,032",
+    "a2dmark": 460,
+    "tdp": 85,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4670T",
-    "Cores": 4,
-    "CPUMark": "4,361",
-    "ThreadMark": "1,735",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "R9 370",
+    "a3dmark": "4,722",
+    "a2dmark": 781,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon 300GE",
-    "Cores": 2,
-    "CPUMark": "4,366",
-    "ThreadMark": "1,888",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "R9 380",
+    "a3dmark": "6,272",
+    "a2dmark": 675,
+    "tdp": 190,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-6320",
-    "Cores": 2,
-    "CPUMark": "4,372",
-    "ThreadMark": "2,343",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "R9 380X",
+    "a3dmark": "6,189",
+    "a2dmark": 670,
+    "tdp": 190,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G6505",
-    "Cores": 2,
-    "CPUMark": "4,378",
-    "ThreadMark": "2,652",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
+    "name": "R9 390",
+    "a3dmark": "9,016",
+    "a2dmark": 817,
+    "tdp": 275,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-6300",
-    "Cores": 2,
-    "CPUMark": "4,386",
-    "ThreadMark": "2,295",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "R9 390X",
+    "a3dmark": "9,479",
+    "a2dmark": 844,
+    "tdp": 275,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G6600",
-    "Cores": 2,
-    "CPUMark": "4,396",
-    "ThreadMark": "2,577",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
+    "name": "R9 Fury + Fury X",
+    "a3dmark": "9,741",
+    "a2dmark": 811,
+    "tdp": 275,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-6330",
-    "Cores": 3,
-    "CPUMark": "4,455",
-    "ThreadMark": "1,540",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "RX 460",
+    "a3dmark": "4,115",
+    "a2dmark": 570,
+    "tdp": 75,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-6350",
-    "Cores": 3,
-    "CPUMark": "4,463",
-    "ThreadMark": "1,542",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "RX 470/570",
+    "a3dmark": "8,072",
+    "a2dmark": 727,
+    "tdp": 120,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon PRO 300GE",
-    "Cores": 2,
-    "CPUMark": "4,475",
-    "ThreadMark": "1,917",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "RX 480",
+    "a3dmark": "8,676",
+    "a2dmark": 780,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon 3000G",
-    "Cores": 2,
-    "CPUMark": "4,477",
-    "ThreadMark": "1,995",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "RX 5300",
+    "a3dmark": "7,611",
+    "a2dmark": 854,
+    "tdp": 100,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Pentium Gold G6605",
-    "Cores": 2,
-    "CPUMark": "4,493",
-    "ThreadMark": "2,658",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
+    "name": "RX 540",
+    "a3dmark": "1,793",
+    "a2dmark": 399,
+    "tdp": "NA",
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3450",
-    "Cores": 4,
-    "CPUMark": "4,497",
-    "ThreadMark": "1,887",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "RX 550",
+    "a3dmark": "2,723",
+    "a2dmark": 485,
+    "tdp": 50,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4460S",
-    "Cores": 4,
-    "CPUMark": "4,503",
-    "ThreadMark": "1,847",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "RX 5500",
+    "a3dmark": "8,817",
+    "a2dmark": 864,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i7-2600S",
-    "Cores": 4,
-    "CPUMark": "4,524",
-    "ThreadMark": "1,712",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "RX 5500 XT",
+    "a3dmark": "9,186",
+    "a2dmark": 824,
+    "tdp": 130,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4570R",
-    "Cores": 4,
-    "CPUMark": "4,527",
-    "ThreadMark": "1,809",
-    "Socket": "FCBGA1364",
-    "Category": "Desktop"
+    "name": "RX 550X",
+    "a3dmark": "2,370",
+    "a2dmark": 508,
+    "tdp": 50,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3550S",
-    "Cores": 4,
-    "CPUMark": "4,537",
-    "ThreadMark": "1,982",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "RX 560",
+    "a3dmark": "3,595",
+    "a2dmark": 506,
+    "tdp": 80,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon 240GE",
-    "Cores": 2,
-    "CPUMark": "4,551",
-    "ThreadMark": "1,986",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "RX 5600",
+    "a3dmark": "11,030",
+    "a2dmark": 935,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-8120",
-    "Cores": 4,
-    "CPUMark": "4,578",
-    "ThreadMark": "1,327",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "RX 5600 XT",
+    "a3dmark": "13,836",
+    "a2dmark": 914,
+    "tdp": 150,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3570S",
-    "Cores": 4,
-    "CPUMark": "4,620",
-    "ThreadMark": "1,996",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "RX 560X",
+    "a3dmark": "3,181",
+    "a2dmark": 487,
+    "tdp": 75,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Celeron N5095A",
-    "Cores": 4,
-    "CPUMark": "4,627",
-    "ThreadMark": "1,553",
-    "Socket": "FCBGA1338",
-    "Category": "Desktop"
+    "name": "RX 5700",
+    "a3dmark": "14,719",
+    "a2dmark": 927,
+    "tdp": 180,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "Athlon Silver PRO 3125GE",
-    "Cores": 2,
-    "CPUMark": "4,633",
-    "ThreadMark": "2,074",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "RX 5700 XT",
+    "a3dmark": "16,895",
+    "a2dmark": 955,
+    "tdp": 225,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4430",
-    "Cores": 4,
-    "CPUMark": "4,647",
-    "ThreadMark": "1,807",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "RX 5700 XT 50th Anniversary",
+    "a3dmark": "16,650",
+    "a2dmark": 965,
+    "tdp": 235,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3470",
-    "Cores": 4,
-    "CPUMark": "4,658",
-    "ThreadMark": "1,943",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "RX 570X",
+    "a3dmark": "1,923",
+    "a2dmark": 750,
+    "tdp": 120,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4690T",
-    "Cores": 4,
-    "CPUMark": "4,660",
-    "ThreadMark": "1,922",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "RX 580",
+    "a3dmark": "8,907",
+    "a2dmark": 772,
+    "tdp": 185,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-7400T",
-    "Cores": 4,
-    "CPUMark": "4,699",
-    "ThreadMark": "1,756",
-    "Socket": "LGA1151",
-    "Category": "Desktop"
+    "name": "RX 580X",
+    "a3dmark": "7,798",
+    "a2dmark": 885,
+    "tdp": 185,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-7300",
-    "Cores": 2,
-    "CPUMark": "4,703",
-    "ThreadMark": "2,423",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "RX 590",
+    "a3dmark": "9,664",
+    "a2dmark": 809,
+    "tdp": 175,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4440",
-    "Cores": 4,
-    "CPUMark": "4,720",
-    "ThreadMark": "1,860",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "RX 640",
+    "a3dmark": "1,537",
+    "a2dmark": 277,
+    "tdp": 50,
+    "tipo": "Desktop, Mobile"
   },
   {
-    "CPU Name": "i5-4470S",
-    "Cores": 4,
-    "CPUMark": "4,742",
-    "ThreadMark": "1,756",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "RX 6600 XT",
+    "a3dmark": "15,829",
+    "a2dmark": "1,002",
+    "tdp": 160,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-6500TE",
-    "Cores": 4,
-    "CPUMark": "4,776",
-    "ThreadMark": "1,828",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "RX 6700 XT",
+    "a3dmark": "18,962",
+    "a2dmark": "1,014",
+    "tdp": 230,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3550",
-    "Cores": 4,
-    "CPUMark": "4,783",
-    "ThreadMark": "1,997",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "RX 6800",
+    "a3dmark": "20,690",
+    "a2dmark": "1,028",
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-7350K",
-    "Cores": 2,
-    "CPUMark": "4,819",
-    "ThreadMark": "2,493",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "RX 6800 XT",
+    "a3dmark": "23,391",
+    "a2dmark": "1,078",
+    "tdp": 300,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4460",
-    "Cores": 4,
-    "CPUMark": "4,835",
-    "ThreadMark": "1,903",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "RX 6900 XT",
+    "a3dmark": "25,518",
+    "a2dmark": "1,102",
+    "tdp": 300,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-6500T",
-    "Cores": 4,
-    "CPUMark": "4,846",
-    "ThreadMark": "1,831",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "RX Vega 11",
+    "a3dmark": "2,137",
+    "a2dmark": 535,
+    "tdp": "NA",
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i3-7320",
-    "Cores": 2,
-    "CPUMark": "4,856",
-    "ThreadMark": "2,499",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "RX Vega 56",
+    "a3dmark": "13,638",
+    "a2dmark": 785,
+    "tdp": 210,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-8140",
-    "Cores": 4,
-    "CPUMark": "4,860",
-    "ThreadMark": "1,273",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "RX Vega 64",
+    "a3dmark": "14,645",
+    "a2dmark": 811,
+    "tdp": 295,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-3570",
-    "Cores": 4,
-    "CPUMark": "4,911",
-    "ThreadMark": "2,049",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "RX590 GME",
+    "a3dmark": "8,628",
+    "a2dmark": 704,
+    "tdp": 175,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4570S",
-    "Cores": 4,
-    "CPUMark": "4,915",
-    "ThreadMark": "1,981",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "Vega 8",
+    "a3dmark": "1,593",
+    "a2dmark": 421,
+    "tdp": "NA",
+    "tipo": "Desktop, Mobile"
   },
   {
-    "CPU Name": "i5-3570K",
-    "Cores": 4,
-    "CPUMark": "4,932",
-    "ThreadMark": "2,049",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "Vega Frontier Edition",
+    "a3dmark": "13,748",
+    "a2dmark": 753,
+    "tdp": 350,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4670S",
-    "Cores": 4,
-    "CPUMark": "4,939",
-    "ThreadMark": "2,069",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "VII",
+    "a3dmark": "16,772",
+    "a2dmark": 788,
+    "tdp": 300,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i7-4700EQ",
-    "Cores": 4,
-    "CPUMark": "4,941",
-    "ThreadMark": "1,842",
-    "Socket": "FCBGA1364",
-    "Category": "Desktop"
+    "name": "TITAN V",
+    "a3dmark": "18,816",
+    "a2dmark": 845,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "FX-8320E",
-    "Cores": 4,
-    "CPUMark": "4,973",
-    "ThreadMark": "1,410",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "TITAN V CEO Edition",
+    "a3dmark": "16,988",
+    "a2dmark": "1,086",
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i5-4670K CPT",
-    "Cores": 4,
-    "CPUMark": "5,034",
-    "ThreadMark": "2,042",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "TITAN Xp COLLECTORS EDITION",
+    "a3dmark": "18,632",
+    "a2dmark": 922,
+    "tdp": 250,
+    "tipo": "Desktop"
   },
   {
-    "CPU Name": "i7-4765T",
-    "Cores": 4,
-    "CPUMark": "5,036",
-    "ThreadMark": "1,619",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "FirePro 3D V5800",
+    "a3dmark": "1,232",
+    "a2dmark": 339,
+    "tdp": 74,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-5575R",
-    "Cores": 4,
-    "CPUMark": "5,075",
-    "ThreadMark": "2,112",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "FirePro 3D V7800",
+    "a3dmark": "1,867",
+    "a2dmark": 562,
+    "tdp": 138,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-4590S",
-    "Cores": 4,
-    "CPUMark": "5,096",
-    "ThreadMark": "2,052",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "FirePro 3D V8700",
+    "a3dmark": "1,206",
+    "a2dmark": 515,
+    "tdp": 151,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "FX-8310",
-    "Cores": 4,
-    "CPUMark": "5,145",
-    "ThreadMark": "1,413",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "FirePro 3D V8750",
+    "a3dmark": "1,272",
+    "a2dmark": 542,
+    "tdp": 154,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-6400",
-    "Cores": 4,
-    "CPUMark": "5,163",
-    "ThreadMark": "1,964",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "FirePro 3D V8800",
+    "a3dmark": "2,438",
+    "a2dmark": 632,
+    "tdp": 208,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "FX-8150",
-    "Cores": 4,
-    "CPUMark": "5,168",
-    "ThreadMark": "1,425",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "FirePro 3D V9800",
+    "a3dmark": "2,812",
+    "a2dmark": 556,
+    "tdp": 225,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-4570",
-    "Cores": 4,
-    "CPUMark": "5,198",
-    "ThreadMark": "2,035",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "FirePro M4000",
+    "a3dmark": "1,597",
+    "a2dmark": 410,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "FX-8300",
-    "Cores": 4,
-    "CPUMark": "5,223",
-    "ThreadMark": "1,484",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "Firepro M4100",
+    "a3dmark": "1,059",
+    "a2dmark": 623,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-4670R",
-    "Cores": 4,
-    "CPUMark": "5,233",
-    "ThreadMark": "2,164",
-    "Socket": "FCBGA1364",
-    "Category": "Desktop"
+    "name": "FirePro M5100",
+    "a3dmark": "2,103",
+    "a2dmark": 800,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "FX-8370E",
-    "Cores": 4,
-    "CPUMark": "5,235",
-    "ThreadMark": "1,490",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "FirePro M5950",
+    "a3dmark": "1,314",
+    "a2dmark": 574,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i3-8100T",
-    "Cores": 4,
-    "CPUMark": "5,293",
-    "ThreadMark": "1,922",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "FirePro M6000",
+    "a3dmark": "1,820",
+    "a2dmark": 776,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-7500T",
-    "Cores": 4,
-    "CPUMark": "5,323",
-    "ThreadMark": "1,965",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "FirePro M6100",
+    "a3dmark": "1,945",
+    "a2dmark": 338,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-2600",
-    "Cores": 4,
-    "CPUMark": "5,343",
-    "ThreadMark": "1,741",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "FirePro S7000",
+    "a3dmark": "4,166",
+    "a2dmark": 615,
+    "tdp": 150,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-4590",
-    "Cores": 4,
-    "CPUMark": "5,347",
-    "ThreadMark": "2,093",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "FirePro V5900",
+    "a3dmark": "1,271",
+    "a2dmark": 352,
+    "tdp": 75,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-4690S",
-    "Cores": 4,
-    "CPUMark": "5,384",
-    "ThreadMark": "2,185",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "FirePro V7900",
+    "a3dmark": "2,310",
+    "a2dmark": 324,
+    "tdp": 150,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "FX-8320",
-    "Cores": 4,
-    "CPUMark": "5,409",
-    "ThreadMark": "1,472",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "FirePro W4100",
+    "a3dmark": "1,541",
+    "a2dmark": 535,
+    "tdp": 50,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-6402P",
-    "Cores": 4,
-    "CPUMark": "5,414",
-    "ThreadMark": "2,027",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "FirePro W4300",
+    "a3dmark": "2,863",
+    "a2dmark": 771,
+    "tdp": 50,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-4785T",
-    "Cores": 4,
-    "CPUMark": "5,427",
-    "ThreadMark": "1,744",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "FirePro W5000",
+    "a3dmark": "3,063",
+    "a2dmark": 589,
+    "tdp": 75,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i3-9100T",
-    "Cores": 4,
-    "CPUMark": "5,438",
-    "ThreadMark": "2,110",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "FirePro W5100",
+    "a3dmark": "2,957",
+    "a2dmark": 541,
+    "tdp": 75,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-4670",
-    "Cores": 4,
-    "CPUMark": "5,443",
-    "ThreadMark": "2,143",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "Firepro W5170M",
+    "a3dmark": "1,555",
+    "a2dmark": 399,
+    "tdp": "NA",
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i7-2600K",
-    "Cores": 4,
-    "CPUMark": "5,497",
-    "ThreadMark": "1,743",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "FirePro W600",
+    "a3dmark": "1,752",
+    "a2dmark": 631,
+    "tdp": 75,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-7400",
-    "Cores": 4,
-    "CPUMark": "5,499",
-    "ThreadMark": "2,102",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "FirePro W7000",
+    "a3dmark": "4,276",
+    "a2dmark": 551,
+    "tdp": 150,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-4670K",
-    "Cores": 4,
-    "CPUMark": "5,548",
-    "ThreadMark": "2,154",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "FirePro W7100",
+    "a3dmark": "5,175",
+    "a2dmark": 667,
+    "tdp": 150,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-5675C",
-    "Cores": 4,
-    "CPUMark": "5,548",
-    "ThreadMark": "2,251",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "FirePro W8000",
+    "a3dmark": "4,138",
+    "a2dmark": 570,
+    "tdp": 189,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-4690",
-    "Cores": 4,
-    "CPUMark": "5,572",
-    "ThreadMark": "2,205",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "FirePro W8100",
+    "a3dmark": "7,327",
+    "a2dmark": 759,
+    "tdp": 220,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-3770T",
-    "Cores": 4,
-    "CPUMark": "5,573",
-    "ThreadMark": "1,933",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "FirePro W9000",
+    "a3dmark": "6,138",
+    "a2dmark": 720,
+    "tdp": 274,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-2700K",
-    "Cores": 4,
-    "CPUMark": "5,604",
-    "ThreadMark": "1,786",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "FirePro W9100",
+    "a3dmark": "7,719",
+    "a2dmark": 790,
+    "tdp": 275,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-5675R",
-    "Cores": 4,
-    "CPUMark": "5,606",
-    "ThreadMark": "2,285",
-    "Socket": "FCBGA1364",
-    "Category": "Desktop"
+    "name": "FireStream 9250",
+    "a3dmark": "1,165",
+    "a2dmark": 465,
+    "tdp": 150,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-4690K",
-    "Cores": 4,
-    "CPUMark": "5,629",
-    "ThreadMark": "2,198",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "FireStream 9270",
+    "a3dmark": "1,341",
+    "a2dmark": 473,
+    "tdp": 160,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-6600T",
-    "Cores": 4,
-    "CPUMark": "5,655",
-    "ThreadMark": "2,096",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "FireStream 9370",
+    "a3dmark": "2,528",
+    "a2dmark": 763,
+    "tdp": 225,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-6500",
-    "Cores": 4,
-    "CPUMark": "5,657",
-    "ThreadMark": "2,123",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "GRID K2",
+    "a3dmark": "2,737",
+    "a2dmark": 319,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-4770T",
-    "Cores": 4,
-    "CPUMark": "5,748",
-    "ThreadMark": "1,930",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "GRID K240Q",
+    "a3dmark": "2,541",
+    "a2dmark": 212,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-3820",
-    "Cores": 4,
-    "CPUMark": "5,757",
-    "ThreadMark": "1,736",
-    "Socket": "LGA2011",
-    "Category": "Desktop"
+    "name": "GRID K260Q",
+    "a3dmark": "2,949",
+    "a2dmark": 361,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i3-8300T",
-    "Cores": 4,
-    "CPUMark": "5,827",
-    "ThreadMark": "2,005",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "GRID K280Q",
+    "a3dmark": "2,840",
+    "a2dmark": 371,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 3 PRO 2200GE",
-    "Cores": 4,
-    "CPUMark": "5,897",
-    "ThreadMark": "2,000",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "GRID K520",
+    "a3dmark": "3,399",
+    "a2dmark": 174,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen Embedded V1404I",
-    "Cores": 4,
-    "CPUMark": "5,917",
-    "ThreadMark": "1,938",
-    "Socket": "Unknown",
-    "Category": "Desktop, Mobile/Embedded"
+    "name": "GRID M60-1B",
+    "a3dmark": "4,457",
+    "a2dmark": 483,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "FX-8350",
-    "Cores": 4,
-    "CPUMark": "5,971",
-    "ThreadMark": "1,576",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "GRID M60-4Q",
+    "a3dmark": "3,831",
+    "a2dmark": 278,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "FX-9370",
-    "Cores": 4,
-    "CPUMark": "5,996",
-    "ThreadMark": "1,673",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "Quadro 3000M",
+    "a3dmark": "1,024",
+    "a2dmark": 323,
+    "tdp": 75,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-7500",
-    "Cores": 4,
-    "CPUMark": "6,063",
-    "ThreadMark": "2,284",
-    "Socket": "LGA1151",
-    "Category": "Desktop"
+    "name": "Quadro 4000",
+    "a3dmark": "1,489",
+    "a2dmark": 366,
+    "tdp": 142,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-7600T",
-    "Cores": 4,
-    "CPUMark": "6,073",
-    "ThreadMark": "2,231",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "Quadro 4000M",
+    "a3dmark": "1,307",
+    "a2dmark": 256,
+    "tdp": 100,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-5675C",
-    "Cores": 4,
-    "CPUMark": "6,089",
-    "ThreadMark": "2,249",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "Quadro 5000",
+    "a3dmark": "1,982",
+    "a2dmark": 376,
+    "tdp": 152,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-6600",
-    "Cores": 4,
-    "CPUMark": "6,110",
-    "ThreadMark": "2,284",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "Quadro 5000M",
+    "a3dmark": "2,060",
+    "a2dmark": 426,
+    "tdp": 100,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "FX-8370",
-    "Cores": 4,
-    "CPUMark": "6,128",
-    "ThreadMark": "1,626",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "Quadro 5010M",
+    "a3dmark": "1,891",
+    "a2dmark": 366,
+    "tdp": 100,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i3-8300",
-    "Cores": 4,
-    "CPUMark": "6,136",
-    "ThreadMark": "2,262",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Quadro 6000",
+    "a3dmark": "2,689",
+    "a2dmark": 458,
+    "tdp": 204,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i3-9300T",
-    "Cores": 4,
-    "CPUMark": "6,162",
-    "ThreadMark": "2,318",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Quadro 7000",
+    "a3dmark": "3,505",
+    "a2dmark": 397,
+    "tdp": 204,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i3-8100",
-    "Cores": 4,
-    "CPUMark": "6,165",
-    "ThreadMark": "2,240",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Quadro FX 5800",
+    "a3dmark": "1,248",
+    "a2dmark": 134,
+    "tdp": 189,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-3770S",
-    "Cores": 4,
-    "CPUMark": "6,180",
-    "ThreadMark": "2,035",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "Quadro GP100",
+    "a3dmark": "16,203",
+    "a2dmark": 858,
+    "tdp": 235,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-4790T",
-    "Cores": 4,
-    "CPUMark": "6,291",
-    "ThreadMark": "2,100",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "Quadro GV100",
+    "a3dmark": "17,675",
+    "a2dmark": 841,
+    "tdp": 250,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 3 1200",
-    "Cores": 4,
-    "CPUMark": "6,304",
-    "ThreadMark": "1,927",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro K1100M",
+    "a3dmark": "1,081",
+    "a2dmark": 251,
+    "tdp": 45,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-6600K",
-    "Cores": 4,
-    "CPUMark": "6,311",
-    "ThreadMark": "2,332",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "Quadro K1200",
+    "a3dmark": "2,879",
+    "a2dmark": 571,
+    "tdp": 45,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 3 PRO 1200",
-    "Cores": 4,
-    "CPUMark": "6,347",
-    "ThreadMark": "1,936",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro K2000",
+    "a3dmark": "1,567",
+    "a2dmark": 372,
+    "tdp": 51,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-3770",
-    "Cores": 4,
-    "CPUMark": "6,397",
-    "ThreadMark": "2,076",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "Quadro K2000D",
+    "a3dmark": "1,614",
+    "a2dmark": 396,
+    "tdp": 51,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-4770R",
-    "Cores": 4,
-    "CPUMark": "6,429",
-    "ThreadMark": "2,161",
-    "Socket": "FCBGA1364",
-    "Category": "Desktop"
+    "name": "Quadro K2000M",
+    "a3dmark": "1,028",
+    "a2dmark": 256,
+    "tdp": 55,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-3770K",
-    "Cores": 4,
-    "CPUMark": "6,463",
-    "ThreadMark": "2,082",
-    "Socket": "LGA1155",
-    "Category": "Desktop"
+    "name": "Quadro K2100M",
+    "a3dmark": "1,349",
+    "a2dmark": 281,
+    "tdp": 55,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-970",
-    "Cores": 6,
-    "CPUMark": "6,499",
-    "ThreadMark": "1,455",
-    "Socket": "LGA1366",
-    "Category": "Desktop"
+    "name": "Quadro K2200",
+    "a3dmark": "3,541",
+    "a2dmark": 533,
+    "tdp": 68,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-4820K",
-    "Cores": 4,
-    "CPUMark": "6,506",
-    "ThreadMark": "1,945",
-    "Socket": "FCLGA2011",
-    "Category": "Desktop"
+    "name": "Quadro K3000M",
+    "a3dmark": "1,626",
+    "a2dmark": 360,
+    "tdp": 75,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 3 2200GE",
-    "Cores": 4,
-    "CPUMark": "6,537",
-    "ThreadMark": "2,049",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro K3100M",
+    "a3dmark": "2,263",
+    "a2dmark": 327,
+    "tdp": 75,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-7600",
-    "Cores": 4,
-    "CPUMark": "6,598",
-    "ThreadMark": "2,476",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "Quadro K4000",
+    "a3dmark": "2,699",
+    "a2dmark": 420,
+    "tdp": 80,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i3-9100",
-    "Cores": 4,
-    "CPUMark": "6,625",
-    "ThreadMark": "2,519",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Quadro K4000M",
+    "a3dmark": "1,949",
+    "a2dmark": 351,
+    "tdp": 100,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-7640X",
-    "Cores": 4,
-    "CPUMark": "6,675",
-    "ThreadMark": "2,511",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
+    "name": "Quadro K4100M",
+    "a3dmark": "2,756",
+    "a2dmark": 352,
+    "tdp": 100,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 3 PRO 2200G",
-    "Cores": 4,
-    "CPUMark": "6,703",
-    "ThreadMark": "2,058",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro K4200",
+    "a3dmark": "4,340",
+    "a2dmark": 502,
+    "tdp": 105,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-6700TE",
-    "Cores": 4,
-    "CPUMark": "6,734",
-    "ThreadMark": "2,012",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "Quadro K5000",
+    "a3dmark": "3,901",
+    "a2dmark": 435,
+    "tdp": 122,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i3-9100F",
-    "Cores": 4,
-    "CPUMark": "6,764",
-    "ThreadMark": "2,519",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Quadro K5000M",
+    "a3dmark": "2,806",
+    "a2dmark": 372,
+    "tdp": 100,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "FX-9590",
-    "Cores": 4,
-    "CPUMark": "6,768",
-    "ThreadMark": "1,829",
-    "Socket": "AM3+",
-    "Category": "Desktop"
+    "name": "Quadro K5100M",
+    "a3dmark": "3,266",
+    "a2dmark": 418,
+    "tdp": 100,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 3 2200G",
-    "Cores": 4,
-    "CPUMark": "6,780",
-    "ThreadMark": "2,060",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro K5200",
+    "a3dmark": "5,804",
+    "a2dmark": 500,
+    "tdp": 150,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-980X",
-    "Cores": 6,
-    "CPUMark": "6,813",
-    "ThreadMark": "1,532",
-    "Socket": "LGA1366",
-    "Category": "Desktop"
+    "name": "Quadro K6000",
+    "a3dmark": "8,092",
+    "a2dmark": 552,
+    "tdp": 225,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-4770S",
-    "Cores": 4,
-    "CPUMark": "6,821",
-    "ThreadMark": "2,149",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "Quadro K620",
+    "a3dmark": "2,246",
+    "a2dmark": 471,
+    "tdp": 45,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-7600K",
-    "Cores": 4,
-    "CPUMark": "6,861",
-    "ThreadMark": "2,562",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "Quadro M1000M",
+    "a3dmark": "2,988",
+    "a2dmark": 336,
+    "tdp": 40,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i3-8350K",
-    "Cores": 4,
-    "CPUMark": "6,871",
-    "ThreadMark": "2,490",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Quadro M1200",
+    "a3dmark": "3,342",
+    "a2dmark": 311,
+    "tdp": 45,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "Pentium Gold G7400",
-    "Cores": 2,
-    "CPUMark": "6,912",
-    "ThreadMark": "3,085",
-    "Socket": "LGA1700,BGA1700",
-    "Category": "Desktop"
+    "name": "Quadro M2000",
+    "a3dmark": "3,942",
+    "a2dmark": 563,
+    "tdp": 75,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 3 1300X",
-    "Cores": 4,
-    "CPUMark": "6,919",
-    "ThreadMark": "2,093",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro M2000M",
+    "a3dmark": "3,543",
+    "a2dmark": 344,
+    "tdp": 55,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "Ryzen 3 PRO 3200G",
-    "Cores": 4,
-    "CPUMark": "6,948",
-    "ThreadMark": "2,205",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro M2200",
+    "a3dmark": "4,351",
+    "a2dmark": 385,
+    "tdp": 55,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i7-4790S",
-    "Cores": 4,
-    "CPUMark": "6,956",
-    "ThreadMark": "2,200",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "Quadro M3000M",
+    "a3dmark": "5,665",
+    "a2dmark": 425,
+    "tdp": 75,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "Athlon Gold 3150G",
-    "Cores": 4,
-    "CPUMark": "7,002",
-    "ThreadMark": "2,308",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro M4000",
+    "a3dmark": "6,630",
+    "a2dmark": 694,
+    "tdp": 120,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-980",
-    "Cores": 6,
-    "CPUMark": "7,017",
-    "ThreadMark": "1,558",
-    "Socket": "LGA1366",
-    "Category": "Desktop"
+    "name": "Quadro M4000M",
+    "a3dmark": "6,530",
+    "a2dmark": 471,
+    "tdp": 100,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i7-4770",
-    "Cores": 4,
-    "CPUMark": "7,022",
-    "ThreadMark": "2,163",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "Quadro M5000",
+    "a3dmark": "9,233",
+    "a2dmark": 671,
+    "tdp": 150,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Athlon Gold PRO 3150GE",
-    "Cores": 4,
-    "CPUMark": "7,068",
-    "ThreadMark": "2,158",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro M5000M",
+    "a3dmark": "6,807",
+    "a2dmark": 482,
+    "tdp": 100,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i7-4771",
-    "Cores": 4,
-    "CPUMark": "7,077",
-    "ThreadMark": "2,191",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "Quadro M500M",
+    "a3dmark": "1,098",
+    "a2dmark": 186,
+    "tdp": 30,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i7-995X",
-    "Cores": 6,
-    "CPUMark": "7,079",
-    "ThreadMark": "1,683",
-    "Socket": "Unknown",
-    "Category": "Desktop"
+    "name": "Quadro M520",
+    "a3dmark": "1,855",
+    "a2dmark": 220,
+    "tdp": 25,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i7-4770K",
-    "Cores": 4,
-    "CPUMark": "7,128",
-    "ThreadMark": "2,165",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "Quadro M5500",
+    "a3dmark": "7,915",
+    "a2dmark": 698,
+    "tdp": 150,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i7-990X",
-    "Cores": 6,
-    "CPUMark": "7,137",
-    "ThreadMark": "1,600",
-    "Socket": "LGA1366",
-    "Category": "Desktop"
+    "name": "Quadro M6000",
+    "a3dmark": "11,397",
+    "a2dmark": 788,
+    "tdp": 250,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 3 3200G",
-    "Cores": 4,
-    "CPUMark": "7,184",
-    "ThreadMark": "2,218",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro M6000 24GB",
+    "a3dmark": "12,264",
+    "a2dmark": 774,
+    "tdp": 250,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-4790",
-    "Cores": 4,
-    "CPUMark": "7,236",
-    "ThreadMark": "2,233",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "Quadro M600M",
+    "a3dmark": "2,008",
+    "a2dmark": 446,
+    "tdp": 30,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i7-6700T",
-    "Cores": 4,
-    "CPUMark": "7,269",
-    "ThreadMark": "2,089",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "Quadro M620",
+    "a3dmark": "2,849",
+    "a2dmark": 418,
+    "tdp": 30,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i3-9300",
-    "Cores": 4,
-    "CPUMark": "7,279",
-    "ThreadMark": "2,666",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Quadro P1000",
+    "a3dmark": "4,465",
+    "a2dmark": 658,
+    "tdp": 47,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 3 3200GE",
-    "Cores": 4,
-    "CPUMark": "7,317",
-    "ThreadMark": "2,199",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro P2000",
+    "a3dmark": "7,102",
+    "a2dmark": 692,
+    "tdp": 75,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i3-9350KF",
-    "Cores": 4,
-    "CPUMark": "7,318",
-    "ThreadMark": "2,666",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Quadro P2200",
+    "a3dmark": "9,480",
+    "a2dmark": 970,
+    "tdp": 75,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i3-9320",
-    "Cores": 4,
-    "CPUMark": "7,358",
-    "ThreadMark": "2,711",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Quadro P3000",
+    "a3dmark": "6,585",
+    "a2dmark": 458,
+    "tdp": 75,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i5-8400T",
-    "Cores": 6,
-    "CPUMark": "7,447",
-    "ThreadMark": "1,924",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Quadro P400",
+    "a3dmark": "1,613",
+    "a2dmark": 425,
+    "tdp": 30,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 5 PRO 2400GE",
-    "Cores": 4,
-    "CPUMark": "7,530",
-    "ThreadMark": "2,108",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro P4000",
+    "a3dmark": "11,439",
+    "a2dmark": 822,
+    "tdp": 105,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-7700T",
-    "Cores": 4,
-    "CPUMark": "7,561",
-    "ThreadMark": "2,156",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "Quadro P4200",
+    "a3dmark": "9,827",
+    "a2dmark": 607,
+    "tdp": 100,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 3 2300X",
-    "Cores": 4,
-    "CPUMark": "7,566",
-    "ThreadMark": "2,364",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro P4200 with Max-Q Design",
+    "a3dmark": "11,869",
+    "a2dmark": 583,
+    "tdp": "NA",
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i3-9350K",
-    "Cores": 4,
-    "CPUMark": "7,694",
-    "ThreadMark": "2,823",
-    "Socket": "FCLGA1151",
-    "Category": "Desktop"
+    "name": "Quadro P5000",
+    "a3dmark": "11,976",
+    "a2dmark": 701,
+    "tdp": 180,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Athlon Gold PRO 3150G",
-    "Cores": 4,
-    "CPUMark": "7,702",
-    "ThreadMark": "2,321",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro P600",
+    "a3dmark": "3,327",
+    "a2dmark": 483,
+    "tdp": 40,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-8500T",
-    "Cores": 6,
-    "CPUMark": "7,703",
-    "ThreadMark": "2,046",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Quadro P6000",
+    "a3dmark": "15,811",
+    "a2dmark": 773,
+    "tdp": 250,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-5775R",
-    "Cores": 4,
-    "CPUMark": "7,714",
-    "ThreadMark": "2,318",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "Quadro P620",
+    "a3dmark": "3,641",
+    "a2dmark": 576,
+    "tdp": 40,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 3 PRO 1300",
-    "Cores": 4,
-    "CPUMark": "7,717",
-    "ThreadMark": "2,229",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro RTX 3000",
+    "a3dmark": "11,122",
+    "a2dmark": 533,
+    "tdp": 80,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "Ryzen 5 1400",
-    "Cores": 4,
-    "CPUMark": "7,795",
-    "ThreadMark": "1,906",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Quadro RTX 4000",
+    "a3dmark": "15,514",
+    "a2dmark": 905,
+    "tdp": 160,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-5775C",
-    "Cores": 4,
-    "CPUMark": "7,801",
-    "ThreadMark": "2,318",
-    "Socket": "FCLGA1150",
-    "Category": "Desktop"
+    "name": "Quadro RTX 5000",
+    "a3dmark": "16,272",
+    "a2dmark": 766,
+    "tdp": 230,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-9400T",
-    "Cores": 6,
-    "CPUMark": "7,819",
-    "ThreadMark": "2,057",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Quadro RTX 5000 (Mobile)",
+    "a3dmark": "14,832",
+    "a2dmark": 705,
+    "tdp": 110,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i3-10105T",
-    "Cores": 4,
-    "CPUMark": "7,850",
-    "ThreadMark": "2,350",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
+    "name": "Quadro RTX 5000 with Max-Q Design",
+    "a3dmark": "13,893",
+    "a2dmark": 606,
+    "tdp": 80,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i3-10300T",
-    "Cores": 4,
-    "CPUMark": "7,997",
-    "ThreadMark": "2,350",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
+    "name": "Quadro RTX 6000",
+    "a3dmark": "19,665",
+    "a2dmark": 835,
+    "tdp": 295,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-4790K",
-    "Cores": 4,
-    "CPUMark": "8,060",
-    "ThreadMark": "2,467",
-    "Socket": "LGA1150",
-    "Category": "Desktop"
+    "name": "Quadro RTX 8000",
+    "a3dmark": "19,126",
+    "a2dmark": 801,
+    "tdp": 260,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-6700",
-    "Cores": 4,
-    "CPUMark": "8,077",
-    "ThreadMark": "2,299",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
+    "name": "Pro WX 3100",
+    "a3dmark": "2,627",
+    "a2dmark": 491,
+    "tdp": 50,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 5 2400GE",
-    "Cores": 4,
-    "CPUMark": "8,134",
-    "ThreadMark": "2,180",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Pro WX 5100",
+    "a3dmark": "5,496",
+    "a2dmark": 822,
+    "tdp": 75,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i3-10305T",
-    "Cores": 4,
-    "CPUMark": "8,136",
-    "ThreadMark": "2,456",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
+    "name": "Pro WX 7100",
+    "a3dmark": "7,822",
+    "a2dmark": 787,
+    "tdp": 130,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen Embedded V1756B",
-    "Cores": 4,
-    "CPUMark": "8,215",
-    "ThreadMark": "2,143",
-    "Socket": "FP5",
-    "Category": "Desktop, Mobile/Embedded"
+    "name": "RTX A2000 Laptop GPU",
+    "a3dmark": "10,127",
+    "a2dmark": 453,
+    "tdp": 95,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i3-10100E",
-    "Cores": 4,
-    "CPUMark": "8,229",
-    "ThreadMark": "2,297",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop, Mobile/Embedded"
+    "name": "RTX A3000 Laptop GPU",
+    "a3dmark": "13,259",
+    "a2dmark": 470,
+    "tdp": 130,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i7-3930K",
-    "Cores": 6,
-    "CPUMark": "8,248",
-    "ThreadMark": "1,762",
-    "Socket": "LGA2011",
-    "Category": "Desktop"
+    "name": "RTX A4000",
+    "a3dmark": "18,924",
+    "a2dmark": 931,
+    "tdp": 140,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-9500T",
-    "Cores": 6,
-    "CPUMark": "8,256",
-    "ThreadMark": "2,200",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "RTX A4000 Laptop GPU",
+    "a3dmark": "16,227",
+    "a2dmark": 540,
+    "tdp": 140,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "Ryzen 5 PRO 3400GE",
-    "Cores": 4,
-    "CPUMark": "8,269",
-    "ThreadMark": "2,266",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "RTX A5000",
+    "a3dmark": "22,715",
+    "a2dmark": 980,
+    "tdp": 230,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-8600T",
-    "Cores": 6,
-    "CPUMark": "8,279",
-    "ThreadMark": "2,179",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "RTX A5000 Laptop GPU",
+    "a3dmark": "16,323",
+    "a2dmark": 636,
+    "tdp": 165,
+    "tipo": "Mobile, Workstation"
   },
   {
-    "CPU Name": "i7-3970X",
-    "Cores": 6,
-    "CPUMark": "8,373",
-    "ThreadMark": "1,832",
-    "Socket": "LGA2011",
-    "Category": "Desktop"
+    "name": "RTX A6000",
+    "a3dmark": "22,122",
+    "a2dmark": 832,
+    "tdp": 300,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "Ryzen 5 PRO 2400G",
-    "Cores": 4,
-    "CPUMark": "8,378",
-    "ThreadMark": "2,132",
-    "Socket": "AM4",
-    "Category": "Desktop"
+    "name": "Tesla C2050 / C2070",
+    "a3dmark": "3,428",
+    "a2dmark": 568,
+    "tdp": 238,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i5-9600T",
-    "Cores": 6,
-    "CPUMark": "8,393",
-    "ThreadMark": "2,175",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
+    "name": "Tesla C2070",
+    "a3dmark": "3,101",
+    "a2dmark": 494,
+    "tdp": 247,
+    "tipo": "Workstation"
   },
   {
-    "CPU Name": "i7-3960X",
-    "Cores": 6,
-    "CPUMark": "8,596",
-    "ThreadMark": "1,816",
-    "Socket": "LGA2011",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-7700",
-    "Cores": 4,
-    "CPUMark": "8,639",
-    "ThreadMark": "2,472",
-    "Socket": "LGA1151",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-10300H",
-    "Cores": 4,
-    "CPUMark": "8,679",
-    "ThreadMark": "2,614",
-    "Socket": "FCBGA1440",
-    "Category": "Desktop, Laptop"
-  },
-  {
-    "CPU Name": "Ryzen 5 2400G",
-    "Cores": 4,
-    "CPUMark": "8,727",
-    "ThreadMark": "2,159",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i3-10100",
-    "Cores": 4,
-    "CPUMark": "8,801",
-    "ThreadMark": "2,638",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i3-10100F",
-    "Cores": 4,
-    "CPUMark": "8,857",
-    "ThreadMark": "2,605",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i3-10105",
-    "Cores": 4,
-    "CPUMark": "8,908",
-    "ThreadMark": "2,718",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-6700K",
-    "Cores": 4,
-    "CPUMark": "8,973",
-    "ThreadMark": "2,521",
-    "Socket": "LGA1151",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 3400GE",
-    "Cores": 4,
-    "CPUMark": "8,985",
-    "ThreadMark": "2,324",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 3350G",
-    "Cores": 4,
-    "CPUMark": "9,067",
-    "ThreadMark": "2,281",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 1500X",
-    "Cores": 4,
-    "CPUMark": "9,080",
-    "ThreadMark": "2,109",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-9850HL",
-    "Cores": 6,
-    "CPUMark": "9,112",
-    "ThreadMark": "2,139",
-    "Socket": "FCBGA1440",
-    "Category": "Desktop, Laptop"
-  },
-  {
-    "CPU Name": "i3-10105F",
-    "Cores": 4,
-    "CPUMark": "9,136",
-    "ThreadMark": "2,676",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-8400",
-    "Cores": 6,
-    "CPUMark": "9,223",
-    "ThreadMark": "2,404",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i3-10300",
-    "Cores": 4,
-    "CPUMark": "9,284",
-    "ThreadMark": "2,677",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 PRO 3400G",
-    "Cores": 4,
-    "CPUMark": "9,307",
-    "ThreadMark": "2,330",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 3400G",
-    "Cores": 4,
-    "CPUMark": "9,331",
-    "ThreadMark": "2,360",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-4930K",
-    "Cores": 6,
-    "CPUMark": "9,355",
-    "ThreadMark": "1,962",
-    "Socket": "LGA2011",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 2500X",
-    "Cores": 4,
-    "CPUMark": "9,384",
-    "ThreadMark": "2,319",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 PRO 1500",
-    "Cores": 4,
-    "CPUMark": "9,402",
-    "ThreadMark": "2,158",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-9400",
-    "Cores": 6,
-    "CPUMark": "9,478",
-    "ThreadMark": "2,479",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 PRO 3350G",
-    "Cores": 4,
-    "CPUMark": "9,498",
-    "ThreadMark": "2,328",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-9400F",
-    "Cores": 6,
-    "CPUMark": "9,539",
-    "ThreadMark": "2,470",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop, Laptop"
-  },
-  {
-    "CPU Name": "i5-8500",
-    "Cores": 6,
-    "CPUMark": "9,573",
-    "ThreadMark": "2,486",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 PRO 3350GE",
-    "Cores": 4,
-    "CPUMark": "9,643",
-    "ThreadMark": "2,340",
-    "Socket": "Unknown",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-7700K",
-    "Cores": 4,
-    "CPUMark": "9,659",
-    "ThreadMark": "2,730",
-    "Socket": "LGA 1151",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 3350GE",
-    "Cores": 4,
-    "CPUMark": "9,684",
-    "ThreadMark": "2,342",
-    "Socket": "Unknown",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i3-10305",
-    "Cores": 4,
-    "CPUMark": "9,689",
-    "ThreadMark": "2,834",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-9500",
-    "Cores": 6,
-    "CPUMark": "9,706",
-    "ThreadMark": "2,579",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-5820K",
-    "Cores": 6,
-    "CPUMark": "9,817",
-    "ThreadMark": "2,010",
-    "Socket": "LGA2011-v3",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-8600",
-    "Cores": 6,
-    "CPUMark": "9,849",
-    "ThreadMark": "2,582",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-7740X",
-    "Cores": 4,
-    "CPUMark": "9,864",
-    "ThreadMark": "2,805",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-4960X",
-    "Cores": 6,
-    "CPUMark": "9,906",
-    "ThreadMark": "2,078",
-    "Socket": "LGA2011",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-10400T",
-    "Cores": 6,
-    "CPUMark": "10,052",
-    "ThreadMark": "2,168",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i3-10320",
-    "Cores": 4,
-    "CPUMark": "10,115",
-    "ThreadMark": "2,848",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-8600K",
-    "Cores": 6,
-    "CPUMark": "10,195",
-    "ThreadMark": "2,609",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-5930K",
-    "Cores": 6,
-    "CPUMark": "10,304",
-    "ThreadMark": "2,063",
-    "Socket": "LGA2011-v3",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i3-10325",
-    "Cores": 4,
-    "CPUMark": "10,308",
-    "ThreadMark": "2,890",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-9500F",
-    "Cores": 6,
-    "CPUMark": "10,330",
-    "ThreadMark": "2,676",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-10500T",
-    "Cores": 6,
-    "CPUMark": "10,367",
-    "ThreadMark": "2,342",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-9600",
-    "Cores": 6,
-    "CPUMark": "10,369",
-    "ThreadMark": "2,751",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 PRO 1600",
-    "Cores": 6,
-    "CPUMark": "10,401",
-    "ThreadMark": "1,685",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-8700T",
-    "Cores": 6,
-    "CPUMark": "10,448",
-    "ThreadMark": "2,366",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-6800K",
-    "Cores": 6,
-    "CPUMark": "10,660",
-    "ThreadMark": "2,270",
-    "Socket": "LGA2011-v3",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-9700T",
-    "Cores": 8,
-    "CPUMark": "10,736",
-    "ThreadMark": "2,445",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 3 4300G",
-    "Cores": 4,
-    "CPUMark": "10,792",
-    "ThreadMark": "2,548",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-9600K",
-    "Cores": 6,
-    "CPUMark": "10,792",
-    "ThreadMark": "2,772",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-9700TE",
-    "Cores": 8,
-    "CPUMark": "10,826",
-    "ThreadMark": "2,309",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop, Laptop"
-  },
-  {
-    "CPU Name": "i5-9600KF",
-    "Cores": 6,
-    "CPUMark": "10,827",
-    "ThreadMark": "2,785",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 3 PRO 4350G",
-    "Cores": 4,
-    "CPUMark": "10,833",
-    "ThreadMark": "2,540",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 3 PRO 4350GE",
-    "Cores": 4,
-    "CPUMark": "11,270",
-    "ThreadMark": "2,567",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-6850K",
-    "Cores": 6,
-    "CPUMark": "11,293",
-    "ThreadMark": "2,406",
-    "Socket": "FCLGA2011-3",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 3 PRO 4200G",
-    "Cores": 4,
-    "CPUMark": "11,315",
-    "ThreadMark": "2,564",
-    "Socket": "FP6",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 3 4300GE",
-    "Cores": 4,
-    "CPUMark": "11,316",
-    "ThreadMark": "2,558",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i3-11100B",
-    "Cores": 4,
-    "CPUMark": "11,357",
-    "ThreadMark": "2,912",
-    "Socket": "Unknown",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-10600T",
-    "Cores": 6,
-    "CPUMark": "11,376",
-    "ThreadMark": "2,422",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 3 3100",
-    "Cores": 4,
-    "CPUMark": "11,656",
-    "ThreadMark": "2,426",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 3 4100",
-    "Cores": 4,
-    "CPUMark": "11,676",
-    "ThreadMark": "2,563",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-10505",
-    "Cores": 6,
-    "CPUMark": "12,225",
-    "ThreadMark": "2,876",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 1600",
-    "Cores": 6,
-    "CPUMark": "12,313",
-    "ThreadMark": "2,074",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-10400",
-    "Cores": 6,
-    "CPUMark": "12,321",
-    "ThreadMark": "2,587",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-9700E",
-    "Cores": 8,
-    "CPUMark": "12,364",
-    "ThreadMark": "2,574",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-10400F",
-    "Cores": 6,
-    "CPUMark": "12,438",
-    "ThreadMark": "2,572",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-5960X",
-    "Cores": 8,
-    "CPUMark": "12,692",
-    "ThreadMark": "1,976",
-    "Socket": "LGA2011-v3",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 3 3300X",
-    "Cores": 4,
-    "CPUMark": "12,746",
-    "ThreadMark": "2,689",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i3-12100T",
-    "Cores": 4,
-    "CPUMark": "12,767",
-    "ThreadMark": "3,412",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 3500",
-    "Cores": 6,
-    "CPUMark": "12,836",
-    "ThreadMark": "2,515",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-7800X",
-    "Cores": 6,
-    "CPUMark": "12,870",
-    "ThreadMark": "2,415",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 1600X",
-    "Cores": 6,
-    "CPUMark": "12,945",
-    "ThreadMark": "2,184",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-10500",
-    "Cores": 6,
-    "CPUMark": "13,046",
-    "ThreadMark": "2,784",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-8700",
-    "Cores": 6,
-    "CPUMark": "13,047",
-    "ThreadMark": "2,662",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-11400T",
-    "Cores": 6,
-    "CPUMark": "13,078",
-    "ThreadMark": "2,549",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-10700T",
-    "Cores": 8,
-    "CPUMark": "13,101",
-    "ThreadMark": "2,661",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 3 5300G",
-    "Cores": 4,
-    "CPUMark": "13,139",
-    "ThreadMark": "3,055",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 2600",
-    "Cores": 6,
-    "CPUMark": "13,197",
-    "ThreadMark": "2,250",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 PRO 2600",
-    "Cores": 6,
-    "CPUMark": "13,250",
-    "ThreadMark": "2,263",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 3500X",
-    "Cores": 6,
-    "CPUMark": "13,320",
-    "ThreadMark": "2,525",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-9700",
-    "Cores": 8,
-    "CPUMark": "13,386",
-    "ThreadMark": "2,781",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-9700F",
-    "Cores": 8,
-    "CPUMark": "13,466",
-    "ThreadMark": "2,795",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-11500T",
-    "Cores": 6,
-    "CPUMark": "13,700",
-    "ThreadMark": "2,606",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 3 PRO 5350GE",
-    "Cores": 4,
-    "CPUMark": "13,707",
-    "ThreadMark": "3,106",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 3 5300GE",
-    "Cores": 4,
-    "CPUMark": "13,843",
-    "ThreadMark": "3,104",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-8700K",
-    "Cores": 6,
-    "CPUMark": "13,848",
-    "ThreadMark": "2,764",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-10600",
-    "Cores": 6,
-    "CPUMark": "13,911",
-    "ThreadMark": "2,908",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-9900T",
-    "Cores": 8,
-    "CPUMark": "13,947",
-    "ThreadMark": "2,505",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 3 PRO 5350G",
-    "Cores": 4,
-    "CPUMark": "13,976",
-    "ThreadMark": "3,104",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 2600X",
-    "Cores": 6,
-    "CPUMark": "14,051",
-    "ThreadMark": "2,406",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-6900K",
-    "Cores": 8,
-    "CPUMark": "14,257",
-    "ThreadMark": "2,346",
-    "Socket": "FCLGA2011-3",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-9700KF",
-    "Cores": 8,
-    "CPUMark": "14,500",
-    "ThreadMark": "2,919",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i3-12100",
-    "Cores": 4,
-    "CPUMark": "14,505",
-    "ThreadMark": "3,549",
-    "Socket": "LGA 1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-10600K",
-    "Cores": 6,
-    "CPUMark": "14,534",
-    "ThreadMark": "2,936",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-8086K",
-    "Cores": 6,
-    "CPUMark": "14,550",
-    "ThreadMark": "2,895",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-9700K",
-    "Cores": 8,
-    "CPUMark": "14,550",
-    "ThreadMark": "2,899",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-10600KF",
-    "Cores": 6,
-    "CPUMark": "14,577",
-    "ThreadMark": "2,948",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 PRO 1700",
-    "Cores": 8,
-    "CPUMark": "14,590",
-    "ThreadMark": "2,026",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 1700",
-    "Cores": 8,
-    "CPUMark": "14,623",
-    "ThreadMark": "1,985",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 2700E",
-    "Cores": 8,
-    "CPUMark": "14,657",
-    "ThreadMark": "2,410",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Apple M1 8 Core 3200 MHz",
-    "Cores": 8,
-    "CPUMark": "14,686",
-    "ThreadMark": "3,763",
-    "Socket": "Unknown",
-    "Category": "Desktop, Laptop, Mobile/Embedded"
-  },
-  {
-    "CPU Name": "Xeon W-1250P",
-    "Cores": 6,
-    "CPUMark": "14,924",
-    "ThreadMark": "2,985",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop, Server"
-  },
-  {
-    "CPU Name": "i3-12300",
-    "Cores": 4,
-    "CPUMark": "14,955",
-    "ThreadMark": "3,673",
-    "Socket": "LGA 1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 PRO 2700",
-    "Cores": 8,
-    "CPUMark": "15,059",
-    "ThreadMark": "2,145",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-10900T",
-    "Cores": 10,
-    "CPUMark": "15,134",
-    "ThreadMark": "2,523",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-11600T",
-    "Cores": 6,
-    "CPUMark": "15,254",
-    "ThreadMark": "2,884",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-11700T",
-    "Cores": 8,
-    "CPUMark": "15,271",
-    "ThreadMark": "2,859",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 1700X",
-    "Cores": 8,
-    "CPUMark": "15,494",
-    "ThreadMark": "2,074",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 PRO 1700X",
-    "Cores": 8,
-    "CPUMark": "15,530",
-    "ThreadMark": "2,231",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 4600G",
-    "Cores": 6,
-    "CPUMark": "15,578",
-    "ThreadMark": "2,658",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 2700",
-    "Cores": 8,
-    "CPUMark": "15,653",
-    "ThreadMark": "2,197",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 4600GE",
-    "Cores": 6,
-    "CPUMark": "15,656",
-    "ThreadMark": "2,605",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 PRO 4650GE",
-    "Cores": 6,
-    "CPUMark": "15,712",
-    "ThreadMark": "2,632",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 1800X",
-    "Cores": 8,
-    "CPUMark": "16,300",
-    "ThreadMark": "2,187",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 PRO 4650G",
-    "Cores": 6,
-    "CPUMark": "16,426",
-    "ThreadMark": "2,664",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 PRO 4400G",
-    "Cores": 6,
-    "CPUMark": "16,456",
-    "ThreadMark": "2,656",
-    "Socket": "Unknown",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 4500",
-    "Cores": 6,
-    "CPUMark": "16,637",
-    "ThreadMark": "2,592",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-9900",
-    "Cores": 8,
-    "CPUMark": "16,884",
-    "ThreadMark": "2,863",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-10700",
-    "Cores": 8,
-    "CPUMark": "16,923",
-    "ThreadMark": "2,923",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper 1900X",
-    "Cores": 8,
-    "CPUMark": "16,955",
-    "ThreadMark": "2,343",
-    "Socket": "sTR4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-10700F",
-    "Cores": 8,
-    "CPUMark": "16,981",
-    "ThreadMark": "2,919",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-11400",
-    "Cores": 6,
-    "CPUMark": "17,126",
-    "ThreadMark": "3,048",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-6950X",
-    "Cores": 10,
-    "CPUMark": "17,139",
-    "ThreadMark": "2,332",
-    "Socket": "LGA2011-v3",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-11400F",
-    "Cores": 6,
-    "CPUMark": "17,208",
-    "ThreadMark": "3,022",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 PRO 2700X",
-    "Cores": 8,
-    "CPUMark": "17,221",
-    "ThreadMark": "2,395",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-7820X",
-    "Cores": 8,
-    "CPUMark": "17,285",
-    "ThreadMark": "2,538",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Apple M1 Pro 8 Core 3200 MHz",
-    "Cores": 8,
-    "CPUMark": "17,470",
-    "ThreadMark": "3,805",
-    "Socket": "Unknown",
-    "Category": "Desktop, Laptop"
-  },
-  {
-    "CPU Name": "Ryzen 7 2700X",
-    "Cores": 8,
-    "CPUMark": "17,579",
-    "ThreadMark": "2,436",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-11500",
-    "Cores": 6,
-    "CPUMark": "17,626",
-    "ThreadMark": "3,153",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-11500B",
-    "Cores": 6,
-    "CPUMark": "17,721",
-    "ThreadMark": "3,225",
-    "Socket": "Unknown",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-12500T",
-    "Cores": 6,
-    "CPUMark": "17,728",
-    "ThreadMark": "3,618",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 3600",
-    "Cores": 6,
-    "CPUMark": "17,821",
-    "ThreadMark": "2,576",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 PRO 3600",
-    "Cores": 6,
-    "CPUMark": "17,900",
-    "ThreadMark": "2,609",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-12600T",
-    "Cores": 6,
-    "CPUMark": "18,202",
-    "ThreadMark": "3,805",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-9800X",
-    "Cores": 8,
-    "CPUMark": "18,212",
-    "ThreadMark": "2,588",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "4700S",
-    "Cores": 8,
-    "CPUMark": "18,224",
-    "ThreadMark": "2,399",
-    "Socket": "Unknown",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 3600X",
-    "Cores": 6,
-    "CPUMark": "18,285",
-    "ThreadMark": "2,670",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-11600",
-    "Cores": 6,
-    "CPUMark": "18,328",
-    "ThreadMark": "3,303",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-9820X",
-    "Cores": 10,
-    "CPUMark": "18,375",
-    "ThreadMark": "2,408",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 PRO 4750GE",
-    "Cores": 8,
-    "CPUMark": "18,571",
-    "ThreadMark": "2,709",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-9900KF",
-    "Cores": 8,
-    "CPUMark": "18,691",
-    "ThreadMark": "2,968",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-9900K",
-    "Cores": 8,
-    "CPUMark": "18,709",
-    "ThreadMark": "2,960",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 PRO 5650GE",
-    "Cores": 6,
-    "CPUMark": "18,716",
-    "ThreadMark": "3,223",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 3600XT",
-    "Cores": 6,
-    "CPUMark": "18,779",
-    "ThreadMark": "2,794",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 5600GE",
-    "Cores": 6,
-    "CPUMark": "18,879",
-    "ThreadMark": "3,224",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-10700KF",
-    "Cores": 8,
-    "CPUMark": "19,137",
-    "ThreadMark": "3,056",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-10700K",
-    "Cores": 8,
-    "CPUMark": "19,269",
-    "ThreadMark": "3,073",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-7900X",
-    "Cores": 10,
-    "CPUMark": "19,358",
-    "ThreadMark": "2,610",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-9900KS",
-    "Cores": 8,
-    "CPUMark": "19,522",
-    "ThreadMark": "3,039",
-    "Socket": "FCLGA1151-2",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-12400",
-    "Cores": 6,
-    "CPUMark": "19,537",
-    "ThreadMark": "3,526",
-    "Socket": "LGA 1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-12400F",
-    "Cores": 6,
-    "CPUMark": "19,663",
-    "ThreadMark": "3,568",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-11600KF",
-    "Cores": 6,
-    "CPUMark": "19,751",
-    "ThreadMark": "3,359",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-11600K",
-    "Cores": 6,
-    "CPUMark": "19,779",
-    "ThreadMark": "3,374",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 5600G",
-    "Cores": 6,
-    "CPUMark": "19,824",
-    "ThreadMark": "3,186",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 5500",
-    "Cores": 6,
-    "CPUMark": "19,857",
-    "ThreadMark": "3,087",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 4700G",
-    "Cores": 8,
-    "CPUMark": "20,138",
-    "ThreadMark": "2,758",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-11900T",
-    "Cores": 8,
-    "CPUMark": "20,225",
-    "ThreadMark": "3,419",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-12500",
-    "Cores": 6,
-    "CPUMark": "20,317",
-    "ThreadMark": "3,758",
-    "Socket": "LGA 1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 4700GE",
-    "Cores": 8,
-    "CPUMark": "20,416",
-    "ThreadMark": "2,726",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-10900",
-    "Cores": 10,
-    "CPUMark": "20,440",
-    "ThreadMark": "3,058",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-11700",
-    "Cores": 8,
-    "CPUMark": "20,552",
-    "ThreadMark": "3,139",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 PRO 4750G",
-    "Cores": 8,
-    "CPUMark": "20,573",
-    "ThreadMark": "2,710",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 PRO 5650G",
-    "Cores": 6,
-    "CPUMark": "20,578",
-    "ThreadMark": "3,228",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-10900E",
-    "Cores": 10,
-    "CPUMark": "20,658",
-    "ThreadMark": "2,969",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop, Mobile/Embedded"
-  },
-  {
-    "CPU Name": "Ryzen 7 PRO 4700G",
-    "Cores": 8,
-    "CPUMark": "20,848",
-    "ThreadMark": "2,700",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-10900F",
-    "Cores": 10,
-    "CPUMark": "20,881",
-    "ThreadMark": "3,070",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-12600",
-    "Cores": 6,
-    "CPUMark": "21,190",
-    "ThreadMark": "3,874",
-    "Socket": "LGA 1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-7900X",
-    "Cores": 10,
-    "CPUMark": "21,310",
-    "ThreadMark": "2,594",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-11700F",
-    "Cores": 8,
-    "CPUMark": "21,419",
-    "ThreadMark": "3,339",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 5600",
-    "Cores": 6,
-    "CPUMark": "21,491",
-    "ThreadMark": "3,210",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-10910",
-    "Cores": 10,
-    "CPUMark": "21,826",
-    "ThreadMark": "3,146",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-9900X",
-    "Cores": 10,
-    "CPUMark": "21,868",
-    "ThreadMark": "2,604",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Xeon W-2255",
-    "Cores": 10,
-    "CPUMark": "22,042",
-    "ThreadMark": "2,727",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop, Server"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper 1920",
-    "Cores": 12,
-    "CPUMark": "22,066",
-    "ThreadMark": "2,299",
-    "Socket": "sTR4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 5 5600X",
-    "Cores": 6,
-    "CPUMark": "22,082",
-    "ThreadMark": "3,376",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Apple M1 Pro 10 Core 3200 MHz",
-    "Cores": 10,
-    "CPUMark": "22,303",
-    "ThreadMark": "3,843",
-    "Socket": "Unknown",
-    "Category": "Desktop, Laptop"
-  },
-  {
-    "CPU Name": "Ryzen 7 PRO 5750GE",
-    "Cores": 8,
-    "CPUMark": "22,315",
-    "ThreadMark": "3,320",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-11700B",
-    "Cores": 8,
-    "CPUMark": "22,539",
-    "ThreadMark": "3,362",
-    "Socket": "Unknown",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Apple M1 Max 10 Core 3200 MHz",
-    "Cores": 10,
-    "CPUMark": "22,557",
-    "ThreadMark": "3,852",
-    "Socket": "Unknown",
-    "Category": "Desktop, Laptop"
-  },
-  {
-    "CPU Name": "Ryzen 7 5700GE",
-    "Cores": 8,
-    "CPUMark": "22,566",
-    "ThreadMark": "3,371",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-10900X",
-    "Cores": 10,
-    "CPUMark": "22,683",
-    "ThreadMark": "2,696",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 3700X",
-    "Cores": 8,
-    "CPUMark": "22,716",
-    "ThreadMark": "2,680",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-11900KB",
-    "Cores": 8,
-    "CPUMark": "22,741",
-    "ThreadMark": "3,307",
-    "Socket": "FCBGA1787",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-12700T",
-    "Cores": 8,
-    "CPUMark": "22,774",
-    "ThreadMark": "3,503",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 PRO 3700",
-    "Cores": 8,
-    "CPUMark": "22,800",
-    "ThreadMark": "2,673",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper 1920X",
-    "Cores": 12,
-    "CPUMark": "22,831",
-    "ThreadMark": "2,302",
-    "Socket": "sTR4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-10850K",
-    "Cores": 10,
-    "CPUMark": "23,049",
-    "ThreadMark": "3,091",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-11900",
-    "Cores": 8,
-    "CPUMark": "23,107",
-    "ThreadMark": "3,445",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 3800X",
-    "Cores": 8,
-    "CPUMark": "23,274",
-    "ThreadMark": "2,735",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-7920X",
-    "Cores": 12,
-    "CPUMark": "23,319",
-    "ThreadMark": "2,473",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-10900KF",
-    "Cores": 10,
-    "CPUMark": "23,511",
-    "ThreadMark": "3,141",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-10900K",
-    "Cores": 10,
-    "CPUMark": "23,750",
-    "ThreadMark": "3,166",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-11900F",
-    "Cores": 8,
-    "CPUMark": "23,773",
-    "ThreadMark": "3,526",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 3800XT",
-    "Cores": 8,
-    "CPUMark": "23,816",
-    "ThreadMark": "2,845",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Xeon W-1370",
-    "Cores": 8,
-    "CPUMark": "23,908",
-    "ThreadMark": "3,538",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop, Server"
-  },
-  {
-    "CPU Name": "i7-11700KF",
-    "Cores": 8,
-    "CPUMark": "24,129",
-    "ThreadMark": "3,419",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 5700G",
-    "Cores": 8,
-    "CPUMark": "24,557",
-    "ThreadMark": "3,283",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-11700K",
-    "Cores": 8,
-    "CPUMark": "24,730",
-    "ThreadMark": "3,429",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 PRO 5750G",
-    "Cores": 8,
-    "CPUMark": "25,000",
-    "ThreadMark": "3,353",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Xeon W-1370P",
-    "Cores": 8,
-    "CPUMark": "25,202",
-    "ThreadMark": "3,494",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop, Server"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper 2920X",
-    "Cores": 12,
-    "CPUMark": "25,218",
-    "ThreadMark": "2,482",
-    "Socket": "sTR4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-9920X",
-    "Cores": 12,
-    "CPUMark": "25,291",
-    "ThreadMark": "2,621",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-11900KF",
-    "Cores": 8,
-    "CPUMark": "25,435",
-    "ThreadMark": "3,565",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-11900K",
-    "Cores": 8,
-    "CPUMark": "25,546",
-    "ThreadMark": "3,520",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 5800",
-    "Cores": 8,
-    "CPUMark": "25,657",
-    "ThreadMark": "3,387",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Xeon W-3323",
-    "Cores": 12,
-    "CPUMark": "25,875",
-    "ThreadMark": "2,617",
-    "Socket": "FCLGA4189",
-    "Category": "Desktop, Server"
-  },
-  {
-    "CPU Name": "Xeon W-1390P",
-    "Cores": 8,
-    "CPUMark": "26,031",
-    "ThreadMark": "3,619",
-    "Socket": "FCLGA1200",
-    "Category": "Desktop, Server"
-  },
-  {
-    "CPU Name": "Ryzen 7 5800X3D",
-    "Cores": 8,
-    "CPUMark": "26,230",
-    "ThreadMark": "2,934",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper 2990X",
-    "Cores": 32,
-    "CPUMark": "26,469",
-    "ThreadMark": "2,285",
-    "Socket": "TR4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-7940X",
-    "Cores": 14,
-    "CPUMark": "26,523",
-    "ThreadMark": "2,490",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-10920X",
-    "Cores": 12,
-    "CPUMark": "26,693",
-    "ThreadMark": "2,764",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-7960X",
-    "Cores": 16,
-    "CPUMark": "26,699",
-    "ThreadMark": "2,525",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 5700X",
-    "Cores": 8,
-    "CPUMark": "27,062",
-    "ThreadMark": "3,372",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-12600KF",
-    "Cores": 6,
-    "CPUMark": "27,305",
-    "ThreadMark": "3,976",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i5-12600K",
-    "Cores": 6,
-    "CPUMark": "27,440",
-    "ThreadMark": "3,966",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Xeon W-2275",
-    "Cores": 14,
-    "CPUMark": "27,904",
-    "ThreadMark": "2,790",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper 1950X",
-    "Cores": 16,
-    "CPUMark": "28,009",
-    "ThreadMark": "2,292",
-    "Socket": "sTR4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 7 5800X",
-    "Cores": 8,
-    "CPUMark": "28,346",
-    "ThreadMark": "3,484",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-9940X",
-    "Cores": 14,
-    "CPUMark": "28,410",
-    "ThreadMark": "2,641",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-10940X",
-    "Cores": 14,
-    "CPUMark": "28,619",
-    "ThreadMark": "2,724",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-7980XE",
-    "Cores": 18,
-    "CPUMark": "29,842",
-    "ThreadMark": "2,474",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper 2950X",
-    "Cores": 16,
-    "CPUMark": "29,981",
-    "ThreadMark": "2,488",
-    "Socket": "sTR4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-9990XE",
-    "Cores": 14,
-    "CPUMark": "30,162",
-    "ThreadMark": "2,970",
-    "Socket": "LGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper 2970WX",
-    "Cores": 24,
-    "CPUMark": "30,433",
-    "ThreadMark": "2,358",
-    "Socket": "sTR4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-9960X",
-    "Cores": 16,
-    "CPUMark": "30,655",
-    "ThreadMark": "2,631",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 9 3900",
-    "Cores": 12,
-    "CPUMark": "30,661",
-    "ThreadMark": "2,627",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 9 PRO 3900",
-    "Cores": 12,
-    "CPUMark": "31,372",
-    "ThreadMark": "2,623",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-12700",
-    "Cores": 8,
-    "CPUMark": "31,671",
-    "ThreadMark": "3,949",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-9980XE",
-    "Cores": 18,
-    "CPUMark": "31,905",
-    "ThreadMark": "2,566",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-12700F",
-    "Cores": 8,
-    "CPUMark": "32,353",
-    "ThreadMark": "3,985",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper 2990WX",
-    "Cores": 32,
-    "CPUMark": "32,472",
-    "ThreadMark": "2,293",
-    "Socket": "sTR4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 9 3900X",
-    "Cores": 12,
-    "CPUMark": "32,751",
-    "ThreadMark": "2,725",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 9 3900XT",
-    "Cores": 12,
-    "CPUMark": "32,869",
-    "ThreadMark": "2,786",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-10980XE",
-    "Cores": 18,
-    "CPUMark": "33,408",
-    "ThreadMark": "2,667",
-    "Socket": "FCLGA2066",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper PRO 3945WX",
-    "Cores": 12,
-    "CPUMark": "33,417",
-    "ThreadMark": "2,708",
-    "Socket": "sWRX8",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-12700KF",
-    "Cores": 8,
-    "CPUMark": "34,079",
-    "ThreadMark": "4,046",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i7-12700K",
-    "Cores": 8,
-    "CPUMark": "34,188",
-    "ThreadMark": "4,050",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 9 5900",
-    "Cores": 12,
-    "CPUMark": "34,721",
-    "ThreadMark": "3,432",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-12900T",
-    "Cores": 8,
-    "CPUMark": "35,007",
-    "ThreadMark": "3,955",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-12900F",
-    "Cores": 8,
-    "CPUMark": "35,726",
-    "ThreadMark": "4,045",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Xeon W-3175X",
-    "Cores": 28,
-    "CPUMark": "37,167",
-    "ThreadMark": "2,148",
-    "Socket": "FCLGA3647",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-12900",
-    "Cores": 8,
-    "CPUMark": "38,236",
-    "ThreadMark": "4,157",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 9 3950X",
-    "Cores": 16,
-    "CPUMark": "39,151",
-    "ThreadMark": "2,738",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 9 5900X",
-    "Cores": 12,
-    "CPUMark": "39,446",
-    "ThreadMark": "3,494",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Xeon W-3265M",
-    "Cores": 24,
-    "CPUMark": "39,618",
-    "ThreadMark": "2,698",
-    "Socket": "FCLGA3647",
-    "Category": "Desktop, Server"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper PRO 3955WX",
-    "Cores": 16,
-    "CPUMark": "40,212",
-    "ThreadMark": "2,695",
-    "Socket": "sWRX8",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-12900K",
-    "Cores": 8,
-    "CPUMark": "41,111",
-    "ThreadMark": "4,209",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-12900KF",
-    "Cores": 8,
-    "CPUMark": "41,130",
-    "ThreadMark": "4,213",
-    "Socket": "FCLGA1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Apple M1 Ultra 20 Core",
-    "Cores": 16,
-    "CPUMark": "41,348",
-    "ThreadMark": "3,895",
-    "Socket": "Unknown",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper PRO 5945WX",
-    "Cores": 12,
-    "CPUMark": "41,578",
-    "ThreadMark": "3,347",
-    "Socket": "sWRX8",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "i9-12900KS",
-    "Cores": 8,
-    "CPUMark": "44,303",
-    "ThreadMark": "4,346",
-    "Socket": "LGA 1700",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen 9 5950X",
-    "Cores": 16,
-    "CPUMark": "46,200",
-    "ThreadMark": "3,498",
-    "Socket": "AM4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper PRO 5955WX",
-    "Cores": 16,
-    "CPUMark": "51,227",
-    "ThreadMark": "3,345",
-    "Socket": "sWRX8",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper 3960X",
-    "Cores": 24,
-    "CPUMark": "54,766",
-    "ThreadMark": "2,679",
-    "Socket": "sTRX4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper PRO 3975WX",
-    "Cores": 32,
-    "CPUMark": "63,429",
-    "ThreadMark": "2,660",
-    "Socket": "sWRX8",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper 3970X",
-    "Cores": 32,
-    "CPUMark": "63,838",
-    "ThreadMark": "2,694",
-    "Socket": "sTRX4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper PRO 5965WX",
-    "Cores": 24,
-    "CPUMark": "68,405",
-    "ThreadMark": "3,346",
-    "Socket": "sWRX8",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper PRO 5975WX",
-    "Cores": 32,
-    "CPUMark": "80,842",
-    "ThreadMark": "3,340",
-    "Socket": "sWRX8",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper 3990X",
-    "Cores": 64,
-    "CPUMark": "81,568",
-    "ThreadMark": "2,569",
-    "Socket": "sTRX4",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper PRO 3995WX",
-    "Cores": 64,
-    "CPUMark": "83,541",
-    "ThreadMark": "2,622",
-    "Socket": "sWRX8",
-    "Category": "Desktop"
-  },
-  {
-    "CPU Name": "Ryzen Threadripper PRO 5995WX",
-    "Cores": 64,
-    "CPUMark": "108,822",
-    "ThreadMark": "3,330",
-    "Socket": "sWRX8",
-    "Category": "Desktop"
+    "name": "TITAN RTX",
+    "a3dmark": "20,164",
+    "a2dmark": 842,
+    "tdp": 280,
+    "tipo": "Workstation"
   }
 ]

@@ -21,8 +21,8 @@ function LimparTexto (texto) {
 	retorno = texto.replaceAll('Intel Core ', '');
 	retorno = retorno.replaceAll('Intel ', '');
 	retorno = retorno.replaceAll('GeForce ', '');
-	retorno = retorno.replaceAll('AMD ', '');
-	retorno = retorno.replaceAll('-', ' ');
+	retorno = retorno.replaceAll('-', '');
+	retorno = retorno.replaceAll(' ', '');
 	retorno = retorno.toLowerCase();
 	return retorno;
 }
@@ -31,55 +31,42 @@ function BuscaLivre (Termo) {
 while(table.hasChildNodes()){table.removeChild(table.firstChild);}
 	row = table.insertRow(0);
 	row.insertCell(0).outerHTML = "<th>Nome</th>";
-	row.insertCell(1).outerHTML = "<th>Núcleos</th>";
-	row.insertCell(2).outerHTML = "<th>Frequência (turbo)</th>";
-	row.insertCell(3).outerHTML = "<th>Soquete</th>";
-	row.insertCell(4).outerHTML = "<th>TDP</th>";
-	row.insertCell(5).outerHTML = "<th>Mark</th>";
-	row.insertCell(6).outerHTML = "<th>Menor Preço</th>";
-	row.insertCell(7).outerHTML = "<th>R$1 de mark</th>";
-	row.insertCell(8).outerHTML = "<th>Estado</th>";
-	for (var i = 0; i < CPUS.data.length; i++) {
-		if (LimparTexto(CPUS.data[i].name).includes(LimparTexto(Termo)) && !CPUS.data[i].cat.includes('Laptop')) {
+	row.insertCell(1).outerHTML = "<th>TDP</th>";
+	row.insertCell(2).outerHTML = "<th>Pot�ncia (3d)</th>";
+	row.insertCell(3).outerHTML = "<th>Pot�ncia (2d)</th>";
+	row.insertCell(4).outerHTML = "<th>Menor Pre�o</th>";
+	row.insertCell(5).outerHTML = "<th>R$1 de mark</th>";
+	row.insertCell(6).outerHTML = "<th>Estado</th>";
+	for (var i = 0; i < CPUS.length; i++) {
 			var row = table.insertRow();
-			var cell1 = row.insertCell(0);
-			var cell2 = row.insertCell(1);
-			var cell3 = row.insertCell(2);
-			var cell4 = row.insertCell(3);
-			var cell5 = row.insertCell(4);
-			var cell6 = row.insertCell(5);
-			var cell7 = row.insertCell(6);
-			var cell8 = row.insertCell(7);
-			var cell9 = row.insertCell(8);
-			busca = LimparTexto(CPUS.data[i].name);
+			var cell0 = row.insertCell(0);
+			var cell1 = row.insertCell(1);
+			var cell2 = row.insertCell(2);
+			var cell3 = row.insertCell(3);
+			var cell4 = row.insertCell(4);
+			var cell5 = row.insertCell(5);
+			var cell6 = row.insertCell(6);
+			busca = LimparTexto(CPUS[i].name);
 			row.id=hashCode(busca)+'_cpu';
 			row.style.display = 'none';
-			cell1.innerHTML = CPUS.data[i].name;
-			cell2.innerHTML = CPUS.data[i].cores;
-			cell5.innerHTML = CPUS.data[i].tdp;
-			cell6.innerHTML = CPUS.data[i].cpumark;
-			cell6.id=hashCode(busca)+'_mark';
-			cell7.id=hashCode(busca)+'_menorpreco';
-			cell8.id=hashCode(busca)+'_menormark';
-			cell9.id=hashCode(busca)+'_estado';
-			if (CPUS.data[i].g2d) {
-				categoria="MLB1658";
-				cell3.innerHTML = parseInt(CPUS.data[i].coreClk)/1000;
-				cell4.innerHTML = CPUS.data[i].memSize;
-			} else {
-				categoria="MLB1693";
-				cell3.innerHTML = CPUS.data[i].speed/1000 + ' (' + CPUS.data[i].turbo/1000+')';
-				cell4.innerHTML = CPUS.data[i].socket;
-			}
+			cell0.innerHTML = CPUS[i].name;
+			cell1.innerHTML = CPUS[i].tdp;
+			cell2.innerHTML = CPUS[i].a3dmark;
+			cell3.innerHTML = CPUS[i].a2dmark;
+			cell2.id=hashCode(busca)+'_mark';
+			cell4.id=hashCode(busca)+'_menorpreco';
+			cell5.id=hashCode(busca)+'_menormark';
+			cell6.id=hashCode(busca)+'_estado';
+			categoria="MLB1658";
 			fetch('https://api.mercadolibre.com/sites/MLB/search?q='+busca+'&category='+categoria+'&sort=price_asc')
 				.then(response => response.json())
 				.then(data => {
-					var anuncios=data.results.filter(({title}) => !title.match("(Dissipador| da placa|defeito|Defeito|compro|Compro|Cabo |cabo |Backplate|carenagem|Carenagem|Displayport|fan|Fan|Embalagem|Manual|Pwm|Artefato|Leia|leia|Carcaça|Fake|fake|carcaça|caixa|Caixa|caxia|Caxia|Temos|igual|temos|Igual|=|bloco |Bloco |backplate|caixa|Caixa|para |Para |dp|DP|Dp|cooler|Cooler|nao|Nao|não|Não|reparo|Reparo|Conserto|conserto|retirada|reparo|note|temos|caixa|quebrado|carcaça|caxia|defeito|melhor|igual|similar|leia|queimado|não|nao|liga|inicia|problema|Problema|Back plate|Back Plate|Dissipador|Dessipador|Sem Vídeo|Sem Video|Sem video|Sem vídeo|sem video|sem vídeo|Refrigerador|Espelho|espelho|ñ Dá Video|sucata|Sucata|SUCATA|Placa Traseira|curto|erro|Erro|Def)"))
+					var anuncios=data.results.filter(({title}) => !title.match("(Suporte|Bios|artefatos|Retirar|pe�a|N�o Da Video|Dissipador| da placa|defeito|Defeito|compro|Compro|Cabo |cabo |Backplate|carenagem|Carenagem|Displayport|fan|Fan|Embalagem|Manual|Pwm|Artefato|Leia|leia|CarcaÃ§a|Fake|fake|carcaÃ§a|caixa|Caixa|caxia|Caxia|Temos|igual|temos|Igual|=|bloco |Bloco |backplate|caixa|Caixa|para |Para |dp|DP|Dp|cooler|Cooler|nao|Nao|nÃ£o|NÃ£o|reparo|Reparo|Conserto|conserto|retirada|reparo|note|temos|caixa|quebrado|carcaÃ§a|caxia|defeito|melhor|igual|similar|leia|queimado|nÃ£o|nao|liga|inicia|problema|Problema|Back plate|Back Plate|Dissipador|Dessipador|Sem VÃ­deo|Sem Video|Sem video|Sem vÃ­deo|sem video|sem vÃ­deo|Refrigerador|Espelho|espelho|Ã± DÃ¡ Video|sucata|Sucata|SUCATA|Placa Traseira|curto|erro|Erro|Def)"))
 					var anuncios=anuncios.filter(({title}) => LimparTexto(title).includes(LimparTexto(data.query)))
 					anuncios.sort(function(a, b) {
 						return parseFloat(a.price) - parseFloat(b.price);
 					});
-					
+
 					if (LimparTexto(anuncios[0].title).includes(data.query)) {
 					//var row = table.insertRow();
 					//var cell1 = row.insertCell(0);
@@ -95,11 +82,10 @@ while(table.hasChildNodes()){table.removeChild(table.firstChild);}
 					MenorPrecoElement.innerHTML = '<a href='+anuncios[0].permalink+' target=_blank>'+anuncios[0].price+'</a>';
 					MenorMarkElement.innerHTML = parseInt(MarkElement.innerHTML.replace(',','')/anuncios[0].price);
 					MenorMarkElement.style = "background-color:hsl("+MenorMarkElement.innerHTML+", 100%, 50%);"
-					if (Obter("https://api.mercadolibre.com/items/"+anuncios[0].id+"/description").plain_text.match("(retirada|Retirada|peça|peças|defeito|DEFEITO|SEM GARANTIA E SEM DEVOLUÇÃO|queimado|QUEIMADO|queimada|QUEIMADA|Queimada|Queimado|CONSERTO|Conserto|conserto|capacitor|RETIRAR PEÇAS|curto)")) {
+					if (Obter("https://api.mercadolibre.com/items/"+anuncios[0].id+"/description").plain_text.match("(retirada|Retirada|peÃ§a|peÃ§as|defeito|DEFEITO|SEM GARANTIA E SEM DEVOLUÃÃO|queimado|QUEIMADO|queimada|QUEIMADA|Queimada|Queimado|CONSERTO|Conserto|conserto|capacitor|RETIRAR PEÃAS|curto)")) {
 						MenorMarkElement.innerHTML+=" Def?";
 					}
 				}})
-		}
 	}
 }
 </script>
