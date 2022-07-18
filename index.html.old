@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="estilo.css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+<body>
+<div id="divresp">
+<span id="btnResp" onclick='FormResp(this)' >[Responder]</span>
+<div id="divresp2" hidden>
+<center>
+<div id=divresp3>
+<textarea id="mensagem" rows="5" cols="35" maxlength="600"></textarea>
+<br>
+<input type="file" id="arquivo"><br>
+<button type="button" id="BtnResposta" onclick="EnviarMensagem(document.getElementById('arquivo').files[0])">Enviar</button>
+</div>
+<div id=dump1 hidden>
+<hr style="border-color:#1D1F21">
+<div id=dump2>
+<a align="left" onclick="document.getElementById('dump2').hidden=true;document.getElementById('divresp3').hidden=true;document.getElementById('dump3').hidden=false;">[Dumpar]</a>
+</div>
+<div id=dump3 hidden>
+<a id=infodump></a>
+<input onchange=MultiArquivos(this.files) id=multiarquivos type="file" multiple />
+</div>
+</div>
+</center>
+</div>
+</div>
+<script>
+//Variáveis importantes. Referencia será usada para decidir se lista tópicos ou respostas, DataAgora para comparar a vida restante
+//RespostasRecebidas será usada como blacklist do auto-update
+Referencia=window.location.search.match(/\d+/);
+DataAgora=parseInt(new Date().getTime() / 1000)
+RespostasRecebidas=[];
+HRREF = document.createElement("hr");
+document.body.appendChild(HRREF);
+
+//Outros
+TituloChan="Rolão";
+document.title = TituloChan;
+atualizadosamount=0
+arquivosUploaded=0
+
+function FormResp(id) {
+	id.remove()
+	document.getElementById("divresp2").hidden=false;
+}
+function AtualizarRespostas () {
+	if (document.hidden) {return;}
+	var pendentes=[];
+	fetch('https://topicos.rolaochan.eu.org/')
+		.then(response => response.json())
+		.then(data => {
+			if (data[Referencia]) {
+				for (i in data[Referencia]['mensagens']) {
+					if (!RespostasRecebidas.includes(data[Referencia]['mensagens'][i]['id'])) {
+						pendentes.push(data[Referencia]['mensagens'][i]);
+						RespostasRecebidas.push(data[Referencia]['mensagens'][i]['id']);
+					}
+				}
+			} else {
+				Referencia=null
+				for (i in data) {
+					if (!RespostasRecebidas.includes(data[i]['mensagens'][0]['id'])) {
+						DataAgora=parseInt(new Date().getTime() / 1000)
+						if (parseInt(data[i]['expira']-DataAgora) < 1 ) {continue;}
+						pendentes.push(data[i]['mensagens'][0]);
+						RespostasRecebidas.push(data[i]['mensagens'][0]['id']);
+					}
+				}
+				pendentes.sort((a, b) => parseFloat(a.atualizado) - parseFloat(b.atualizado));
+			}
+			for (i in pendentes) {
+				var resposta = document.createElement("div");
+				if (pendentes[i]['expira']) {
+					var contagem = document.createElement("font");
+					contagem.color = "#6FBAD3"
+					DataAgora=parseInt(new Date().getTime() / 1000)
+					contagem.dataset.segundos=parseInt(pendentes[i]['expira']-DataAgora)
+					resposta.appendChild(contagem);
+				} else {
+					resposta.classList.add('resposta');
+				}
+				if (pendentes[i]['link']) {
+					if (pendentes[i]['tipo']=='imagem') {
+						var img = document.createElement("img");
+						var imglink="https://i.imgur.com/"+pendentes[i]['link'];
+						img.setAttribute("onmouseout","this.src='"+imglink+"t.gif'");
+						img.setAttribute("onmouseover","this.src='"+imglink+".gif'");
+						img.src=imglink+"t.gif";
+						resposta.appendChild(img);
+					}
+					if (pendentes[i]['tipo']=='video') {
+						var vid = document.createElement("video");
+						var vidlink="https://i.imgur.com/"+pendentes[i]['link'];
+						vid.setAttribute("onmouseout","this.src=this.src");
+						vid.setAttribute("onmouseover","this.play()");
+						vid.setAttribute("preload","none");
+						vid.setAttribute("loop","true");
+						vid.poster=vidlink+"t.jpg";
+						vid.src=vidlink+".mp4";
+						resposta.appendChild(vid);
+					}
+				}
+				var idpost = document.createElement("a");
+				idpost.innerText=pendentes[i]['id'];
+				if (!Referencia) {idpost.href="?"+pendentes[i]['id']}
+				resposta.appendChild(idpost);
+				if (pendentes[i]['mensagem']) {
+					resposta.appendChild(document.createElement("br"));
+					resposta.innerHTML+=pendentes[i]['mensagem']
+				}
+				if (!Referencia) {
+					resposta.innerHTML+="<br><small style=color:#707070>"+parseInt(data[pendentes[i]['id']]['mensagens'].length-1)+" respostas</small>";
+					resposta.innerHTML+="<hr>";
+				}
+				RespostasRecebidas.push(idpost.innerText)
+				//document.body.appendChild(resposta);
+				if (!Referencia) {
+					HRREF.after(resposta);
+				} else {
+					document.body.appendChild(resposta);
+				}
+				if (document.hidden) {
+					atualizadosamount+=pendentes.length
+					document.title = TituloChan+" ("+atualizadosamount+") ";
+				} else {
+					document.title = TituloChan
+					atualizadosamount=0
+				}
+			}
+		});
+}
+
+function AtualizarTempo() {
+	var x = document.querySelectorAll("font");
+	for (i in x) {
+		if (x[i] && x[i].dataset && x[i].dataset.segundos) {
+			if (x[i].dataset.segundos > 0) {
+				x[i].innerText=new Date(x[i].dataset.segundos * 1000).toISOString().substr(14, 5)+" "
+				x[i].dataset.segundos=x[i].dataset.segundos-1
+			} else {
+				x[i].innerText="Morreu";
+			}
+		}
+	}
+}
+
+function EnviarMensagem(arquivo) {
+	var formdata = new FormData()
+	if (!Referencia && !arquivo) {return;}
+	document.getElementById("BtnResposta").disabled=true
+	if (arquivo) {formdata.append("image", arquivo)} else {formdata=""}
+	fetch("https://postar.rolaochan.eu.org/", {
+		method: "post",
+		headers: {"mensagem": encodeURIComponent(document.getElementById("mensagem").value), "referencia": Referencia},
+		body: formdata
+	}).then(function (response) {
+		if (response.status==200) {
+			document.getElementById("BtnResposta").disabled=false
+			MultiArquivos(document.getElementById("multiarquivos").files);
+		} else {
+			document.getElementById("BtnResposta").disabled=false
+			document.getElementById("BtnResposta").innerText='Erro. Tente novamente.';
+		}
+	})
+}
+
+function MultiArquivos(arquivos) {
+	document.getElementById('multiarquivos').hidden=true
+	if (arquivos) {
+		document.getElementById('infodump').innerHTML="Enviando arquivos..."+arquivosUploaded+"/"+document.getElementById("multiarquivos").files.length;
+		if (arquivos[arquivosUploaded]) {
+			EnviarMensagem(arquivos[arquivosUploaded]);
+			arquivosUploaded+=1
+		} else {
+			arquivosUploaded=0;
+			document.getElementById('dump3').hidden=true
+			document.getElementById('dump2').hidden=false
+			document.getElementById('divresp3').hidden=false
+			document.getElementById('multiarquivos').hidden=false
+			document.getElementById('infodump').innerHTML=""
+			return;
+		}
+	}
+}
+
+window.addEventListener('paste', e => {
+  document.getElementById("arquivo").files = e.clipboardData.files;
+});
+
+AtualizarRespostas(); setInterval('AtualizarRespostas()', 5000 )
+AtualizarTempo(); setInterval('AtualizarTempo()', 1000 )
+
+if (!Referencia){
+	document.getElementById("btnResp").innerText="[Criar tópico]"
+} else {
+	document.getElementById("dump1").hidden=false;
+}
+</script>
+</html>
